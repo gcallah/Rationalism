@@ -93,6 +93,5 @@ p.blockquote {
 }
 
 p.biblio {
-    margin: 12.0px 12.0px 12.0px 28.0px; 
-    text-indent: -28.0px; font: 20.0px Baskerville
+    margin: 8px 40px 8px 40px; 
 }
