@@ -84,12 +84,14 @@ h5 {
 }
 
 p.author_info {
-    margin: 12.0px 12.0px 12.0px 12.0px; 
-    text-align: center; font: 20.0px Baskerville
+    margin: 12px 12px 12px 12px; 
+    text-align: center;
+    font: 20px Baskerville
 }
 
 p.blockquote {
-    margin: 12.0px 12.0px 6.0px 36.0px; font: 18.0px Baskerville
+    margin: 12px 48px 12px 48px;
+    font: 18.0px Baskerville
 }
 
 p.biblio {
