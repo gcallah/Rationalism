@@ -89,8 +89,8 @@ p.author_info {
     font: 20px Baskerville
 }
 
-p.blockquote {
-    margin: 12px 48px 12px 48px;
+blockquote {
+    margin: 12px 64px 12px 64px;
     font: 18.0px Baskerville
 }
 
