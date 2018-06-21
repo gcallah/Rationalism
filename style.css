@@ -95,3 +95,12 @@ blockquote {
 p.biblio {
     margin: 8px 40px 8px 40px; 
 }
+
+span.confirmed {
+    color: #009;
+}
+
+span.proposed {
+    color: #805;
+}
+
