@@ -96,7 +96,8 @@ p.biblio {
     margin: 8px 40px 8px 40px; 
 }
 
-span.confirmed {
+span.contrib {
+    font-weight: 600;
     color: #009;
 }
 
