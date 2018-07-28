@@ -30,6 +30,10 @@ ol, ul, dl, li {
     margin: 20px 12px 8px 12px;
 }
 
+ul.centered {
+    list-style-position: inside;
+}
+
 p {
     padding: 0;
     line-height: 140%;
