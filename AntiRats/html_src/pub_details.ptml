@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Publishing Details
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            Publishing Details
+        </h1>
+
+
+        <ul>
+            <li>
+                <a href="Proposal.pdf">
+                    Proposal to Palgrave
+                </a>
+            </li>
+
+            <li>
+                <a href="ManuscriptGuidelines.pdf">
+                    Palgrave's Manuscript Guidelines
+                </a>
+            </li>
+
+            <li>
+                <a href="process.html">
+                    Palgrave's Publishing Process
+                </a>
+            </li>
+
+        </ul>
+
+    </body>
+</html>
