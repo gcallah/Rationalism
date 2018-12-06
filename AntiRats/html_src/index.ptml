@@ -1,31 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <link href="../style.css" rel="stylesheet" type="text/css"/>
+<!--include head.txt -->
         <title>
-            The Critics of Enlightenment Rationalism
+            Critics of Enlightenment Rationalism
         </title>
     </head>
 
     <body>
-            <div style="text-align:center">
-                <p>
-                <img
-                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
-				width="8%"><img
-                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
-				width="8%"><img
-                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
-				width="8%"><img
-                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
-				width="8%"><img
-                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
-				width="8%">
-                </p>
-            </div>
+<!--include logo.txt -->
+<!--include menu.txt -->
         <h1>
-            The Critics of Enlightenment Rationalism
+            Critics of Enlightenment Rationalism
         </h1>
 
         <p class="author_info">
@@ -36,10 +22,6 @@
             and
             <a href="bios.html#mcintyre">
             Kenneth McIntyre
-            </a>
-            <br />
-            <a href="bios.html">
-                All contributors
             </a>
         </p>
 
@@ -103,6 +85,9 @@
 
             <li>
                 Søren Kierkegaard:
+                <a href="kierkegaard.html">
+                    Kierkegaard’s Critique of Political Rationalism
+                </a>
                 <br />
                     <a href="bios.html#wyllie">
                     Rob Wyllie
@@ -267,10 +252,6 @@
             </li>
 
             <li>
-                Paul Feyerabend: Anything Goes
-            </li>
-
-            <li>
                 Russell Kirk:
                 <a href="kirk.html">
                 The Mystery of Human Existence
@@ -312,11 +293,6 @@
                     Kenneth McIntyre,
                     </a>
                     Sam Houston State University
-            </li>
-
-            <li>
-                James C. Scott:
-                Seeing Like a Rationalist
             </li>
 
         </ul>

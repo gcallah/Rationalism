@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-size: 20px;
+    font-size: 100%;
     color: #333;
     background: #ddd;
 }
@@ -19,15 +19,23 @@ table, th, td {
     border: 1px solid black;
     }
     th, td {
-            padding: 15px;
+            padding: 1.3em;
     }
 
 p {
-    margin: 8px 40px 8px 40px;
+    margin: .6em 3em .6em 3em;
+    font-size: 1.2em;
+}
+
+p.menu {
+    text-align: center;
+    margin: .4em 4em .8em 4em;
+    font-size: 1.4em;
 }
 
 ol, ul, dl, li {
-    margin: 20px 12px 8px 12px;
+    margin: 1.6em 1em .6em 1em;
+    font-size: 1.1em;
 }
 
 ul.centered {
@@ -44,17 +52,17 @@ h1,h2,h3,h4,h5 {
 }
 
 h1 {
-    margin: 28px 8px 24px 8px;
+    margin: 1.4em .6em 1.4em .6em;
     text-align: center;
     font-weight: 300;
-    font-size: 32px;
+    font-size: 2em;
     color: #cfc;
     background-color: #339;
 }
 
 h2 {
-    font-size: 26px;
-    margin: 20px 24px 12px 24px;
+    font-size: 1.6em;
+    margin: 1.3em 2em 1em 2em;
     color: #355;
 }
 
@@ -64,40 +72,39 @@ h2.subhead {
 }
 
 h3 {
-    font-size: 20px;
-    margin: 20px 32px 12px 32px;
+    font-size: 1.5em;
+    margin: 1.3em 2.6em 1em 2.6em;
     color: #532;
     font-weight: bold;
 }
 
 h4 {
-    font-size: 18px;
-    margin: 16px 40px 12px 40px;
+    font-size: 1.4em;
+    margin: 1.2em 3em 1em 3em;
     color: #335;
     font-weight: bold;
 }
 
 h5 {
-    font-size: 16px;
-    margin: 16px 48px 12px 48px;
+    font-size: 1.3em;
+    margin: 1.2em 4.6em 1em 4.6em;
     color: #600;
     font-weight: bold;
 
 }
 
 p.author_info {
-    margin: 12px 12px 12px 12px; 
     text-align: center;
-    font: 20px Baskerville
+    font: 1.3em Baskerville
 }
 
 blockquote {
-    margin: 12px 64px 12px 64px;
-    font: 18.0px Baskerville
+    margin: 1em 5em 1em 5em;
+    font: 1.5em Baskerville
 }
 
 p.biblio {
-    margin: 8px 40px 8px 40px; 
+    margin: .6em 3em .6em 3em; 
 }
 
 span.contrib {

@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
+<!--include head.txt -->
         <title>
             Contributor Bios
         </title>
     </head>
 
     <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
         <h1>
             Contributor Bios
         </h1>
@@ -24,6 +27,8 @@
                 Catholic University of America, and has written for a variety
                 of scholarly and popular publications. He resides in Missouri.
                 </a>
+                <br>
+                <img src="graphics/NBlake.jpg" width="14%" class="center-img">
             </li>
 
             <li>
@@ -66,6 +71,8 @@
                 of the 20th century, English philosophic essayist, Michael
                 Oakeshott.
                 </a>
+                <br>
+                <img src="graphics/Coats.jpg" width="14%" class="center-img">
             </li>
 
             <li>
@@ -150,6 +157,8 @@
                 (2004). Recently he published about the political philosophy of
                 the new Hungarian Fundamental Law.
                 </a>
+                <br>
+                <img src="graphics/Ferenc.jpg" width="14%" class="center-img">
             </li>
 
             <li>
@@ -278,6 +287,8 @@
                 discourse ethics and hermeneutics, leading to publications in
                 bio-ethics, film, television, technology and science.
                 </a>
+                <br>
+                <img src="graphics/Simmons.jpg" width="14%" class="center-img">
             </li>
 
             <li>
@@ -309,6 +320,16 @@
                 <a name="wyllie">
                 <span class="contrib">Rob Wyllie</span>
                 </a>
+                 is a Ph.D. candidate in the Department of Political Science at
+                 the University of Notre Dame. His research focuses upon
+                 Spinoza's moral psychology as a pivot in the modern
+                 understanding of envy. His work, which includes several
+                 articles on the political theory of Kierkegaard, has appeared
+                 in <i>Perspectives on Political Science</i>, 
+                 <i>Res Philosophica</i>, <i>Telos</i>,
+                 and other journals.
+                <br>
+                <img src="graphics/Wyllie.jpg" width="14%" class="center-img">
             </li>
 
         </ul>

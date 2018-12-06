@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <link href="style.css" rel="stylesheet" type="text/css"/>
+<!--include head.txt -->
         <title>
             Authors for Volume 2
         </title>
     </head>
 
     <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
         <h1>
             Authors for Volume 2
         </h1>
@@ -20,6 +21,15 @@
 
             <li>
                 Owen Barfield
+            </li>
+
+            <li>
+                Paul Feyerabend: Anything Goes
+            </li>
+
+            <li>
+                James C. Scott:
+                Seeing Like a Rationalist
             </li>
         </ul>
 
