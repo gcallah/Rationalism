@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link href="../style.css" rel="stylesheet" type="text/css"/>
+        <title>
+            The Critics of Enlightenment Rationalism
+        </title>
+    </head>
+
+    <body>
+            <div style="text-align:center">
+                <p>
+                <img
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
+				width="8%"><img
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
+				width="8%"><img
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
+				width="8%"><img
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
+				width="8%"><img
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
+				width="8%">
+                </p>
+            </div>
+        <h1>
+            The Critics of Enlightenment Rationalism
+        </h1>
+
+        <p class="author_info">
+            Editors:
+            <a href="bios.html#callahan">
+            Gene Callahan
+            </a>
+            and
+            <a href="bios.html#mcintyre">
+            Kenneth McIntyre
+            </a>
+            <br />
+            <a href="bios.html">
+                All contributors
+            </a>
+        </p>
+
+        <p>
+            The aim of this project is to provide an overview of the many
+            critics of Enlightenment rationalism. The essays on each thinker
+            are intended not merely to offer an overview of that thinker, but
+            also to place him or her in the context of this larger stream of
+            anti-rationalist thought. Below is a list of chapters,
+            along with the author for the chapter, and a link to the
+            abstract, if available.
+        </p>
+
+        <ul>
+            <li>
+                <a href="intro.html">
+                Introduction
+                </a>
+                <br>
+                    <a href="bios.html#callahan">
+                    Gene Callahan
+                    </a>
+                    and
+                    <a href="bios.html#mcintyre">
+                    Kenneth McIntyre
+                    </a>
+            </li>
+
+            <li>
+                Blaise Pascal:
+            </li>
+
+            <li>
+                Edmund Burke:
+                <a href="burke.html">
+                A Rational and Political Critique of Rationality in Politics
+                </a>
+                <br>
+                    <a href="bios.html#horcher">
+                    Ferenc Hörcher,
+                    </a>
+                    Pázmány Péter Catholic University, Budapest
+                    and The Institute of Philosophy of the Hungarian Academy of
+                    Sciences
+            </li>
+
+            <li>
+                Alexis de Tocqueville:
+                <a href="tocqueville.html">
+                The Uneasy Friendship Between Reason and Freedom
+                </a>
+                <br />
+                    <a href="bios.html#smith">
+                    Travis D. Smith
+                    </a>
+                    and
+                    <a href="bios.html#jin">
+                    Jin Jin
+                    </a>
+            </li>
+
+            <li>
+                Søren Kierkegaard:
+                <br />
+                    <a href="bios.html#wyllie">
+                    Rob Wyllie
+                    </a>
+            </li>
+
+            <li>
+                Fyodor Dostoevsky:
+                <br />
+                    <a href="bios.html#marsh">
+                    Leslie Marsh
+                    </a>,
+                    The University of British Columbia
+            </li>
+
+            <li>
+                Lewis Carroll:
+                <a href="carroll.html"> 
+                What the Tortoise Said to Achilles
+                </a>
+                <br>
+                    <a href="bios.html#callahan">
+                    Gene Callahan,
+                    </a>
+                    New York University
+            </li>
+
+            <li>
+                Friedrich Nietzsche:
+                <a href="nietzsche.html">
+                The Hammer Goes to Monticello
+                </a>
+                <br>
+                    <a href="bios.html#garrison">
+                    Justin Garrison,
+                    </a>
+                    Roanoke College
+            </li>
+
+            <li>
+                G.K. Chesterton:
+                <br>
+                    <a href="bios.html#kos">
+                    Eric S. Kos,
+                    </a>
+                    Siena Heights University
+            </li>
+
+            <li>
+                Martin Heidegger:
+                <a href="heidegger.html">
+                The Limiting Character of the Scientific Method
+                </a>
+                <br>
+                    <a href="bios.html#simmons">
+                    Jack Simmons,
+                    </a>
+                    Georgia Southern
+            </li>
+
+            <li>
+                T.S. Eliot: 
+                Systems So Perfect That No One Has to Be Good
+                <br>
+                    <a href="bios.html#abel">
+                    Corey Abel
+                    </a>
+            </li>
+
+            <li>
+                C.S. Lewis: The Abolition of Man
+                <br />
+                    <a href="bios.html#sheahan">
+                    Luke Sheahan,
+                    </a>
+                    Duke University
+            </li>
+
+            <li>
+                Ludwig Wittgenstein:
+                Forms of Life
+                <br>
+                    <a href="bios.html#sportiello">
+                    Daniel Sportiello
+                    </a>
+            </li>
+
+            <li>
+                Gabriel Marcel:
+                <br>
+                    <a href="bios.html#knepper">
+                    Steven Knepper,
+                    </a>
+                    VMI
+            </li>
+
+            <li>
+                Michael Oakeshott:
+                <a href="oakeshott.html">
+                Rationalism Is Irrational 
+                </a>
+                <br />
+                    <a href="bios.html#coats">
+                    John Coats,
+                    </a>
+                    Connecticut College
+            </li>
+
+            <li>
+                Michael Polanyi:
+                <a href="polanyi.html">
+                A Scientist Against Scientism
+                </a>
+                <br>
+                    <a href="bios.html#lowney">
+                    Charles W. Lowney,
+                    </a>
+                    Hollins University
+            </li>
+
+            <li>
+                F.A. Hayek:
+                The Errors of Constructivist Rationalism 
+                <br>
+                    <a href="bios.html#cowen">
+                    Nick Cowen,
+                    </a>
+                    New York University
+            </li>
+
+            <li>
+                Isaiah Berlin:
+                <a href="berlin.html">
+                    Berlin and Moral Monism
+                </a>
+                <br>
+                    <a href="bios.html#ferrell">
+                    Jason Ferrell,
+                    </a>
+                    Concordia University
+            </li>
+
+            <li>
+                Eric Voegelin:
+                Don't Immanentize the Eschaton
+                <br>
+                    <a href="bios.html#federici">
+                    Michael Federici,
+                    </a>
+                    Middle Tennessee State University
+            </li>
+
+            <li>
+                W.V.O. Quine:
+                <a href="quine.html">
+                Who’s a Good Dogma?!?: Perspectives on Quine’s Critique of
+                Analyticity
+                </a>
+                <br />
+                Thomas J. Brommage,
+                Sam Houston State University
+            </li>
+
+            <li>
+                Paul Feyerabend: Anything Goes
+            </li>
+
+            <li>
+                Russell Kirk:
+                <a href="kirk.html">
+                The Mystery of Human Existence
+                </a>
+                <br>
+                    Nathanael Blake
+            </li>
+
+            <li>
+                Jane Jacobs:
+                Critiquing the Rationalist City 
+                <br>
+                    <a href="bios.html#ikeda">
+                    Sanford Ikeda,
+                    </a>
+                    Purchase College
+            </li>
+
+            <li>
+                Hans-Georg Gadamer:
+                <a href="gadamer.html">
+                Anti-Rationalism and Hermeneutics
+                </a>
+                <br>
+                    <a href="bios.html#holston">
+                    Ryan Holston,
+                    </a>
+                    VMI
+            </li>
+
+            <li>
+                Alasdair MacIntyre:
+                <a href="macintyre.html">
+                Modern Moral Philosophy, Virtue, and Pluralism:  MacIntyre and
+                the Quest for the Human <i>Telos</i>
+                </a>
+                <br>
+                    <a href="bios.html#mcintyre">
+                    Kenneth McIntyre,
+                    </a>
+                    Sam Houston State University
+            </li>
+
+            <li>
+                James C. Scott:
+                Seeing Like a Rationalist
+            </li>
+
+        </ul>
+
+    </body>
+</html>
+

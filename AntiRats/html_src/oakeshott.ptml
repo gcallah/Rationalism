@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link href="../style.css" rel="stylesheet" type="text/css"/>
+        <title>
+
+        </title>
+    </head>
+
+    <body>
+            <div style="text-align:center">
+                <p>
+                <img
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
+				width="8%"><img
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
+				width="8%"><img
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
+				width="8%"><img
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
+				width="8%"><img
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg/170px-Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg"
+				width="8%">
+                </p>
+            </div>
+        <h1>
+            Michael Oakeshott: Rationalism is Irrational
+        </h1>
+
+            <p class="author_info">
+            W. J. Coats
+            </p>
+            
+            <h2>
+            Abstract
+            </h2>
+
+            <p>
+                Oakeshott is known for a critique of modern Rationalism in
+                politics and morals, an ideology which he says derives its
+                inspiration from an exaggeration of the hopes for a universal
+                method of Bacon and Descartes without the (occasional)
+                skepticism of the latter.  In this paper, I try to accomplish
+                the following: 1) give a concise statement of what Oakeshott
+                means by “modern Rationalism;” 2) give a summary of his
+                criticisms of it for its baleful effects in politics and
+                morals; 3) show how Oakeshott’s criticisms of it for failing to
+                respect the poetic or creative character of experiential
+                reality are consistent with his philosophic positions in
+                Experience and Its Modes (1933), as well as with his contingent
+                preferences for civil association, understood as he understands
+                it; and 4) give an assessment of the accuracy and
+                reasonableness of Oakehsott’s analysis of, and alternatives to,
+                modern Rationalism in politics and morals.  
+            </p>
+
+    </body>
+</html>

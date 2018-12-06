@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link href="style.css" rel="stylesheet" type="text/css"/>
+        <title>
+            Authors for Volume 2
+        </title>
+    </head>
+
+    <body>
+        <h1>
+            Authors for Volume 2
+        </h1>
+
+        <ul>
+            <li>
+                Samuel Coleridge
+            </li>
+
+            <li>
+                Owen Barfield
+            </li>
+        </ul>
+
+    </body>
+</html>
