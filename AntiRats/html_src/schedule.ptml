@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Book Schedule
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            Book Schedule
+        </h1>
+
+        <table>
+            <col style="width:12%">
+            <col style="width:18%">
+            <col style="width:70%">
+            <thead>
+            <tr>
+                <th>
+                    Date
+                </th>
+                <th>
+                    Deliverable
+                </th>
+                <th>
+                    Notes
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="key-col">
+                    Jan. 31, 2019
+                </td>
+                <td>
+                    Abstract / Intro
+                </td>
+                <td>
+                    Many contributors have finished this already!
+                </td>
+            </tr>
+            <tr>
+                <td class="key-col">
+                    Feb. 28, 2019
+                </td>
+                <td>
+                    Paper Outline
+                </td>
+                <td>
+                    Can be as minimal as a listing of the sections and a
+                    sentence on what each section will address. And of course
+                    it need not be final!
+                </td>
+            </tr>
+            <tr>
+                <td class="key-col">
+                    Aug. 1, 2019
+                </td>
+                <td>
+                    Discussion Draft
+                </td>
+                <td>
+                    This need not be polished, might be missing references,
+                    etc. But it will allow the editors and other contributors
+                    to further evaluate how the various papers fit together
+                    and might converse with each other.
+                </td>
+            </tr>
+            <tr>
+                <td class="key-col">
+                    Oct. 15, 2019
+                </td>
+                <td>
+                    Final draft
+                </td>
+                <td>
+                    We will then submit to Palgrave.
+                </td>
+            </tr>
+            <tr>
+                <td class="key-col">
+                    Jan. 1, 2020?
+                </td>
+                <td>
+                    Peer review completed
+                </td>
+                <td>
+                    Palgrave says this may take 2-3 months.
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+    </body>
+</html>
