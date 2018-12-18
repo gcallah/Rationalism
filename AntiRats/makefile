@@ -12,12 +12,21 @@ HTMLFILES = $(shell ls $(PTML_DIR)/*.ptml | sed -e 's/.ptml/.html/' | sed -e 's/
 	$(UTILS_DIR)/html_include.awk <$< >$@
 	git add $@
 
+local: $(HTMLFILES)
+
 prod: $(INCS) $(HTMLFILES)
 	-git commit -a 
 	git pull origin master
 	git push origin master
 
-local: $(HTMLFILES)
+submods:
+	git submodule foreach 'git pull origin master'
+	
+nocrud:
+	rm *~
+	rm .*swp
+	rm $(PTML_DIR)/*~
+	rm $(PTML_DIR)/.*swp
 
 clean:
 	touch $(PTML_DIR)/*.ptml; make local

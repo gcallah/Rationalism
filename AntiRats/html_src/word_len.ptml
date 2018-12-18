@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Book Length
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            Book Length
+        </h1>
+
+        <table>
+            <col style="width:56%">
+            <col style="width:28%">
+            <col style="width:16%">
+            <thead>
+            <tr>
+                <th>
+                    Paper
+                </th>
+                <th>
+                    Author
+                </th>
+                <th>
+                    Est. Length
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+    </body>
+</html>
