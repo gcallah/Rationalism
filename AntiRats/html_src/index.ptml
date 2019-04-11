@@ -110,18 +110,6 @@
             </li>
 
             <li>
-                Lewis Carroll:
-                <a href="carroll.html"> 
-                What the Tortoise Said to Achilles
-                </a>
-                <br>
-                    <a href="bios.html#callahan">
-                    Gene Callahan,
-                    </a>
-                    New York University
-            </li>
-
-            <li>
                 Friedrich Nietzsche:
                 <a href="nietzsche.html">
                 The Hammer Goes to Monticello
@@ -275,8 +263,10 @@
             </li>
 
             <li>
-                Jane Jacobs:
-                Critiquing the Rationalist City 
+                <a href="drafts/Jacobs.pdf"> 
+                Jane Jacobs and the Knowledge
+                Problem in Cities
+                </a>
                 <br>
                     <a href="bios.html#ikeda">
                     Sanford Ikeda,
