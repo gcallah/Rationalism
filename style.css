@@ -61,12 +61,32 @@ p.menu {
 }
 
 ol, ul, dl, li {
-    margin: 1.6em 8em .6em 3em;
+    margin: 1.6em 8em .6em 4em;
     font-size: 1.1em;
 }
 
 ul.centered {
     list-style-position: inside;
+}
+.menu {
+    margin: 1.6em 12em .6em 12em;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: #fde;
+}
+
+a {
+    text-decoration: none;
+    color: #006;
+}
+a:link {
+    color: #407;
+}
+a:visited {
+    color: #704;
 }
 
 p {
