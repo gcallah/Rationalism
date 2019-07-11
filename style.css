@@ -4,6 +4,7 @@ body {
     font-size: 100%;
     color: #333;
     background: #ddd;
+    line-height: 1.8;
 }
 
 a:link {
@@ -47,7 +48,7 @@ td.key-col {
 
 
 p {
-    margin: .6em 3em .6em 3em;
+    margin: .6em 6em .6em 4em;
     font-size: 1.2em;
 }
 
@@ -58,7 +59,7 @@ p.menu {
 }
 
 ol, ul, dl, li {
-    margin: 1.6em 1em .6em 1em;
+    margin: 1.6em 8em .6em 3em;
     font-size: 1.1em;
 }
 
