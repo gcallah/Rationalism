@@ -24,6 +24,18 @@
             </li>
 
             <li>
+                Friedrich Nietzsche:
+                <a href="nietzsche.html">
+                The Hammer Goes to Monticello
+                </a>
+                <br>
+                    <a href="bios.html#garrison">
+                    Justin Garrison,
+                    </a>
+                    Roanoke College
+            </li>
+
+            <li>
                 Owen Barfield
             </li>
 
@@ -47,6 +59,11 @@
                 James C. Scott:
                 Seeing Like a Rationalist
             </li>
+
+            <li>
+                Nassim Nicholas Taleb
+            </li>
+
         </ul>
 
     </body>
