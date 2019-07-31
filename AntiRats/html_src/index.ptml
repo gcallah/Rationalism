@@ -61,9 +61,8 @@
 
             <li>
                 Edmund Burke:
-                <a href="burke.html">
-            "The Age of Chivalry is Gone." Edmund Burke's Account of the Loss of Virtue,
-            and of the Birth of Modern Sophistry
+                <a href="drafts/Burke.pdf">
+                    Burke on Rationalism, Prudence and Reason of State
                 </a>
                 <br>
                     <a href="bios.html#horcher">
@@ -107,6 +106,18 @@
                     Leslie Marsh
                     </a>,
                     The University of British Columbia
+            </li>
+
+            <li>
+                Friedrich Nietzsche:
+                <a href="drafts/Nietzsche.pdf">
+                The Hammer Goes to Monticello
+                </a>
+                <br>
+                    <a href="bios.html#garrison">
+                    Justin Garrison,
+                    </a>
+                    Roanoke College
             </li>
 
             <li>
@@ -154,7 +165,7 @@
             <li>
                 Gabriel Marcel:
                 <a href="drafts/Marcel.pdf">
-                Having and Being
+                Mystery in an Age of Problems
                 </a>
                 <br>
                     <a href="bios.html#knepper">
@@ -187,8 +198,10 @@
             </li>
 
             <li>
+                <a href="drafts/Hayek.pdf">
                 F.A. Hayek:
-                The Errors of Constructivist Rationalism 
+                Post-Atomic Liberalism
+                </a>
                 <br>
                     <a href="bios.html#cowen">
                     Nick Cowen,
@@ -282,8 +295,8 @@
             <li>
                 Alasdair MacIntyre:
                 <a href="drafts/MacIntyre.pdf">
-                Modern Moral Philosophy, Virtue, and Pluralism:  MacIntyre and
-                the Quest for the Human <i>Telos</i>
+                    Practical Reason and Teleology:
+                    MacIntyre’s Critique of Modern Moral Philosophy
                 </a>
                 <br>
                     <a href="bios.html#mcintyre">
