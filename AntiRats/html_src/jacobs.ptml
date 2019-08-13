@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Jane Jacobs and the Knowledge Problem in Cities
+        </title>
+    </head>
+
+    <body>
+<!--include menu.txt -->
+<!--include logo.txt -->
+        <h1>
+            Jane Jacobs and the Knowledge Problem in Cities
+        </h1>
+
+            <p class="author_info">
+            Sanford Ikeda
+            </p>
+
+            <h2>
+                Abstract
+            </h2>
+
+            <p>
+                Any city that aspires to greatness will have something to
+                offend everyone.  That is a feature, not a bug.  In the absence
+                of perfect knowledge, people are attracted to a great city for
+                the opportunities, imagined and unimaginable, that it offers
+                them.  But the absence of perfect knowledge means they have to
+                experiment, and the accompanying trials and errors necessarily
+                generate discord, confusion, and disappointment along with
+                innovation, satisfaction, and success.  Understanding how the
+                institutions underlying successful cities – property rights,
+                exchange, and the norms of trust and reciprocity – promote or
+                hinder such a process is therefore essential for effective
+                urban policy.  The large-scale responses to these problems have
+                historically misunderstood the nature and significance of
+                cities and have ranged from Olmstead to Le Corbusier.  The
+                consequence of such “constructivist rationalist” approaches is
+                to stifle the emergent creativity of a great city.
+            </p>
+
+
+
+    </body>
+</html>
