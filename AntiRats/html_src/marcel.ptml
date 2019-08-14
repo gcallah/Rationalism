@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Gabriel Marcel: Mystery in an Age of Problems
+        </title>
+    </head>
+
+    <body>
+<!--include menu.txt -->
+<!--include logo.txt -->
+        <h1>
+            Gabriel Marcel: Mystery in an Age of Problems
+        </h1>
+
+            <p class="author_info">
+            Steven Knepper
+            </p>
+            
+            <h2>
+            Abstract
+            </h2>
+
+        <p>
+            This chapter surveys Gabriel Marcel’s critique of technocratic
+            rationalism.  An important figure in French existentialism, Marcel
+            (1889-1973) did not deny the benefits of technological progress.
+            He did worry, though, that a technical ethos was reshaping how we
+            see the world and ourselves.  He especially worried about a
+            tendency to reduce mysteries to problems.  A problem, for Marcel,
+            is something external to us that can be determinatively understood
+            and solved with a generalizable technique. A mystery, on the other
+            hand, is something in which we are inextricably involved. It has
+            roots deep within us, but it also reaches beyond us. While a
+            problem can be definitively solved, a mystery can only be navigated
+            in light of the concrete situation and the people involved.  He
+            worried about the reduction of humans to their “functions,” and he
+            worried about an increasing tendency to treat the central mysteries
+            of human existence—namely love and death—as problems.
+        </p>
+
+    </body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            C.S. Lewis: Reason, Imagination, and the Abolition of Man
+        </title>
+    </head>
+
+    <body>
+<!--include menu.txt -->
+<!--include logo.txt -->
+        <h1>
+            C.S. Lewis: Reason, Imagination, and the Abolition of Man
+        </h1>
+
+            <p class="author_info">
+            Luke Sheahan
+            </p>
+            
+            <h2>
+            Abstract
+            </h2>
+
+        <p>
+            CS Lewis is considered one of the most prominent Christian
+            apologists of the twentieth century. But he held a deep distrust of
+            the work of the rational faculty that was not properly oriented by
+            the imagination, which explains in large part his turn to writing
+            imaginative fiction later in his life. Through his fiction Lewis
+            was trying to demonstrate, rather than rationally explain, what the
+            world would look like if Christianity and a broader moral worldview
+            were true. Lewis explains this understanding of the imagination and
+            its importance for right thinking in a variety of essays and in his
+            two most profound books, The Abolition of Man and The Discarded
+            Image. This chapter examines the arguments Lewis makes and the
+            metaphors he uses in these works to demonstrate how the foremost
+            Christian apologist of the twentieth century prioritized the
+            imaginative faculty over the rational. 
+        </p>
+
+    </body>
+</html>
