@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Hayek: Post-Atomic Liberal
+        </title>
+    </head>
+
+    <body>
+<!--include menu.txt -->
+<!--include logo.txt -->
+        <h1>
+            Hayek: Post-Atomic Liberal
+        </h1>
+
+            <p class="author_info">
+            Nick Cowen
+            </p>
+            
+            <h2>
+            Abstract
+            </h2>
+
+        <p>
+            Hayek’s anti-rationalism is founded upon a revival of Scottish
+            Enlightenment scepticism combined with a compelling account of
+            psychology that rejects a correspondence between our categories
+            that impose order on experience and an external reality. Despite
+            the resulting austere epistemic standpoint, Hayek argues humans can
+            harness their capacity for pattern recognition to generate and
+            sustain cooperative social orders through non-rational processes of
+            trial and error. Institutions that allow this cooperative order to
+            persist include centrally private property, voluntary contract and
+            the rule of law. Hayek’s politics is less reliant on fundamental
+            normative claims than those based on utopian ideals and is
+            compatible with a cosmopolitan order made up of people with varied
+            conceptions of morality.
+        </p>
+
+    </body>
+</html>
