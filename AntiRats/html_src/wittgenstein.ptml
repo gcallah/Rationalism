@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Wittgenstein Abstract
+        </title>
+    </head>
+
+    <body>
+<!--include menu.txt -->
+<!--include logo.txt -->
+        <h1>
+            Wittgenstein Abstract
+        </h1>
+
+            <p class="author_info">
+            Daniel Sportiello
+            </p>
+
+            <h2>
+                Abstract
+            </h2>
+
+            <p>
+            If "rationalism" refers to the thesis that there is a right way to
+            do whatever it is that we do—a way that we, with our reason, can
+            discover—then Ludwig Wittgenstein is a critic of rationalism. For
+            our words and deeds are justified only by the rules of particular
+            language-games—but these language-games are themselves justified
+            only insofar as they meet our needs; certainly none of them need be
+            justified by reference to any of the others. Together, our
+            language-games constitute our form of life; though this form of
+            life is not entirely arbitrary—some of its features can be
+            explained by reference to our nature—nonetheless it could be
+            different in many ways. Indeed, it has been—and therefore probably
+            will be—different in many ways; on some level, we all know this.
+            Philosophy at its worst is the attempt to forget it; philosophy at
+            its best is, therefore, the attempt to remember it.
+            </p>
+
+    </body>
+</html>
