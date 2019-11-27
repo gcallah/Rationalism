@@ -29,9 +29,7 @@
             <li>
                 Fyodor Dostoevsky
                 <br />
-                    <a href="bios.html#marsh">
-                    Leslie Marsh
-                    </a>,
+                    Leslie Marsh,
                     The University of British Columbia
             </li>
 
@@ -44,9 +42,27 @@
             </li>
 
             <li>
+                J.R.R. Tolkien:
+                <br />
+                    <a href="bios.html#blake">
+                        Nathanael Blake
+                    </a>
+            </li>
+
+            <li>
                 G.K. Chesterton
                 <br>
                 Eric Kos
+            </li>
+
+            <li>
+                Irving Babbitt
+                <br />
+                <a href="bios.html#garrison">
+                    Justin Garrison
+                </a>
+                Associate Professor of Political Science
+                Roanoke College
             </li>
 
             <li>
@@ -55,6 +71,13 @@
 
             <li>
                 Robert Nisbet
+                <br />
+                    <a href="bios.html#sheahan">
+                        Luke Sheahan
+                    </a>
+                    Assistant Professor, Department of Political Science
+                    Duquesne University
+
             </li>
 
             <li>
@@ -74,6 +97,15 @@
             <li>
                 James C. Scott:
                 Seeing Like a Rationalist
+            </li>
+
+            <li>
+                Roger Scruton
+                <br />
+                    <a href="bios.html#horcher">
+                        Ferenc Hörcher</a>,
+                Pázmány Péter Catholic University, Budapest and The Institute
+                of Philosophy of the Hungarian Academy of Sciences
             </li>
 
             <li>
