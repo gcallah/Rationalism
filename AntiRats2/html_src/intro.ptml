@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Introduction
+        </title>
+    </head>
+
+    <body>
+<!--include menu.txt -->
+<!--include logo.txt -->
+        <h1>
+            Introduction
+        </h1>
+
+        <p>
+            Enlightenment rationalism may be said to have been birthed
+            with the writings of Francis Bacon and René Descartes, and to have 
+            come to self-awareness in the works of the French philosophes
+            (e.g., Voltaire, Diderot, Condorcet, and d'Alembert),
+            and their allies, such as Benjamin Franklin, Immanuel Kant, and
+            Thomas Paine. But almost contemporaneously with the birth of 
+            this movement, it attracted critics.
+        </p>
+
+        <p>
+            The aim of this project is to provide an overview of some of the
+            most important of the many critics of Enlightenment rationalism.
+            The essays on each thinker are intended not merely to offer a
+            commentary on that thinker, but also to place him or her in the
+            context of this larger stream of anti-rationalist thought.
+            So, while this volume is not a history of anti-rationalist thought,
+            it may contain the intimations of such a history.
+        </p>
+
+    </body>
+</html>

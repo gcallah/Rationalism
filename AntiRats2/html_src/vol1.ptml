@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Authors for Volume 2
+        </title>
+    </head>
+
+    <body>
+<!--include menu.txt -->
+<!--include logo.txt -->
+        <h1>
+            Authors for Volume 2
+        </h1>
+
+        <ul>
+            <li>
+                Giambattista Vico
+                <br />
+                    Emily Finley,
+                    Catholic University of America
+            </li>
+
+            <li>
+                Joseph de Maistre
+            </li>
+
+            <li>
+                Samuel Coleridge
+            </li>
+
+            <li>
+                Fyodor Dostoevsky
+                <br />
+                    Leslie Marsh,
+                    The University of British Columbia
+            </li>
+
+            <li>
+                Lewis Carroll
+            </li>
+
+            <li>
+                Owen Barfield
+            </li>
+
+            <li>
+                J.R.R. Tolkien:
+                <br />
+                    <a href="bios.html#blake">
+                        Nathanael Blake
+                    </a>
+            </li>
+
+            <li>
+                G.K. Chesterton
+                <br>
+                Eric Kos
+            </li>
+
+            <li>
+                Irving Babbitt
+                <br />
+                <a href="bios.html#garrison">
+                    Justin Garrison,
+                </a>
+                Associate Professor of Political Science
+                Roanoke College
+            </li>
+
+            <li>
+                Elizabeth Anscombe
+            </li>
+
+            <li>
+                Robert Nisbet
+                <br />
+                    <a href="bios.html#sheahan">
+                        Luke Sheahan,
+                    </a>
+                    Assistant Professor, Department of Political Science
+                    Duquesne University
+
+            </li>
+
+            <li>
+                Paul Feyerabend: Anything Goes
+            </li>
+
+            <li>
+                Walker Percy
+            </li>
+
+            <li>
+                Elinor Ostrom
+            </li>
+
+            <li>
+                John Gray
+                <br />
+                Nathan Cockerham
+            </li>
+
+            <li>
+                James C. Scott:
+                Seeing Like a Rationalist
+            </li>
+
+            <li>
+                Roger Scruton
+                <br />
+                    <a href="bios.html#horcher">
+                        Ferenc Hörcher</a>,
+                Pázmány Péter Catholic University, Budapest and The Institute
+                of Philosophy of the Hungarian Academy of Sciences
+            </li>
+
+            <li>
+                Nassim Nicholas Taleb:
+                The Lindy Effect
+            </li>
+
+        </ul>
+
+    </body>
+</html>
