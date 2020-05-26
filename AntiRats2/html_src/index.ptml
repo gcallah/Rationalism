@@ -36,74 +36,6 @@
             anti-rationalist thought.
         </p>
 
-        <h3>
-            Reviewers' comments on Volume I:
-        </h3>
-
-        <ul>
-            <li>
-                "Callahan and McIntyre have brought together a distinguished
-                and cosmopolitan array of contributors who have produced a
-                lively and provocative collection of essays exploring and
-                analysing the modern phenomenon of Enlightenment rationalism
-                whose distinguished critics range from the historically
-                important Edmund Burke, Alexis de Tocqueville, and Friedrich
-                Nietzsche, to our near contemporaries Hans-Georg Gadamer, Eric
-                Voegelin and Michael Oakeshott. The connecting and fascinating
-                thread that runs through the volume is a relentless critique of
-                a style of thinking that prioritises the pursuit of certainty,
-                and a blind belief in the powers of instrumental reason to
-                overcome all adversity."
-                <br />
-                David Boucher
-                <br />
-                Professor of Political Philosophy and International Relations
-                <br />
-                Cardiff University
-            </li>
-
-            <li>
-                "This is a remarkable and remarkably comprehensive collection
-                on thinkers who questioned enlightenment rationalism, both in
-                the nineteenth and twentieth century. The list is impressive:
-                Tocqueville, Kierkegaard, Burke, Nietzsche, Eliot, as well as
-                Oakeshott, Hayek, Alasdair MacIntyre,  and a number of others
-                equally stellar, and equally deep and complex. The essays are
-                by accomplished scholars, and show that the opposition to
-                enlightenment rationalism was both diverse and strikingly
-                coherent, and a treasure trove for thinking beyond the
-                enlightenment. It will be especially valuable for those with
-                interests in one of these thinkers to see them in the context
-                of the larger fraternity to which they belong."
-                <br />
-                Stephen Turner
-                <br />
-                Distinguished University Professor
-                <br />
-                University of South Florida
-            </li>
-            <li>
-                "This volume could not have arrived at a better time. McIntyre
-                and Callahan have given us an excellent set of essays that
-                speaks directly to the fetishization of human reason. Each of
-                the thinkers examined reminds us of the fallibility of human
-                beings — a lesson we sorely need to revisit every generation or
-                so."
-                <br />
-                Richard Avramenko
-                <br />
-                Professor, Department of Political Science
-                <br />
-                Chair, Integrated Liberal Studies
-                <br />
-                Director, Center for the Study of Liberal Democracy
-                <br />
-                Editor-in-Chief, <i>The Political Science Reviewer</i>
-                <br />
-                University of Wisconsin-Madison
-            </li>
-
-        </ul>
 
         <h3>
             Table of Contents
@@ -162,7 +94,19 @@
             </li>
 
             <li>
+                Mikhail Bulgakov
+                <br />
+                <a href="bios.html#ferrell">
+                    Jason Ferrell</a>,
+                Concordia University
+            </li>
+
+            <li>
                 Owen Barfield
+                <br />
+                    <a href="bios.html#wilford">
+                        Sarah Wilford</a>,
+                    Universidad de los Andes
             </li>
 
             <li>
@@ -251,6 +195,9 @@
             <li>
                 James C. Scott:
                 Seeing Like a Rationalist
+                <br />
+                    <a href="bios.html#pourvand">
+                        Kaveh Pourvand</a>
             </li>
 
             <li>
@@ -265,6 +212,75 @@
             <li>
                 Nassim Nicholas Taleb:
                 The Lindy Effect
+            </li>
+
+        </ul>
+
+        <h3>
+            Reviewers' comments on Volume I:
+        </h3>
+
+        <ul>
+            <li>
+                "Callahan and McIntyre have brought together a distinguished
+                and cosmopolitan array of contributors who have produced a
+                lively and provocative collection of essays exploring and
+                analysing the modern phenomenon of Enlightenment rationalism
+                whose distinguished critics range from the historically
+                important Edmund Burke, Alexis de Tocqueville, and Friedrich
+                Nietzsche, to our near contemporaries Hans-Georg Gadamer, Eric
+                Voegelin and Michael Oakeshott. The connecting and fascinating
+                thread that runs through the volume is a relentless critique of
+                a style of thinking that prioritises the pursuit of certainty,
+                and a blind belief in the powers of instrumental reason to
+                overcome all adversity."
+                <br />
+                David Boucher
+                <br />
+                Professor of Political Philosophy and International Relations
+                <br />
+                Cardiff University
+            </li>
+
+            <li>
+                "This is a remarkable and remarkably comprehensive collection
+                on thinkers who questioned enlightenment rationalism, both in
+                the nineteenth and twentieth century. The list is impressive:
+                Tocqueville, Kierkegaard, Burke, Nietzsche, Eliot, as well as
+                Oakeshott, Hayek, Alasdair MacIntyre,  and a number of others
+                equally stellar, and equally deep and complex. The essays are
+                by accomplished scholars, and show that the opposition to
+                enlightenment rationalism was both diverse and strikingly
+                coherent, and a treasure trove for thinking beyond the
+                enlightenment. It will be especially valuable for those with
+                interests in one of these thinkers to see them in the context
+                of the larger fraternity to which they belong."
+                <br />
+                Stephen Turner
+                <br />
+                Distinguished University Professor
+                <br />
+                University of South Florida
+            </li>
+            <li>
+                "This volume could not have arrived at a better time. McIntyre
+                and Callahan have given us an excellent set of essays that
+                speaks directly to the fetishization of human reason. Each of
+                the thinkers examined reminds us of the fallibility of human
+                beings — a lesson we sorely need to revisit every generation or
+                so."
+                <br />
+                Richard Avramenko
+                <br />
+                Professor, Department of Political Science
+                <br />
+                Chair, Integrated Liberal Studies
+                <br />
+                Director, Center for the Study of Liberal Democracy
+                <br />
+                Editor-in-Chief, <i>The Political Science Reviewer</i>
+                <br />
+                University of Wisconsin-Madison
             </li>
 
         </ul>

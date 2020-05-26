@@ -27,6 +27,8 @@
                 <img src="graphics/NBlake.jpg" width="14%" class="center-img">
             </li>
 
+            <hr width="44%">
+
             <li>
                 <a name="callahan">
                 <span class="contrib">Gene Callahan</span>
@@ -42,6 +44,8 @@
                 <img src="graphics/Callahan.jpg" width="14%" class="center-img">
             </li>
 
+            <hr width="50%">
+
             <li>
                 <a name="coats">
                 <span class="contrib">W. J. Coats</span>
@@ -55,6 +59,8 @@
                 <br>
                 <img src="graphics/Coats.jpg" width="14%" class="center-img">
             </li>
+
+            <hr width="50%">
 
             <li>
                 <a name="ferrell">
@@ -71,6 +77,8 @@
                 <i>Russian Thinkers</i>.
                 </a>
             </li>
+
+            <hr width="50%">
 
             <li>
                 <a name="garrison">
@@ -89,6 +97,8 @@
                 <img src="graphics/Garrison.jpg" width="14%" class="center-img">
             </li>
 
+            <hr width="50%">
+
             <li>
                 <a name="horcher">
                 <span class="contrib">Ferenc Hörcher</span>
@@ -105,12 +115,14 @@
             the volume: <i>A History of the Hungarian Constitution. Law,
                 Government and Political Culture in Central Europe</i> (2019).
             <i>A Political Philosophy of Conservatism, Prudence, Moderation and
-                Tradition</i> is in print with Bloomsbury, scheduled to get
+                Tradition</i> is in print with Bloomsbury, scheduled to be
             published in 2020. 
                 </a>
                 <br>
                 <img src="graphics/Ferenc.jpg" width="14%" class="center-img">
             </li>
+
+            <hr width="50%">
 
             <li>
                 <a name="mcintyre">
@@ -130,6 +142,28 @@
                 <br>
                 <img src="graphics/McIntyre.jpg" width="14%" class="center-img">
             </li>
+
+            <hr width="50%">
+
+            <li>
+                <a name="pourvand">
+                <span class="contrib">Kaveh Pourvand</span>
+                is a political theorist. He received his PhD in Political
+                Science from the London School of Economics. He also holds an
+                MSc in Political Theory from the LSE, an MA in International
+                Relations from City University London and a BA in Business
+                Finance from Durham University. His doctoral research focused
+                on the topics of liberalism, democratic theory and collective
+                agency with special focus on the social theory of F.A. Hayek.
+                He is currently researching the role of the state within
+                normative political theory and working on a reinterpretation of
+                Hayek's critique of social justice.
+                </a>
+                <br>
+                <img src="graphics/Pourvand.jpg" width="14%" class="center-img">
+            </li>
+
+            <hr width="50%">
 
             <li>
                 <a name="sheahan">
@@ -164,6 +198,8 @@
                 <img src="graphics/Sheahan.jpg" width="14%" class="center-img">
             </li>
 
+            <hr width="50%">
+
             <li>
                 <a name="smith">
                 <span class="contrib">Travis D. Smith</span>
@@ -177,6 +213,8 @@
                 <img src="graphics/TravisSmith.jpg" width="14%" class="center-img">
             </li>
 
+            <hr width="50%">
+
             <li>
                 <a name="sportiello">
                 <span class="contrib">Daniel John Sportiello</span>
@@ -189,6 +227,29 @@
                 </a>
                 <br>
                 <img src="graphics/Sportiello.jpg" width="14%" class="center-img">
+            </li>
+
+            <hr width="50%">
+
+            <li>
+                <a name="wilford">
+                <span class="contrib">Sarah Wilford</span>
+                researches and teaches political philosophy and history of
+                political thought at the Universidad de los Andes, and is a
+                researcher at SIGNOS, Universidad de los Andes in Santiago,
+                Chile. She has taught in the Political Economy and Philosophy
+                departments of King’s College London. She has also taught at
+                Sciences Po: Menton, Le Campus Moyen-Orient Méditerranée. Her
+                doctoral research (PhD, King's College London) was on the
+                political thought of Alexis de Tocqueville regarding family,
+                women, and democratic conditions. Her other research interests
+                include the relationship between religion and liberty in the
+                history of political thought, womanhood during the nineteenth
+                century, and the use of historical thinkers in modern political
+                theory and political science.
+                </a>
+                <br>
+                <img src="graphics/Wilford.jpg" width="14%" class="center-img">
             </li>
 
         </ul>
