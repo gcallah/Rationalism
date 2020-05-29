@@ -59,8 +59,9 @@
             <li>
                 Giambattista Vico
                 <br />
-                    Emily Finley,
-                    Catholic University of America
+                    <a href="bios.html#finley">
+                    Emily Finley</a>,
+                    Stanford University
             </li>
 
             <li>
@@ -80,6 +81,14 @@
 
             <li>
                 Samuel Coleridge
+            </li>
+
+            <li>
+                George Eliot
+                <br />
+                <a href="bios.html#wyllie">
+                    Rob Wyllie</a>,
+                Notre Dame
             </li>
 
             <li>
@@ -150,6 +159,13 @@
                     Assistant Professor, Department of Political Science
                     Duquesne University
 
+            </li>
+
+            <li>
+                Bernard Williams
+                <br />
+                    Gulsen Seven,
+                    TED University
             </li>
 
             <li>
