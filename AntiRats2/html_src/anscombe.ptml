@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+        Elizabeth Anscombe on Rationalism
+        </title>
+    </head>
+
+    <body>
+<!--include menu.txt -->
+<!--include logo.txt -->
+        <h1>
+        Elizabeth Anscombe on Rationalism
+        </h1>
+
+        <p>
+        Daniel John Sportiello, Ph.D.
+        </p>
+
+        <p>
+        Elizabeth Anscombe's "Modern Moral Philosophy" is rightly famous. In
+        it, she argues for several interrelated theses; of these, perhaps the
+        least famous is her rejection of what she calls "consequentialism."
+        Inspired by her teacher Ludwig Wittgenstein, it seems, Anscombe argues
+        in her Intention that reasons are not causes -- and so intentionality is
+        an irreducible aspect of the human condition. It is this thesis, I’ll
+        argue, that justifies her Doctrine of Double Effect -- and it is this
+        thesis, I'll argue, that justifies her rejection of consequentialism.
+        She explains the abstract implications in "Modern Moral Philosophy,"
+        while she explains the concrete implications in "Mr. Truman's Degree";
+        I'll discuss both in what follows.
+        </p>
+
+    </body>
+</html>

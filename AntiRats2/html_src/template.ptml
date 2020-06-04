@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+        </title>
+    </head>
+
+    <body>
+<!--include menu.txt -->
+<!--include logo.txt -->
+        <h1>
+        </h1>
+
+        <p>
+        </p>
+
+    </body>
+</html>
