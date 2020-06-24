@@ -206,16 +206,17 @@
                 </a> 
                 <br>
                     <a href="bios.html#coats">
-                    John Coats,
-                    </a>
+                        John Coats</a>,
                     Connecticut College
             </li>
 
 
             <li>
-                Walker Percy
+                <a href="percy.html">
+                    Walker Percy</a>
                 <br />
-                Leslie Marsh,
+                    <a href="bios.html#marsh">
+                        Leslie Marsh</a>,
                 The University of British Columbia
             </li>
 
