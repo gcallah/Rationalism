@@ -2,7 +2,54 @@
 
 Gene Callahan
 
+"we‘re sick and tired of your ism schism game￼"
 
+"Midnight on a carousel ride
+Reaching for that gold ring
+Down inside
+Never could reach it
+Just slips away
+When I try"
+￼￼
+Man sits on a moving swing, rising at one moment so high that he feels he can
+nearly touch heaven, dipping so low at the next that he Is singed by the flames
+of hell. ￼ This is what Plato referred to as the metaxy, the "in-between" of
+human existence. How great is the temptation, at the top of the arc, to try to
+seize hold of that paradise so near.￼￼
+
+Truth is only intrasystemic... first you must accept the premises, then discuss
+its content — V. Pg 236 Drama
+
+If you do not accept the premises of critical race theory, that cannot be
+discussed: you are simply branded a racist, and dismissed￼
+
+" to believe on insufficient evidence is a decision, it’s an immoral act to
+believe with insufficient evidence￼." V. 237
+
+" once this Mode of being￼ has been realized, it is as difficult to get out of
+it as it is to wake oneself up￼" V. quoting Sartre 238
+
+￼
+Whether Race has any biological reality is irrelevant to ethical and political
+questions, where the relevant question is "does it have any moral meaning?" but
+while dismissing Race as a biological characteristic, it is the critical race
+theory us who answer the latter question with a resounding "yes," in all of
+their condemnation of "whiteness."￼￼
+
+"Replacing the first reality of experience by the second reality of imaginative
+construction, and endowing￼ the imaginary reality with the appearance of truth
+by letting it absorb pieces of first reality"￼
+
+Voegelin, on Hegel, page 224￼
+
+"The fanaticism of smashing all establish social order, of removing all
+individual suspect of harboring order in their existence, and of annihilating
+every attempt at re-organization. Only by destroying something has this
+negative well the feeling of its own existence. Even if he believes to Willa
+positive state, as friends since the state of general quality... It does in fact
+not want its realization for that would reestablish the very order... From whose
+annihilation this negative freedom drives it self-consciousness" — Voegelin
+quoting Hegel, p. 158 vol. 12
 
 Ideologies gain their plausibility because they have genuinely pointed at
 something that is really a sin, say "racism" or "capitalist exploitation." The
@@ -18,7 +65,7 @@ which he knows everything.
 
 "Political correctness is communist propaganda writ small... the purpose is not
 to persuade or convince, not to inform, but to humiliate; and therefore, the
-less it correspond to reality the better."
+less it corresponds to reality the better."
 — Theodore Dalrymple
 
 The charge of "whataboutism" is *not* a way of replying to a critic. It is a way of *ignoring* the critic. Look:
