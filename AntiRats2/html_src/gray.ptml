@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            John Gray's Agon: Liberalism, Morality, Politics
+        </title>
+    </head>
+
+    <body>
+<!--include menu.txt -->
+<!--include logo.txt -->
+        <h1>
+            John Gray's Agon: Liberalism, Morality, Politics
+        </h1>
+
+        <p>
+        Liberalism is often justified as a means of securing basic individual
+        rights. Indeed, in this capacity, it is often identified as the
+        political creed of the enlightenment. In a series of publications, John
+        Gray has rejected this justification of liberalism, and in so doing, as
+        rejected seeing it as an enlightenment creed. Indeed, in recent times,
+        he has gone so far as to reject calling his own view 'liberal.'
+        </p>
+
+        <p>
+        In this essay, my task is to suggest that this rejection of the label
+        by Gray, while understandable, is premature. For I shall argue that we
+        can see Gray's thought as squarely within what I will call a Hobbesian
+        tradition of liberal thought. Moreover, I will also contend that this
+        Hobbesian liberalism has the potential to generate promising strategies
+        for dealing with contemporary objections to liberalism.
+        </p>
+
+    </body>
+</html>
