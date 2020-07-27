@@ -76,3 +76,31 @@ CRITIC: OK, but what about the fact that the USSR threw millions of workers into
 
 MARXIST: Ah! Whataboutism!!!
 
+
+**Bodies**
+
+Gnostic?
+
+
+
+
+https://www.theatlantic.com/ideas/archive/2020/07/dehumanizing-condescension-white-fragility/614146/?fbclid=IwAR06k8a9REo-dixK7zTt8cq3-THZO9pqVEbpxaLQBc9ySO3-04XsOW5IpNI
+
+http://www.aclrc.com/myth-of-reverse-racism
+
+https://www.google.com/amp/s/www.abqjournal.com/1468024/from-my-bookshelf-to-yours-only-white-people-can-be-considered-racist.html/amp
+
+
+
+https://www.mndaily.com/article/2020/06/can-white-people-experience-racism-pt-ii
+
+
+https://www.google.com/amp/s/www.vice.com/amp/en_us/article/kwzjvz/dear-white-people-please-stop-pretending-reverse-racism-is-real
+
+
+https://thepostmillennial.com/co-founder-of-black-lives-matter-vancouver-says-that-reliability-and-loyalty-are-white-supremacy
+
+
+
+
+
