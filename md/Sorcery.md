@@ -118,6 +118,13 @@ in her racial stereotyping, was careful to use the then politically correct
 term for the men she saw, as though such word magic could erase the
 stereotyping.
 
+Word magic is also rampant in "gender" discussions. In fact, the very shift
+from talking about a person's "sex" to talking about a person's "gender" was
+itself an instance of word magic, as though discussing the biological reality
+of sexual dimorphism as though at were an arbitrary category like gender in a
+language could transform biological reality into social convention.
+
+
 People are "assigned" a gender at birth. They "really" are whatever gender they
 choose to adopt. (Notice the belief in *Zauberworte* implicit in this position:
 it doesn't matter if you have a penis, testicles, and lots of testosterone
