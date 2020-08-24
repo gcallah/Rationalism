@@ -87,8 +87,36 @@ magic of woke ideology.
 
 imbecile --> retarded --> special needs
 
+The actual issue is that those of us with normal mental capacities should
+exercise kindness and compassion towards those who were not so blessed, and
+realize that it is no accomplishment of our own not, for instance, to be born
+with Down's Syndrome.
+
+But *that* involves a change of heart, and is more
+difficult to accomplish than is a change in terminology.
+
+The *reality* is that
+many people feel the intellect they have been gifted with is somehow their own
+accomplishment, and thus feel entitled to those who have not been equally
+gifted.
+
 Negro --> colored --> black --> African-American --> Black
 
+
+I studied Ghanian drumming for several years with the master drummer Martin
+Obeng. My son, in third of fourth grade, knowing about this, asked me, "Aren't
+most of the people in Ghana African-American?"
+
+"No," I told him, "most of them are African-African."
+
+My Puerto Rican next-door-neighbor once called me up while I was at work, and
+told me, "A truck pulled up in your driveway... and a bunch of
+*African-Americans* got out of it... I'm worried you're being robbed."
+
+In fact, this was a tree-cutting crew I had hired. But notice how my neighbor,
+in her racial stereotyping, was careful to use the then politically correct
+term for the men she saw, as though such word magic could erase the
+stereotyping.
 
 People are "assigned" a gender at birth. They "really" are whatever gender they
 choose to adopt. (Notice the belief in *Zauberworte* implicit in this position:
@@ -96,6 +124,14 @@ it doesn't matter if you have a penis, testicles, and lots of testosterone
 coursing through your body: just so long as others refer to you as "she," you
 *really are* a woman. (And further, if they refer to you as "ze" or "they" or
 "flaubergaustemis", then you *really are* some imaginary alternative sex.
+
+
+"Peaceful protests"
+
+Dan's example!
+
+No matter how much violence is occurring, so long as we *call* what is going on
+"peaceful protests", they actually will be, magically, made peaceful.
 
 
 
