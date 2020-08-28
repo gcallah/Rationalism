@@ -2,7 +2,7 @@
 
 Gene Callahan
 
-"we‘re sick and tired of your ism schism game￼"
+"we‘re sick and tired of your ism schism game"
 
 "Midnight on a carousel ride
 Reaching for that gold ring
@@ -64,6 +64,11 @@ it is "the great confidence game played by modern man... under such titles as
 advertisement, propaganda, communication, and comprehensively, as ideological
 politics" (OH, p. 225).
 
+Ideologies gain their plausibility because they have genuinely pointed at
+something that is really a problem, say "racism" or "capitalist exploitation."
+But typically they try to treat this one problem as if it were the root of
+all problems.
+
 The truths offered by a sorcerer, however, only serve as lures, inviting
 acolytes into the sorcerer’s second reality. Once "hooked" by these lures,
 the apprentice is then "educated" into a whole new way of viewing the world.
@@ -75,9 +80,19 @@ devoted Marxists are assured that they are "the vanguard of the proletariat."
 And the devotees of Hubbard were promised that they could become "operating
 thetans," acquiring capabilities not available to non-Scientilogists. 
 
+In the case of Hegel, Voegelin observes: "Hegel's obsession was power. If he
+wanted to be the sorcerer
+who could evoke the shape of history, he had to penetrate the political
+events of the time with though until the events and thought would coincide"
+(OH, 235).
+
+
 As Voegelin noted, "Once you have entered into the magic circle the sorcerer
 has drawn around himself, you are lost" (OH, 228).
 
+
+
+(Must include something on Neocon magic.)
 
 
 Once we have understood the general nature of *Zauberworte*, of the magic words
@@ -138,11 +153,11 @@ coursing through your body: just so long as others refer to you as "she," you
 Dan's example!
 
 No matter how much violence is occurring, so long as we *call* what is going on
-"peaceful protests", they actually will be, magically, made peaceful.
+"peaceful protests", they actually will be, magically, made peaceful. In the
+meantime, a white person sitting quietly by himself, eating his lunch, is
+actually engaged in *violence*, since he is not helping the peaceful protesters
+loot stores and burn cars.
 
-
-
-(Must include something on Neocon magic.)
 
 
 
@@ -156,16 +171,16 @@ of hell. This is what Plato referred to as the metaxy, the "in-between" of
 human existence. How great is the temptation, at the top of the arc, to try to
 seize hold of that paradise so near.
 
-Truth is only intrasystemic... first you must accept the premises, then discuss
-its content — V. Pg 236 Drama
+"Truth is only intrasystemic... first you must accept the premises, then discuss
+its content." — V. Pg 236 Drama
 
 If you do not accept the premises of critical race theory, that cannot be
 discussed: you are simply branded a racist, and dismissed.
 
-" to believe on insufficient evidence is a decision, it’s an immoral act to
+"to believe on insufficient evidence is a decision, it’s an immoral act to
 believe with insufficient evidence." V. 237
 
-" once this Mode of being￼ has been realized, it is as difficult to get out of
+"Once this Mode of being has been realized, it is as difficult to get out of
 it as it is to wake oneself up" V. quoting Sartre 238
 
 
@@ -183,11 +198,6 @@ positive state, as friends since the state of general quality... It does in fact
 not want its realization for that would reestablish the very order... From whose
 annihilation this negative freedom drives it self-consciousness" — Voegelin
 quoting Hegel, p. 158 vol. 12
-
-Ideologies gain their plausibility because they have genuinely pointed at
-something that is really a sin, say "racism" or "capitalist exploitation." The
-problem with them is that they try to treat that one sin as though it were the
-only sin in existence.
 
 
 How to differentiate a religious leader from a cult leader: a religious leader
