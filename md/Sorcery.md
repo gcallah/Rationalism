@@ -133,10 +133,38 @@ in her racial stereotyping, was careful to use the then politically correct
 term for the men she saw, as though such word magic could erase the
 stereotyping.
 
+A curious example of word magic amongst "anti-racists" (which means people who
+think about almost nothing but race) is the notion of "racist dog whistle."
+Plain-old dog whistles, of course, are designed to make a sound at a pitch that
+dogs can hear, but humans cannot. By analogy, a racist dog whistle is some
+"coded" phrase by which racists can identify as such to other racists, but that
+non-racists will mistake for some innocent language. (For example, just the
+other day I heard a wokester claim that the phrase "civilized society" is a dog
+whistle.) It is a sort of "secret Masonic handshake," but for racists.
+
+The difficulty here arises from the fact that anti-racists continually claim to
+be able to "hear" these dog whistles, quite distinctly. But if they are
+designed to be recognizable only by racists... then wouldn't the woke who hear
+them have to be racist themselves? "No," they respond, "we have just studied
+these racists and broken their code." Then in that case, wouldn't the racists
+pick a new code, one that hasn't been broken? When the Allies broke a German
+code in WWII, they were very careful to hide the fact, so that the Germans
+would keep using the (now useless) code. But the woke declare publicly, every
+hour of every day, on Twitter, on Facebook, and in [WOKE PUB HERE] that they
+have broken the racists' code. Are we supposed to imagine that the racists are
+clever enough to disguise their racism in seemingly innoccuous phrases like
+"civilized society," and yet too stupid to change their code once it was so
+thoroughly and publicly exposed?
+
+No, no explanation for this conundrum is forthcoming. And that is because this
+is not a serious theory about secret communication channels, but a use of word
+magic to "curse" those the woke disagree with by attaching the stigma of racism
+to them.
+
 Word magic is also rampant in "gender" discussions. In fact, the very shift
 from talking about a person's "sex" to talking about a person's "gender" was
 itself an instance of word magic, as though discussing the biological reality
-of sexual dimorphism as though at were an arbitrary category like gender in a
+of sexual dimorphism as if it were an arbitrary category like gender in a
 language could transform biological reality into social convention.
 
 
