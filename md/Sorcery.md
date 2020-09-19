@@ -21,6 +21,7 @@ words over it.
 Voegelin aimed his analysis chiefly at 19th-century thinkers such as Hegel,
 Marx, and Comte. He notes that Hegel, in particular, quite clearly saw himself
 as a sorcerer, as he talked about his *Zauberworte* (magic words) and his
+*Zauberkraft* (magic force).
 
 
 But Voegelin's analysis applies equally well to more modern sorcerers.
