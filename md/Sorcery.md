@@ -2,21 +2,19 @@
 
 Gene Callahan
 
-"we‘re sick and tired of your ism schism game"
-
-"Midnight on a carousel ride
-Reaching for that gold ring
-Down inside
-Never could reach it
-Just slips away
-When I try"
+"Midnight on a carousel ride  
+Reaching for that gold ring  
+Down inside  
+Never could reach it  
+Just slips away  
+When I try"  
 
 It may seem bizarre to analyze any current world events as involving sorcery:
 surely, sorcery is something that was never real, and attempts at sorcery
 disappeared hundreds of years ago.
 
-To the contrary, the brilliant philosopher Eric Voegelin demonstrated that many
-of the new political ideologies that have arisen during the previous two
+To the contrary, the political philosopher Eric Voegelin demonstrated that many
+of the new political ideologies that have arisen during the recent three
 centuries have, in fact, been efforts to change the world by casting a spell of
 words over it.
 
@@ -25,9 +23,9 @@ Marx, and Comte. He notes that Hegel, in particular, quite clearly saw himself
 as a sorcerer, as he talked about his *Zauberworte* (magic words) and his
 
 
-
-But I myself fell into the enchantment of a more modern
-sorcerer’s spell: that spell, called "Scientology," cast by L. Ron Hubbard.
+But Voegelin's analysis applies equally well to more modern sorcerers.
+I myself fell into the enchantment of the spell of one of them,
+that spell, called "Scientology," cast by L. Ron Hubbard.
 After two years, I was able to break free of the spill only when presented with
 an analysis of how such a spell could be cast: once that happened, I realized
 that Hubbard had literally entrapped me in a net woven by his words.
@@ -52,14 +50,17 @@ could offer his readers novel perspectives on the development of the subject.
 Marx, who was a keen observer of the social scene around him, could provide
 genuine insights into mid-19th-century European social relations. Hubbard, who
 had studied Buddhism, psychoanalysis, and cybernetics, could offer potential
-acolytes an interesting perspective on their psychological difficulties.
+acolytes an interesting perspective on their psychological difficulties. Ayn
+Rand, another modern sorcerer, had absorbed much of Aristotle, and had personal
+experience with collectivist tyranny in the USSR.
 
 Voegelin refers to this process as: "Replacing the first reality of experience
 by the second reality of imaginative construction, and endowing the imaginary
 reality with the appearance of truth by letting it absorb pieces of first
 reality" ("On Hegel," page 224).
 
-But this sort of sorcery is far from limited to Hegel; as Voegelin notes,
+And this sorcery is far more widespread than just the few thinkers I have
+mentioned; as Voegelin notes,
 it is "the great confidence game played by modern man... under such titles as
 advertisement, propaganda, communication, and comprehensively, as ideological
 politics" (OH, p. 225).
@@ -77,8 +78,9 @@ that those who have embraced it are now superior to the run-of-the-mill
 humanity who have not done so. For example, followers of Hegel are told that
 they are at the forefront of the historical development of geist. The most
 devoted Marxists are assured that they are "the vanguard of the proletariat."
-And the devotees of Hubbard were promised that they could become "operating
-thetans," acquiring capabilities not available to non-Scientilogists. 
+The devotees of Hubbard were promised that they could become "operating
+thetans," acquiring capabilities not available to non-Scientilogists.
+And a Randian hero could live a life of freedom in "Galt's Gulch."
 
 In the case of Hegel, Voegelin observes: "Hegel's obsession was power. If he
 wanted to be the sorcerer
@@ -115,7 +117,7 @@ many people feel the intellect they have been gifted with is somehow their own
 accomplishment, and thus feel entitled to those who have not been equally
 gifted.
 
-Negro --> colored --> black --> African-American --> Black
+Negro -- colored -- black -- African-American -- Black
 
 
 I studied Ghanian drumming for several years with the master drummer Martin
