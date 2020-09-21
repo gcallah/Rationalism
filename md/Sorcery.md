@@ -95,15 +95,27 @@ has drawn around himself, you are lost" (OH, 228).
 
 
 
-(Must include something on Neocon magic.)
+Neocon magic:
+
+Ron Suskind reported on a conversation with a Bush administration official
+as follows:
+
+The aide said that guys like me were 'in what we call the reality-based
+community,' which he defined as people who 'believe that solutions emerge from
+your judicious study of discernible reality.' [...] 'That's not the way the
+world really works anymore,' he continued. 'We're an empire now, and when we
+act, we create our own reality. And while you're studying that
+reality—judiciously, as you will—we'll act again, creating other new realities,
+which you can study too, and that's how things will sort out. We're history's
+actors...and you, all of you, will be left to just study what we do'.
 
 
 Once we have understood the general nature of *Zauberworte*, of the magic words
-sorcerers use to cast their spell, we can proceed to look at the specific word
-magic of woke ideology.
+sorcerers use to cast their spell, we can proceed to look at the specific 
+examples of the word magic of woke ideology.
 
 
-imbecile --> retarded --> special needs
+imbecile -- retarded -- special needs
 
 The actual issue is that those of us with normal mental capacities should
 exercise kindness and compassion towards those who were not so blessed, and
@@ -190,10 +202,64 @@ actually engaged in *violence*, since he is not helping the peaceful protesters
 loot stores and burn cars.
 
 
+Perhaps one of the most stunning feats of *Zauberworte* performed by the woke
+has been the re-definition of "racism" itself. The "old" definition is stated
+succinctly at the beginning of the Wikipedia article on racism:
+
+"Racism is the belief that groups of humans possess different behavioral traits
+corresponding to physical appearance and can be divided based on the
+superiority of one race over another." (https://en.wikipedia.org/wiki/Racism)
+This definition captures what people usually mean when they say, "So-and-so is
+a racist," and also fits well with historical examples of racism, such as the
+ideas that supported black slavery in the United States or the persecution of
+Jews in Nazi Germany. Quite clearly, it is not a definition designed to "support
+white supremacy" or in any way "let white people off the hook": many of the
+most egregious examples of racist belief and practice involve some white people
+believing themselves genetically superior to some other group, although not
+infrequently that has been another group of white people, for example, European
+anti-semitism (Nazi Germany being the most extreme example), or the attitude of
+the English towards the Irish for some centuries, or the widespread belief
+among northern Europeans that they were better than their southern
+counterparts. But, of course, there are many other examples of Europeans
+holding racist beliefs vis-a-vis non-Europeans, towards Asian Indians, towards the
+Chinese, towards American Indians, and towards black Africans.
+
+Thankfully, although such beliefs persist in some quarters, today
+they are widely discredited, and rejected by "polite society." For instance,
+the University of Illinois reports: "One of the most substantial changes in
+white racial attitudes [among Americans] 
+has been the movement from very substantial opposition
+to the principle of racial equality to one of almost universal support."
+(https://igpa.uillinois.edu/programs/racial-attitudes)
+
+So, given that we should never expect perfection in the city of man, this would
+seem to signal "mission accomplished," in terms of discrediting white racism,
+right? But then, if one has built an ideological dream world holding that the
+essential life difficulty facing black Americans is white racism, what is one
+to do? Well, engage in some *Zauberworte*, and come up with a new definition of
+racism, one that still condemns whites of this sin, despite the forementioned
+change in attitudes, and, at the same time, excuses attitudes on the part of
+non-whites that obviously would fall under the common-sense notion of what
+racism is about.
 
 
 
-
+The ideal of earlier opponents of racism, such as Dr. Martin Luther King, 
+that "I look to a day when people will not be judged by the color of their
+skin, but by the content of their character," has now been re-defined as being
+actually a *racist* attitude, called "color-blindness." As Wikipedia expresses
+the ideas of Eduardo Bonilla-Silva:
+"At an individual level, people with 'color blind prejudice' reject racist
+ideology, but also reject systemic policies intended to fix institutional
+racism." (https://en.wikipedia.org/wiki/Racism#Color_blindness) In other words,
+in the realm of this word sorcery, *not* judging people by the color of their
+skin is a "subtle" form of racism, and the evidence that a person is guilty of
+this prejudice is that *they do not support the particular policies* their
+accuser favors. The result is that if someone, for instance, opposes
+affirmative-action admission to universities, arguing that they do not really
+help black students, their argument need not even be entertained: that person
+is a racist, guilty of "color blindness," and their case can be dismissed as
+such.
 
 
 Man sits on a moving swing, rising at one moment so high that he feels he can
@@ -256,6 +322,9 @@ MARXIST: Ah! Whataboutism!!!
 Gnostic?
 
 
+## References
+
+Suskind, Ron (October 17, 2004). "Faith, Certainty and the Presidency of George W. Bush". The New York Times Magazine. ISSN 0028-7822.
 
 
 https://www.theatlantic.com/ideas/archive/2020/07/dehumanizing-condescension-white-fragility/614146/?fbclid=IwAR06k8a9REo-dixK7zTt8cq3-THZO9pqVEbpxaLQBc9ySO3-04XsOW5IpNI
