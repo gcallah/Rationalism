@@ -130,12 +130,14 @@ many people feel the intellect they have been gifted with is somehow their own
 accomplishment, and thus feel entitled to those who have not been equally
 gifted.
 
-Negro -- colored -- black -- African-American -- Black
-
-
-I studied Ghanian drumming for several years with the master drummer Martin
-Obeng. My son, in third of fourth grade, knowing about this, asked me, "Aren't
-most of the people in Ghana African-American?"
+The attempt to address social ills by word magic is apparent in the shifting
+terms by which it is considered acceptable to refer to people of sub-Saharan
+African descent. "Negro" was once fine, but was replaced by "colored," as in
+the "National Association for the Advancement of Colored People." But then
+"colored" was denigrated, and "black" became correct. Then "black" was out, and
+"African-American" was de rigueur. The last term was so strongly asserted as
+correct that my young son, knowing that I had studied Ghanian music, once asked 
+me, "Aren't most of the people in Ghana African-American?"
 
 "No," I told him, "most of them are African-African."
 
@@ -147,6 +149,15 @@ In fact, this was a tree-cutting crew I had hired. But notice how my neighbor,
 in her racial stereotyping, was careful to use the then politically correct
 term for the men she saw, as though such word magic could erase the
 stereotyping.
+
+But today, "African-American" is out, and "Black," with a capital "B," is in.
+This ridiculous dance from word to word for describing the same group of people
+illustrates the persistence of belief in word magic. Certainly, there remain
+white Americans who are genuine racists. And anyone of good will should strive
+to disabuse them of their ignorance. But the notion that we can make progress
+on this front by continually changing the word by which we refer to the subject
+of their prejudice ought to be dismissed as laughable... unless one has fallen
+under the spell of a sorcerer.
 
 A curious example of word magic amongst "anti-racists" (which means people who
 think about almost nothing but race) is the notion of "racist dog whistle."
@@ -260,6 +271,8 @@ affirmative-action admission to universities, arguing that they do not really
 help black students, their argument need not even be entertained: that person
 is a racist, guilty of "color blindness," and their case can be dismissed as
 such.
+
+Color-blind auditions for orchestras.
 
 
 Man sits on a moving swing, rising at one moment so high that he feels he can
