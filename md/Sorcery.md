@@ -141,7 +141,16 @@ difficult to accomplish than is a change in terminology.
 The *reality* is that
 many people feel the intellect they have been gifted with is somehow their own
 accomplishment, and thus feel entitled to those who have not been equally
-gifted.
+gifted. Tellingly, Hodges himself does not recommend this change of heart, but
+instead recommends a *new* form of word magic: simply asserting that a
+disability is not really a disability. This "solution" is just as nonsensical
+as trying to jump off the "euphemism treadmill" by continually changing words:
+of course, there is *something* wrong with someone who has an "intellectual
+disability": they have more than ordinary trouble learning new things, just as
+there is something wrong with someone who is blind: they can't see. But, of
+course, there is "something wrong" with all of us, and the real cure here is to
+realize that we should practice compassion for people with "something wrong"
+with them, especially since that group includes us.
 
 The attempt to address social ills by word magic is apparent in the shifting
 terms by which it is considered acceptable to refer to people of sub-Saharan
