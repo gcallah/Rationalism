@@ -114,15 +114,28 @@ Once we have understood the general nature of *Zauberworte*, of the magic words
 sorcerers use to cast their spell, we can proceed to look at the specific 
 examples of the word magic of woke ideology.
 
+Although the "woke" have not recently paid much attention to mental
+disabilities, we can see an early example of the effort to change reality by
+word magic in the continually shifting terms for people afflicted with such a
+disability. As Rick Hodges writes:
 
-imbecile -- retarded -- special needs
+"In 1910, the Association of Medical Officers of American Institutions for
+Idiotic and Feeble-Minded Persons adopted three classifications of people we
+know today as intellectually disabled, as defined by a newly invented way to
+measure intelligence we now call the IQ test. 'Morons' were the most
+intelligent — they had IQs between 50 and 70. 'Imbeciles' with IQs between 25
+and 50 were the second level. Those below 25 would remain 'idiots.'"
+(https://humanparts.medium.com/the-rise-and-fall-of-mentally-retarded-e3b9eea23018)
+
+But these terms -- and "moron" was a brand new one,  with no prior meaning --
+gradually came to be insults. So they were replaced with "mentally retarded" --
+until "retarded" also became an insult. So "intellectually disabled" was in,
+and "retarded" came to be regarded as "hate speech."
 
 The actual issue is that those of us with normal mental capacities should
 exercise kindness and compassion towards those who were not so blessed, and
 realize that it is no accomplishment of our own not, for instance, to be born
-with Down's Syndrome.
-
-But *that* involves a change of heart, and is more
+with Down's Syndrome.  But *that* involves a change of heart, and is more
 difficult to accomplish than is a change in terminology.
 
 The *reality* is that
@@ -141,7 +154,9 @@ me, "Aren't most of the people in Ghana African-American?"
 
 "No," I told him, "most of them are African-African."
 
-My Puerto Rican next-door-neighbor once called me up while I was at work, and
+And the use of the new term certainly did not stop people from
+stereotyping. Once, my next-door-neighbor (herself a "minority" in at least two
+senses!) called me up while I was at work, and
 told me, "A truck pulled up in your driveway... and a bunch of
 *African-Americans* got out of it... I'm worried you're being robbed."
 
@@ -180,12 +195,15 @@ hour of every day, on Twitter, on Facebook, and in [WOKE PUB HERE] that they
 have broken the racists' code. Are we supposed to imagine that the racists are
 clever enough to disguise their racism in seemingly innoccuous phrases like
 "civilized society," and yet too stupid to change their code once it was so
-thoroughly and publicly exposed?
+thoroughly and publicly exposed? And if someone is tempted to respond, "Well,
+of course, racists are stupid!", they might contemplate the fact that pretty
+much no one ever has been as racist as the Nazis running Germany during World
+War II, and yet those racists were diabolically clever at fighting a war.
 
 No, no explanation for this conundrum is forthcoming. And that is because this
 is not a serious theory about secret communication channels, but a use of word
-magic to "curse" those the woke disagree with by attaching the stigma of racism
-to them.
+magic to "curse" those whose views the woke disagree with by attaching the
+stigma of racism to them.
 
 Word magic is also rampant in "gender" discussions. In fact, the very shift
 from talking about a person's "sex" to talking about a person's "gender" was
