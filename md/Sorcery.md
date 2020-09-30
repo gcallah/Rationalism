@@ -27,7 +27,7 @@ as a sorcerer, as he talked about his *Zauberworte* (magic words) and his
 But Voegelin's analysis applies equally well to more modern sorcerers.
 I myself fell into the enchantment of the spell of one of them,
 that spell, called "Scientology," cast by L. Ron Hubbard.
-After two years, I was able to break free of the spill only when presented with
+After two years, I was able to break free of the spell only when presented with
 an analysis of how such a spell could be cast: once that happened, I realized
 that Hubbard had literally entrapped me in a net woven by his words.
 
@@ -51,25 +51,28 @@ could offer his readers novel perspectives on the development of the subject.
 Marx, who was a keen observer of the social scene around him, could provide
 genuine insights into mid-19th-century European social relations. Hubbard, who
 had studied Buddhism, psychoanalysis, and cybernetics, could offer potential
-acolytes an interesting perspective on their psychological difficulties. Ayn
+acolytes an interesting perspective on their psychological difficulties with
+what he called "Dianetics." The genuine gains many people made with Dianetic
+processing lured them into Scientology. Ayn
 Rand, another modern sorcerer, had absorbed much of Aristotle, and had personal
-experience with collectivist tyranny in the USSR.
+experience with collectivist tyranny in the USSR, and thus could offer real
+insights into collectivist madness.
 
-Voegelin refers to this process as: "Replacing the first reality of experience
-by the second reality of imaginative construction, and endowing the imaginary
-reality with the appearance of truth by letting it absorb pieces of first
-reality" ("On Hegel," page 224).
+Voegelin describes this feature of sorcerers' construction of a dreamworld:
+"Replacing the first reality of experience by the second reality of imaginative
+construction, and endowing the imaginary reality with the appearance of truth
+by letting it absorb pieces of first reality" ("On Hegel," page 224).
 
-And this sorcery is far more widespread than just the few thinkers I have
+And this sort of sorcery is far more widespread than just the few thinkers I have
 mentioned; as Voegelin notes,
 it is "the great confidence game played by modern man... under such titles as
 advertisement, propaganda, communication, and comprehensively, as ideological
 politics" (OH, p. 225).
 
-Ideologies gain their plausibility because they have genuinely pointed at
+Thus, ideologies gain their plausibility because they have genuinely pointed at
 something that is really a problem, say "racism" or "capitalist exploitation."
-But typically they try to treat this one problem as if it were the root of
-all problems.
+But typically they try to treat this *one* problem as if it were the generator
+of *all* problems.
 
 The truths offered by a sorcerer, however, only serve as lures, inviting
 acolytes into the sorcerer’s second reality. Once "hooked" by these lures,
@@ -77,28 +80,27 @@ the apprentice is then "educated" into a whole new way of viewing the world.
 This new vision is made attractive by the assertion on the part of the sorcerer
 that those who have embraced it are now superior to the run-of-the-mill
 humanity who have not done so. For example, followers of Hegel are told that
-they are at the forefront of the historical development of geist. The most
-devoted Marxists are assured that they are "the vanguard of the proletariat."
-The devotees of Hubbard were promised that they could become "operating
-thetans," acquiring capabilities not available to non-Scientilogists.
-And a Randian hero could live a life of freedom in "Galt's Gulch."
+they are at the forefront of the historical development of *geist*. or the
+"world spirit." Discussing Hegel, Voegelin observes: "Hegel's obsession was
+power. If he wanted to be the sorcerer who could evoke the shape of history, he
+had to penetrate the political events of the time with though until the events
+and thought would coincide" (OH, 235).
 
-In the case of Hegel, Voegelin observes: "Hegel's obsession was power. If he
-wanted to be the sorcerer
-who could evoke the shape of history, he had to penetrate the political
-events of the time with though until the events and thought would coincide"
-(OH, 235).
+Similarly, the most devoted Marxists are assured that they are "the vanguard of
+the proletariat." The devotees of Hubbard were promised that they could become
+"operating thetans," acquiring capabilities not available to
+non-Scientilogists.  And a Randian hero could live a life of freedom in "Galt's
+Gulch." These promises are very seductive: As Voegelin noted, "Once you have
+entered into the magic circle the sorcerer has drawn around himself, you are
+lost" (OH, 228).
 
+A recent example of sorcery is what is often called "neoconservatism." The
+secondary reality neoconservatives attempt to create is one in which all
+actions by the United States are, by definition, virtuous, and all people,
+around the world, have as their deepest aspiration to become American.
 
-As Voegelin noted, "Once you have entered into the magic circle the sorcerer
-has drawn around himself, you are lost" (OH, 228).
-
-
-
-Neocon magic:
-
-Ron Suskind reported on a conversation with a Bush administration official
-as follows:
+Ron Suskind reported on a conversation with a (neoconservative)
+Bush administration official as follows:
 
 The aide said that guys like me were 'in what we call the reality-based
 community,' which he defined as people who 'believe that solutions emerge from
