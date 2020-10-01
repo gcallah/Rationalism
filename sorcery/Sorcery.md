@@ -91,6 +91,19 @@ the proletariat." The devotees of Hubbard were promised that they could become
 non-Scientologists.  And a Randian hero could live a life of freedom in "Galt's
 Gulch."
 
+But these are promises about the future: the sorcerer's apprentice also gets a
+more immediate payoff: the conviction that they are now privy to previously
+hidden knowledge about how the world "really" is structured. The newly minted
+Marxist can "see" that class struggle is what *really* drives human affairs.
+The Randian acolyte now perceives the pernicious influence of "moochers"
+everywhere. As a new Scientologist, I was informed that I possessed superior
+knowledge of where people were on the "tone scale," and could spot "supressive
+personalities." And the devotee of critical race theory is enlightened to the
+"fact" that "white supremacy" is the key to understanding all things American.
+For someone floundering in the troubled waters of a society in flux, this
+assurance of special insight into reality is a tremendous boost to one's
+self-image.
+
 A recent example of sorcery is what is often called "neoconservatism." The
 secondary reality neoconservatives attempt to create is one in which all
 actions by the United States are, by definition, virtuous, and all people,
