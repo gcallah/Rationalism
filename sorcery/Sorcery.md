@@ -225,7 +225,9 @@ clever enough to disguise their racism in seemingly innoccuous phrases like
 thoroughly and publicly exposed? And if someone is tempted to respond, "Well,
 of course, racists are stupid!", they might contemplate the fact that pretty
 much no one ever has been as racist as the Nazis running Germany during World
-War II, and yet those racists were diabolically clever at fighting a war.
+War II, and yet those racists were diabolically clever at fighting a war,
+and the Allied codebreakers went to great lengths to *hide* the fact they had
+broken Nazi codes.
 
 No, no explanation for this conundrum is forthcoming. And that is because this
 is not a serious theory about secret communication channels, but a use of word
