@@ -266,6 +266,8 @@ coursing through your body: just so long as others refer to you as "she," you
 
 Dan's example!
 
+https://spectator.us/mock-revolution-elites-protests-amazon/
+
 No matter how much violence is occurring, so long as we *call* what is going on
 "peaceful protests", they actually will be, magically, made peaceful. In the
 meantime, a white person sitting quietly by himself, eating his lunch, is
