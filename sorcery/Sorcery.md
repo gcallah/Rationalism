@@ -34,7 +34,10 @@ The analysis of sorcery that enabled me to understand what Hubbard was doing
 was provided to me by Carlos Castañeda, in his discussion of "the second ring
 of power," in books that quite explicitly were about sorcery. I have no idea if
 Castañeda had ever read Voegelin, but it is interesting that Voegelin posited
-that sorcery was an attempt to create a "second reality."
+that sorcery was an attempt to create a "second reality." (Some readers may be
+inclined to think that, in using Castañeda to debunk Hubbard, I was using one
+nutjob to refute another, but so be it: I am just reporting what really
+happened.)
  
 But what is this "second ring of power," or "second reality"? It is a reality
 created by a spell of words, that is supposed to be more real than the primary
@@ -51,7 +54,8 @@ Marx, who was a keen observer of the social scene around him, could provide
 genuine insights into mid-19th-century European social relations. Hubbard, who
 had studied Buddhism, psychoanalysis, and cybernetics, could offer potential
 acolytes an interesting perspective on their psychological difficulties with
-what he called "Dianetics." The genuine gains many people made with Dianetic
+what he called "Dianetics." The genuine improvements
+many people made with Dianetic
 processing lured them into Scientology. Ayn
 Rand, another modern sorcerer, had absorbed much of Aristotle, and had personal
 experience with collectivist tyranny in the USSR, and thus could offer real
@@ -62,8 +66,8 @@ Voegelin describes this feature of sorcerers' construction of a dreamworld:
 construction, and endowing the imaginary reality with the appearance of truth
 by letting it absorb pieces of first reality" ("On Hegel," page 224).
 
-And this sort of sorcery is far more widespread than just the few thinkers I have
-mentioned; as Voegelin notes,
+And Voegelin notes that this sort of sorcery is far more widespread than just
+the few thinkers I have mentioned: 
 it is "the great confidence game played by modern man... under such titles as
 advertisement, propaganda, communication, and comprehensively, as ideological
 politics" (OH, p. 225).
@@ -85,7 +89,7 @@ power. If he wanted to be the sorcerer who could evoke the shape of history, he
 had to penetrate the political events of the time with though until the events
 and thought would coincide" (OH, 235).
 
-Similarly, the most devoted Marxists are assured that they are "the vanguard of
+Similarly, the most diehard Marxists are assured that they are "the vanguard of
 the proletariat." The devotees of Hubbard were promised that they could become
 "operating thetans," acquiring capabilities not available to
 non-Scientologists.  And a Randian hero could live a life of freedom in "Galt's
@@ -97,15 +101,20 @@ hidden knowledge about how the world "really" is structured. The newly minted
 Marxist can "see" that class struggle is what *really* drives human affairs.
 The Randian acolyte now perceives the pernicious influence of "moochers"
 everywhere. As a new Scientologist, I was informed that I possessed superior
-knowledge of where people were on the "tone scale," and could spot "supressive
-personalities." And the devotee of critical race theory is enlightened to the
+knowledge of where people were on the "tone scale,"
+and I would be able to spot "supressive
+personalities." And, to jump ahead a little,
+the imbiber of critical race theory is enlightened to the
 "fact" that "white supremacy" is the key to understanding all things American.
 For someone floundering in the troubled waters of a society in flux, this
 assurance of special insight into reality is a tremendous boost to one's
 self-image.
 
-A recent example of sorcery is what is often called "neoconservatism." The
-secondary reality neoconservatives attempt to create is one in which all
+To ensure the reader does not dismiss this analysis of sorcery as some sort of
+"right-wing" tactic to smear leftists -- although Rand was hardly on the left!
+-- I will cite another recent example of sorcery:
+what is often called "neoconservatism." The
+secondary reality neoconservatives have attempted to create is one in which all
 actions by the United States are, by definition, virtuous, and all people,
 around the world, have as their deepest aspiration to become American.
 
@@ -138,9 +147,10 @@ case of "woke sorcery."
 
 We can begin with an old example.
 Although the "woke" have not recently paid much attention to mental
-disabilities, we can see an early example of the effort to change reality by
-word magic in the continually shifting terms for people afflicted with such a
-disability. As Rick Hodges writes:
+disabilities, being more recently concerned with racial and sexual issues,
+they still devote some attention to "ableism," by which they seem to mean the
+suggestion that people with some handicap have a handicap.
+As Rick Hodges writes:
 
 "In 1910, the Association of Medical Officers of American Institutions for
 Idiotic and Feeble-Minded Persons adopted three classifications of people we
@@ -166,7 +176,7 @@ Too many people feel the intellect they have been gifted with is somehow their o
 accomplishment, and thus feel entitled to those who have not been equally
 gifted. Tellingly, Hodges himself does not recommend this change of heart, but
 instead recommends a *new* form of word magic: simply asserting that a
-disability is not really a disability; just assert, he says, that there is
+disability is not really a disability; just insist, he says, that there is
 "nothing wrong" with being mentally retarded. This "solution" is just as nonsensical
 as trying to jump off the "euphemism treadmill" by continually changing words:
 of course, there is *something* wrong with someone who has an "intellectual
@@ -179,7 +189,8 @@ fully worthy of our love whatever disability they suffer from. Furthermore,
 there is "something wrong" with all of us, which should make us pause if we
 contemplate mocking or taking advantage of what is wrong with someone else.
 
-The attempt to address social ills by word magic is apparent in the shifting
+The attempt to address social ills by word magic is also
+apparent in the shifting
 terms by which it is considered acceptable to refer to people of sub-Saharan
 African descent. "Negro" was once fine, but was replaced by "colored," as in
 the "National Association for the Advancement of Colored People." But then
@@ -194,7 +205,8 @@ me, "Aren't most of the people in Ghana African-American?"
 "No," I told him, "most of them are African-African."
 
 And the use of the new term certainly did not stop people from
-stereotyping. Once, my next-door-neighbor (herself a "minority" in at least two
+stereotyping. Once, my next-door-neighbor (herself a "favored
+minority" in at least two
 senses!) called me up while I was at work, and
 told me, "A truck pulled up in your driveway... and a bunch of
 *African-Americans* got out of it... I'm worried you're being robbed."
@@ -221,26 +233,28 @@ dogs can hear, but humans cannot. By analogy, a racist dog whistle is some
 "coded" phrase by which racists can identify as such to other racists, but that
 non-racists will mistake for some innocent language. (For example, just the
 other day I heard a wokester claim that the phrase "civilized society" is a dog
-whistle.) It is a sort of "secret Masonic handshake," but for racists.
+whistle, as though traditional Asian, African, and American Indian societies
+had no standards of civility!)
+It is a sort of "secret Masonic handshake," but for racists.
 
 The difficulty here arises from the fact that anti-racists continually claim to
 be able to "hear" these dog whistles, quite distinctly. But if they are
 designed to be recognizable only by racists... then wouldn't the woke who hear
 them have to be racist themselves? "No," they respond, "we have just studied
-these racists and broken their code." Then in that case, wouldn't the racists
+these racists and broken their code." But in that case, wouldn't the racists
 pick a new code, one that hasn't been broken? When the Allies broke a German
 code in WWII, they were very careful to hide the fact, so that the Germans
 would keep using the (now useless) code. But the woke declare publicly, every
-hour of every day, on Twitter, on Facebook, and in [WOKE PUB HERE] that they
-have broken the racists' code. Are we supposed to imagine that the racists are
+hour of every day, on Twitter, on Facebook, and in woke journals, that they
+can decipher the racists' code. Are we supposed to imagine that the racists are
 clever enough to disguise their racism in seemingly innoccuous phrases like
-"civilized society," and yet too stupid to change their code once it was so
-thoroughly and publicly exposed? And if someone is tempted to respond, "Well,
-of course, racists are stupid!", they might contemplate the fact that pretty
-much no one ever has been as racist as the Nazis running Germany during World
-War II, and yet those racists were diabolically clever at fighting a war,
-and the Allied codebreakers went to great lengths to *hide* the fact they had
-broken Nazi codes.
+"civilized society," and yet too stupid to change their code once it has been
+so thoroughly and publicly exposed? And if someone is tempted to respond,
+"Well, of course, racists are stupid!", they might contemplate the fact that
+pretty much no one ever has been as racist as the Nazis running Germany during
+World War II, and yet those racists were diabolically clever at fighting a war,
+and the Allied codebreakers, as noted, went to great lengths to *hide* the fact
+they had broken Nazi codes.
 
 No, no explanation for this conundrum is forthcoming. And that is because this
 is not a serious theory about secret communication channels, but a use of word
@@ -251,10 +265,13 @@ Word magic is also rampant in "gender" discussions. In fact, the very shift
 from talking about a person's "sex" to talking about a person's "gender" was
 itself an instance of word magic, as though discussing the biological reality
 of sexual dimorphism as if it were an arbitrary category like gender in a
-language could transform biological reality into social convention.
+language could transform biological reality into social convention. (Consider
+that the Tuyuca people, living in the Amazon, have over 50 noun genders in
+their language: does anyone really think that this means that they recognize
+over 50 sorts of "sexes" of people?)
 
-
-People are "assigned" a gender at birth. They "really" are whatever gender they
+According to woke gender theory, people are "assigned"
+a gender at birth. They "really" are whatever gender they
 choose to adopt. (Notice the belief in *Zauberworte* implicit in this position:
 it doesn't matter if you have a penis, testicles, and lots of testosterone
 coursing through your body: just so long as others refer to you as "she," you
