@@ -259,7 +259,9 @@ they had broken Nazi codes.
 No, no explanation for this conundrum is forthcoming. And that is because this
 is not a serious theory about secret communication channels, but a use of word
 magic to "curse" those whose views the woke disagree with by attaching the
-stigma of racism to them.
+stigma of racism to them: just call anything someone says, that you don't like,
+a "racist dog whistle," and there you have it: no need to even address whatever
+that person actually contended.
 
 Word magic is also rampant in "gender" discussions. In fact, the very shift
 from talking about a person's "sex" to talking about a person's "gender" was
@@ -276,15 +278,20 @@ choose to adopt. (Notice the belief in *Zauberworte* implicit in this position:
 it doesn't matter if you have a penis, testicles, and lots of testosterone
 coursing through your body: just so long as others refer to you as "she," you
 *really are* a woman. (And further, if they refer to you as "ze" or "they" or
-"flaubergaustemis", then you *really are* some imaginary alternative sex.
+"flaubergaustemis", then you *really are* some imaginary alternative sex.)
 
+A quite recent instance of *Zauberworte* is the repeated declaration, no matter
+how much violence actually is involved, that BLM and antifa activities are
+always "peaceful protests." As Daniel McCarthy noted:
 
-"Peaceful protests"
+"‘Protesters in California set fire to a courthouse, damaged a police station
+and assaulted officers after a peaceful demonstration intensified,’ ABC News
+recently tweeted. The wording was perfect — better than any satire as an
+illustration of the corporate media’s biases."
+(https://spectator.us/mock-revolution-elites-protests-amazon/)
 
-Dan's example!
-
-https://spectator.us/mock-revolution-elites-protests-amazon/
-
+In this instance of *Zauberworte*, arson, vandalism, and assaults are merely an
+"intensification" of peace.
 No matter how much violence is occurring, so long as we *call* what is going on
 "peaceful protests", they actually will be, magically, made peaceful. In the
 meantime, a white person sitting quietly by himself, eating his lunch, is
@@ -350,6 +357,21 @@ affirmative-action admission to universities, arguing that they do not really
 help black students, their argument need not even be entertained: that person
 is a racist, guilty of "color blindness," and their case can be dismissed as
 such.
+
+In the face of such widespread sorcery, how can one resist its lure?
+Well, recall that Faust makes his bargain with the devil in exchange for
+unlimited wordly power and pleasure. So the armor that shields one against such
+seduction is to adhere to the eternal moral verities, expoused by all the
+world's great religions, and never abandon them for the sake of personal
+advantage.
+
+But, of course, easier said than done!
+
+
+
+****************************
+
+Miscellaneous notes:
 
 Color-blind auditions for orchestras.
 
