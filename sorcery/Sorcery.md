@@ -2,13 +2,6 @@
 
 Gene Callahan
 
-"Midnight on a carousel ride  
-Reaching for that gold ring  
-Down inside  
-Never could reach it  
-Just slips away  
-When I try"  
-
 It may seem bizarre to analyze any current world events as involving sorcery:
 surely, sorcery is something that was never real, and attempts at sorcery
 disappeared hundreds of years ago.
@@ -35,8 +28,8 @@ was provided to me by Carlos Castañeda, in his discussion of "the second ring
 of power," in books that quite explicitly were about sorcery. I have no idea if
 Castañeda had ever read Voegelin, but it is interesting that Voegelin posited
 that sorcery was an attempt to create a "second reality." (Some readers may be
-inclined to think that, in using Castañeda to debunk Hubbard, I was using one
-nutjob to refute another, but so be it: I am just reporting what really
+inclined to think that, in using Castañeda to understand Hubbard, I was using one
+nutjob to break free from another, but so be it: I am just reporting what really
 happened.)
  
 But what is this "second ring of power," or "second reality"? It is a reality
@@ -48,15 +41,14 @@ make living in it it seem preferable to living in primary reality?
 
 The first thing a sorcerer must do is seduce his acolytes into the secondary
 reality by offering some genuine insights about the nature of primary reality.
-So, for instance, Hegel, a brilliant student of the history of philosophy,
+So, for instance, Hegel, a brilliant scholar of the history of philosophy,
 could offer his readers novel perspectives on the development of the subject.
 Marx, who was a keen observer of the social scene around him, could provide
 genuine insights into mid-19th-century European social relations. Hubbard, who
 had studied Buddhism, psychoanalysis, and cybernetics, could offer potential
 acolytes an interesting perspective on their psychological difficulties with
 what he called "Dianetics." The genuine improvements
-many people made with Dianetic
-processing lured them into Scientology. Ayn
+many people made with Dianetic processing lured them into Scientology. Ayn
 Rand, another modern sorcerer, had absorbed much of Aristotle, and had personal
 experience with collectivist tyranny in the USSR, and thus could offer real
 insights into collectivist madness.
@@ -74,7 +66,7 @@ politics" (OH, p. 225).
 
 Thus, ideologies gain their plausibility because they have genuinely pointed at
 something that is really a problem, say "racism" or "capitalist exploitation."
-But typically they try to treat this *one* problem as if it were the generator
+But typically they try to treat this *one* problem as if it were the source
 of *all* problems.
 
 The truths offered by a sorcerer, however, only serve as lures, inviting
@@ -92,7 +84,7 @@ and thought would coincide" (OH, 235).
 Similarly, the most diehard Marxists are assured that they are "the vanguard of
 the proletariat." The devotees of Hubbard were promised that they could become
 "operating thetans," acquiring capabilities not available to
-non-Scientologists.  And a Randian hero could live a life of freedom in "Galt's
+non-Scientologists.  And a Randian hero might live a life of freedom in "Galt's
 Gulch."
 
 But these are promises about the future: the sorcerer's apprentice also gets a
@@ -102,13 +94,11 @@ Marxist can "see" that class struggle is what *really* drives human affairs.
 The Randian acolyte now perceives the pernicious influence of "moochers"
 everywhere. As a new Scientologist, I was informed that I possessed superior
 knowledge of where people were on the "tone scale,"
-and I would be able to spot "supressive
-personalities." And, to jump ahead a little,
-the imbiber of critical race theory is enlightened to the
-"fact" that "white supremacy" is the key to understanding all things American.
-For someone floundering in the troubled waters of a society in flux, this
-assurance of special insight into reality is a tremendous boost to one's
-self-image.
+and I would be able to spot "supressive personalities." And, to jump ahead a
+little, the imbiber of critical race theory is enlightened to the "fact" that
+"white supremacy" is the key to understanding all things American.  For someone
+floundering in the troubled waters of a society in flux, this assurance of
+special insight into reality is a tremendous boost to one's self-image.
 
 To ensure the reader does not dismiss this analysis of sorcery as some sort of
 "right-wing" tactic to smear leftists -- although Rand was hardly on the left!
@@ -116,7 +106,7 @@ To ensure the reader does not dismiss this analysis of sorcery as some sort of
 what is often called "neoconservatism." The
 secondary reality neoconservatives have attempted to create is one in which all
 actions by the United States are, by definition, virtuous, and all people,
-around the world, have as their deepest aspiration to become American.
+all around the world, have as their deepest aspiration to become American.
 
 Ron Suskind reported on a conversation with a (neoconservative)
 Bush administration official as follows:
@@ -133,24 +123,24 @@ actors...and you, all of you, will be left to just study what we do.'"
 It is stunning how explicit this official was about ignoring the primary
 reality of experience and creating "our own reality." If one were to write a
 fictional character intended to exemplify Voegelin's concept of sorcery, and
-put thos words in his mouth, a critic would probably call it too blatant.
+put those words in his mouth, a critic would probably call it too hamhanded
+a caricature of the ideologue.
 
 The promise of being able to create one's own reality is
 very seductive: As Voegelin noted, "Once you have
 entered into the magic circle the sorcerer has drawn around himself, you are
 lost" (OH, 228).
 
-Having examined the general nature of sorcery, and of the *Zauberworte*, 
-the magic words
-sorcerers use to cast their spell, we can proceed to look at the specific 
-case of "woke sorcery."
+Having examined the general nature of sorcery, and of the *Zauberworte*, the
+magic words sorcerers use to cast their spell, we can proceed to look at the
+specific case of "woke sorcery."
 
 We can begin with an old example.
 Although the "woke" have not recently paid much attention to mental
 disabilities, being more recently concerned with racial and sexual issues,
 they still devote some attention to "ableism," by which they seem to mean the
 suggestion that people with some handicap have a handicap.
-As Rick Hodges writes:
+On the particular topic of mental handicaps, Rick Hodges writes:
 
 "In 1910, the Association of Medical Officers of American Institutions for
 Idiotic and Feeble-Minded Persons adopted three classifications of people we
@@ -165,7 +155,7 @@ gradually came to be insults. So they were replaced with "mentally retarded" --
 until "retarded" also became an insult. So "intellectually disabled" was in,
 and "retarded" came to be regarded as "hate speech."
 
-In primary reality, what is at issue is that those
+In primary reality, what is genuinely important is that those
 of us with normal mental capacities should
 exercise kindness and compassion towards those who are not so blessed, and
 realize that it is no accomplishment of our own, for instance, not to be born
@@ -178,7 +168,7 @@ gifted. Tellingly, Hodges himself does not recommend this change of heart, but
 instead recommends a *new* form of word magic: simply asserting that a
 disability is not really a disability; just insist, he says, that there is
 "nothing wrong" with being mentally retarded. This "solution" is just as nonsensical
-as trying to jump off the "euphemism treadmill" by continually changing words:
+as is the "euphemism treadmill" of continually changing words:
 of course, there is *something* wrong with someone who has an "intellectual
 disability": they have more than ordinary trouble learning new things, just as
 there is something wrong with someone who is blind: they can't see.
@@ -189,27 +179,24 @@ fully worthy of our love whatever disability they suffer from. Furthermore,
 there is "something wrong" with all of us, which should make us pause if we
 contemplate mocking or taking advantage of what is wrong with someone else.
 
-The attempt to address social ills by word magic is also
-apparent in the shifting
-terms by which it is considered acceptable to refer to people of sub-Saharan
-African descent. "Negro" was once fine, but was replaced by "colored," as in
-the "National Association for the Advancement of Colored People." But then
-"colored" was denigrated, and "black" became correct. Then "black" was out, and
-"African-American" was de rigueur.
+The attempt to address social ills by word magic is also apparent in the
+shifting terms by which it is considered acceptable to refer to people of
+sub-Saharan African descent. "Negro" was once fine, but was replaced by
+"colored," as in the "National Association for the Advancement of Colored
+People." But then "colored" was denigrated, and "black" became correct. Then
+"black" was out, and "African-American" was de rigueur.
 
-The last term was so strongly promoted
-at one time, especially in our schools,
-that my then young son, knowing that I had studied Ghanian music, asked 
-me, "Aren't most of the people in Ghana African-American?"
+The last term was so strongly promoted at one time, especially in our schools,
+that my then young son, knowing that I had studied Ghanian music, asked me,
+"Aren't most of the people in Ghana African-American?"
 
 "No," I told him, "most of them are African-African."
 
-And the use of the new term certainly did not stop people from
-stereotyping. Once, my next-door-neighbor (herself a "favored
-minority" in at least two
-senses!) called me up while I was at work, and
-told me, "A truck pulled up in your driveway... and a bunch of
-*African-Americans* got out of it... I'm worried you're being robbed."
+And the use of the new term certainly did not stop people from stereotyping.
+Once, my next-door-neighbor (herself a "favored minority" in at least two
+senses!) called me up while I was at work, and told me, "A truck pulled up in
+your driveway... and a bunch of *African-Americans* got out of it... I'm
+worried you're being robbed."
 
 In fact, this was a tree-cutting crew I had hired. But notice how my neighbor,
 in her racial stereotyping, was careful to use the then politically correct
@@ -235,14 +222,14 @@ non-racists will mistake for some innocent language. (For example, just the
 other day I heard a wokester claim that the phrase "civilized society" is a dog
 whistle, as though traditional Asian, African, and American Indian societies
 had no standards of civility!)
-It is a sort of "secret Masonic handshake," but for racists.
+A dog whistle is a sort of "secret Masonic handshake," but for racists.
 
 The difficulty here arises from the fact that anti-racists continually claim to
 be able to "hear" these dog whistles, quite distinctly. But if they are
 designed to be recognizable only by racists... then wouldn't the woke who hear
 them have to be racist themselves? "No," they respond, "we have just studied
 these racists and broken their code." But in that case, wouldn't the racists
-pick a new code, one that hasn't been broken? When the Allies broke a German
+pick a *new* code, one that hasn't been broken? When the Allies broke a German
 code in WWII, they were very careful to hide the fact, so that the Germans
 would keep using the (now useless) code. But the woke declare publicly, every
 hour of every day, on Twitter, on Facebook, and in woke journals, that they
@@ -256,21 +243,21 @@ World War II, and yet those racists were diabolically clever at fighting a war,
 and the Allied codebreakers, as noted, went to great lengths to *hide* the fact
 they had broken Nazi codes.
 
-No, no explanation for this conundrum is forthcoming. And that is because this
-is not a serious theory about secret communication channels, but a use of word
-magic to "curse" those whose views the woke disagree with by attaching the
-stigma of racism to them: just call anything someone says, that you don't like,
-a "racist dog whistle," and there you have it: no need to even address whatever
-that person actually contended.
+No, no serious explanation for this conundrum is forthcoming. And that is
+because this is not a serious theory about secret communication channels, but a
+use of word magic to "curse" those whose views the woke disagree with by
+attaching the stigma of racism to them: just call anything someone says, that
+you don't like, a "racist dog whistle," and there you have it: no need to even
+address whatever that person actually said.
 
 Word magic is also rampant in "gender" discussions. In fact, the very shift
 from talking about a person's "sex" to talking about a person's "gender" was
-itself an instance of word magic, as though discussing the biological reality
+itself an instance of word magic: the hope that renaming the biological reality
 of sexual dimorphism as if it were an arbitrary category like gender in a
-language could transform biological reality into social convention. (Consider
+language might transform biological reality into social convention. (Consider
 that the Tuyuca people, living in the Amazon, have over 50 noun genders in
 their language: does anyone really think that this means that they recognize
-over 50 sorts of "sexes" of people?)
+over 50 sorts of "genders" of people?)
 
 According to woke gender theory, people are "assigned"
 a gender at birth. They "really" are whatever gender they
@@ -298,7 +285,6 @@ meantime, a white person sitting quietly by himself, eating his lunch, is
 actually engaged in *violence*, since he is not helping the peaceful protesters
 loot stores and burn cars.
 
-
 Perhaps one of the most stunning feats of *Zauberworte* performed by the woke
 has been the re-definition of "racism" itself. The "old" definition is stated
 succinctly at the beginning of the Wikipedia article on racism:
@@ -307,7 +293,9 @@ succinctly at the beginning of the Wikipedia article on racism:
 corresponding to physical appearance and can be divided based on the
 superiority of one race over another." (https://en.wikipedia.org/wiki/Racism)
 This definition captures what people usually mean when they say, "So-and-so is
-a racist," and also fits well with historical examples of racism, such as the
+a racist": that person thinks, for instance, that white people are superior to
+black people.
+It also fits well with historical examples of racism, such as the
 ideas that supported black slavery in the United States or the persecution of
 Jews in Nazi Germany. Quite clearly, it is not a definition designed to "support
 white supremacy" or in any way "let white people off the hook": many of the
@@ -339,8 +327,6 @@ change in attitudes, and, at the same time, excuses attitudes on the part of
 non-whites that obviously would fall under the common-sense notion of what
 racism is about.
 
-
-
 The ideal of earlier opponents of racism, such as Dr. Martin Luther King, 
 that "I look to a day when people will not be judged by the color of their
 skin, but by the content of their character," has now been re-defined as being
@@ -363,78 +349,25 @@ Well, recall that Faust makes his bargain with the devil in exchange for
 unlimited wordly power and pleasure. So the armor that shields one against such
 seduction is to adhere to the eternal moral verities, expoused by all the
 world's great religions, and never abandon them for the sake of personal
-advantage.
+advantage. But, of course, easier said than done!
 
-But, of course, easier said than done!
+Of course it would be wonderful if we could really eliminate all genuine
+racism from the world. And furthermore, although such aspirations cannot be
+achieved except in the city of God, we should not stop working towards such a
+goal. (Similarly, while we cannot realistically hope to eliminate murder from
+the world, we should never stop trying to eliminate as much murder as
+possible.)
 
-
-
-****************************
-
-Miscellaneous notes:
-
-Color-blind auditions for orchestras.
-
-
-Man sits on a moving swing, rising at one moment so high that he feels he can
-nearly touch heaven, dipping so low at the next that he Is singed by the flames
-of hell. This is what Plato referred to as the metaxy, the "in-between" of
-human existence. How great is the temptation, at the top of the arc, to try to
-seize hold of that paradise so near.
-
-"Truth is only intrasystemic... first you must accept the premises, then discuss
-its content." — V. Pg 236 Drama
-
-If you do not accept the premises of critical race theory, that cannot be
-discussed: you are simply branded a racist, and dismissed.
-
-"to believe on insufficient evidence is a decision, it’s an immoral act to
-believe with insufficient evidence." V. 237
-
-"Once this Mode of being has been realized, it is as difficult to get out of
-it as it is to wake oneself up" V. quoting Sartre 238
-
-
-Whether Race has any biological reality is irrelevant to ethical and political
-questions, where the relevant question is "does it have any moral meaning?" but
-while dismissing Race as a biological characteristic, it is the critical race
-theory us who answer the latter question with a resounding "yes," in all of
-their condemnation of "whiteness."
-
-"The fanaticism of smashing all establish social order, of removing all
-individual suspect of harboring order in their existence, and of annihilating
-every attempt at re-organization. Only by destroying something has this
-negative well the feeling of its own existence. Even if he believes to Willa
-positive state, as friends since the state of general quality... It does in fact
-not want its realization for that would reestablish the very order... From whose
-annihilation this negative freedom drives it self-consciousness" — Voegelin
-quoting Hegel, p. 158 vol. 12
-
-
-How to differentiate a religious leader from a cult leader: a religious leader
-tries to point followers to a greater reality which he admits he only partially
-comprehends. A cult leader tries to entrap followers in an epistemic closure in
-which he knows everything.
-
-
-"Political correctness is communist propaganda writ small... the purpose is not
-to persuade or convince, not to inform, but to humiliate; and therefore, the
-less it corresponds to reality the better."
-— Theodore Dalrymple
-
-The charge of "whataboutism" is *not* a way of replying to a critic. It is a way of *ignoring* the critic. Look:
-
-MARXIST: The capitalists exploited the workers.
-
-CRITIC: OK, but what about the fact that the USSR threw millions of workers into Gulags?
-
-MARXIST: Ah! Whataboutism!!!
-
-
-**Bodies**
-
-Gnostic?
-
+But engaging in the childish word games of the sorcerers does nothing to help
+those most in need of our help. For instance, the plight of black Americans
+trapped in inner-city housing projects should be a matter of grave concern for
+all Americans. But changing what we call black Americans from "Negro" to
+"colored" to "black" to "African-American" to "Black" has done exactly nothing
+to help such people, and the actual programs pushed by "anti-racists" have
+mostly just helped middle-class blacks to get somewhat more promotions than
+they would have otherwise. A real solution to the terrible cirumstances of such
+people will require fundamental re-evaluation of our social policies, and not
+more word magic.
 
 ## References
 
