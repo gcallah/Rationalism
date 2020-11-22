@@ -78,7 +78,7 @@ humanity who have not done so. For example, followers of Hegel are told that
 they are at the forefront of the historical development of *geist*, or the
 "world spirit." Discussing Hegel, Voegelin observes: "Hegel's obsession was
 power. If he wanted to be the sorcerer who could evoke the shape of history, he
-had to penetrate the political events of the time with though until the events
+had to penetrate the political events of the time with thought until the events
 and thought would coincide" (OH, 235).
 
 Similarly, the most diehard Marxists are assured that they are "the vanguard of
@@ -123,7 +123,7 @@ actors...and you, all of you, will be left to just study what we do.'"
 It is stunning how explicit this official was about ignoring the primary
 reality of experience and creating "our own reality." If one were to write a
 fictional character intended to exemplify Voegelin's concept of sorcery, and
-put those words in his mouth, a critic would probably call it too hamhanded
+put those words in his mouth, a critic would probably call it too hamhanded,
 a caricature of the ideologue.
 
 The promise of being able to create one's own reality is
@@ -179,10 +179,12 @@ fully worthy of our love whatever disability they suffer from. Furthermore,
 there is "something wrong" with all of us, which should make us pause if we
 contemplate mocking or taking advantage of what is wrong with someone else.
 
-The attempt to address social ills by word magic is also apparent in the
-shifting terms by which it is considered acceptable to refer to people of
-sub-Saharan African descent. "Negro" was once fine, but was replaced by
-"colored," as in the "National Association for the Advancement of Colored
+A similar migration of terms has gone on in regards to the... well, they were
+once "hobos" or "vagrants," then they became "the homeless," and now they are
+"the unhoused." The attempt to address social ills by word magic is also
+apparent in the shifting terms by which it is considered acceptable to refer to
+people of sub-Saharan African descent. "Negro" was once fine, but was replaced
+by "colored," as in the "National Association for the Advancement of Colored
 People." But then "colored" was denigrated, and "black" became correct. Then
 "black" was out, and "African-American" was de rigueur.
 
