@@ -1,5 +1,7 @@
 # The Scapegoat
 
+The "mimetic" theory of Rene Girard, I suggest, offers us our best way to
+understand the extraordinary events of recent American politics.
 
 ## Mimetic Desire and Mimetic Rivalry
 
@@ -17,6 +19,11 @@ exorcising him.
 
 
 ## "Degree" as the Means of Blocking the Violence of Internal Mediation
+
+One of the key features of the Trump presidency was the erosion of "degree" due
+to Trump's constant tweeting, and his continual refusal to "act presidential."
+
+The new capitol fencing as an attempt to re-establish degree.
 
 
 
