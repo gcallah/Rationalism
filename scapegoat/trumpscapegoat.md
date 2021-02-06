@@ -26,6 +26,45 @@ to Trump's constant tweeting, and his continual refusal to "act presidential."
 The new capitol fencing as an attempt to re-establish degree.
 
 
+## The Crisis of Degree
+
+Troilus and Cressida:
+
+O, when degree is shaked,  
+Which is the ladder to all high designs,  
+Then enterprise is sick! How could communities,  
+Degrees in schools and brotherhoods in cities,  
+Peaceful commerce from dividable shores,  
+The primogenitive and due of birth,  
+Prerogative of age, crowns, sceptres, laurels,  
+But by degree, stand in authentic place?  
+Take but degree away, untune that string,  
+And, hark, what discord follows! each thing meets  
+In mere oppugnancy: the bounded waters  
+Should lift their bosoms higher than the shores  
+And make a sop of all this solid globe:  
+Strength should be lord of imbecility,  
+And the rude son should strike his father dead:  
+Force should be right; or rather, right and wrong,  
+Between whose endless jar justice resides,  
+Should lose their names, and so should justice too.  
+Then every thing includes itself in power,  
+Power into will, will into appetite;  
+And appetite, an universal wolf,  
+So doubly seconded with will and power,  
+Must make perforce an universal prey,  
+And last eat up himself. Great Agamemnon,  
+This chaos, when degree is suffocate,  
+Follows the choking.  
+And this neglection of degree it is  
+That by a pace goes backward, with a purpose  
+It hath to climb. The general's disdain'd  
+By him one step below, he by the next,  
+That next by him beneath; so every step,  
+Exampled by the first pace that is sick  
+Of his superior, grows to an envious fever  
+Of pale and bloodless emulation:  
+
 
 https://voegelinview.com/living-out-the-bacchae-america-burns/?fbclid=IwAR3aE6Wo-duPpJ2O_PpEJWGMDzraK8K3sB00uD8Tmr664KPtAkThTLKJJhk
 
