@@ -66,6 +66,26 @@ Of his superior, grows to an envious fever
 Of pale and bloodless emulation:  
 
 
+Egalitarians are absolutely correct in noting that most differences of degree
+(social status) 
+are arbitrary and not perfectly just.
+
+But they are wrong in contending that, therefore, they can be abolished. In the
+City of Man, rife with mimetic rivalry, differences of degree, however
+arbitrary they may be, are necessary in order to prevent external mimetic
+rivalry from turning into violent, internal medic rivalry. It is only in the
+City of God, where mimetic rivalry has been set aside, that differences of
+degree can actually be abolished. In the City of Man, purportedly egalitarian
+schemes, in fact, only result in replacement of one elite buy another one. The
+destruction of the Russian elite of nobility and church hierarchy by the
+Bolsheviks did not, in fact, create an egalitarian society: it only created a
+new, bolshevik elite.
+
+
+
+
+
+
 https://voegelinview.com/living-out-the-bacchae-america-burns/?fbclid=IwAR3aE6Wo-duPpJ2O_PpEJWGMDzraK8K3sB00uD8Tmr664KPtAkThTLKJJhk
 
 Andrew Sullivan in tears after the inauguration. A woman responding to him felt like she had just had an orgasm.
