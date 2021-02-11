@@ -52,7 +52,7 @@ often guilty of scapegoating himself. For instance, while
 illegal immigration is certainly a problem America has to address, Trump
 sometimes seemed to imply that illegal immigrants were about the *only*
 problem America has to address, as, for example, in his infamous
-"they are rapists" speech. Certainly, some illegal immigrants have turned out
+"they are rapists" speech. Certainly, while some illegal immigrants have turned out
 to be violent criminals, and it would certainly be a good idea if we could
 filter out such violent criminals at the border, Trump's (apparent) suggestion
 that those illegal immigrants are the *main* problem facing American society
