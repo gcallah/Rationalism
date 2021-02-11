@@ -46,6 +46,19 @@ exorcising him. And modern history offers plenty of examples of such
 scapegoating: Hitler scapegoating the Jews, Pol Pot the intellectuals, or Mao 
 the traditionalists.
 
+While this essay suggests that the current anti-Trump hysteria is an instance
+of scapegoating, this does *not* mean that Trump is a pure innocent: he was
+often guilty of scapegoating himself. For instance, while
+illegal immigration is certainly a problem America has to address, Trump
+sometimes seemed to imply that illegal immigrants were about the *only*
+problem America has to address, as, for example, in his infamous
+"they are rapists" speech. Certainly, some illegal immigrants have turned out
+to be violent criminals, and it would certainly be a good idea if we could
+filter out such violent criminals at the border, Trump's (apparent) suggestion
+that those illegal immigrants are the *main* problem facing American society
+was absurd: we Americans commit far more violence against each other than
+illegal immigrants commit against legal residents.
+
 ## External Mediation vs. Internal Mediation
 
 Another important Girardian concept we ought to understand is the difference
@@ -202,12 +215,6 @@ and more victims for flimsier and flimsier reasons...
 vast ‘conspiracies’ they can only do one thing: go to war with each other.” —
 Sh. 195
 
-
-Trump’s own behavior contributed to the mimetic escalation in several ways. For
-one thing, he was not adverse to scapegoating himself. For instance, well
-illegal immigration is certainly a problem America has to address, Trump
-sometimes seem to imply that illegal immigrants were about the only problem
-America had to address.
 
 “Such a crisis can only be regarded as the responsibility of all citizens… In
 no case can this crisis be the responsibility of a single individual, however
