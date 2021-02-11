@@ -1,29 +1,78 @@
 # The Scapegoat
 
 The "mimetic" theory of Rene Girard, I suggest, offers us our best way to
-understand the extraordinary events of recent American politics.
+understand the extraordinary events of recent American politics. In order to
+see why, it will be useful to present a brief glossary of some Girardian terms.
 
 ## Mimetic Desire and Mimetic Rivalry
 
+Girard demonstrated that most human desire is not innate or self-chosen, but
+results from imitating what others desire. Girard called this "mimetic desire."
+(Of course, this all had to arise from more basic desires, such as for food and
+sex, that were not mimetic.) Mimetic desire places human beings in fundamental
+conflict with each other: if my desire for that house on the hill is an
+emulation of your desire for that same house... well, we both can't own it, can
+we? Girard notes that this is why the Ten Commandments place such an emphasis
+on "not coveting your neighbor's X": that coveting is the basis of all social
+conflict. Adam and Eve covet God's knowledge of good and evil, and we have the
+Fall. Cain covets God's approval of Abel, and we have the first
+fratricide.
 
 ## The Scapegoat as the "Solution" to Mimetic Rivalry
 
+When mimetic rivalry threatens to tear a society apart, there is a solution,
+short of abandoning rivalrous mimetic desire: the society can identify a
+scapegoat, a figure upon whom all of the chaos swirling through the social
+order can be blamed, and can sacrifice that scapegoat, restoring order (for a
+time). The sacrifice can be a literal killing (as with Socrates, or Jesus), or
+it can be merely the destruction of the scapegoat's life, as in contemporary
+"cancel culture." The rest of the society, having united in the destruction of
+the scapegoat, experiences a great catharsis, and social peace is temporarily
+restored. Girard offers the "miracle of Apollonius" as a paradigmatic example
+of this process: a plague (both physical and social) has descended upon the
+city of Ephesus, and they ask the Neopythagorean philosopher Apollonius for
+aid. Apollonius points out a beggar, dressed in rags, to the people of the
+city, and directs them to stone him, as he is actually a demon in disguise. The
+people are at first reluctant, but once one of them "casts the first stone,"
+they are overcome with "mimetic contagion" and
+enthusiastically stone the beggar, after which the city recovers from its
+plague.
 
 The scapegoat need not be innocent of all wrongdoing. In fact given the fallen
 nature of the world, there was only ever a single scapegoat who was innocent of
 all wrongdoing. It is not innocence that characterizes the scapegoat, but the
-fact that he is held to be guilty of causing all the problems of the community
-exorcising him.
+fact that he is held to be guilty of causing *all* the problems of the community
+exorcising him. And modern history offers plenty of examples of such
+scapegoating: Hitler scapegoating the Jews, Pol Pot the intellectuals, or Mao 
+the traditionalists.
 
 ## External Mediation vs. Internal Mediation
 
+Another important Girardian concept we ought to understand is the difference
+between "external mediation" and "internal mediation." The figure whom we
+imitate to mold our desires (the mediator of our desires)
+can appear more or less remote from us. If, for
+instance, we live in an aristocratic society, and are members of the
+bourgeoisie, we might adopt our modes of dress, our ideas of "fine cuisine," of
+"high art," and grand housing from the nobility: but, in general, we can't hope
+to *become* a noble: in that case, Girard calls the nobility "external
+mediators" for the bourgeoisie. A similar case might be the attitude of the
+average American male in the 1950s towards John Wayne or Cary Grant: he might
+choose one of these figures as his model, but he never seriously imagined he
+was *in competition* with Wayne or Grant: for instance, he might try to dress
+or act like Wayne or Grant, but he would never imagine that he could seduce
+their wives or own one of their houses.
+
+Mediation becomes "internal" when the "mediator," the source of one's desires,
+is not seen as separated from oneself by any unbridgeable gulf. So, as in the
+many mythical and historical examples of rival brothers, what one brother has
+the other brother can easily conceive of himself as having: and so Jacob tricks
+his father into granting him Esau's birthright, or, in the multitude of royal
+murders throughout history, a close heir to a throne murders a closer heir to
+that throne in order to grab it for him-or-her-self.
 
 ## "Degree" as the Means of Blocking the Violence of Internal Mediation
 
-One of the key features of the Trump presidency was the erosion of "degree" due
-to Trump's constant tweeting, and his continual refusal to "act presidential."
-
-The new capitol fencing as an attempt to re-establish degree.
 
 
 ## The Crisis of Degree
@@ -66,20 +115,63 @@ Of his superior, grows to an envious fever
 Of pale and bloodless emulation:  
 
 
-Egalitarians are absolutely correct in noting that most differences of degree
-(social status) 
-are arbitrary and not perfectly just.
+In many ways the previous impeached president, Bill Clinton, was the direct
+ancestor of the more recent impeached president. With Clinton we saw "the
+dignity of the office" of president undergo serious erosion, with media
+discussions of the president's underwear and oral sex with an intern in the
+Oval Office. Although the sides were reversed, the reactions were similar to
+those produced by Trump: those on the President's side felt he was a "regular
+guy" like them (if male), or someone they might hook up with (if female --
+reporter Nina Burleigh went so far as to publicly declare she would be happy to
+fellate him for keeping abortion legal). Those on the opposite side held him in
+contempt, as he lacked the presidential aura that usually lifted the president
+slightly above such ???.
 
-But they are wrong in contending that, therefore, they can be abolished. In the
-City of Man, rife with mimetic rivalry, differences of degree, however
-arbitrary they may be, are necessary in order to prevent external mimetic
-rivalry from turning into violent, internal medic rivalry. It is only in the
-City of God, where mimetic rivalry has been set aside, that differences of
-degree can actually be abolished. In the City of Man, purportedly egalitarian
+Trump, of course, abolished degree more deliberately and more radically than
+had Clinton. His constant tweeting made him just another voice on Twitter. His
+street-talking belligerence in oral performances led people to see him as
+similar to that loud-mouthed guy in their local bar, whom they either found
+hilarious or wanted to get banned. Whatever one thinks about whether Trump
+*incited* the Capitol Hill riot, he most certainly *inspired* it in this sense:
+while I see little evidence that the invaders of the Capitol seriously thought
+they were going to "seize power," they most certainly wanted to demonstrate that
+they had no *respect* for it, lounging around on the floor of the Senate,
+taking selfies in representatives' chairs, stealing the House speaker's podium,
+and running around shirtless wearing buffalo horns. And those who condemned
+them knew just what was at stake, decrying the violation of the "sacred space"
+of the Senate chambers.
+
+The new capitol fencing as an attempt to re-establish degree.
+
+The kicker is that both sides are (partially) right.
+As St. Augustine taught us, this the way things are in the City of Man:
+it is true that 
+degree is artificial, without any substantive basis... and yet we can't do
+without it. Without degree, mimetic emulation of "one's betters"
+turns into mimetic rivalry among equals, and
+the social order turns violent and chaotic. Without belief in a myth that lets
+those with less know why those with more deserve it... it is because of their
+position in the Great
+Chain of Being, or due to the Divine Right of Kings,
+or because of a unbroken chain of Lockean just acquisition,
+or an expression of the survival of the fittest, or perhaps the fortunate are
+the vanguard of the proletariat... those with less will, with increasing
+violence, demand their share of the pie. Their demands of an element of justice
+in them, but they are hopeless in terms of fixing the problem: in the world of
+mimetic rivalry, no one is ever satisfied with just evening the playing field:
+no, the oppressed will never stop demanding more until they become the
+oppressors in turn.
+In the City of Man, purportedly egalitarian
 schemes, in fact, only result in replacement of one elite buy another one. The
 destruction of the Russian elite of nobility and church hierarchy by the
 Bolsheviks did not, in fact, create an egalitarian society: it only created a
-new, bolshevik elite.
+new, Bolshevik elite. The French Revolution did not replace the (arbitrary)
+rule of the king and nobility with the equality of Man, but with rule 
+of Napoleon.
+
+It is only in the City of God that there is an escape from this dilemma.
+It is only in the City of God, where mimetic rivalry has been set aside, that
+differences of degree can actually be abolished.
 
 
 
