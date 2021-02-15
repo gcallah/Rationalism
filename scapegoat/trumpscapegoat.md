@@ -115,7 +115,17 @@ adopting such a mature attitude towards our dilemma requires acknowledging that
 one's own mimetic desires might themselves be a part of our crisis. That would
 demand perhaps painful self examination. No, for many people, it is much easier
 to suppose that Trump is a particular locus of evil, and that by sacrificing
-him we can again achieve social unity.
+him we can again achieve social unity. In particular, it is worthwhile noting
+that a Trump critic like Jeff Bezos saw his net worth increase by $13 billion
+in a single day last year: how useful to be able to deflect attention from that
+fact by scapegoating Trump.
+
+A further indictation that Trump has served as a scapegoat is the absurd
+reactions to Biden's victory. Whatever one thinks of the relative merits of the
+Trump and Biden canidancies, it ought to be obvious that Biden is no populist
+hero. Yet Andrew Sullivan reported that he was in tears (of happiness) after
+the inaguaration, while a woman posted that she felt she had had an orgasm as a
+result of it. 
 
 https://voegelinview.com/living-out-the-bacchae-america-burns/?fbclid=IwAR3aE6Wo-duPpJ2O_PpEJWGMDzraK8K3sB00uD8Tmr664KPtAkThTLKJJhk
 
