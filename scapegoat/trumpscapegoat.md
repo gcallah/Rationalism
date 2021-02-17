@@ -302,6 +302,8 @@ in this regard, in that they seem to hold the people they wish to rule in
 complete contempt.
 
 
+ohttps://claremontreviewofbooks.com/the-continuing-crisis/
+
 
 
 “it takes less and less time for more and more people to polarize against more
