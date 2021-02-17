@@ -274,6 +274,8 @@ problem: in the world of mimetic rivalry, no one is ever satisfied with just
 evening the playing field: no, the oppressed will never stop demanding more
 until they become the oppressors in turn.
 
+## Conclusion
+
 In the City of Man, purportedly egalitarian
 schemes, in fact, only result in replacement of one elite buy another. The
 destruction of the Russian elite of nobility and church hierarchy by the
@@ -286,7 +288,18 @@ It is only in the City of God that there is an escape from this dilemma.
 It is only in the City of God, where mimetic rivalry has been set aside, that
 differences of degree can actually be abolished.
 
+So political maturity consists in recognizing that, in the City of Man, we will
+always be "stuck" with a hierarchy, a social order of different "degrees," that
+is somewhat arbitrary and somewhat unfair. The wokest of the woke cannot evade
+this fact: instead, what they want is that they are at the top of the
+hierarchy, and that their preferred differtiae are what establishes who is on
+top and who is of lesser rank.
 
+In the City of Man, the best polity we "ordinary folk" can hope for is one in
+which the ruling class at least tries to acknoweldge our issues and concerns.
+And, unfortunately, the rule of the woke elite appears to be particularly awful
+in this regard, in that they seem to hold the people they wish to rule in
+complete contempt.
 
 
 
