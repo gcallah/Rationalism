@@ -95,15 +95,14 @@ extreme catharsis felt by many opponents of Trump when he was defeated.
 
 A typical feature of dictarial or despotic regimes is that they do not allow
 free elections, or protests against their rule. But the very people who
-choprtled, after the 2020 presidential election, that "we have toppled a
+chortled, after the 2020 presidential election, that "we have toppled a
 dictator," simply ignored the facts that they had done so in an *election* that
 the "dictator" had allowed to occur, and that he had allowed protests against
 his "despotism" and very public denunciations of him as an illegitimate
-office-holder to proceed throughout his "despotic" reign.and that he had
-allowed protests against his "despotism" and very public denunciations of him
-as an illegitimate office-holder to proceed throughout his "despotic" reign.
+office-holder to proceed throughout his "despotic" reign.
+
 I myself have numerous complaints about Trump's performance in office, such as
-his awful support for the Saudi's war in Yemen, his *scapegoating* of Iran as a
+his awful support for the Saudi war in Yemen, his *scapegoating* of Iran as a
 particularly awful international actor, his failure to really do anything to
 "drain the swamp," and more. But I found myself perfectly free, all through his
 administration, to voice such criticisms, something I would not have been able
@@ -168,7 +167,7 @@ his father into granting him Esau's birthright, or, in the multitude of royal
 murders throughout history, a close heir to a throne murders a closer heir to
 that throne in order to grab it for him-or-her-self.
 
-What tends to keep mediation external in any society if the idea of "degree," a
+What tends to keep mediation external in any society is the idea of "degree," a
 hierarchy of statuses where those with a lower status look to those of higher
 status as models for their own desires, but do not entertain the idea that they can 
 actually *become* their model. But because in any society these
@@ -188,7 +187,7 @@ it: enlisted men do not try to break into the officer's dining room and have
 their dinner there. But if that respect for difference of degree breaks down at
 the top, then that very mimetic process that usually leads the lower ranks to
 defer to the upper ones instead leads them to mimetically follow their
-"betters" in rebelling against degree. And so,m in the Greek army, Achilles's
+"betters" in rebelling against degree. And so, in the Greek army, Achilles's
 rebellion against Agamemnon's command cascades "downward," as Ulysses tells
 Agamemnon:
 
@@ -254,30 +253,29 @@ they had no *respect* for it, lounging around on the floor of the Senate,
 taking selfies in representatives' chairs, stealing the House speaker's podium,
 and running around shirtless wearing buffalo horns. And those who condemned
 them knew just what was at stake, decrying the violation of the "sacred space"
-of the Senate chambers.
-
-The new capitol fencing as an attempt to re-establish degree.
+of the Senate chambers. And the new Capitol fencing is clearly
+an attempt to re-establish a difference of degree between the plebs and those
+inhabiting the "sacred space" of the capitol buildings.
 
 The kicker is that both sides are (partially) right.
-As St. Augustine taught us, this the way things are in the City of Man:
-it is true that 
-degree is artificial, without any substantive basis... and yet we can't do
-without it. Without degree, mimetic emulation of "one's betters"
-turns into mimetic rivalry among equals, and
-the social order turns violent and chaotic. Without belief in a myth that lets
-those with less know why those with more deserve it... it is because of their
-position in the Great
-Chain of Being, or due to the Divine Right of Kings,
-or because of a unbroken chain of Lockean just acquisition,
-or an expression of the survival of the fittest, or perhaps the fortunate are
-the vanguard of the proletariat... those with less will, with increasing
-violence, demand their share of the pie. Their demands of an element of justice
-in them, but they are hopeless in terms of fixing the problem: in the world of
-mimetic rivalry, no one is ever satisfied with just evening the playing field:
-no, the oppressed will never stop demanding more until they become the
-oppressors in turn.
+As St. Augustine taught us, this is the way things are in the City of Man: it
+is true that degree is artificial, without any substantive basis... and yet we
+can't do without it. (And here is where Strauss dimly perceived the importance
+of the "noble lie.") Without degree, mimetic emulation of "one's betters" turns
+into mimetic rivalry among equals, and the social order turns violent and
+chaotic. Without belief in a myth that lets those with less know why those with
+more deserve it... it is because of their position in the Great Chain of Being,
+or due to the Divine Right of Kings, or because of a unbroken chain of Lockean
+just acquisition, or an expression of the survival of the fittest, or perhaps
+the fortunate are the vanguard of the proletariat... those with less will, with
+increasing violence, demand their share of the pie. Their demands have an
+element of justice in them, but they are hopeless in terms of fixing the
+problem: in the world of mimetic rivalry, no one is ever satisfied with just
+evening the playing field: no, the oppressed will never stop demanding more
+until they become the oppressors in turn.
+
 In the City of Man, purportedly egalitarian
-schemes, in fact, only result in replacement of one elite buy another one. The
+schemes, in fact, only result in replacement of one elite buy another. The
 destruction of the Russian elite of nobility and church hierarchy by the
 Bolsheviks did not, in fact, create an egalitarian society: it only created a
 new, Bolshevik elite. The French Revolution did not replace the (arbitrary)
