@@ -38,7 +38,8 @@ But these can break down, so that mimetic rivalry becomes rampant.
 When this process threatens to tear a society apart, there is a solution,
 short of abandoning rivalrous mimetic desire: the society can identify a
 *scapegoat*, a figure upon whom all of the chaos swirling through the social
-order can be blamed, and can sacrifice that scapegoat, restoring order (for a
+order can be blamed, and society can sacrifice
+that scapegoat, restoring order (for a
 time). The sacrifice can be a literal killing (as with Socrates, or Jesus), or
 it can be merely the destruction of the scapegoat's life, as in contemporary
 "cancel culture." The rest of the society, having united in the destruction of
@@ -103,7 +104,7 @@ office-holder to proceed throughout his "despotic" reign.
 
 I myself have numerous complaints about Trump's performance in office, such as
 his awful support for the Saudi war in Yemen, his *scapegoating* of Iran as a
-particularly awful international actor, his failure to really do anything to
+particularly terrible international actor, his failure to really do anything to
 "drain the swamp," and more. But I found myself perfectly free, all through his
 administration, to voice such criticisms, something I would not have been able
 to do under a "dictator" or "despot." 
@@ -114,33 +115,27 @@ adopting such a mature attitude towards our dilemma requires acknowledging that
 one's own mimetic desires might themselves be a part of our crisis. That would
 demand perhaps painful self examination. No, for many people, it is much easier
 to suppose that Trump is a particular locus of evil, and that by sacrificing
-him we can again achieve social unity. In particular, it is worthwhile noting
+him we can again achieve social unity. For instance, it is worthwhile noting
 that a Trump critic like Jeff Bezos saw his net worth increase by $13 billion
 in a single day last year: how useful to be able to deflect attention from that
 fact by scapegoating Trump.
 
 A further indictation that Trump has served as a scapegoat is the absurd
 reactions to Biden's victory. Whatever one thinks of the relative merits of the
-Trump and Biden canidancies, it ought to be obvious that Biden is no populist
+Trump and Biden candidacies, it ought to be obvious that Biden is no populist
 hero. Yet Andrew Sullivan reported that he was in tears (of happiness) after
-the inaguaration, while a woman posted that she felt she had had an orgasm as a
-result of it. 
+the inaguaration, while a woman posted on Twitter
+that she felt she had had an orgasm as a result of it. 
 
-https://voegelinview.com/living-out-the-bacchae-america-burns/?fbclid=IwAR3aE6Wo-duPpJ2O_PpEJWGMDzraK8K3sB00uD8Tmr664KPtAkThTLKJJhk
-
-Andrew Sullivan in tears after the inauguration. A woman responding to him felt like she had just had an orgasm.
-
-
-Stamp out Trumpism (https://www.latimes.com/opinion/story/2020-11-27/defeating-trumpism-autocrat-political-movement)
-
-Purge Trumpism (https://news.yahoo.com/bolton-urges-republicans-purge-taint-221611002.html)
-
-Purge Trumpism (https://www.dw.com/en/rick-wilson-there-is-no-moderate-republican-party/av-56182751)
-
-An epic purge
+The desire for a cathartic healing through the sacrifice of all "Trumpist" scapegoats is
+[made](https://www.latimes.com/opinion/story/2020-11-27/defeating-trumpism-autocrat-political-movement)
+[obvious](https://news.yahoo.com/bolton-urges-republicans-purge-taint-221611002.html)
+[in](https://www.dw.com/en/rick-wilson-there-is-no-moderate-republican-party/av-56182751)
+[the](
+141
 (https://www.washingtonpost.com/opinions/2020/08/05/if-biden-wins-post-trump-corruption-purge-will-have-be-epic/)
-
-
+multiple articles, published in mainstream journals, that employ the idea of a
+"purge."
 
 ## External Mediation vs. Internal Mediation
 
@@ -170,22 +165,21 @@ that throne in order to grab it for him-or-her-self.
 What tends to keep mediation external in any society is the idea of "degree," a
 hierarchy of statuses where those with a lower status look to those of higher
 status as models for their own desires, but do not entertain the idea that they can 
-actually *become* their model. But because in any society these
+actually *displace* their model. But because in any society these
 differentiations are always somewhat arbitrary and never completely fair,
 people can cease to believe in them, creating "the crisis of degree," an
 onslaught of violent mimetic rivalry.
 
-
 ## The Crisis of Degree
 
-Girard offers the condition of the Greek army beseiging Troy, at least as it is
+Girard presents the condition of the Greek army beseiging Troy, at least as it is
 potrayed by Shakespeare in *Troilus and Cressida*, as a paradigm of the crisis
 of degree. An army, when functioning as intended, uses differences of degree to
 keep order: each rank looks up to the next higher rank as its model of
 behavior, but does not attempt to grab the privileges granted to the rank above
 it: enlisted men do not try to break into the officer's dining room and have
 their dinner there. But if that respect for difference of degree breaks down at
-the top, then that very mimetic process that usually leads the lower ranks to
+the top, then the very mimetic process that usually leads the lower ranks to
 defer to the upper ones instead leads them to mimetically follow their
 "betters" in rebelling against degree. And so, in the Greek army, Achilles's
 rebellion against Agamemnon's command cascades "downward," as Ulysses tells
@@ -227,7 +221,7 @@ Of his superior, grows to an envious fever
 Of pale and bloodless emulation:  
 
 Understanding the "crisis of degree," and Trump's role in bringing it about,
-makes clear what was really occurring in the Capitol riot.
+sheds great light on the Capitol riot.
 
 In many ways the previous impeached president, Bill Clinton, was the direct
 ancestor of the more recent impeached president. With Clinton we saw "the
@@ -239,7 +233,7 @@ guy" like them (if male), or someone they might hook up with (if female --
 reporter Nina Burleigh went so far as to publicly declare she would be happy to
 fellate him for keeping abortion legal). Those on the opposite side held him in
 contempt, as he lacked the presidential aura that usually lifted the president
-slightly above such ???.
+above such base contempt
 
 Trump, of course, abolished degree more deliberately and more radically than
 had Clinton. His constant tweeting made him just another voice on Twitter. His
@@ -251,13 +245,13 @@ while I see little evidence that the invaders of the Capitol seriously thought
 they were going to "seize power," they most certainly wanted to demonstrate that
 they had no *respect* for it, lounging around on the floor of the Senate,
 taking selfies in representatives' chairs, stealing the House speaker's podium,
-and running around shirtless wearing buffalo horns. And those who condemned
+and running around shirtless wearing buffalo horns. Those who condemned
 them knew just what was at stake, decrying the violation of the "sacred space"
 of the Senate chambers. And the new Capitol fencing is clearly
 an attempt to re-establish a difference of degree between the plebs and those
 inhabiting the "sacred space" of the capitol buildings.
 
-The kicker is that both sides are (partially) right.
+The kicker is that both sides are partially right.
 As St. Augustine taught us, this is the way things are in the City of Man: it
 is true that degree is artificial, without any substantive basis... and yet we
 can't do without it. (And here is where Strauss dimly perceived the importance
@@ -274,32 +268,34 @@ problem: in the world of mimetic rivalry, no one is ever satisfied with just
 evening the playing field: no, the oppressed will never stop demanding more
 until they become the oppressors in turn.
 
-## Conclusion
-
 In the City of Man, purportedly egalitarian
 schemes, in fact, only result in replacement of one elite buy another. The
 destruction of the Russian elite of nobility and church hierarchy by the
 Bolsheviks did not, in fact, create an egalitarian society: it only created a
 new, Bolshevik elite. The French Revolution did not replace the (arbitrary)
 rule of the king and nobility with the equality of Man, but with rule 
-of Napoleon.
+by Napoleon. And, in our current crisis, the woke elite do not actually suggest
+eliminating differences of degree: they only propose new criteria by which to
+base such differences.
 
 It is only in the City of God that there is an escape from this dilemma.
 It is only in the City of God, where mimetic rivalry has been set aside, that
 differences of degree can actually be abolished.
 
-So political maturity consists in recognizing that, in the City of Man, we will
+## Conclusion
+
+Political maturity consists in recognizing that, in the City of Man, we will
 always be "stuck" with a hierarchy, a social order of different "degrees," that
 is somewhat arbitrary and somewhat unfair. The wokest of the woke cannot evade
-this fact: instead, what they want is that they are at the top of the
-hierarchy, and that their preferred differtiae are what establishes who is on
-top and who is of lesser rank.
+this fact: instead, what they want is that they should be at the top of the
+hierarchy, and that their preferred differtiae are what establishes social
+rank.
 
 In the City of Man, the best polity we "ordinary folk" can hope for is one in
 which the ruling class at least tries to acknoweldge our issues and concerns.
 And, unfortunately, the rule of the woke elite appears to be particularly awful
-in this regard, in that they seem to hold the people they wish to rule in
-complete contempt.
+in this regard, in that they seem to hold the "deplorable"
+people they wish to rule in complete contempt.
 
 
 ohttps://claremontreviewofbooks.com/the-continuing-crisis/
@@ -313,7 +309,3 @@ and more victims for flimsier and flimsier reasons...
 vast ‘conspiracies’ they can only do one thing: go to war with each other.” —
 Sh. 195
 
-
-“Such a crisis can only be regarded as the responsibility of all citizens… In
-no case can this crisis be the responsibility of a single individual, however
-powerful he happens to be.” Sh 207
