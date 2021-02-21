@@ -131,8 +131,7 @@ The desire for a cathartic healing through the sacrifice of all "Trumpist" scape
 [made](https://www.latimes.com/opinion/story/2020-11-27/defeating-trumpism-autocrat-political-movement)
 [obvious](https://news.yahoo.com/bolton-urges-republicans-purge-taint-221611002.html)
 [in](https://www.dw.com/en/rick-wilson-there-is-no-moderate-republican-party/av-56182751)
-[the](
-141
+[the]
 (https://www.washingtonpost.com/opinions/2020/08/05/if-biden-wins-post-trump-corruption-purge-will-have-be-epic/)
 multiple articles, published in mainstream journals, that employ the idea of a
 "purge."
