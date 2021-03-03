@@ -25,9 +25,9 @@ emulation of your desire for that same house... well, we both can't own it, can
 we? Girard notes that this is why the Ten Commandments place such an emphasis
 on "not coveting your neighbor's X": that coveting is the basis of social
 conflict. Adam and Eve covet God's knowledge of good and evil, and we have the
-Fall. Cain covets God's approval of Abel, or Romulus covets divine augury
-favoring Remus, and we get fratricide. The reader can easily come up with many
-more examples.
+Fall. Cain covets God's approval of Abel, or Romulus covets the favor of the 
+divine augury which went to Remus, and we get fratricide. The reader can
+easily come up with many more examples.
 
 ## The Scapegoat as the "Solution" to Mimetic Rivalry
 
@@ -94,7 +94,8 @@ the irrational heaping of blame on him for all of America's current ills, the
 over-the-top characterization of him as a "dictator" or "despot," and the
 extreme catharsis felt by many opponents of Trump when he was defeated.
 
-A typical feature of dictarial or despotic regimes is that they do not allow
+Let's consider the charge that Trump's rule was despotic.
+A typical feature of despotic regimes is that they do not allow
 free elections, or protests against their rule. But the very people who
 chortled, after the 2020 presidential election, that "we have toppled a
 dictator," simply ignored the facts that they had done so in an *election* that
@@ -148,8 +149,8 @@ to *become* a noble: in that case, Girard calls the nobility "external
 mediators" for the bourgeoisie. A similar case might be the attitude of the
 average American male in the 1950s towards John Wayne or Cary Grant: he might
 choose one of these figures as his model, but he never thought that he
-was *in competition* with Wayne or Grant: he might try to dress
-or act like one of them, but he did not imagine that he could seduce
+was *in competition* with Wayne or Grant: he could try to dress
+or act like one of them, but he didn't imagine that he could seduce
 their wives or own one of their homes.
 
 Mediation becomes "internal" when the "mediator," the source of one's desires,
@@ -239,8 +240,8 @@ street-talking belligerence in oral performances led people to see him as
 similar to that loud-mouthed guy in their local bar, whom they either found
 hilarious or wanted to get banned. Whatever one thinks about whether Trump
 *incited* the Capitol Hill riot, he most certainly *inspired* it in this sense:
-while I see little evidence that the invaders of the Capitol seriously thought
-they were going to "seize power," they most certainly wanted to demonstrate that
+there is little evidence that the invaders of the Capitol seriously thought
+they were going to "seize power," but they most certainly wanted to demonstrate that
 they had no *respect* for it, lounging around on the floor of the Senate,
 taking selfies in representatives' chairs, stealing the House speaker's podium,
 and running around shirtless wearing buffalo horns. Those who condemned
@@ -276,11 +277,26 @@ by Napoleon. And, in our current crisis, the woke elite do not actually suggest
 eliminating differences of degree: they only propose new criteria by which to
 base such differences.
 
-It is only in the City of God that there is an escape from this dilemma.
-It is only in the City of God, where mimetic rivalry has been set aside, that
-differences of degree can actually be abolished.
-
 ## Conclusion
+
+It is important to recognize that Trump served as a scapegoat because, as
+Girard noted, scapegoating is only a *temporary* fix for social disorder.
+It does not eliminate its true cause, mimetic rivalry: instead, it makes the
+crowd *forget* about that rivalry, for a time, in the euphoric rush that comes
+from unleashing violence against the scapegoat. But the euphoria passes, and
+new victims are needed. Already we can see
+[Marjorie Taylor
+Greene](https://thefederalist.com/2021/02/09/marjorie-taylor-greene-has-become-a-scapegoat-for-ruling-class-failures/)
+being tried out for the role of scapegoat, or
+[Ted
+Cruz](https://thehill.com/homenews/senate/535664-beto-orourke-ted-cruz-guilty-of-sedition-in-capitol-insurrection),
+or perhaps [Donald
+McNeil](https://nypost.com/2021/03/01/ex-new-york-times-reporter-donald-mcneil-says-hes-not-racist/).
+If we acquiesce to scapegoating, perhaps thinking "Well, Trump was a loudmouth:
+perhaps with him out of the way things will calm down," fundamentally
+misunderstand the process. So long as scapegoating is not clearly identified
+for what it is, "the crowd" will demand a new scapegoat soon, and none are
+handy, one will be conjured forth, as in the story of Apollonius.
 
 Political maturity consists in recognizing that, in the City of Man, we will
 always be "stuck" with a hierarchy, a social order of different "degrees," that
@@ -296,7 +312,7 @@ in this regard, in that they seem to hold the "deplorable"
 people they wish to rule in complete contempt.
 
 
-ohttps://claremontreviewofbooks.com/the-continuing-crisis/
+https://claremontreviewofbooks.com/the-continuing-crisis/
 
 
 
