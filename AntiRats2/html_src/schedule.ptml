@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Book Schedule
+        </title>
+    </head>
+
+    <body>
+<!--include menu.txt -->
+<!--include logo.txt -->
+        <h1>
+            Book Schedule
+        </h1>
+
+        <table>
+            <col style="width:12%">
+            <col style="width:18%">
+            <col style="width:70%">
+            <thead>
+            <tr>
+                <th>
+                    Date
+                </th>
+                <th>
+                    Deliverable
+                </th>
+                <th>
+                    Notes
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="key-col">
+                    June 1, 2021
+                </td>
+                <td>
+                    Preliminary Drafts
+                </td>
+                <td>
+                    Optional but encouraged! This will allow us to
+                    see each others' work to determine how our papers might
+                    resonate with others. In producing Volume I, this idea was
+                    successful in producing a more unified volume than is
+                    typical of collections.
+                </td>
+            </tr>
+            <tr>
+                <td class="key-col">
+                    Aug. 1, 2021
+                </td>
+                <td>
+                    Contributor's Final Drafts
+                </td>
+                <td>
+                    This will give Ken and Gene time to edit, query you, etc.
+                </td>
+            </tr>
+            <tr>
+                <td class="key-col">
+                    Oct. 1, 2021
+                </td>
+                <td>
+                    Final draft to Palgrave
+                </td>
+                <td>
+                    We will submit to Palgrave.
+                </td>
+            </tr>
+            <tr>
+                <td class="key-col">
+                    Jan. 1, 2022?
+                </td>
+                <td>
+                    Peer review completed
+                </td>
+                <td>
+                    Palgrave says this may take 2-3 months.
+                </td>
+            </tr>
+            <tr>
+                <td class="key-col">
+                    Mar. 1, 2022?
+                </td>
+                <td>
+                    Publication
+                </td>
+                <td>
+                    Probably optimistic!
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+    </body>
+</html>
