@@ -296,13 +296,14 @@ If we acquiesce to scapegoating, perhaps thinking "Well, Trump was a loudmouth:
 perhaps with him out of the way things will calm down," fundamentally
 misunderstand the process. So long as scapegoating is not clearly identified
 for what it is, "the crowd" will demand a new scapegoat soon, and none are
-handy, one will be conjured forth, as in the story of Apollonius.
+handy, one will be conjured forth -- say, Marjorie Taylor Greene? --
+as in the story of Apollonius.
 
 Political maturity consists in recognizing that, in the City of Man, we will
 always be "stuck" with a hierarchy, a social order of different "degrees," that
 is somewhat arbitrary and somewhat unfair. The wokest of the woke cannot evade
 this fact: instead, what they want is that they should be at the top of the
-hierarchy, and that their preferred differtiae are what establishes social
+hierarchy, and that their preferred differentia are what establishes social
 rank.
 
 In the City of Man, the best polity we "ordinary folk" can hope for is one in
