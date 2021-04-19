@@ -33,8 +33,10 @@ easily come up with many more examples.
 
 Traditional constraints on behavior, such as the Ten Commandments, systems
 of taboo, caste structures, the Confucian invocation of Tian,
+the Eightfold Path of Buddhism,
 and so on, can serve to control mimetic rivalry.
-But these can break down, so that mimetic rivalry becomes rampant.
+But these may lose their efficacy in chaotic social times,
+so that mimetic rivalry becomes rampant.
 When this process threatens to tear a society apart, there is a solution,
 short of abandoning rivalrous mimetic desire: the society can identify a
 *scapegoat*, a figure upon whom all of the chaos swirling through the social
@@ -97,8 +99,9 @@ extreme catharsis felt by many opponents of Trump when he was defeated.
 Let's consider the charge that Trump's rule was despotic.
 A typical feature of despotic regimes is that they do not allow
 free elections, or protests against their rule. But the very people who
-chortled, after the 2020 presidential election, that "we have toppled a
-dictator," simply ignored the facts that they had done so in an *election* that
+chortled, after the 2020 presidential election, that ["we have toppled a
+dictator"](https://www.rt.com/usa/513007-trump-dictator-toppled-feminist-mocked/)
+simply ignored the facts that they had done so in an *election* that
 the "dictator" had allowed to occur, and that he had allowed protests against
 his "despotism" and very public denunciations of him as an illegitimate
 office-holder to proceed throughout his "despotic" reign.
@@ -121,13 +124,14 @@ that a Trump critic like Jeff Bezos saw his net worth increase by $13 billion
 in a single day last year: how useful to be able to deflect attention from that
 fact by scapegoating Trump.
 
-A further indictation that Trump has served as a scapegoat is the absurd
+A further indication that Trump has served as a scapegoat is the absurd
 reactions to Biden's victory. Whatever one thinks of the relative merits of the
 Trump and Biden candidacies, it ought to be obvious that Biden is no populist
 hero. Yet Andrew Sullivan reported that he was in tears (of happiness) after
 the inaguaration, while a woman posted on Twitter
 that she felt she had had an orgasm as a result of it. 
 
+But perhaps "toppling" Trump isn't quite enough?
 The desire for a cathartic healing through the sacrifice of all "Trumpist" scapegoats is
 [made](https://www.latimes.com/opinion/story/2020-11-27/defeating-trumpism-autocrat-political-movement)
 [obvious](https://news.yahoo.com/bolton-urges-republicans-purge-taint-221611002.html)
@@ -158,7 +162,7 @@ is not seen as separated from oneself by any unbridgeable gulf. So, as in the
 many mythical and historical examples of rival brothers, what one brother has
 the other brother can easily conceive of himself as having: and so Jacob tricks
 his father into granting him Esau's birthright, or, in the multitude of royal
-murders throughout history, a close heir to a throne murders a closer heir to
+murders throughout history, someone close to a throne murders a closer to
 that throne in order to grab it for him-or-her-self.
 
 What tends to keep mediation external in any society is the idea of "degree," a
@@ -166,7 +170,7 @@ hierarchy of statuses where those with a lower status look to those of higher
 status as models for their own desires, but do not entertain the idea that they can 
 actually *displace* their model. But because in any society these
 differentiations are always somewhat arbitrary and never completely fair,
-people can cease to believe in them, creating "the crisis of degree," an
+people can cease to believe in them, creating "the crisis of degree": an
 onslaught of violent mimetic rivalry.
 
 ## The Crisis of Degree
@@ -181,7 +185,7 @@ their dinner there. But if that respect for difference of degree breaks down at
 the top, then the very mimetic process that usually leads the lower ranks to
 defer to the upper ones instead leads them to mimetically follow their
 "betters" in rebelling against degree. And so, in the Greek army, Achilles's
-rebellion against Agamemnon's command cascades "downward," as Ulysses tells
+rebellion against Agamemnon's command cascades "backward," as Ulysses tells
 Agamemnon:
 
 O, when degree is shaked,  
@@ -198,18 +202,7 @@ In mere oppugnancy: the bounded waters
 Should lift their bosoms higher than the shores  
 And make a sop of all this solid globe:  
 Strength should be lord of imbecility,  
-And the rude son should strike his father dead:  
-Force should be right; or rather, right and wrong,  
-Between whose endless jar justice resides,  
-Should lose their names, and so should justice too.  
-Then every thing includes itself in power,  
-Power into will, will into appetite;  
-And appetite, an universal wolf,  
-So doubly seconded with will and power,  
-Must make perforce an universal prey,  
-And last eat up himself. Great Agamemnon,  
-This chaos, when degree is suffocate,  
-Follows the choking.  
+And the rude son should strike his father dead...
 And this neglection of degree it is  
 That by a pace goes backward, with a purpose  
 It hath to climb. The general's disdain'd  
@@ -219,20 +212,21 @@ Exampled by the first pace that is sick
 Of his superior, grows to an envious fever  
 Of pale and bloodless emulation:  
 
-Understanding the "crisis of degree," and Trump's role in bringing it about,
-sheds great light on the Capitol riot.
+Understanding the "crisis of degree," and Trump's role in bringing one about,
+clarifies what was really going on at the Capitol riot.
 
 In many ways the previous impeached president, Bill Clinton, was the direct
 ancestor of the more recent impeached president. With Clinton we saw "the
 dignity of the office" of president undergo serious erosion, with media
-discussions of the president's underwear and oral sex with an intern in the
+discussions of the president's underwear and his receiving
+oral sex from an intern in the
 Oval Office. Although the sides were reversed, the reactions were similar to
 those produced by Trump: those on the President's side felt he was a "regular
 guy" like them (if male), or someone they might hook up with (if female --
 reporter Nina Burleigh went so far as to publicly declare she would be happy to
 fellate him for keeping abortion legal). Those on the opposite side held him in
-contempt, as he lacked the presidential aura that usually lifted the president
-above such base contempt
+contempt, as he lacked the presidential aura that usually exempted the president
+from such disdain.
 
 Trump, of course, abolished degree more deliberately and more radically than
 had Clinton. His constant tweeting made him just another voice on Twitter. His
@@ -244,28 +238,32 @@ there is little evidence that the invaders of the Capitol seriously thought
 they were going to "seize power," but they most certainly wanted to demonstrate that
 they had no *respect* for it, lounging around on the floor of the Senate,
 taking selfies in representatives' chairs, stealing the House speaker's podium,
-and running around shirtless wearing buffalo horns. Those who condemned
-them knew just what was at stake, decrying the violation of the "sacred space"
-of the Senate chambers. And the new Capitol fencing is clearly
-an attempt to re-establish a difference of degree between the plebs and those
-inhabiting the "sacred space" of the capitol buildings.
+and running around shirtless wearing buffalo horns. Much as the lower ranks of
+the Greek army mirrored Achilles' "neglection of degree" to his superior, so
+these Trump supporters mirrored Trump's disdain for the customary rules of
+American political life.
+
+Those who condemned them at least sensed what was at stake, decrying the
+violation of the "sacred space" of the Senate chambers. And the new Capitol
+fencing is clearly an attempt to re-establish a difference of degree between
+the plebs and those inhabiting the "sacred space" of the capitol buildings.
 
 The kicker is that both sides are partially right.
 As St. Augustine taught us, this is the way things are in the City of Man: it
 is true that degree is artificial, without any substantive basis... and yet we
-can't do without it. (And here is where Strauss dimly perceived the importance
-of the "noble lie.") Without degree, mimetic emulation of "one's betters" turns
-into mimetic rivalry among equals, and the social order turns violent and
-chaotic. Without belief in a myth that lets those with less know why those with
-more deserve it... it is because of their position in the Great Chain of Being,
-or due to the Divine Right of Kings, or because of a unbroken chain of Lockean
-just acquisition, or an expression of the survival of the fittest, or perhaps
-the fortunate are the vanguard of the proletariat... those with less will, with
-increasing violence, demand their share of the pie. Their demands have an
-element of justice in them, but they are hopeless in terms of fixing the
-problem: in the world of mimetic rivalry, no one is ever satisfied with just
-evening the playing field: no, the oppressed will never stop demanding more
-until they become the oppressors in turn.
+can't do without it. (And here is where Strauss was accurate about
+the importance of the "noble lie.") Without degree, mimetic emulation of "one's
+betters" turns into mimetic rivalry among equals, and the social order turns
+violent and chaotic. Without belief in a myth that lets those with less know
+why those with more deserve it... because of their position in the Great
+Chain of Being, or due to the Divine Right of Kings, or because of a unbroken
+chain of Lockean just acquisition, or as an expression of the survival of the
+fittest, or perhaps the fortunate are the vanguard of the proletariat... those
+with less will, with increasing violence, demand their share of the pie. Their
+demands have an element of justice in them, but they are hopeless in terms of
+fixing the problem: in the world of mimetic rivalry, no one is ever satisfied
+with just evening the playing field: no, the oppressed will never stop
+demanding more until they become the oppressors in turn.
 
 In the City of Man, purportedly egalitarian
 schemes, in fact, only result in replacement of one elite buy another. The
@@ -285,42 +283,29 @@ It does not eliminate its true cause, mimetic rivalry: instead, it makes the
 crowd *forget* about that rivalry, for a time, in the euphoric rush that comes
 from unleashing violence against the scapegoat. But the euphoria passes, and
 new victims are needed. Already we can see
-[Marjorie Taylor
-Greene](https://thefederalist.com/2021/02/09/marjorie-taylor-greene-has-become-a-scapegoat-for-ruling-class-failures/)
-being tried out for the role of scapegoat, or
 [Ted
 Cruz](https://thehill.com/homenews/senate/535664-beto-orourke-ted-cruz-guilty-of-sedition-in-capitol-insurrection),
-or perhaps [Donald
-McNeil](https://nypost.com/2021/03/01/ex-new-york-times-reporter-donald-mcneil-says-hes-not-racist/).
+being tried out for the role of scapegoat, or perhaps
+[Donald
+McNeil](https://nypost.com/2021/03/01/ex-new-york-times-reporter-donald-mcneil-says-hes-not-racist/)
+would fit the role better, or maybe even 
+[Marjorie Taylor
+Greene](https://thefederalist.com/2021/02/09/marjorie-taylor-greene-has-become-a-scapegoat-for-ruling-class-failures/)
+(For example, the Wikipedia page on Greene, supposedly written from a "neutral
+point of view," describes her as "a far-right conspiracy theorist," as though
+this were a simple statement of fact, like "water is H<sub>2</sub>)O, rather
+than a thrust in a partisan fencing match.)
 If we acquiesce to scapegoating, perhaps thinking "Well, Trump was a loudmouth:
-perhaps with him out of the way things will calm down," fundamentally
+maybe with him out of the way things will calm down," we fundamentally
 misunderstand the process. So long as scapegoating is not clearly identified
-for what it is, "the crowd" will demand a new scapegoat soon, and none are
-handy, one will be conjured forth -- say, Marjorie Taylor Greene? --
-as in the story of Apollonius.
+for what it is, "the crowd" will demand a new scapegoat soon.
 
 Political maturity consists in recognizing that, in the City of Man, we will
 always be "stuck" with a hierarchy, a social order of different "degrees," that
 is somewhat arbitrary and somewhat unfair. The wokest of the woke cannot evade
-this fact: instead, what they want is that they should be at the top of the
-hierarchy, and that their preferred differentia are what establishes social
-rank.
-
-In the City of Man, the best polity we "ordinary folk" can hope for is one in
-which the ruling class at least tries to acknoweldge our issues and concerns.
-And, unfortunately, the rule of the woke elite appears to be particularly awful
-in this regard, in that they seem to hold the "deplorable"
-people they wish to rule in complete contempt.
-
-
-https://claremontreviewofbooks.com/the-continuing-crisis/
-
-
-
-“it takes less and less time for more and more people to polarize against more
-and more victims for flimsier and flimsier reasons...
-
-“The contagion is such that the entire community is finally divided into two
-vast ‘conspiracies’ they can only do one thing: go to war with each other.” —
-Sh. 195
-
+this fact: instead, what they covertly work towards is a social order
+in which they will be at the top of the hierarchy. So long as we live in the
+City of Man, and not the City of God, the best polity we "ordinary folk" can
+hope for is one in which the ruling class at least tries to acknoweldge our
+issues and concerns. And no heaping up of the carcasses of sacrificed
+scapegoats will forward that aim.
