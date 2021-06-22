@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+        Walker Percy
+        </title>
+    </head>
+
+    <body>
+<!--include menu.txt -->
+<!--include logo.txt -->
+        <h1>
+        Walker Percy
+        </h1>
+
+        <p>
+        Leslie Marsh
+        </p>
+
+        <p>
+        Walker Percy's anti-rationalism issues forth from his concern with
+        abstraction. Percy discerned what he took to be a distinctively
+        twentieth-century (peculiarly Western) form of disquieted
+        consciousness—a miasmic malaise—consisting in a loss of the self,
+        brought about by fivefold  inextricably linked phenomena: (a) first and
+        foremost by our inherited bifurcated Cartesian self,  and,
+        derivatively, (b) an uncritical assimilation and extension of
+        scientific a priorism, pejoratively known as scientism; (c) an
+        atomistic social abstraction in the form of homo economicus, i.e.
+        formalized rational maximizers; (d) the salvatory rationalism promised
+        to  consumers of ideas be it junk science, conspiracy theories, New Age
+        movements, cults, gurus, fundamentalism, evangelicalism, zealotry of
+        all kinds — that can be institutionalized as political, religious, or
+        even academic charlatanism; and (e) a loss of a sense of place corroded
+        by the ongoing creep of cultural homogeneity that has undermined the
+        situated agent.
+        </p>
+
+    </body>
+</html>
