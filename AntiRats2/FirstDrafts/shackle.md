@@ -22,7 +22,12 @@ and thoroughly explored modes and schemes of thought were ready to hand... The
 procedure of invention was often to accept some such self-suggesting analogy
 and make the economic questions fit it..." (p. 3).
 
+But to adopt such a mode of thought from say, physics, and apply it to
+economics, meant ignoring a central aspect of economic action: the uncertainty
+of the future. As Shackle put it:
 
+"the natural, inevitable and irremediable insufficiency of what is at any
+moment known was assumed away and largely neglected." (p. 3).
 
 
 
