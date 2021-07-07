@@ -30,6 +30,12 @@ of the future. As Shackle put it:
 moment known was assumed away and largely neglected." (p. 3).
 
 
+Early in this work, Shackle dismisses the claim that science is a specially
+privileged form of knowing:
+
+"Science tells us what to count on, what rely on. But in doing so it merely
+imitates and refines the process by which we build, each of us for himself, the
+homely technology of every day living" (p. 6).
 
 ## Bibliography
 
