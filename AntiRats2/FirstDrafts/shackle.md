@@ -43,6 +43,10 @@ Earl, Peter and Bruce Littleboy. (2014).
 *G. L. S. Shackle*.
 Basingstoke: Palgrave Macmillan.
 
+Shackle, G. L. S. (2014).
+Business, Time and Thought: Selected Papers of G.L.S. Shackle.
+London: Palgrave Macmillan.
+
 Shackle, G. L. S. (2017).
 *Epistemics and Economics: A Critique of Economic Doctrines*.
 London and New York: Routledge.
