@@ -9,6 +9,15 @@ for our story is his sharp criticisms of the formalistic, "rational" methods
 adopted by the economic mainstream.
 
 
+## Business, Time and Thought
+
+Discussing Hayek's work on *The Pure Theory of Capital*, Shackle dismisses the
+idea that science is pure ratiocination, disparate from emotion and belief:
+
+"There must be some inspirational idea... before a man can gather the moral and
+nervous force which such a [scientific] task requires. He must be seized by a
+faith." (p. 184)
+
 ## Epistemics and Economics
 
 "Rational general equilibrium owed its encompassing completeness, exactness and
