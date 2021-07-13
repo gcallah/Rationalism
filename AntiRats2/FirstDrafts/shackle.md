@@ -11,6 +11,16 @@ adopted by the economic mainstream.
 
 ## Business, Time and Thought
 
+In praising Cantillon, Shackle points out that, in the 1700s, Cantillon had
+already anticipated Keynes on unemployment. Those arguing against the
+possibility of involuntary unemployment had argued that workers would be paid
+their marginal product, which, naturally, would keep their wages adjusted to
+any level of business activity:
+
+"For how can he know what is their marginal product, when he cannot know at
+what price he will be able to sell what they produce?" (p. 48)
+
+
 Discussing Hayek's work on *The Pure Theory of Capital*, Shackle dismisses the
 idea that science is pure ratiocination, disparate from emotion and belief:
 
