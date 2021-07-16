@@ -11,11 +11,36 @@ adopted by the economic mainstream.
 
 ## Business, Time and Thought
 
-In praising Cantillon, Shackle points out that, in the 1700s, Cantillon had
-already anticipated Keynes on unemployment. Those arguing against the
-possibility of involuntary unemployment had argued that workers would be paid
-their marginal product, which, naturally, would keep their wages adjusted to
-any level of business activity:
+One of the centerpieces of the rationalist project has been the effort to lift
+morality from the realms of tradition and revelation and turn moral choice into
+a matter of calculation based on "rational" criteria. The most famous of those
+endeavors is utilitarianism, championed by Bentham, the father and son Mills,
+Henry Sidgwick, and modern adherents such as Peter Singer.
+
+Shackle's analysis of the meaning of "possibility" in the context of choice is
+devastating to the notion that utilitarianism offers a rational means of
+deciding ethical conundrums. He notes that the chooser cannot possibly assign
+meaningful probabilities to all potential outcomes of a choice, since:
+
+"[A]ny such skein of the imagined sequels of some one action must be deemed
+always incomplete and uncompleteable. The mutual rivalry alone of the members
+of any skein would obscure the meaning of the assignment of degrees of positive
+confidence... in the members. Their liability in principle to an indefinite
+extension of their numbers seems to destroy any such meaning." (p. 13)
+
+If the utilitarian moralist cannot even conceivably imagine all of the possible
+outcomes of her potential action, let alone assign a meaningful probability to
+all of them, how can she possibly calculate the probable utility gained or lost
+by choosing to so act? In practice, this usually means the utilitarian can just
+declare that they have done the calculation, and do what they wanted to do
+anyway: "If I don't sleep with my friend's wife, she'll probably leave him, and
+that would be much worse for the kids, so..."
+
+In an essay praising Cantillon, Shackle points out that, in the 1700s,
+Cantillon had already anticipated Keynes on unemployment. Those arguing against
+the possibility of involuntary unemployment had argued that workers would be
+paid their marginal product, which, naturally, would keep their wages adjusted
+to any level of business activity:
 
 "For how can he know what is their marginal product, when he cannot know at
 what price he will be able to sell what they produce?" (p. 48)
