@@ -38,6 +38,29 @@ declare that they have done the calculation, and do what they wanted to do
 anyway: "If I don't sleep with my friend's wife, she'll probably leave him, and
 that would be much worse for the kids, so..."
 
+
+
+"I have to express the conviction that this great arabesque of brilliant
+intellectual endeavor has still the same essential purpose: to eliminate the
+true unknowledge which gives us imaginative freedom" (p. 14)
+
+
+
+
+"Language, after all, is essentially, irremediably imprecise, its words and
+phrases capacious for richly various meanings, a medium immeasurably more
+powerful in suggestion than in mere assertion" (p. 15)
+
+
+
+"In the ever-changing world which Marshall pointed to, the representation of a
+firms market by a demand-curve is no more than an aid to thought. It has
+invaluable suggestions to make" (p. 17)
+
+
+
+
+
 In an essay praising Cantillon, Shackle points out that, in the 1700s,
 Cantillon had already anticipated Keynes on unemployment. Those arguing against
 the possibility of involuntary unemployment had argued that workers would be
