@@ -4,9 +4,11 @@
 ## Introduction
 
 The English economist G. L. S. Shackle was an important heterodox thinker who
-was influenced by and influenced both Keynesians and Austrians. His importance
-for our story is his sharp criticisms of the formalistic, "rational" methods
-adopted by the economic mainstream.
+was influenced by and influenced both Keynesians and Austrians. 
+He was a student of F.A. Hayek at the LSE, at careful reader of Keynes, and
+close colleague of Ludwig Lachmann.
+His importance for our story is his sharp criticisms of the formalistic,
+"rational" methods adopted by the economic mainstream.
 
 
 ## Business, Time and Thought
