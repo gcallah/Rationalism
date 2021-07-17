@@ -58,6 +58,15 @@ firms market by a demand-curve is no more than an aid to thought. It has
 invaluable suggestions to make" (p. 17)
 
 
+Shackle also argued that "rationalism in trading" (he did not use those words!)
+was not possible:
+
+"Can a dealer calculate what will take place? To think he can is wildly to
+deceive himself. He has some impressions. He may even call them data. There can
+be no knowing what other data are in the pack waiting to be dealt, or can yet
+be put into it by human ingenious ploys... All experience... tells him that the
+statement of [his trade's] conditions, that he has in mind, are bound to be
+mere fragments" (p. 19)
 
 
 
