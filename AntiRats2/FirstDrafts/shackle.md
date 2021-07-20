@@ -11,6 +11,17 @@ His importance for our story is his sharp criticisms of the formalistic,
 "rational" methods adopted by the economic mainstream.
 
 
+## Time, Expectations and Uncertainty in Economics:
+
+When it comes to the philosophy of science, Shackle appears to stand firmly in
+the tradition of Berkeley and Hume. For example, in discussing causation, he
+writes:
+
+"If one of two frequently associated states seems each time to proceed the
+other, we are tempted to call it a *cause* of the other state" (p. 180).
+
+
+
 ## Business, Time and Thought
 
 One of the centerpieces of the rationalist project has been the effort to lift
@@ -120,6 +131,11 @@ homely technology of every day living" (p. 6).
 Earl, Peter and Bruce Littleboy. (2014).
 *G. L. S. Shackle*.
 Basingstoke: Palgrave Macmillan.
+
+Shackle, G. L. S., and Ford, J. L. (1990).
+*Time, Expectations and Uncertainty in Economics:
+Selected Essays of G.L.S. Shackle*.
+Aldershot: Elgar.
 
 Shackle, G. L. S. (2014).
 Business, Time and Thought: Selected Papers of G.L.S. Shackle.
