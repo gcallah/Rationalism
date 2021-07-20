@@ -11,18 +11,44 @@ His importance for our story is his sharp criticisms of the formalistic,
 "rational" methods adopted by the economic mainstream.
 
 
-## Time, Expectations and Uncertainty in Economics:
+## Science
 
 When it comes to the philosophy of science, Shackle appears to stand firmly in
 the tradition of Berkeley and Hume. For example, in discussing causation, he
 writes:
 
 "If one of two frequently associated states seems each time to proceed the
-other, we are tempted to call it a *cause* of the other state" (p. 180).
+other, we are tempted to call it a *cause* of the other state" (1990: 180).
+
+In fact, Shackle dismisses the claim that science is a specially
+privileged form of knowing:
+
+"Science tells us what to count on, what rely on. But in doing so it merely
+imitates and refines the process by which we build, each of us for himself, the
+homely technology of every day living" (2017: 6).
+
+
+Discussing Hayek's work on *The Pure Theory of Capital*, Shackle dismisses the
+idea that science is pure ratiocination, disparate from emotion and belief:
+
+"There must be some inspirational idea... before a man can gather the moral and
+nervous force which such a [scientific] task requires. He must be seized by a
+faith." (2014: 184)
+
+
+## Time
+
+
+## Rational Choice
+
+
+"I have to express the conviction that this great arabesque of brilliant
+intellectual endeavor [represented by fuzzy logic]
+has still the same essential purpose: to eliminate the
+true unknowledge which gives us imaginative freedom" (2014: 14)
 
 
 
-## Business, Time and Thought
 
 One of the centerpieces of the rationalist project has been the effort to lift
 morality from the realms of tradition and revelation and turn moral choice into
@@ -39,7 +65,7 @@ meaningful probabilities to all potential outcomes of a choice, since:
 always incomplete and uncompleteable. The mutual rivalry alone of the members
 of any skein would obscure the meaning of the assignment of degrees of positive
 confidence... in the members. Their liability in principle to an indefinite
-extension of their numbers seems to destroy any such meaning." (p. 13)
+extension of their numbers seems to destroy any such meaning." (2014: 13)
 
 If the utilitarian moralist cannot even conceivably imagine all of the possible
 outcomes of her potential action, let alone assign a meaningful probability to
@@ -50,35 +76,33 @@ anyway: "If I don't sleep with my friend's wife, she'll probably leave him, and
 that would be much worse for the kids, so..."
 
 
+## Static-World Economics
 
-"I have to express the conviction that this great arabesque of brilliant
-intellectual endeavor has still the same essential purpose: to eliminate the
-true unknowledge which gives us imaginative freedom" (p. 14)
+Shackle never denied that mainstream, rational-mathematical economics has
+achieved praiseworthy results. [QUOTE HERE]
 
+But he was critical of this style of economics for failing to recognize the
+presuppositions of its models; in particular, for failing to acknowledge that
+the world of perfect competition and general equilibrium is a timeless world
+without real choice.
 
+"Rational general equilibrium owed its encompassing completeness, exactness and
+certitude to its neglect of all that is essentially implied by *time*. The
+rational, sure and pre-reconciled world is timeless" (2017: xv).
 
+Shackle offers an historical explanation of how economics went astray:
 
-"Language, after all, is essentially, irremediably imprecise, its words and
-phrases capacious for richly various meanings, a medium immeasurably more
-powerful in suggestion than in mere assertion" (p. 15)
+"When the time came to invent economic theory, a number of established, exact
+and thoroughly explored modes and schemes of thought were ready to hand... The
+procedure of invention was often to accept some such self-suggesting analogy
+and make the economic questions fit it..." (2017: 3).
 
+But to adopt such a mode of thought from say, physics, and apply it to
+economics, meant ignoring a central aspect of economic action: the uncertainty
+of the future. As Shackle put it:
 
-
-"In the ever-changing world which Marshall pointed to, the representation of a
-firms market by a demand-curve is no more than an aid to thought. It has
-invaluable suggestions to make" (p. 17)
-
-
-Shackle also argued that "rationalism in trading" (he did not use those words!)
-was not possible:
-
-"Can a dealer calculate what will take place? To think he can is wildly to
-deceive himself. He has some impressions. He may even call them data. There can
-be no knowing what other data are in the pack waiting to be dealt, or can yet
-be put into it by human ingenious ploys... All experience... tells him that the
-statement of [his trade's] conditions, that he has in mind, are bound to be
-mere fragments" (p. 19)
-
+"the natural, inevitable and irremediable insufficiency of what is at any
+moment known was assumed away and largely neglected." (2017: 3).
 
 
 In an essay praising Cantillon, Shackle points out that, in the 1700s,
@@ -88,43 +112,44 @@ paid their marginal product, which, naturally, would keep their wages adjusted
 to any level of business activity:
 
 "For how can he know what is their marginal product, when he cannot know at
-what price he will be able to sell what they produce?" (p. 48)
+what price he will be able to sell what they produce?" (2014: 48)
 
 
-Discussing Hayek's work on *The Pure Theory of Capital*, Shackle dismisses the
-idea that science is pure ratiocination, disparate from emotion and belief:
-
-"There must be some inspirational idea... before a man can gather the moral and
-nervous force which such a [scientific] task requires. He must be seized by a
-faith." (p. 184)
-
-## Epistemics and Economics
-
-"Rational general equilibrium owed its encompassing completeness, exactness and
-certitude to its neglect of all that is essentially implied by *time*. The
-rational, sure and pre-reconciled world is timeless" (p. xv).
-
-Shackle offers an historical explanation of how economics went astray:
-
-"When the time came to invent economic theory, a number of established, exact
-and thoroughly explored modes and schemes of thought were ready to hand... The
-procedure of invention was often to accept some such self-suggesting analogy
-and make the economic questions fit it..." (p. 3).
-
-But to adopt such a mode of thought from say, physics, and apply it to
-economics, meant ignoring a central aspect of economic action: the uncertainty
-of the future. As Shackle put it:
-
-"the natural, inevitable and irremediable insufficiency of what is at any
-moment known was assumed away and largely neglected." (p. 3).
+"In the ever-changing world which Marshall pointed to, the representation of a
+firms market by a demand-curve is no more than an aid to thought. It has
+invaluable suggestions to make" (2014: 17)
 
 
-Early in this work, Shackle dismisses the claim that science is a specially
-privileged form of knowing:
+## The Business World
 
-"Science tells us what to count on, what rely on. But in doing so it merely
-imitates and refines the process by which we build, each of us for himself, the
-homely technology of every day living" (p. 6).
+Quite in contrast to the picture of business "activity" (or, rather, the
+passive lack of any genuine activity on the part of business people) offered by
+the theory of perfect competition,
+Shackle understood the actual business world to be one of continual speculation
+in the face of uncertainty.
+
+Shackle also argued that "rationalism in trading" (he did not use those words!)
+was not possible:
+
+"Can a dealer calculate what will take place? To think he can is wildly to
+deceive himself. He has some impressions. He may even call them data. There can
+be no knowing what other data are in the pack waiting to be dealt, or can yet
+be put into it by human ingenious ploys... All experience... tells him that the
+statement of [his trade's] conditions, that he has in mind, are bound to be
+mere fragments" (2014: 19)
+
+
+## What Makes an Economist?
+
+
+
+
+"Language, after all, is essentially, irremediably imprecise, its words and
+phrases capacious for richly various meanings, a medium immeasurably more
+powerful in suggestion than in mere assertion" (2014: 15)
+
+
+
 
 ## Bibliography
 
