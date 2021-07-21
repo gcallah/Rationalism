@@ -42,6 +42,27 @@ faith." (2014: 184)
 ## Rational Choice
 
 
+Shackle devoted some time to examining whether the application of probability
+to choice could yield an economic science in which choice was susceptible to
+precise mathematical analysis without being strictly determined in advance. He
+concluded that this hope was vain:
+
+"Choice is amongst imagined experiences. And when a man sums up an array of
+imaginations, how does he know what action-course will actualize any one such
+picture? Or when, instead, he reviews his rival available acts, how does he
+know what outcome to attach to each? He does not and cannot know...
+If a thought can contain an element undeducible from any record of the
+thinker's past no matter how perfect, by any logical process no matter how
+powerful...
+distributive probability can have no application to his problem of choice
+amongst actions. For probabilities can only be meaningfully assigned to the
+items of a complete list of contingencies, or to the intervals of a variable
+whose meaning is in stable dependence on such a list
+" (1990:
+186-187)
+
+
+
 "I have to express the conviction that this great arabesque of brilliant
 intellectual endeavor [represented by fuzzy logic]
 has still the same essential purpose: to eliminate the
