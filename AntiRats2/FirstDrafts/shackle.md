@@ -171,12 +171,51 @@ powerful in suggestion than in mere assertion" (2014: 15)
 
 
 
+## Shackle in Context
+
+So what has been the reaction to Shackle's work amongst economists and social
+theorists?
+
+
+Ludwig Lachmann found the ideas of Shackle to be largely compatible with those
+of Mises and the Austrian mainstream:
+
+"To sum up, then, in their emphasis on the spontaneous, and thus unpredictable
+nature of human action, in their rejection of mechanistic notions of time and
+probability, [Mises and Shackle] are completely at one. They also agree that
+a science of human action requires a methodology *sui generis*." (1976: 58)
+
+But Lachmann sees Shackle as going beyond Mises in three respects:
+
+"In the first place, Shackle has extended the scope of subjectivism from tastes
+to expectations...
+
+"Secondly, there is a sense in which Shackle's emphasis on action without
+knowledge poses an even stronger challenge to Austrians than to neoclassical
+equilibrium theory..."
+
+"divergent expectations give rise to a third aspect of Shackle's model that has
+no counterpart in Mises's work... [which is that] expectations... play a
+different part in different markets..." (1976: 58-60)
+
+
+
+## Conclusion
+
 
 ## Bibliography
 
 Earl, Peter and Bruce Littleboy. (2014).
 *G. L. S. Shackle*.
 Basingstoke: Palgrave Macmillan.
+
+Lachmann, Ludwig M. (1976).
+"From Mises to Shackle:
+An Essay on Austrian Economics and the Kaleidic Society".
+*Journal of Economic Literature*,
+Mar., 1976, Vol. 14, No. 1 (Mar., 1976), pp. 54- 62
+Stable URL: https://www.jstor.org/stable/2722803
+
 
 Shackle, G. L. S., and Ford, J. L. (1990).
 *Time, Expectations and Uncertainty in Economics:
