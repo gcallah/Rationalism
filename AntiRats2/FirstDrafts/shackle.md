@@ -205,6 +205,12 @@ different part in different markets..." (1976: 58-60)
 
 ## Bibliography
 
+Arrow, Kenneth J. (1951).
+"Alternative Approaches to the Theory of Choice in Risk-Taking Situations"
+*Econometrica*,
+Oct., 1951, Vol. 19, No. 4 (Oct., 1951), pp. 404-437.
+Stable URL: https://www.jstor.org/stable/1907465
+
 Earl, Peter and Bruce Littleboy. (2014).
 *G. L. S. Shackle*.
 Basingstoke: Palgrave Macmillan.
