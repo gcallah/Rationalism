@@ -23,7 +23,7 @@ other, we are tempted to call it a *cause* of the other state" (1990: 180).
 In fact, Shackle dismisses the claim that science is a specially
 privileged form of knowing:
 
-"Science tells us what to count on, what rely on. But in doing so it merely
+"Science tells us what to count on, what to rely on. But in doing so it merely
 imitates and refines the process by which we build, each of us for himself, the
 homely technology of every day living" (2017: 6).
 
@@ -201,6 +201,11 @@ different part in different markets..." (1976: 58-60)
 
 
 ## Conclusion
+
+During the twentieth century, neoclassical economics became one of the advanced
+battalions of rationalism. And reducing choice to weighing probabilities was
+not far behind it. Shackle's sharp criticisms of both areas makes him an
+important figure in the history of anti-rationalist thought.
 
 
 ## Bibliography
