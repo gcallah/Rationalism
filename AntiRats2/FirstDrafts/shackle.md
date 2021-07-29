@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The English economist G. L. S. Shackle was an important heterodox thinker who
+The English economist G.L.S. Shackle was an important heterodox thinker who
 was influenced by and influenced both Keynesians and Austrians. 
 He was a student of F.A. Hayek at the LSE, at careful reader of Keynes, and
 close colleague of Ludwig Lachmann.
@@ -170,6 +170,33 @@ phrases capacious for richly various meanings, a medium immeasurably more
 powerful in suggestion than in mere assertion" (2014: 15)
 
 
+## The Rationally Planned Economy
+
+Shackle accepted a certain amount of what might be referred to as economic
+planning: he saw a role for the government in managing aggregate demand, so as
+to reduce uncertainty, "which at times so inhibits enterprise that great
+numbers of people and their equipment are unemployed" (1959: 228).
+
+Many advocates of economic planing, however, would wish to go much further:
+
+"But why stop there? The government is in the position (so the argument
+proceeds) of a guardian who knows what is best for everybody, and it should
+control the economy in detail so as to give everybody what, in its opinion, is
+best for him." (1959: 228)
+ 
+Shackle dismisses such a system:
+
+"What we have sought to explain is the working of an economic system where the
+guiding principle is to give each individual person the greatest scope for his
+own spontaneous use of life." (1959: 228)
+
+The sort of planning he endorses, and the sort which would seek "the detailed
+prescription of the outputs and prices of all goods and the arbitrary fixing of
+the rates of pay of all factors of production..." (1959: 229) have very
+different aims. The first "is like a palisade built to enclose more of the
+desert for men's use," while the latter "is like a fence built to confine them
+to till ground they have not chosen and do not own" (1959: 229).
+
 
 ## Shackle in Context
 
@@ -227,6 +254,9 @@ An Essay on Austrian Economics and the Kaleidic Society".
 Mar., 1976, Vol. 14, No. 1 (Mar., 1976), pp. 54- 62
 Stable URL: https://www.jstor.org/stable/2722803
 
+Shackle, G. L. S. (1959).
+Economics for Pleasure.
+London: Cambridge University Press.
 
 Shackle, G. L. S., and Ford, J. L. (1990).
 *Time, Expectations and Uncertainty in Economics:
