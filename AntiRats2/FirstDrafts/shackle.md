@@ -36,7 +36,17 @@ nervous force which such a [scientific] task requires. He must be seized by a
 faith." (2014: 184)
 
 
-## Time
+## Time and History
+
+Shackle's work is continually concerned with the topics of time and history.
+In particular, he argues, if human choice is real, then future history is open-ended,
+and not possibly subject to "rational" prediction. As he put it:
+
+"When a person decides he innovates; he destroys the possibility or meaning of
+attempts based on knowledge, no matter how perfect or complete, of what was the
+state of affairs before his decision, to predict what would be the state of
+affairs, or the sequence of such states, after his decision." (1961: 3)
+
 
 
 ## Rational Choice
@@ -257,6 +267,9 @@ Stable URL: https://www.jstor.org/stable/2722803
 Shackle, G. L. S. (1959).
 Economics for Pleasure.
 London: Cambridge University Press.
+
+Schackle, G. L. S. (1961).
+*Decision, Order and Time in Human Affairs*.
 
 Shackle, G. L. S., and Ford, J. L. (1990).
 *Time, Expectations and Uncertainty in Economics:

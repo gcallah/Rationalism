@@ -41,7 +41,7 @@
 
         <ul class="nested">
             <li>
-                <a href="drafts/Intro.pdf">
+                <a href="Intro.html">
                 Introduction
                 </a>
                 <br>
@@ -254,7 +254,9 @@
             </li>
 
             <li>
+                <a href="Shackle.html">
                 The Kaleidic World of G.L.S. Shackle
+                </a>
                 <br>
                 <a href="bios.html#callahan">
                 Gene Callahan</a>,
