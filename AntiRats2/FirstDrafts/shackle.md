@@ -241,7 +241,7 @@ different part in different markets..." (1976: 58-60)
 
 During the twentieth century, neoclassical economics became one of the advanced
 battalions of rationalism. And reducing choice to weighing probabilities was
-not far behind it. Shackle's sharp criticisms of both areas makes him an
+not far behind it. Shackle's sharp criticisms of both efforts makes him an
 important figure in the history of anti-rationalist thought.
 
 
