@@ -265,7 +265,7 @@ Mar., 1976, Vol. 14, No. 1 (Mar., 1976), pp. 54- 62
 Stable URL: https://www.jstor.org/stable/2722803
 
 Shackle, G. L. S. (1959).
-Economics for Pleasure.
+*Economics for Pleasure*.
 London: Cambridge University Press.
 
 Schackle, G. L. S. (1961).
