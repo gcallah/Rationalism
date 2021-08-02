@@ -277,7 +277,7 @@ Selected Essays of G.L.S. Shackle*.
 Aldershot: Elgar.
 
 Shackle, G. L. S. (2014).
-Business, Time and Thought: Selected Papers of G.L.S. Shackle.
+*Business, Time and Thought: Selected Papers of G.L.S. Shackle*.
 London: Palgrave Macmillan.
 
 Shackle, G. L. S. (2017).
