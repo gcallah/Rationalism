@@ -236,6 +236,39 @@ no counterpart in Mises's work... [which is that] expectations... play a
 different part in different markets..." (1976: 58-60)
 
 
+In contrast, Austrian economist Murrary Rothbard takes a much dimmer view of
+Shackle's work -- although his main target here is Lachmann, he clearly assigns
+Shackle blame for Lachmann's going astray:
+
+"there are three very different and clashing paradigms within Austrian
+economics: the original Misesian or praxeological paradigm, to which the
+present author adheres; the Hayekian paradigm, stressing 'knowledge' and
+'discovery' rather than the praxeological 'action' and 'choice,' and whose
+leading exponent now is Professor Israel Kirzner; and the nihilistic view of
+the late Ludwig Lachmann, an institutionalist anti-theory approach taken from
+the English 'subjectivist'-Keynesian G.L.S. Shackle." (2009: Preface, par. 21)
+
+What should we make of this charge that the work of Shackle is nihilistic?
+Consider the following passages from his work:
+
+"In a cosmos lacking order, the consistency of nature that we think of as cause
+and effect, a cosmos in which no act placed any constraint whatever upon the
+character of the sequel, choice among acts would be pointless... Unbounded
+uncertainty is the third of the assumptions about the character of the cosmos
+and of the human condition in it that we must reject if decision is to be an
+interesting object of analysis." (1961: 4-5)
+
+And:
+
+"One of our chief endeavours will be to show that there could be inspiration in
+this sense in the scheme of things without its implying that human conduct is
+arbitrary in face of given circumstances." (1961: 7)
+
+Shackle is above clearly *rejecting* the nihilistic view Rothbard attributes to
+him. It is hard to avoid the conclusion that Rothbard was more concerned with
+asserting his view as the "real" Austrian view than he was with accurately
+engaging Shackle's thought.
+
 
 ## Conclusion
 
@@ -263,6 +296,11 @@ An Essay on Austrian Economics and the Kaleidic Society".
 *Journal of Economic Literature*,
 Mar., 1976, Vol. 14, No. 1 (Mar., 1976), pp. 54- 62
 Stable URL: https://www.jstor.org/stable/2722803
+
+Rothbard, Murray N. (2009).
+*Man, Economy, and State, with Power and Market*.
+Auburn: Ludwig von Mises Institute.
+https://mises.org/library/man-economy-and-state-power-and-market/html
 
 Shackle, G. L. S. (1959).
 *Economics for Pleasure*.
