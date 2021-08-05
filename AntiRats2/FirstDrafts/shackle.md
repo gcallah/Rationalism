@@ -51,6 +51,16 @@ affairs, or the sequence of such states, after his decision." (1961: 3)
 
 ## Rational Choice
 
+According to Shackle, economists are making a mistake if they limit their
+explorations to what can be captured in the "pure logic of choice":
+
+"By tacitly assuming that the right conduct can always be discovered by taking
+orderly thought, and that this is how men's conduct is formed, economics has
+precluded itself from understanding the vast area of human enterprise where
+disorder is of the essence of the situation, the areas of break-away, of
+origination, of poetic creation or innovation... Of conflict and cut-throat
+struggle."
+(2017: 23)
 
 Shackle devoted some time to examining whether the application of probability
 to choice could yield an economic science in which choice was susceptible to
@@ -67,9 +77,7 @@ powerful...
 distributive probability can have no application to his problem of choice
 amongst actions. For probabilities can only be meaningfully assigned to the
 items of a complete list of contingencies, or to the intervals of a variable
-whose meaning is in stable dependence on such a list
-" (1990:
-186-187)
+whose meaning is in stable dependence on such a list" (1990: 186-187)
 
 
 
