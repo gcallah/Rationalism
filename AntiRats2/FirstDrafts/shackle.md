@@ -288,45 +288,51 @@ important figure in the history of anti-rationalist thought.
 
 ## Bibliography
 
-Arrow, Kenneth J. (1951).
+Arrow, Kenneth J. 1951.
 "Alternative Approaches to the Theory of Choice in Risk-Taking Situations"
 *Econometrica*,
 Oct., 1951, Vol. 19, No. 4 (Oct., 1951), pp. 404-437.
 Stable URL: https://www.jstor.org/stable/1907465
 
-Earl, Peter and Bruce Littleboy. (2014).
+Earl, Peter and Bruce Littleboy. 2014.
 *G. L. S. Shackle*.
 Basingstoke: Palgrave Macmillan.
 
-Lachmann, Ludwig M. (1976).
+Earl, Peter E., and Stephen F. Frowen.
+2013.
+Economics as an Art of Thought: Essays in Memory of G.L.S. Shackle.
+London: Routledge.
+
+Lachmann, Ludwig M.
+1976.
 "From Mises to Shackle:
 An Essay on Austrian Economics and the Kaleidic Society".
 *Journal of Economic Literature*,
 Mar., 1976, Vol. 14, No. 1 (Mar., 1976), pp. 54- 62
 Stable URL: https://www.jstor.org/stable/2722803
 
-Rothbard, Murray N. (2009).
+Rothbard, Murray N. 2009.
 *Man, Economy, and State, with Power and Market*.
 Auburn: Ludwig von Mises Institute.
 https://mises.org/library/man-economy-and-state-power-and-market/html
 
-Shackle, G. L. S. (1959).
+Shackle, G. L. S. 1959.
 *Economics for Pleasure*.
 London: Cambridge University Press.
 
-Schackle, G. L. S. (1961).
+Schackle, G. L. S. 1961.
 *Decision, Order and Time in Human Affairs*.
 
-Shackle, G. L. S., and Ford, J. L. (1990).
+Shackle, G. L. S., and Ford, J. L. 1990.
 *Time, Expectations and Uncertainty in Economics:
 Selected Essays of G.L.S. Shackle*.
 Aldershot: Elgar.
 
-Shackle, G. L. S. (2014).
+Shackle, G. L. S. 2014.
 *Business, Time and Thought: Selected Papers of G.L.S. Shackle*.
 London: Palgrave Macmillan.
 
-Shackle, G. L. S. (2017).
+Shackle, G. L. S. 2017.
 *Epistemics and Economics: A Critique of Economic Doctrines*.
 London and New York: Routledge.
 
