@@ -10,6 +10,15 @@ close colleague of Ludwig Lachmann.
 His importance for our story is his sharp criticisms of the formalistic,
 "rational" methods adopted by the economic mainstream.
 
+Shackle's work bears clear resmblances to that of other anti-rationalist
+thinkers. For instance, Parsons writes that:
+
+"Shackle is specifically objecting to the understanding of reason in terms of
+calculation, or technical expertise..."  (2013: 129)
+
+That bears a striking resemblance to Michael Oakeshott's characterization of
+rationalism as the belief that all problems are technical problems. [CITE?]
+
 
 ## Science
 
@@ -277,6 +286,16 @@ him. It is hard to avoid the conclusion that Rothbard was more concerned with
 asserting his view as the "real" Austrian view than he was with accurately
 engaging Shackle's thought.
 
+A similar charge has been brought against Shackle by Coddignton, who wrote
+that, if economists embraced Shackle's methodology:
+
+"We would then be faced with a situation akin to one in which there was an
+outbreak of Christian Science among the medical profession, or a passion for
+telekinesis among airline pilots" (quoted in Parsons, 2013: 124).
+
+As Parsons says, "Through exploring Shackle's relationship to the Enlightenment
+project, it is possible to recognize that the charge of irrationality is not
+founded" (2013: 125).
 
 ## Conclusion
 
@@ -300,7 +319,7 @@ Basingstoke: Palgrave Macmillan.
 
 Earl, Peter E., and Stephen F. Frowen.
 2013.
-Economics as an Art of Thought: Essays in Memory of G.L.S. Shackle.
+*Economics as an Art of Thought: Essays in Memory of G.L.S. Shackle*.
 London: Routledge.
 
 Lachmann, Ludwig M.
