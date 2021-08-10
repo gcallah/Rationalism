@@ -10,14 +10,22 @@ close colleague of Ludwig Lachmann.
 His importance for our story is his sharp criticisms of the formalistic,
 "rational" methods adopted by the economic mainstream.
 
+Shackle himself defined rationalism as:
+
+"Rationalism [is] the belief that conduct can be understood as part of the
+determinate order and process of Nature, into which is assimilated by virtue of
+the fact that men choose what is best for them in their circumstances..."
+(2017: 239)
+
+
 Shackle's work bears clear resmblances to that of other anti-rationalist
 thinkers. For instance, Parsons writes that:
 
 "Shackle is specifically objecting to the understanding of reason in terms of
 calculation, or technical expertise..."  (2013: 129)
 
-That bears a striking resemblance to Michael Oakeshott's characterization of
-rationalism as the belief that all problems are technical problems. [CITE?]
+That is quite close to Michael Oakeshott's characterization of
+rationalism as the belief that all problems are technical problems. [OAKESHOTT]
 
 
 ## Science
@@ -297,6 +305,12 @@ As Parsons says, "Through exploring Shackle's relationship to the Enlightenment
 project, it is possible to recognize that the charge of irrationality is not
 founded" (2013: 125).
 
+However, Parsons argues that Shackle himself, "Despite acknowledging the
+limitations of reason... attempts to intellectualizes [sic] our awareness of
+succession [and] places a considerable burden on individual cognitive
+abilities" (2013: 140).
+
+
 ## Conclusion
 
 During the twentieth century, neoclassical economics became one of the advanced
@@ -317,6 +331,11 @@ Earl, Peter and Bruce Littleboy. 2014.
 *G. L. S. Shackle*.
 Basingstoke: Palgrave Macmillan.
 
+Parsons, Stephen D.
+2013.
+"Shackle and the Project of the Enlightenment: 
+Reason, Time and Imagination."
+in
 Earl, Peter E., and Stephen F. Frowen.
 2013.
 *Economics as an Art of Thought: Essays in Memory of G.L.S. Shackle*.
@@ -329,6 +348,11 @@ An Essay on Austrian Economics and the Kaleidic Society".
 *Journal of Economic Literature*,
 Mar., 1976, Vol. 14, No. 1 (Mar., 1976), pp. 54- 62
 Stable URL: https://www.jstor.org/stable/2722803
+
+Oakeshott, Michael. 1991 [1962].
+*Rationalism in Politics and Other Essays*.
+Indianapolis:
+Liberty Fund.
 
 Rothbard, Murray N. 2009.
 *Man, Economy, and State, with Power and Market*.
