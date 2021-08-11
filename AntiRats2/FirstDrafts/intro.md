@@ -24,7 +24,24 @@ diverse group of thinkers including Karl
 Marx, R.G. Collingwood, Benedetto Croce, James Joyce, Eric Voegelin, and
 Marshall McLuhan.
 
+*George Eliot* (1819-1880) was the fiction-writing pen name of Mary Ann Evans.
+Under her birth name, she established herself as an important translator,
+editor, and critic. As George Eliot, she wrote some of the most important
+novels in English literature, including *Silas Marner* and *Middlemarch*.
+She was a careful student of the work of Spinoza, and embraced many
+rationalist ideas. But, as Rob Wyllie shows in his contribution, she was a
+cautious rationalist, who rejected many of the most radical rationalist
+propositions. In particular, she was sceptical of rationalist schemes for
+rebuilding human social life from the ground up, as she understood them to
+ignore the ineradicable influence of traditions and customs on human social
+behavior.
 
+*Fyodor Dostoevsky* (1821-1881) was a Russian novelist and essayist, and is
+often regarded as one of the most significant writers in world literature.
+
+*Max Weber* (1864-1920)
+
+*Mikhail Bulgakov* (1891-1940) 
 
 *J.R.R. Tolkein* (1892-1973) wrote some of the best-selling novels of the last century,
 as well as being a professor of English language and literature at Oxford. In
