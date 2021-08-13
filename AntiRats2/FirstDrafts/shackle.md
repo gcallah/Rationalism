@@ -31,7 +31,7 @@ That is quite close to Michael Oakeshott's characterization of
 rationalism as the belief that all problems are technical problems. [OAKESHOTT]
 
 
-## Science
+## Science, Time and History
 
 When it comes to the philosophy of science, Shackle appears to stand firmly in
 the tradition of Berkeley and Hume. For example, in discussing causation, he
@@ -55,8 +55,6 @@ idea that science is pure ratiocination, disparate from emotion and belief:
 nervous force which such a [scientific] task requires. He must be seized by a
 faith." (2014: 184)
 
-
-## Time and History
 
 Shackle's work is continually concerned with the topics of time and history.
 In particular, he argues, if human choice is real, then future history is open-ended,
@@ -184,18 +182,17 @@ In an essay praising Cantillon, Shackle points out that, in the 1700s,
 Cantillon had already anticipated Keynes on unemployment. Those arguing against
 the possibility of involuntary unemployment had argued that workers would be
 paid their marginal product, which, naturally, would keep their wages adjusted
-to any level of business activity:
+to any level of business activity. But Shackle notes that the uncertain nature
+of the future makes such perfect adjustment highly improbable:
 
 "For how can he know what is their marginal product, when he cannot know at
 what price he will be able to sell what they produce?" (2014: 48)
 
+Shackle also noted the supply-and-demand curves are not real-world objects that
+businesses can use to determine where to set a price:
 
 "In the ever-changing world which Marshall pointed to, the representation of a
-firms market by a demand-curve is no more than an aid to thought. It has
-invaluable suggestions to make" (2014: 17)
-
-
-## The Business World
+firms market by a demand-curve is no more than an aid to thought." (2014: 17)
 
 Quite in contrast to the picture of business "activity" (or, rather, the
 passive lack of any genuine activity on the part of business people) offered by
@@ -212,16 +209,6 @@ be no knowing what other data are in the pack waiting to be dealt, or can yet
 be put into it by human ingenious ploys... All experience... tells him that the
 statement of [his trade's] conditions, that he has in mind, are bound to be
 mere fragments" (2014: 19)
-
-
-## What Makes an Economist?
-
-
-
-
-"Language, after all, is essentially, irremediably imprecise, its words and
-phrases capacious for richly various meanings, a medium immeasurably more
-powerful in suggestion than in mere assertion" (2014: 15)
 
 
 ## The Rationally Planned Economy
@@ -254,9 +241,8 @@ to till ground they have not chosen and do not own" (1959: 229).
 
 ## Shackle in Context
 
-So what has been the reaction to Shackle's work amongst economists and social
-theorists?
-
+So what has been the reaction to Shackle's work amongst economists and other
+social theorists?
 
 Ludwig Lachmann found the ideas of Shackle to be largely compatible with those
 of Mises and the Austrian mainstream:
