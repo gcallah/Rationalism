@@ -10,14 +10,17 @@ close colleague of Ludwig Lachmann.
 His importance for our story is his sharp criticisms of the formalistic,
 "rational" methods adopted by the economic mainstream.
 
-Shackle himself defined rationalism as:
+One of the aims of these volumes has been to explore what, exactly, was being
+criticized by vairous "critics of rationalism": were they all shooting at the
+same target? Thus, it is of interest to understand what Shackle's target was.
+Luckily, he made that easy, by offering a concise definition himself:
 
-"Rationalism [is] the belief that conduct can be understood as part of the
-determinate order and process of Nature, into which is assimilated by virtue of
-the fact that men choose what is best for them in their circumstances..."
-(2017: 239)
+"Rationalism [is] the belief that [human] conduct can be understood as part of
+the determinate order and process of Nature, into which is assimilated by
+virtue of the fact that men choose what is best for them in their
+circumstances..." (2017: 239)
 
-
+It is also of note for our purposes that
 Shackle's work bears clear resmblances to that of other anti-rationalist
 thinkers. For instance, Parsons writes that:
 
@@ -45,7 +48,7 @@ imitates and refines the process by which we build, each of us for himself, the
 homely technology of every day living" (2017: 6).
 
 
-Discussing Hayek's work on *The Pure Theory of Capital*, Shackle dismisses the
+Discussing Hayek's work on *The Pure Theory of Capital*, Shackle rejects the
 idea that science is pure ratiocination, disparate from emotion and belief:
 
 "There must be some inspirational idea... before a man can gather the moral and
@@ -68,7 +71,28 @@ affairs, or the sequence of such states, after his decision." (1961: 3)
 
 ## Rational Choice
 
-According to Shackle, economists are making a mistake if they limit their
+If we look at Shackle's definition of rationalism quoted in the introduction,
+we see that, for him, its key feature was the attempt to study human conduct
+using the methods of the quantitative natural sciences. And the chief effort in
+that direction has been rational choice theory. Interestingly, this has taken
+both a descriptive and a prescriptive turn: sometimes, theorists have held
+that, once we fully understand a person's situation as they perceive it, we
+will see that the person's choices *are* rational, i.e., they are all made
+according to a "rational" cost-benefit calculation. (These theorists of course
+don't deny that people make decisions they later regret, but that is only
+because they had an incorrect view of the costs or benefits of some action, not
+because, given that view, they acted irrationally.)* On the other hand, there
+are those who treat rational choice as an ideal to be strived after, and whose
+work thus often criticizes various choices as irrational.**
+
+
+__________________________________
+* For a strong statement of
+the descriptive branch of rational choice theory, see Mises 1998.
+** For an example of this other branch, see Kahneman and Egan, 2018.
+__________________________________
+
+But according to Shackle, economists are making a mistake if they limit their
 explorations to what can be captured in the "pure logic of choice":
 
 "By tacitly assuming that the right conduct can always be discovered by taking
@@ -96,15 +120,10 @@ amongst actions. For probabilities can only be meaningfully assigned to the
 items of a complete list of contingencies, or to the intervals of a variable
 whose meaning is in stable dependence on such a list" (1990: 186-187)
 
-
-
 "I have to express the conviction that this great arabesque of brilliant
 intellectual endeavor [represented by fuzzy logic]
 has still the same essential purpose: to eliminate the
 true unknowledge which gives us imaginative freedom" (2014: 14)
-
-
-
 
 One of the centerpieces of the rationalist project has been the effort to lift
 morality from the realms of tradition and revelation and turn moral choice into
@@ -331,6 +350,10 @@ Earl, Peter and Bruce Littleboy. 2014.
 *G. L. S. Shackle*.
 Basingstoke: Palgrave Macmillan.
 
+Kahneman, Daniel, and Patrick Egan. 2018.
+*Thinking, Fast and Slow*.
+New York: Random House.
+
 Parsons, Stephen D.
 2013.
 "Shackle and the Project of the Enlightenment: 
@@ -348,6 +371,10 @@ An Essay on Austrian Economics and the Kaleidic Society".
 *Journal of Economic Literature*,
 Mar., 1976, Vol. 14, No. 1 (Mar., 1976), pp. 54- 62
 Stable URL: https://www.jstor.org/stable/2722803
+
+Mises, Ludwig von. 1998.
+*Human Action: Scholar’s Edition*.
+Auburn, Ala.: Ludwig von Mises Institute.
 
 Oakeshott, Michael. 1991 [1962].
 *Rationalism in Politics and Other Essays*.
