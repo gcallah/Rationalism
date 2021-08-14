@@ -85,8 +85,9 @@ work thus often criticizes various choices as irrational.**
 
 
 __________________________________
-* For a strong statement of
-the descriptive branch of rational choice theory, see Mises 1998.
+* For examples of
+the descriptive branch of rational choice theory, see Samuelson, 1938,
+or Mises, 1998.
 ** For an example of this other branch, see Kahneman and Egan, 2018.
 __________________________________
 
@@ -209,6 +210,17 @@ be no knowing what other data are in the pack waiting to be dealt, or can yet
 be put into it by human ingenious ploys... All experience... tells him that the
 statement of [his trade's] conditions, that he has in mind, are bound to be
 mere fragments" (2014: 19)
+
+The employment of game theory is sometimes forwarded as a means of introducing
+conflict into the world 
+
+But Shackle points out that it suffers from the same weakness as general
+equilibrium theorizing: both models exclude true creativity by assumption:
+
+"The theory of games is the product of a superb mathematical virtuosity. It
+illustrates a great mathematician's originative genius. By an extraordinary
+paradox, it *assumes away* the whole of that aspect of business, science, art
+and contest, which allows originative genius to exist." (422)
 
 
 ## The Rationally Planned Economy
@@ -371,6 +383,10 @@ Rothbard, Murray N. 2009.
 *Man, Economy, and State, with Power and Market*.
 Auburn: Ludwig von Mises Institute.
 https://mises.org/library/man-economy-and-state-power-and-market/html
+
+Samuelson, P. 1938.
+'A Note on the Pure Theory of Consumers' Behaviour.'
+*Economica*, 5: 61–71.
 
 Shackle, G. L. S. 1959.
 *Economics for Pleasure*.
