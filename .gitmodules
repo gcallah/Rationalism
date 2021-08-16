@@ -1,3 +1,6 @@
 [submodule "AntiRats/utils"]
 	path = AntiRats/utils
 	url = https://github.com/gcallah/utils.git
+[submodule "utils"]
+	path = utils
+	url = git@github.com:gcallah/utils.git
