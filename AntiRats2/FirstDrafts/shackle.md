@@ -89,6 +89,8 @@ __________________________________
 the descriptive branch of rational choice theory, see Samuelson, 1938,
 or Mises, 1998.
 ** For an example of this other branch, see Kahneman and Egan, 2018.
+And for an excellent discussion of rational choice theory with reference to
+Shackle, see Steedman, 2013.
 __________________________________
 
 But according to Shackle, economists are making a mistake if they limit their
@@ -250,6 +252,12 @@ different aims. The first "is like a palisade built to enclose more of the
 desert for men's use," while the latter "is like a fence built to confine them
 to till ground they have not chosen and do not own" (1959: 229).
 
+In short, while Shackle was not a night-watchman state libertarian, he had no
+confidence in the ability of technical experts to micro-manage the economy. As
+Earl and Littleboy put it:
+
+"A society of Shackle's design would rely more on the imagination and judgemnt
+of decision-makers and less on technical expertise" (2014: 3).
 
 ## Shackle in Context
 
@@ -408,3 +416,8 @@ Shackle, G. L. S. 2017.
 *Epistemics and Economics: A Critique of Economic Doctrines*.
 London and New York: Routledge.
 
+Steedman, Ian.
+2013.
+"On Some Concepts of Rationality in Economics."
+in
+Earl and Frowen, ibid.
