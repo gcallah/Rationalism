@@ -28,10 +28,19 @@ thinkers. For instance, Parsons writes that:
 calculation, or technical expertise..."  (2013: 129)
 
 That is quite close to Michael Oakeshott's characterization of
-rationalism as the belief that all problems are technical problems. [OAKESHOTT]
+rationalism as the belief that all knowledge is technical: "Rationalism is the
+assertion that what5 I have called practical knowledge is not knowledsge at
+all, the assertion that, properly speaking, there is no knowledge which is not
+technical knowledge." (1991: 15)
 
 
 ## Science, Time and History
+
+The broader philosophical framework in which Shackle's economic thought is set
+might generally characterized as a consistent belief in the genuine creative
+nature of human action: our choices are *influenced* by our circumstances, but
+not *determined* by them. Let us take a brief look at some particular
+philosophical topics upon which Shackle has something to say.
 
 When it comes to the philosophy of science, Shackle appears to stand firmly in
 the tradition of Berkeley and Hume. For example, in discussing causation, he
@@ -40,7 +49,7 @@ writes:
 "If one of two frequently associated states seems each time to proceed the
 other, we are tempted to call it a *cause* of the other state" (1990: 180).
 
-In fact, Shackle dismisses the claim that science is a specially
+Contra scientism, Shackle dismisses the claim that science is a specially
 privileged form of knowing:
 
 "Science tells us what to count on, what to rely on. But in doing so it merely
@@ -71,7 +80,8 @@ affairs, or the sequence of such states, after his decision." (1961: 3)
 
 If we look at Shackle's definition of rationalism quoted in the introduction,
 we see that, for him, its key feature was the attempt to study human conduct
-using the methods of the quantitative natural sciences. And the chief effort in
+using the methods of the quantitative natural sciences. And a major impetus
+working in
 that direction has been rational choice theory. Interestingly, this has taken
 both a descriptive and a prescriptive turn: sometimes, theorists have held
 that, once we fully understand a person's situation as they perceive it, we
@@ -88,6 +98,7 @@ __________________________________
 * For examples of
 the descriptive branch of rational choice theory, see Samuelson, 1938,
 or Mises, 1998.
+
 ** For an example of this other branch, see Kahneman and Egan, 2018.
 And for an excellent discussion of rational choice theory with reference to
 Shackle, see Steedman, 2013.
@@ -120,6 +131,9 @@ distributive probability can have no application to his problem of choice
 amongst actions. For probabilities can only be meaningfully assigned to the
 items of a complete list of contingencies, or to the intervals of a variable
 whose meaning is in stable dependence on such a list" (1990: 186-187)
+
+Furthermore, Shackle was not impressed by attempts like "fuzzy logic" to patch
+up the shortcomings of a probablistic theory of choice:
 
 "I have to express the conviction that this great arabesque of brilliant
 intellectual endeavor [represented by fuzzy logic]
@@ -263,6 +277,12 @@ of decision-makers and less on technical expertise" (2014: 3).
 
 So what has been the reaction to Shackle's work amongst economists and other
 social theorists?
+
+Shackle's attempt to replace probability theory with a theory of possibility
+and surprise (when analyzing choice) drew widespread criticism -- see, for
+instance, Arrow 1951. This is a somewhat technical topic, beyond the scope of
+this paper. (For an excellent summary of this literature, see Earl and
+Littleboy, 2014, chapter 4.)
 
 Ludwig Lachmann found the ideas of Shackle to be largely compatible with those
 of Mises and the Austrian mainstream:
