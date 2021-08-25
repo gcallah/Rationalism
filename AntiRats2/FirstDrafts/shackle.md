@@ -228,7 +228,18 @@ statement of [his trade's] conditions, that he has in mind, are bound to be
 mere fragments" (2014: 19)
 
 The employment of game theory is sometimes forwarded as a means of introducing
-conflict into the world 
+interaction into the world of economic equilibrium; for instance,
+in discussing why von Neumann thought it important to bring game theory to
+economics,
+*The New Palgrave Dictionary of Economics* notes:
+
+"General equilibrium theory has
+also failed to account for the properly interactive nature
+of social behaviour, particularly that which is manifest in
+situations involving 'small' numbers of agents, be they
+involved in the exchange of goods or in the distribution
+of gains through the formation of social and political
+groups." (2018: 564)
 
 But Shackle points out that it suffers from the same weakness as general
 equilibrium theorizing: both models exclude true creativity by assumption:
@@ -406,6 +417,10 @@ Oakeshott, Michael. 1991 [1962].
 *Rationalism in Politics and Other Essays*.
 Indianapolis:
 Liberty Fund.
+
+Palgrave Macmillan (Firm). 2018.
+*The New Palgrave Dictionary of Economics*.
+London: Palgrave Macmillan.
 
 Rothbard, Murray N. 2009.
 *Man, Economy, and State, with Power and Market*.
