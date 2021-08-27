@@ -36,7 +36,13 @@ technical knowledge." (1991: 15)
 
 ## Science, Time and History
 
-The broader philosophical framework in which Shackle's economic thought is set
+Shackle did not directly reveal much about his own philosophical positions; as
+Earl and Littleboy note, "Correspondence in archives indicate how coyly
+unresponsive he was to suggestions about philosophical or theological
+influences" (2014: 16).
+
+Nevertheless, the broader philosophical framework
+in which Shackle's economic thought is set
 might generally characterized as a consistent belief in the genuine creative
 nature of human action: our choices are *influenced* by our circumstances, but
 not *determined* by them. Let us take a brief look at some particular
