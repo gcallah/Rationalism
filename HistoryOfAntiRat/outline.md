@@ -1,20 +1,152 @@
 # Resisting the Enlightenment
 
-## The Precursors: Vico, Pascal, and Berkeley
+## The Birth of Modern Rationalism
 
-## Rejecting the French Revolution: Burke and de Maistre
+### The precursors
 
-## The Romantic Revolt: Goethe, Hegel, Schiller, Coleridge
+### Bacon
 
-## The Russian Response: Tolstoy and Doestoyevsky
+### Descartes
 
-## British Christians Against Rationalism: Chesterton, Lewis, Barfield,
-and Tolkein
+## The Early Pushback
 
-## The British Idealist Critique: Green, Bosanquet, Collingwood and Oakeshott
+### Vico
 
-## Against Rationalism in Economics: Hayek, Shackle and Lachmann
+### Pascal
 
-## Contra the Planned City: Jacobs and Alexander
+### Berkeley
 
-## Contemporary Critics: Taleb, Scott, Gray, and MacIntyre
+## The Rise of the Philosophes
+
+### Voltaire
+
+### Diderot
+
+### d'Alembert
+
+## Rejecting the French Revolution:
+
+### Burke
+
+### de Maistre
+
+## The Romantic Revolt
+
+### German Romanticism
+
+#### Hamann
+
+#### Goethe
+
+#### Herder
+
+#### Schiller
+
+### British Romanticism
+
+### Coleridge
+
+### The American Transcendentalists
+
+#### Emerson
+
+#### Thoreau
+
+## The Historical Turn
+
+### Hegel
+
+### Dilthey
+
+## The Russian Response
+
+### Tolstoy
+
+### Doestoyevsky
+
+## The Existentialists
+
+### Kierkegaard
+
+### Nietzsche
+
+### Sartre
+
+### Camus
+
+### The Theater of the Absurd
+
+#### Becket
+
+#### Ionesco
+
+## The British Idealist Critique
+
+### Green
+
+### Bosanquet
+
+### Collingwood 
+
+### Oakeshott
+
+## Italian Idealism
+
+### Croce
+
+### de Ruggierro
+
+### Gentile
+
+## Blood and Soil
+
+### Schmitt
+
+## British Christians Against Rationalism
+
+### Chesterton
+
+### Lewis
+
+### Barfield
+
+### Tolkein
+
+## Against Rationalism in Economics
+
+### Hayek
+### Shackle
+
+### Lachmann
+
+## Contra the Rationalist City
+
+### Jacobs
+
+### Alexander
+
+### The New Urbanists
+
+## The Response from the Periphery
+
+### Anti-colonialism
+
+### Islamic Anti-rationalism
+
+### The Integralist Revival
+
+## Contemporary Critics of Rationalism:
+
+### Scott
+
+### Gray
+
+### MacIntyre
+
+### Scruton
+
+### Taleb
+
+## Against Rationalism in Engineering
+
+### Agile Software
