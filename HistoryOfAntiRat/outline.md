@@ -64,6 +64,16 @@
 
 ### Doestoyevsky
 
+### Bulgakov
+
+## American Pragmatism and ?
+
+### Peirce
+
+### James
+
+### Babbitt
+
 ## The Existentialists
 
 ### Kierkegaard
