@@ -47,7 +47,15 @@ setting out the limits of instrumental reason, in order to demonstrate that
 human life demands more.
 
 
-*Irving Babbitt* (1865-1933)
+*Irving Babbitt* (1865-1933) was an American literary critic.
+
+*Carl Schmitt* (1888-1985) is one of the most controversial figures in the
+history of political thought. It has been difficult for his commentators to
+separate his insights about the political condition from his support of Nazism
+in the 1930s.  Gulsen Seven and Aylin Özman do an exemplary job pulling apart
+these two facets of Schmitt, so that we can appreciate his critique of
+political rationalism on its own merits.
+
 
 *Mikhail Bulgakov* (1891-1940) 
 
