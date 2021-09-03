@@ -65,7 +65,19 @@ his chapter on Tolkein, Nathanael Blake shows how a current of
 anti-rationalism, informed by Tolkein's Catholic understanding of humans as
 finite creatures with limited understanding, ran throughout the author's work.
 
+*Karl Lowith* (1897-1973)
+
 *Owen Barfield* (1898-1997) was a philosopher and poet. As a member of the
 Inklings, he was a friend of both J.R.R. Tolkein and C.S. Lewis. 
+
+*Gregory Bateson* (1904-1980) was an English anthropologist
+
+
+*Robert Nisbet* (1913-1996) was an American sociologist...
+
+*Elizabeth Anscombe* (1919-2001) was an English philosopher and protege of
+Ludwig Wittgenstein.
+
+*A.C. Graham* (1919-1991) was a Welsh sinologist...
 
 
