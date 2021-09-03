@@ -39,7 +39,15 @@ behavior.
 *Fyodor Dostoevsky* (1821-1881) was a Russian novelist and essayist, and is
 often regarded as one of the most significant writers in world literature.
 
-*Max Weber* (1864-1920)
+*Max Weber* (1864-1920) is often considered the founder of modern sociology.
+His work *The Protestant Ethic and the Spirit of Capitalism* is one of the
+great works of social science. In her essay on Weber, Lucie Miryekta argues
+that, contra the common view, Weber was not a rationalist, but, rather, was
+setting out the limits of instrumental reason, in order to demonstrate that
+human life demands more.
+
+
+*Irving Babbitt* (1865-1933)
 
 *Mikhail Bulgakov* (1891-1940) 
 
@@ -49,6 +57,7 @@ his chapter on Tolkein, Nathanael Blake shows how a current of
 anti-rationalism, informed by Tolkein's Catholic understanding of humans as
 finite creatures with limited understanding, ran throughout the author's work.
 
-
+*Owen Barfield* (1898-1997) was a philosopher and poet. As a member of the
+Inklings, he was a friend of both J.R.R. Tolkein and C.S. Lewis. 
 
 
