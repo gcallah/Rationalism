@@ -70,6 +70,11 @@ finite creatures with limited understanding, ran throughout the author's work.
 *Owen Barfield* (1898-1997) was a philosopher and poet. As a member of the
 Inklings, he was a friend of both J.R.R. Tolkein and C.S. Lewis. 
 
+*G.L.S. Shackle* (1903-1992) was an English economist. A student of both the
+Austrian and Keynesian schools, he critiqued contemporary mathematical
+economics for its pretense of determinism. Instead, his work stressed the true
+creative power of human choice.
+
 *Gregory Bateson* (1904-1980) was an English anthropologist
 
 
@@ -79,5 +84,12 @@ Inklings, he was a friend of both J.R.R. Tolkein and C.S. Lewis.
 Ludwig Wittgenstein.
 
 *A.C. Graham* (1919-1991) was a Welsh sinologist...
+
+*Stuart Hampshire* (1914-2004) ...
+
+*Roger Scruton* (1944-2020) was an English philosopher in the lineage of
+British conservatives such as Burke and Oakeshott.
+
+*John Gray* (1948-) ...
 
 

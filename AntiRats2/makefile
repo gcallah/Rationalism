@@ -12,7 +12,7 @@ HTMLFILES = $(shell ls $(PTML_DIR)/*.ptml | sed -e 's/.ptml/.html/' | sed -e 's/
 	$(UTILS_DIR)/html_include.awk <$< >$@
 	git add $@
 
-local: $(HTMLFILES) md2html
+local: $(HTMLFILES)
 
 md2html:
 	pandoc -f markdown-smart -t html -o Shackle.html FirstDrafts/shackle.md
