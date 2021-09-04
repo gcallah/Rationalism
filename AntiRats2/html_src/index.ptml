@@ -167,6 +167,16 @@
             </li>
 
             <li>
+                <a href="Shackle.html">
+                The Kaleidic World of G.L.S. Shackle
+                </a>
+                <br>
+                <a href="bios.html#callahan">
+                Gene Callahan</a>,
+                New York University
+            </li>
+
+            <li>
                 <a href="FirstDrafts/Bateson.pdf">
                 Beautiful Minds: Gregory Bateson on Humans, Animals and Ecological Systems
                 </a>
@@ -224,13 +234,14 @@
             </li>
 
             <li>
-                <a href="Shackle.html">
-                The Kaleidic World of G.L.S. Shackle
-                </a>
-                <br>
-                <a href="bios.html#callahan">
-                Gene Callahan</a>,
-                New York University
+                <a href="scruton.html">
+                    Roger Scruton on Reason, Rationality
+                    and the Reasonable</a>
+                <br />
+                    <a href="bios.html#horcher">
+                        Ferenc Hörcher</a>,
+                        Research Institute of Politics and Government,
+                        National University of Public Service
             </li>
 
             <li>
@@ -240,17 +251,6 @@
                 <br />
                     <a href="bios.html#cockram">
                         Nathan Cockram</a>
-            </li>
-
-            <li>
-                <a href="scruton.html">
-                    Roger Scruton on Reason, Rationality
-                    and the Reasonable</a>
-                <br />
-                    <a href="bios.html#horcher">
-                        Ferenc Hörcher</a>,
-                        Research Institute of Politics and Government,
-                        National University of Public Service
             </li>
 
         </ul>
