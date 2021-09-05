@@ -73,7 +73,9 @@ these two facets of Schmitt, so that we can appreciate his critique of
 political rationalism on its own merits.
 
 
-*Mikhail Bulgakov* (1891-1940) 
+*Mikhail Bulgakov* (1891-1940) was a Russian novelist, writing during Stalin's
+reign in the USSR, exhibiting extraordinary courage in continuing to write works 
+that often would be banned or censured by the Communist regime.
 
 *J.R.R. Tolkein* (1892-1973) wrote some of the best-selling novels of the last century,
 as well as being a professor of English language and literature at Oxford. In
@@ -81,7 +83,8 @@ his chapter on Tolkein, Nathanael Blake shows how a current of
 anti-rationalism, informed by Tolkein's Catholic understanding of humans as
 finite creatures with limited understanding, ran throughout the author's work.
 
-*Karl Lowith* (1897-1973)
+*Karl Lowith* (1897-1973) was a German Jew Who understood the Enlightenment as
+an attempt to secularize Chritianity. Ryan Alexander McKinnell argues that 
 
 *Owen Barfield* (1898-1997) was a philosopher and poet. As a member of the
 Inklings, he was a friend of both J.R.R. Tolkein and C.S. Lewis. 
