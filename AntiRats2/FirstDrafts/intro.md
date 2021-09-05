@@ -44,10 +44,26 @@ His work *The Protestant Ethic and the Spirit of Capitalism* is one of the
 great works of social science. In her essay on Weber, Lucie Miryekta argues
 that, contra the common view, Weber was not a rationalist, but, rather, was
 setting out the limits of instrumental reason, in order to demonstrate that
-human life demands more.
+human life demands more: in particular, the social agent is responsible for
+deciding, without guidance by instrumental rationality, just what values they
+choose to promote.
 
+*Irving Babbitt* (1865-1933) was an American literary critic and professor of
+literature at Harvard. Among his students was T.S. Eliot. He was a leader of
+the "New Humanism" movement in the United States.
+He was deeply interested in Taoism and Buddhism, and translated a major
+Buddhist text into English. Justin Garrison describes how, contrary to Enlightenment
+rationalists' emphasis on abstract reason as the proper guide to human
+conduct and social organization, Babbitt emphasized the role of the imagination
+and the will: imagination enabled humans to form a vision of what human life
+ought to be like, and the will enabled them to pursue that vision. Instrumental
+reason enters the picture as a tool the will can employ to move towards the
+imagined vision: if the vision is debased and the will corrupted, reason will
+just serve debased and corrupt ends.
+While not a strict adherent of any tradition, he saw 
+traditional cultural practices as valuable in directing the imagination and will
+towards harmonious visions of human life.
 
-*Irving Babbitt* (1865-1933) was an American literary critic.
 
 *Carl Schmitt* (1888-1985) is one of the most controversial figures in the
 history of political thought. It has been difficult for his commentators to
