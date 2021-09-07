@@ -111,7 +111,15 @@ underappreciated figure among anti-rationalist thinkers.
 *Gregory Bateson* (1904-1980) was an English anthropologist
 
 
-*Robert Nisbet* (1913-1996) was an American sociologist...
+*Robert Nisbet* (1913-1996) was an American sociologist most renowned for his
+critique of the devastating effect of the modern state on the "little
+battalions" of family and local communities. Luke Sheahan highlights Nisbet's
+approach to social science, which, while not dismissing quantitative research,
+contends that the work of the great sociologists, such as de Tocqueville, Marx,
+Durkheim, and Weber, would not have gained prominence if the modern emphasis
+and quantitative methods had ruled in their time. Deep insight and intuition
+are much more important than formal techniques in producing true breakthroughs
+in social thought.
 
 *Elizabeth Anscombe* (1919-2001) was an English philosopher and protege of
 Ludwig Wittgenstein.
@@ -124,7 +132,14 @@ being ruled by abstract thought and being ruled by mere instinct and impulse.
 Coats also notes some important parallels between Graham's thought and that of
 Michael Oakeshott, one of the most prominent critics of rationalism.
 
-*Stuart Hampshire* (1914-2004) ...
+*Stuart Hampshire* (1914-2004) was an English philospher, and a member of the
+circle of Oxford philosophers who promoted ordinary language philosophy.
+Kenneth B. McIntyre argues that he later distanced himself from that movement,
+and offered an important critique of scientism, one of the main currents of
+rationalist thought. As McIntyre puts it, "thought... cannot be reduced to
+mathematical calculation nor to empirical description, but instead is
+necessarily tied to an individual agent's particular perception, intellect, and
+imagination.
 
 *Roger Scruton* (1944-2020) was an English philosopher in the lineage of
 British conservatives such as Burke and Oakeshott.
