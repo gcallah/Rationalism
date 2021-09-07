@@ -24,6 +24,13 @@ diverse group of thinkers including Karl
 Marx, R.G. Collingwood, Benedetto Croce, James Joyce, Eric Voegelin, and
 Marshall McLuhan.
 
+Emily Finley argues that Vico provided one of the earliest critiques of the
+Enlightenment elevation of abstract reason at the expense of historical and
+imaginative understanding. Finley sees Vico as using Cartesian scepticism
+against Cartesian conclusions, so that, for him, our only certain knowledge is
+of the human institutions we ourselves have created, and not of the
+abstractions towards which Descartes graviated.
+
 *George Eliot* (1819-1880) was the fiction-writing pen name of Mary Ann Evans.
 Under her birth name, she established herself as an important translator,
 editor, and critic. As George Eliot, she wrote some of the most important
@@ -75,7 +82,12 @@ political rationalism on its own merits.
 
 *Mikhail Bulgakov* (1891-1940) was a Russian novelist, writing during Stalin's
 reign in the USSR, exhibiting extraordinary courage in continuing to write works 
-that often would be banned or censured by the Communist regime.
+that often would be banned or censured by the Communist regime. Jason Ferrell
+sees Bulgakov as an important dissident challenging the claim of the Marxist
+rulers of the USSR to "scientific rationality." In particular, by
+emphasizing nature, chance, and conscience, and true human choice in light of
+these realities, Bulgakov, at great cost to himself, defends human freedom
+against the terrible power of a society in the grip of a rationalist delusion.
 
 *J.R.R. Tolkein* (1892-1973) wrote some of the best-selling novels of the last century,
 as well as being a professor of English language and literature at Oxford. In
@@ -92,7 +104,9 @@ Inklings, he was a friend of both J.R.R. Tolkein and C.S. Lewis.
 *G.L.S. Shackle* (1903-1992) was an English economist. A student of both the
 Austrian and Keynesian schools, he critiqued contemporary mathematical
 economics for its pretense of determinism. Instead, his work stressed the true
-creative power of human choice.
+creative power of human choice. Gene Callahan argues that, given the importance
+of "economic rationality" to modern rationalism as a whole, Shackle is an
+underappreciated figure among anti-rationalist thinkers.
 
 *Gregory Bateson* (1904-1980) was an English anthropologist
 
@@ -102,7 +116,13 @@ creative power of human choice.
 *Elizabeth Anscombe* (1919-2001) was an English philosopher and protege of
 Ludwig Wittgenstein.
 
-*A.C. Graham* (1919-1991) was a Welsh sinologist...
+*A.C. Graham* (1919-1991) was a Welsh sinologist and philosopher. W.J. Coats
+contends that Graham made an important distinction between "anti-rationalism"
+and "irrationalism," showing that the former does not imply the latter. Graham
+made the case for "aware spontaneity" as capturing the proper balance between
+being ruled by abstract thought and being ruled by mere instinct and impulse.
+Coats also notes some important parallels between Graham's thought and that of
+Michael Oakeshott, one of the most prominent critics of rationalism.
 
 *Stuart Hampshire* (1914-2004) ...
 
