@@ -108,7 +108,16 @@ creative power of human choice. Gene Callahan argues that, given the importance
 of "economic rationality" to modern rationalism as a whole, Shackle is an
 underappreciated figure among anti-rationalist thinkers.
 
-*Gregory Bateson* (1904-1980) was an English anthropologist
+*Gregory Bateson* (1904-1980) was an English anthropologist, linguist,
+semiotician, and cyberneticist. Charles Lowney contends that Bateson saw "a
+dangerous insanity in how we use critical reason to advance human purposes."
+This insanity is responsible for the destruction of both human communities and
+ecological systems. He rejected the idea that "mind" should be applied to only
+conscious rationality, instead arguing that it should be applied to all systems
+that receive, transform, and exchange information. Our non-rational reponses to
+things such as beauty actually convey important information. What's more,
+the concept of "mind" should be expanded to include the Earth's ecosystem as a
+whole, an entity Bateson called "Eco."
 
 
 *Robert Nisbet* (1913-1996) was an American sociologist most renowned for his
