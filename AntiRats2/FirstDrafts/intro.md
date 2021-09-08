@@ -150,9 +150,28 @@ mathematical calculation nor to empirical description, but instead is
 necessarily tied to an individual agent's particular perception, intellect, and
 imagination.
 
-*Roger Scruton* (1944-2020) was an English philosopher in the lineage of
-British conservatives such as Burke and Oakeshott.
+*Roger Scruton* (1944-2020) was an English philosopher.
+He was educated as analytical philosopher, but, Ferenc Horcher writes, his
+presence in Paris during the violent uprising of May 1968 convinced him that
+something was foul in the state of Enlightenment rationalism. As Horcher
+describes the later Scruton, he came to believe that "in the socio-political
+realm, individual rationality should often yield to manners, custom, and
+traditional institutions." Abstract reason needs to be balanced by both
+practical wisdom and love of one's own place in the world.
 
-*John Gray* (1948-) ...
+*John Gray* (1948-) is an English political philosopher. His career is notable
+for his continually evolving position. Gray started out on the left, and
+supported Labour until his move to the right in the mid-1970s. He became
+somewhat of a Hayekian libertarian, until migrating somewhat leftward again in
+the 1990s, when he became a trenchant critic of the claims of philosophical
+liberalism. As Nathan Cockram has it, he focused much of his attack on the
+liberal vision of John Rawls, which held that citizens, while holding a wide
+variety of views on fundamental values, could nevertheless rationally arrive at
+an "overlapping consensus" of principles that all could agree upon, and that
+that consensus would be liberalism. Gray contends that Rawls only dealt with a
+"superficial pluralism," and that liberalism can only be saved by regarding it
+as a "modus vivendi," a compromise that allows people with fundamentally
+irreconcilable value systems to live togegther in peace, rather than as the
+only rationally defensible politcal regime.
 
 
