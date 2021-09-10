@@ -159,7 +159,9 @@ something was foul in the state of Enlightenment rationalism. As Horcher
 describes the later Scruton, he came to believe that "in the socio-political
 realm, individual rationality should often yield to manners, custom, and
 traditional institutions." Abstract reason needs to be balanced by both
-practical wisdom and love of one's own place in the world.
+practical wisdom and love of one's own place in the world. Scruton also
+defended the value of artistic traditions, especially traditional architecture,
+against modernists.
 
 *John Gray* (1948-) is an English political philosopher. His career is notable
 for his continually evolving position. Gray started out on the left, and
