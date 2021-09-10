@@ -57,20 +57,19 @@ choose to promote.
 
 *Irving Babbitt* (1865-1933) was an American literary critic and professor of
 literature at Harvard. Among his students was T.S. Eliot. He was a leader of
-the "New Humanism" movement in the United States.
-He was deeply interested in Taoism and Buddhism, and translated a major
-Buddhist text into English. Justin Garrison describes how, contrary to Enlightenment
-rationalists' emphasis on abstract reason as the proper guide to human
-conduct and social organization, Babbitt emphasized the role of the imagination
-and the will: imagination enabled humans to form a vision of what human life
-ought to be like, and the will enabled them to pursue that vision. Instrumental
-reason enters the picture as a tool the will can employ to move towards the
-imagined vision: if the vision is debased and the will corrupted, reason will
-just serve debased and corrupt ends.
-While not a strict adherent of any tradition, he saw 
-traditional cultural practices as valuable in directing the imagination and will
-towards harmonious visions of human life.
-
+the "New Humanism" movement in the United States, and he drew upon the ancient
+Greeks and Romans, early Christianity, Confucianism, and Buddhism to create his
+distinct type of humanism. Justin Garrison describes how, contrary to
+Enlightenment rationalists' emphasis on abstract reason as the proper guide to
+human conduct and social organization, Babbitt emphasized the roles of
+imagination and will: imagination enabled humans to form a pre-conceptual
+vision of what human life ought to be like, and the will enabled them to pursue
+that vision. For Babbitt, reason could conceptualize and analyze facets of a
+broader intuitive vision, but it had limited ability independently to break
+through dubious forms of imagination to establish contact with reality. Thus,
+while not a strict adherent of any tradition, he saw traditional cultural
+practices as highly valuable in directing the imagination and will towards
+harmonious visions of human life.
 
 *Carl Schmitt* (1888-1985) is one of the most controversial figures in the
 history of political thought. It has been difficult for his commentators to
@@ -112,12 +111,15 @@ underappreciated figure among anti-rationalist thinkers.
 semiotician, and cyberneticist. Charles Lowney contends that Bateson saw "a
 dangerous insanity in how we use critical reason to advance human purposes."
 This insanity is responsible for the destruction of both human communities and
-ecological systems. He rejected the idea that "mind" should be applied to only
-conscious rationality, instead arguing that it should be applied to all systems
-that receive, transform, and exchange information. Our non-rational reponses to
-things such as beauty actually convey important information. What's more,
-the concept of "mind" should be expanded to include the Earth's ecosystem as a
-whole, an entity Bateson called "Eco."
+ecological systems.
+He rejected the idea that "mind" should be applied to only conscious
+rationality, instead arguing that it should be applied to all self-sustaining
+systems that receive, transform, and exchange information. Our conscious mind
+deals with a narrow window of partial information and can lead us into
+"double-binds." Our non-rational responses to things such as beauty can
+actually convey important information that promotes healing.
+What's more, the concept of "mind" should be expanded to include the Earth's
+ecosystem as a whole, an entity Bateson called "Eco."
 
 
 *Robert Nisbet* (1913-1996) was an American sociologist most renowned for his
