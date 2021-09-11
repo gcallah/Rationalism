@@ -139,7 +139,7 @@ Ludwig Wittgenstein.
 contends that Graham made an important distinction between "anti-rationalism"
 and "irrationalism," showing that the former does not imply the latter.
 Following the lead of the classical
-Daoist thinker Zhuangz, Graham
+Daoist thinker Zhuangzi, Graham
 made the case for "aware spontaneity" as capturing the proper balance between
 being ruled by abstract thought and being ruled by mere instinct and impulse.
 Coats also notes some important parallels between Graham's thought and that of
