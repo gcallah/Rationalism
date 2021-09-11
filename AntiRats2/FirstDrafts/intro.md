@@ -95,7 +95,12 @@ anti-rationalism, informed by Tolkein's Catholic understanding of humans as
 finite creatures with limited understanding, ran throughout the author's work.
 
 *Karl Lowith* (1897-1973) was a German Jew Who understood the Enlightenment as
-an attempt to secularize Chritianity. Ryan Alexander McKinnell argues that 
+an attempt to secularize Chritianity. Ryan Alexander McKinnell says that
+Lowith argued that thinkers such as Marx had no rational case for holding
+that history has a plan. Furthermore, as McKinnell puts it,
+"by secularizing the theological conception of history and seeking to realize
+the Kingdom of God on earth the philosophy of history proves to have perverse
+political consequences."
 
 *Owen Barfield* (1898-1997) was a philosopher and poet. As a member of the
 Inklings, he was a friend of both J.R.R. Tolkein and C.S. Lewis. 
@@ -113,7 +118,7 @@ dangerous insanity in how we use critical reason to advance human purposes."
 This insanity is responsible for the destruction of both human communities and
 ecological systems.
 He rejected the idea that "mind" should be applied to only conscious
-rationality, instead arguing that it should be applied to all self-sustaining
+rationality, instead arguing that it should be applied to self-sustaining
 systems that receive, transform, and exchange information. Our conscious mind
 deals with a narrow window of partial information and can lead us into
 "double-binds." Our non-rational responses to things such as beauty can
