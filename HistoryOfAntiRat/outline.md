@@ -1,5 +1,15 @@
 # Resisting the Enlightenment
 
+## Reason before Modernity
+
+### Plato
+
+### Aristotle
+
+### Reason in Judaism
+
+### Reason in Christianity
+
 ## The Birth of Modern Rationalism
 
 ### The precursors
@@ -8,13 +18,11 @@
 
 ### Descartes
 
-## The Early Pushback
-
-### Vico
+## Fideism
 
 ### Pascal
 
-### Berkeley
+## Vico: The First Apostate
 
 ## The Rise of the Philosophes
 
@@ -29,6 +37,12 @@
 ### Burke
 
 ### de Maistre
+
+## British Rationalism
+
+### Bentham
+
+### James Mill
 
 ## The Romantic Revolt
 
@@ -66,13 +80,21 @@
 
 ### Bulgakov
 
-## American Pragmatism and ?
+## American Pragmatism and Syncretism
 
 ### Peirce
 
 ### James
 
 ### Babbitt
+
+## The Debate over Formalism in Mathematics
+
+### Lewis Carroll
+
+### David Hilbert
+
+### Kurt Godel
 
 ## The Existentialists
 
