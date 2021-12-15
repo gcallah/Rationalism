@@ -142,19 +142,19 @@ conservatives" do not agree on every jot and tittle of moral theory and desired
 legislation, and that adherents of a number of different religions exist in
 this coalition. He contends that:
 
-"By accepting neutrality with respect to religion, they must gradually extend
+"Hence the logic of neutrality and toleration unfolds of its own accord.
+By accepting neutrality with respect to religion, they must gradually extend
 it to morality. And then, by doing so, they have walked right into classical
 liberalism's trap."
 
-Well, yes, it would certainly be a trap if they accepted the idiotic reasoning
-that, "If we are tolerant of differences in our coalition in some respects, we
-simply must therefore become tolerant of all differences whatsoever in it
-in any respect."
+Here I find myself in complete agreement with Vallier: classical liberalism is,
+indeed, a trap. Disguised as "neutral governance," it lures its victims into
+Weber's iron cage.
 
-As we have already seen, classical liberalism certainly does not "extend"
-neutrality to all moral views. As exhibited by Vallier's own polemical piece,
-he will not "extend" neutrality to any non-liberal views!
-
+But what is this "logic" that "unfolds of its own accord"? What Vallier appears
+to be saying is, "Look, nationalist conservatives, you've already accepted...
+well, *Jews* into your coalition. Certainly now logic demands that you not
+reject Satanists and polyamourists, right?"
 
 
 
