@@ -99,15 +99,62 @@ for social organization, but intolerant of non-communist ones, or the Catholic
 integralist state is tolerant of various intra-Catholic disputes about policy,
 but intolerant of positions that undermine the Church's authority.
 
+For anyone well-educated in political history, this fact will hardly be
+surprising. Most stable polities in history have organized a society around a
+particular view of human life, and how that life relates to the cosmos as a
+whole. As the political philosopher Eric Voegelin put it, polities are
+"cosmions," little shelters that express for their inhabitants how they relate,
+through the polity, to the broader cosmos. Their political form "represents"
+the inhabitants view of their relationship to the world as a whole. 
 
-
-
-
-
+When a polity ceases to be "representative" in this cosmic sense, trouble is
+afoot:
 
 "If a government is nothing but representative in the constitutional sense, 
 a reprpesentative ruler in the existential sense will sooner or later
 make an end of it; and quite possibly the new existential ruler will not
 be too representative in the constitutional sense." -- NSOP, p. 49
+
+There is, of course, another possibility: a polity will be held together,
+despite its failing to be representative in the existential sense, through
+force. Thus, for instance, after the collapse of the pagan Roman worldview, the
+Roman Empire was sustained for several centuries by military means.
+Nevertheless, the Roman emperors were savvy enough to know that finding an
+existential representational role for the emperor was desirable, and thus their
+experimentation with things like the cult of Sol Invictus, and Constantine's
+ultimate choice of Christianity as the "integral" force uniting the empire.
+
+Vallier writes, of integralism, that "While the thinking behind integralism was
+accepted throughout much of Catholic Europe until the 19th century, by today’s
+standards (or any standards) it is a profoundly anti-liberal, non-neutral
+doctrine."
+
+And here that cat is out of the bag: for a doctrine to be "neutral," it must be
+liberal. What could give greater lie to the myth of liberal neutrality than
+this explicit declaration that only liberal views are "neutral"! In other
+words, "If you agree with my politics, I will declare your views acceptably
+neutral, but if you disagree with them, I will condemn them as non-neutral." It
+would be difficult to write a parody of "liberal neutrality" better than
+Vallier's endorsement of it.
+
+Vallier goes on to try to make hay from the fact that various "nationalist
+conservatives" do not agree on every jot and tittle of moral theory and desired
+legislation, and that adherents of a number of different religions exist in
+this coalition. He contends that:
+
+"By accepting neutrality with respect to religion, they must gradually extend
+it to morality. And then, by doing so, they have walked right into classical
+liberalism's trap."
+
+Well, yes, it would certainly be a trap if they accepted the idiotic reasoning
+that, "If we are tolerant of differences in our coalition in some respects, we
+simply must therefore become tolerant of all differences whatsoever in it
+in any respect."
+
+As we have already seen, classical liberalism certainly does not "extend"
+neutrality to all moral views. As exhibited by Vallier's own polemical piece,
+he will not "extend" neutrality to any non-liberal views!
+
+
 
 
