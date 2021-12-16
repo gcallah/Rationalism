@@ -99,6 +99,9 @@ for social organization, but intolerant of non-communist ones, or the Catholic
 integralist state is tolerant of various intra-Catholic disputes about policy,
 but intolerant of positions that undermine the Church's authority.
 
+(Oddly enough, Vallier mentions this contention... and then simply leaves it
+unansewred.)
+
 For anyone well-educated in political history, this fact will hardly be
 surprising. Most stable polities in history have organized a society around a
 particular view of human life, and how that life relates to the cosmos as a
@@ -129,8 +132,9 @@ accepted throughout much of Catholic Europe until the 19th century, by today’s
 standards (or any standards) it is a profoundly anti-liberal, non-neutral
 doctrine."
 
-And here that cat is out of the bag: for a doctrine to be "neutral," it must be
-liberal. What could give greater lie to the myth of liberal neutrality than
+And here that cat is out of the bag: for a doctrine to be acceptable to liberal
+"neutrality," it must be... liberal.
+What could give greater lie to the myth of liberal neutrality than
 this explicit declaration that only liberal views are "neutral"! In other
 words, "If you agree with my politics, I will declare your views acceptably
 neutral, but if you disagree with them, I will condemn them as non-neutral." It
@@ -156,5 +160,14 @@ to be saying is, "Look, nationalist conservatives, you've already accepted...
 well, *Jews* into your coalition. Certainly now logic demands that you not
 reject Satanists and polyamourists, right?"
 
+I'm sorry, but this is absurd: simply because one's tolerance extends to point
+X is no reason to demand that it extend even further to point Y. Presumably
+Vallier himself has limits to his tolerance: would he enter into a coalition
+with white supremacists because they agree with him and some issue or other?
+
+In fact, if Vallier's "logic" were sound, well, then why shouldn't nationalist
+conservatives extend their tolerance to... progressives, instead of classical
+liberals? The two groups could then join together to dispel the myth of liberal
+neutrality!
 
 
