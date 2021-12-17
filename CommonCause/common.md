@@ -13,15 +13,13 @@ muscular state to advance cultural and religious objectives... Their reasons,
 however, are very different: Classical liberals disagree with the means
 national conservatives deploy because they believe that the state must remain
 neutral among competing ends. Progressive liberals, on the other hand, disagree
-only with the ends that these conservatives seek, not the means they would
-employ."
+only with the ends that these conservatives seek..."
 
 And here we discover the first, and most fatal, flaw in Vallier's argument: the
 idea that the state *must*, indeed that the state *can*, remain "neutral among
 competing ends" is not a serious policy proposal or proposition in political
 philosophy: it is a piece of propaganda, under the cover of which "classical
-liberalism" conceals the fact that it advances classical liberal ends, and
-pretends that it is merely a neutral umpire.
+liberalism" conceals the fact that it advances classical liberal ends.
 
 "How so?" you may ask. Well, let us start off with some simpler examples, and
 work our way into trickier cases. Imagine a serial killer who insists that, if
@@ -32,11 +30,7 @@ no neutrality in that! Well, at least we post-liberals can answer "Of course
 the state is not neutral between evil ends and good ends: the state will
 promote the good ends and surpress the evil ones." But Vallier has closed
 himself off from that response... as we will see later, he must to a vague
-concept of "reasonable ends," a move is a complete failure. He might also make
-a Kantian response here involving universalizing one's principles... but that
-would demand that all subjects of the liberal state be Kantians (or at least
-acquiesce to live under Kantian principles)... and that would hardly make for a
-"neutral" state!
+concept of "reasonable ends," a move is a complete failure.
 
 My first example here may appear absurd: "Of course, *everyone* objects to
 serial killing!" Well, almost everyone: not serial killers.
@@ -56,19 +50,11 @@ Here, we are likely to encounter either some sort of Lockean argument as to how
 property rights are just, or perhaps a utilitarian case for why they make us
 all wealthier in the long run. But at this point, we are being asked to accept
 the classical liberal state either on the basis of Locke's nonsensical
-arguments (where on one page, God owns all of us, [so that suicide is
-forbidden, since God as the ultimate proprietor 
-doesn't want his "investment" in his capital goods
-(humans) destroyed],  but a few pages later, each
-of us owns ourselves), or to accept the entirely non-neutral end of the state
-as maximizing wealth. (And here we might note that even a libertarian like
-Nozick found Locke's argument that "mixing" one's labor with a natural resource
-confers ownership to it to be questionable: if I pee into the sea, do I now own
-the sea, or rather, have I not merely dissipated my own effort out into its
-vastness?)
+arguments, or to accept the entirely non-neutral end of the state
+as maximizing wealth.
 
 Even if one dismisses anarcho-communists as beyond the pale... but at that
-point, "neutrality" is starting to appear extremely vacuous... let us go on to
+point, "neutrality" is starting to appear pretty vacuous... let us go on to
 consider Christians who believe the Sabbath should be a day of rest. That was a
 principle so widely accepted in the "classical liberal" United States of the
 19th-century the blue laws legislating strict limits to what commerce could
@@ -98,7 +84,6 @@ favor, just as the communist state is "tolerant" of various communist schemes
 for social organization, but intolerant of non-communist ones, or the Catholic
 integralist state is tolerant of various intra-Catholic disputes about policy,
 but intolerant of positions that undermine the Church's authority.
-
 (Oddly enough, Vallier mentions this contention... and then simply leaves it
 unansewred.)
 
@@ -127,20 +112,6 @@ existential representational role for the emperor was desirable, and thus their
 experimentation with things like the cult of Sol Invictus, and Constantine's
 ultimate choice of Christianity as the "integral" force uniting the empire.
 
-Vallier writes, of integralism, that "While the thinking behind integralism was
-accepted throughout much of Catholic Europe until the 19th century, by today’s
-standards (or any standards) it is a profoundly anti-liberal, non-neutral
-doctrine."
-
-And here that cat is out of the bag: for a doctrine to be acceptable to liberal
-"neutrality," it must be... liberal.
-What could give greater lie to the myth of liberal neutrality than
-this explicit declaration that only liberal views are "neutral"! In other
-words, "If you agree with my politics, I will declare your views acceptably
-neutral, but if you disagree with them, I will condemn them as non-neutral." It
-would be difficult to write a parody of "liberal neutrality" better than
-Vallier's endorsement of it.
-
 Vallier goes on to try to make hay from the fact that various "nationalist
 conservatives" do not agree on every jot and tittle of moral theory and desired
 legislation, and that adherents of a number of different religions exist in
@@ -163,11 +134,18 @@ reject Satanists and polyamourists, right?"
 I'm sorry, but this is absurd: simply because one's tolerance extends to point
 X is no reason to demand that it extend even further to point Y. Presumably
 Vallier himself has limits to his tolerance: would he enter into a coalition
-with white supremacists because they agree with him and some issue or other?
+with white supremacists because they agree with him on some issue or other?
 
 In fact, if Vallier's "logic" were sound, well, then why shouldn't nationalist
-conservatives extend their tolerance to... progressives, instead of classical
-liberals? The two groups could then join together to dispel the myth of liberal
-neutrality!
+conservatives, rather than extending their tolerance to classical liberals,
+instead extend their tolerance to progressives?
+The two groups could then join together to dispel the myth of liberal
+neutrality, which bith agree is nonsense!
 
+Since the myth of the "neutral state" is exactly what has led us to the
+condition that post-liberals deplore, it is ridiculous to ask
+post-liberals to accept that nonsense in order to combat progressives.
+In fact, post-liberals should recognize that progressives, while mistaken in
+seeking utopian ends, are, in fact, allies in exposing the distinctly
+non-neutral nature of the classical liberal state.
 
