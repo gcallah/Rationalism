@@ -140,7 +140,7 @@ In fact, if Vallier's "logic" were sound, well, then why shouldn't nationalist
 conservatives, rather than extending their tolerance to classical liberals,
 instead extend their tolerance to progressives?
 The two groups could then join together to dispel the myth of liberal
-neutrality, which bith agree is nonsense!
+neutrality, which both agree is nonsense!
 
 Since the myth of the "neutral state" is exactly what has led us to the
 condition that post-liberals deplore, it is ridiculous to ask
