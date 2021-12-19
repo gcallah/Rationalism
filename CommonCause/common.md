@@ -30,7 +30,7 @@ no neutrality in that! Well, at least we post-liberals can answer "Of course
 the state is not neutral between evil ends and good ends: the state will
 promote the good ends and surpress the evil ones." But Vallier has closed
 himself off from that response... as we will see later, he must to a vague
-concept of "reasonable ends," a move is a complete failure.
+concept of "reasonable ends," a move that is a complete failure.
 
 My first example here may appear absurd: "Of course, *everyone* objects to
 serial killing!" Well, almost everyone: not serial killers.
@@ -62,8 +62,9 @@ occur on a Sunday were ubiquitous. But, in the name of "neutrality," such laws
 have been almost entirely overturned. The outcome of that process has not been
 "neutral," but, instead, has forced many businesses to remain open on Sundays,
 or lose out to their competitors who were willing to remain open. (Max Weber
-described this as the "iron cage" in which liberalism trapped individuals.) And
-isolated cases like Chick-fil-a, a wildly successful business that has been
+described this as the "iron cage" in which liberalism trapped individuals: as
+he noted, "The Puritan wanted to work in a calling; we are forced to do so.")
+And isolated cases like Chick-fil-a, a wildly successful business that has been
 able to remain closed on Sundays, hardly show that the average businessman is
 not trapped in Weber's iron cage.
 
@@ -84,8 +85,6 @@ favor, just as the communist state is "tolerant" of various communist schemes
 for social organization, but intolerant of non-communist ones, or the Catholic
 integralist state is tolerant of various intra-Catholic disputes about policy,
 but intolerant of positions that undermine the Church's authority.
-(Oddly enough, Vallier mentions this contention... and then simply leaves it
-unansewred.)
 
 For anyone well-educated in political history, this fact will hardly be
 surprising. Most stable polities in history have organized a society around a
@@ -112,10 +111,13 @@ existential representational role for the emperor was desirable, and thus their
 experimentation with things like the cult of Sol Invictus, and Constantine's
 ultimate choice of Christianity as the "integral" force uniting the empire.
 
-Vallier goes on to try to make hay from the fact that various "nationalist
+Oddly enough, Vallier mentions the contention that no state can possibly be
+neutral... and then, instead of answering it, tries to contend that
+post-liberals, if only they were honest, would admit that they were actually
+liberals. He notes that various "nationalist
 conservatives" do not agree on every jot and tittle of moral theory and desired
 legislation, and that adherents of a number of different religions exist in
-this coalition. He contends that:
+this coalition. From that fact, he jumps to the conclusion that:
 
 "Hence the logic of neutrality and toleration unfolds of its own accord.
 By accepting neutrality with respect to religion, they must gradually extend
@@ -148,4 +150,3 @@ post-liberals to accept that nonsense in order to combat progressives.
 In fact, post-liberals should recognize that progressives, while mistaken in
 seeking utopian ends, are, in fact, allies in exposing the distinctly
 non-neutral nature of the classical liberal state.
-
