@@ -93,25 +93,23 @@ such a regime.
 
 Thus we see that, far from being "neutral among competing
 ends," the classical liberal state is neutral among competing classical liberal
-ends, but will quite definitely squash any
-non-liberal ends. And, suddenly, the "classical liberal state" is flushed from
-its warren and out into the light of day,
-where it can be clearly seen as just another partisan view
-of what kind of life the state should
-favor. Just as the communist state is "tolerant" of various communist schemes
-for social organization, but intolerant of non-communist ones, or the Catholic
-integralist state is tolerant of various intra-Catholic disputes about policy,
-but intolerant of positions that undermine the Church's authority.
+ends, but will quite definitely surpress any
+non-liberal ends. Once we have seen through its lair's camouflage,
+the "neutral state" is flushed from
+its den and out into the light of day,
+where we clearly recognize it as one among many partisan advocates
+of what form of life the state should promote.
 
-If one attends to political history, this fact will hardly be
-surprising. Most stable polities in history have organized a society around a
+If one attends to political history, this exposure will hardly be
+surprising. Most stable polities have organized a society based upon a
 particular view of human life, and how that life relates to the cosmos as a
 whole. As the political philosopher Eric Voegelin put it, polities are
-"cosmions," little shelters that express for their inhabitants how they relate,
-through the polity, to the broader cosmos. Their political form "represents"
-the inhabitants view of their relationship to the world as a whole. 
+"cosmions," little shelters that express for their inhabitants how they
+are connected to and take part in,
+through their polity, the broader cosmos which they find themselves,
+mysteriously, inhabiting.
 
-There is, of course, another possibility: a polity will be held together,
+But there is another possibility: a polity can be held together,
 despite its failing to be representative in the existential sense, through
 force. Thus, for instance, after the collapse of the pagan Roman worldview, the
 Roman Empire was sustained for several centuries by military means.
@@ -125,10 +123,11 @@ Oddly enough, Vallier mentions the contention that no state can possibly be
 neutral... and then, rather than responding to it, instead contends that
 nationalist conservatives, if only they were honest,
 would admit that they are really liberals at heart.
-He attempts to make his case here, firstly, by noting that various nationalist
-conservatives do not agree on every jot and tittle of moral theory and desired
-legislation, and that adherents of a number of different religions exist in
-their coalition. From those facts, he goes on to argue that:
+The first exhibit in his case is the fact that within nationalist
+conservatism there are adherents of a number of different religions,
+and that they appear willing to tolerate such diversity.
+Since nationalist conservatives do not demand complete doctrinal uniformity,
+Vallier goes on to argue that:
 
 "Hence the logic of neutrality and toleration unfolds of its own accord.
 By accepting neutrality with respect to religion, they must gradually extend
@@ -144,16 +143,19 @@ to be saying is, "Look, nationalist conservatives, you've already accepted...
 well, *Jews* into your coalition. Certainly logic now demands that you also
 accept, amongst your brethren, Satanists and polyamourists, right?"
 
-I'm sorry, but this is absurd: simply because one's tolerance extends to point
-X is no reason to demand that it must extend even further to point Y. Presumably
-Vallier himself has limits to his tolerance: would he enter into a coalition
-with white supremacists because they agree with him on interpreting
+I'm sorry, but this is absurd: simply because someone's tolerance extends as far
+as point X, there is no "logic" that compels them to extend
+extend even further to point Y. Simply because I can get along with someone who
+foolishly thinks the Rolling Stones were better than the Beatles does not mean
+I must also make friends with someone who favors racial apartheid.
+Presumably Vallier himself has limits to his tolerance: would he enter into a
+coalition with white supremacists because they agree with him on interpreting
 the First Amendment?
 
 In fact, if Vallier's "logic" were sound, well, then why shouldn't nationalist
 conservatives, rather than extending their tolerance to classical liberals,
-instead extend it to progressives?
-The two groups could then join together to dispel the myth of liberal
+extend it instead to progressives?
+The two groups could join together to dispel the myth of liberal
 neutrality, which both agree is nonsense!
 
 Since the myth of the "neutral state" is exactly what has led us to the
