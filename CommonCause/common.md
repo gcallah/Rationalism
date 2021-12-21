@@ -26,7 +26,7 @@ difference is that classical liberals attempt to hide their agenda behind a
 veil of neutrality.
 
 "How so?" you may ask. Well, let us start off with some simple examples, and
-work our way forward from there. To start, let us
+work our way forward from there. Firstly, let us
 imagine a serial killer who insists that, if
 classical liberalism is as good as its word, it ought to be neutral among his
 end of killing as much as possible and his victims desire to not be killed. What
