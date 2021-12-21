@@ -15,24 +15,31 @@ national conservatives deploy because they believe that the state must remain
 neutral among competing ends. Progressive liberals, on the other hand, disagree
 only with the ends that these conservatives seek..."
 
-And here we discover the first, and most fatal, flaw in Vallier's argument: the
-idea that the state *must*, indeed that the state *can*, remain "neutral among
+However, Vallier's contention
+that the state *must*, indeed that the state *can*, remain "neutral among
 competing ends" is not a serious policy proposal or proposition in political
 philosophy: it is a piece of propaganda, under the cover of which "classical
-liberalism" conceals the fact that it advances classical liberal ends.
+liberalism" conceals the fact that it advances classical liberal ends. In fact,
+nationalist conservatives, classical liberals, and progressives all hope to
+steer the state towards promoting what they see as a good society: the only
+difference is that classical liberals attempt to hide their agenda behind a
+veil of neutrality.
 
-"How so?" you may ask. Well, let us start off with some simpler examples, and
-work our way into trickier cases. Imagine a serial killer who insists that, if
+"How so?" you may ask. Well, let us start off with some simple examples, and
+work our way forward from there. To start, let us
+imagine a serial killer who insists that, if
 classical liberalism is as good as its word, it ought to be neutral among his
 end of killing as much as possible and his victims desire to not be killed. What
 is the classic liberal state doing sending its armed minions after him? There's
 no neutrality in that! Well, at least we post-liberals can answer "Of course
 the state is not neutral between evil ends and good ends: the state will
 promote the good ends and surpress the evil ones." But Vallier has closed
-himself off from that response... as we will see later, he must to a vague
-concept of "reasonable ends," a move that is a complete failure.
+himself off from that response... instead, he must resort to a vague
+concept of "reasonable ends"... and it turns out that classical liberals will
+consider ends to be reasonable so long as they do not challenge classical
+liberalism.
 
-My first example here may appear absurd: "Of course, *everyone* objects to
+The above example may appear absurd: "Of course, *everyone* objects to
 serial killing!" Well, almost everyone: not serial killers.
 But it does start to puncture the silly idea of "liberal neutrality."
 However, let's move on to a less outlandish example: imagine an
@@ -48,45 +55,48 @@ of property rights.
 
 Here, we are likely to encounter either some sort of Lockean argument as to how
 property rights are just, or perhaps a utilitarian case for why they make us
-all wealthier in the long run. But at this point, we are being asked to accept
+all wealthier in the long run. But at this point, we are being asked to embrace
 the classical liberal state either on the basis of Locke's nonsensical
-arguments, or to accept the entirely non-neutral end of the state
-as maximizing wealth.
+arguments, or because it achieves the not-at-all neutral aim
+of maximizing the citizens' wealth. (One of the refreshing things about Ludwig
+von Mises's advocacy of liberalism is that he is up front in saying, "People
+like to have more stuff rather than less, so they should be liberals.")
 
 Even if one dismisses anarcho-communists as beyond the pale... but at that
 point, "neutrality" is starting to appear pretty vacuous... let us go on to
 consider Christians who believe the Sabbath should be a day of rest. That was a
 principle so widely accepted in the "classical liberal" United States of the
-19th-century the blue laws legislating strict limits to what commerce could
+19th-century that blue laws legislating strict limits to what commerce could
 occur on a Sunday were ubiquitous. But, in the name of "neutrality," such laws
 have been almost entirely overturned. The outcome of that process has not been
-"neutral," but, instead, has forced many businesses to remain open on Sundays,
-or lose out to their competitors who were willing to remain open. (Max Weber
+"neutral," but, instead, has compelled many businesses to remain open on Sundays,
+or lose out to their competitors who were willing to remain open, as well as
+making it extremely difficult to be employed in certain professions wigthout
+bei willing to work on Sundays. (Max Weber
 described this as the "iron cage" in which liberalism trapped individuals: as
 he noted, "The Puritan wanted to work in a calling; we are forced to do so.")
-And isolated cases like Chick-fil-a, a wildly successful business that has been
-able to remain closed on Sundays, hardly show that the average businessman is
-not trapped in Weber's iron cage.
 
 Finally, let us consider a devout Muslim resident of a classical liberal state.
 She believes that conformance with God's immutable divine law (Sharia) is an
-ultimate requirement of a truly just state. She may be willing to deal with a
+ultimate requirement for a truly just state. She may be willing to deal with a
 classical liberal state as a temporary expedient that tolerates Muslims, but
-her real end must always be the implementation of Sharia law as the only truly
+her real end must always be the adoption of Sharia law as the only truly
 just form of governance. The classical liberal state is certainly not "neutral"
 in regards to her ends.
 
-So, what we have discovered is that, far from being "neutral among competing
+As demonstrated, far from being "neutral among competing
 ends," the classical liberal state is neutral among competing classical liberal
 ends, but will quite definitely squash any
-non-liberal ends. And, suddenly, the "classical liberal state" appears in the
-daylight, as just another partisan view of what kind of life the state should
-favor, just as the communist state is "tolerant" of various communist schemes
+non-liberal ends. And, suddenly, the "classical liberal state" is flushed from
+its warren and out into the light of day,
+where it can be clearly seen as just another partisan view
+of what kind of life the state should
+favor. Just as the communist state is "tolerant" of various communist schemes
 for social organization, but intolerant of non-communist ones, or the Catholic
 integralist state is tolerant of various intra-Catholic disputes about policy,
 but intolerant of positions that undermine the Church's authority.
 
-For anyone well-educated in political history, this fact will hardly be
+If one attends to political history, this fact will hardly be
 surprising. Most stable polities in history have organized a society around a
 particular view of human life, and how that life relates to the cosmos as a
 whole. As the political philosopher Eric Voegelin put it, polities are
@@ -94,30 +104,24 @@ whole. As the political philosopher Eric Voegelin put it, polities are
 through the polity, to the broader cosmos. Their political form "represents"
 the inhabitants view of their relationship to the world as a whole. 
 
-When a polity ceases to be "representative" in this cosmic sense, trouble is
-afoot:
-
-"If a government is nothing but representative in the constitutional sense, 
-a reprpesentative ruler in the existential sense will sooner or later
-make an end of it; and quite possibly the new existential ruler will not
-be too representative in the constitutional sense." -- NSOP, p. 49
-
 There is, of course, another possibility: a polity will be held together,
 despite its failing to be representative in the existential sense, through
 force. Thus, for instance, after the collapse of the pagan Roman worldview, the
 Roman Empire was sustained for several centuries by military means.
 Nevertheless, the Roman emperors were savvy enough to know that finding an
-existential representational role for the emperor was desirable, and thus their
-experimentation with things like the cult of Sol Invictus, and Constantine's
-ultimate choice of Christianity as the "integral" force uniting the empire.
+existential, representational role for the emperor was desirable, and thus they
+experimented with solutions like the cult of Sol Invictus, and thus
+Constantine's ultimate choice of Christianity as the "integral" force uniting
+the empire.
 
 Oddly enough, Vallier mentions the contention that no state can possibly be
-neutral... and then, instead of answering it, tries to contend that
-post-liberals, if only they were honest, would admit that they were actually
-liberals. He notes that various "nationalist
-conservatives" do not agree on every jot and tittle of moral theory and desired
+neutral... and then, rather than responding to it, instead contends that
+nationalist conservatives, if only they were honest,
+would admit that they are really liberals at heart.
+He attempts to make his case here, firstly, by noting that various nationalist
+conservatives do not agree on every jot and tittle of moral theory and desired
 legislation, and that adherents of a number of different religions exist in
-this coalition. From that fact, he jumps to the conclusion that:
+their coalition. From those facts, he goes on to argue that:
 
 "Hence the logic of neutrality and toleration unfolds of its own accord.
 By accepting neutrality with respect to religion, they must gradually extend
@@ -130,23 +134,24 @@ Weber's iron cage.
 
 But what is this "logic" that "unfolds of its own accord"? What Vallier appears
 to be saying is, "Look, nationalist conservatives, you've already accepted...
-well, *Jews* into your coalition. Certainly now logic demands that you not
-reject Satanists and polyamourists, right?"
+well, *Jews* into your coalition. Certainly logic now demands that you also
+accept, amongst your brethren, Satanists and polyamourists, right?"
 
 I'm sorry, but this is absurd: simply because one's tolerance extends to point
-X is no reason to demand that it extend even further to point Y. Presumably
+X is no reason to demand that it must extend even further to point Y. Presumably
 Vallier himself has limits to his tolerance: would he enter into a coalition
-with white supremacists because they agree with him on some issue or other?
+with white supremacists because they agree with him on interpreting
+the First Amendment?
 
 In fact, if Vallier's "logic" were sound, well, then why shouldn't nationalist
 conservatives, rather than extending their tolerance to classical liberals,
-instead extend their tolerance to progressives?
+instead extend it to progressives?
 The two groups could then join together to dispel the myth of liberal
 neutrality, which both agree is nonsense!
 
 Since the myth of the "neutral state" is exactly what has led us to the
 condition that post-liberals deplore, it is ridiculous to ask
-post-liberals to accept that nonsense in order to combat progressives.
+post-liberals to accept that myth in order to combat progressives.
 In fact, post-liberals should recognize that progressives, while mistaken in
 seeking utopian ends, are, in fact, allies in exposing the distinctly
 non-neutral nature of the classical liberal state.
