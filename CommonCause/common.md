@@ -163,4 +163,4 @@ condition that post-liberals deplore, it is ridiculous to ask
 post-liberals to accept that myth in order to combat progressives.
 In fact, post-liberals should recognize that progressives, while mistaken in
 seeking utopian ends, are, in fact, allies in exposing the distinctly
-non-neutral nature of the classical liberal state.
+non-neutral character of the classical liberal state.
