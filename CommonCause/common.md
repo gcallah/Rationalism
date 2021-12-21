@@ -72,7 +72,7 @@ point, the veil of "neutrality" is starting to look rather threadbare...
 then let us go on to
 consider Christians who believe the Sabbath should be a day of rest. That was
 an idea so widely accepted in the "classical liberal" United States of the
-19th-century that blue laws legislating strict limits to what commerce could
+19th-century that blue laws legislating strict limits as to what commerce could
 be conducted on a Sunday were ubiquitous. But, in the name of "neutrality,"
 such laws have been almost entirely abolished. The outcome of that process has
 not been "neutral": instead, it has compelled many businesses to remain open
