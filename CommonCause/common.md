@@ -123,9 +123,9 @@ Oddly enough, Vallier mentions the contention that no state can possibly be
 neutral... and then, rather than responding to it, instead contends that
 nationalist conservatives, if only they were honest,
 would admit that they are really liberals at heart.
-The first exhibit in his case is the fact that within nationalist
-conservatism there are adherents of a number of different religions,
-and that they appear willing to tolerate such diversity.
+His case begins by pointing out the fact that, within nationalist
+conservatism, there are adherents of a number of different religions,
+and that they all appear willing to tolerate such diversity in their movement.
 Since nationalist conservatives do not demand complete doctrinal uniformity,
 Vallier goes on to argue that:
 
