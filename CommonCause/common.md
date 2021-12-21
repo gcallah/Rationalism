@@ -1,6 +1,6 @@
 # Making a Common Muddle
 
-Recently, philosopher Kevin Vallier published an essay
+Recently, political philosopher Kevin Vallier published an essay
 entitled "[Making Common
 Cause](https://www.discoursemagazine.com/ideas/2021/11/19/making-common-cause/)",
 which argues that, "If they ever want to counter the left’s excesses,
