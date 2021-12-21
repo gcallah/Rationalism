@@ -78,7 +78,7 @@ such laws have been almost entirely abolished. The outcome of that process has
 not been "neutral": instead, it has compelled many businesses to remain open
 on Sundays, or lose out to their competitors that did so,
 as well as making it extremely difficult to be employed in certain professions
-if one would not work on Sundays. (Max Weber described this as the "iron
+if one will not work on Sundays. (Max Weber described this as the "iron
 cage" in which liberalism trapped individuals: as he noted, "The Puritan wanted
 to work in a calling; we are forced to do so.")
 
