@@ -41,40 +41,46 @@ liberalism.
 
 The above example may appear absurd: "Of course, *everyone* objects to
 serial killing!" Well, almost everyone: not serial killers.
-But it does start to puncture the silly idea of "liberal neutrality."
-However, let's move on to a less outlandish example: imagine an
+But it does begin to blow off the fog of "neutrality,"
+under the cover of which liberals advance liberal ends.
+
+However, let's move on to a less outlandish example:
+we will imagine an
 anarcho-communist confronting the classical liberal state. He contends, along
 with Proudhon, that "property is theft." He believes that your seaside villa,
 my house in the country, Madison Square Garden, and the Louvre are all the
-common property of all mankind: he (and everyone else) ought to be able to
+common property of mankind: he (and everyone else) ought to be able to
 spend the weekend at your villa, farm my land, wander onto the court during a
-Knicks game, or borrow the Mona Lisa for a few days for a party. The classical
-liberal state is certainly not neutral between his end of everyone sharing
-everything in common, and the classical liberal infatuation with the sanctity
-of property rights.
+Knicks game, or borrow the Mona Lisa for a few days when he wishes.
+The classical liberal state is certainly not neutral between his end of
+everyone sharing all goods in common, and the classical liberal insistence
+upon the sanctity of property rights.
 
-Here, we are likely to encounter either some sort of Lockean argument as to how
+In response here, we are likely to encounter either
+some sort of Lockean argument as to how
 property rights are just, or perhaps a utilitarian case for why they make us
 all wealthier in the long run. But at this point, we are being asked to embrace
-the classical liberal state either on the basis of Locke's nonsensical
-arguments, or because it achieves the not-at-all neutral aim
+the classical liberal state either on the basis of Locke's self-contradictory
+arguments (where at one point God owns us all, but a bit later we all own
+ourselves), or because it achieves the not-at-all neutral aim
 of maximizing the citizens' wealth. (One of the refreshing things about Ludwig
 von Mises's advocacy of liberalism is that he is up front in saying, "People
 like to have more stuff rather than less, so they should be liberals.")
 
 Even if one dismisses anarcho-communists as beyond the pale... but at that
-point, "neutrality" is starting to appear pretty vacuous... let us go on to
-consider Christians who believe the Sabbath should be a day of rest. That was a
-principle so widely accepted in the "classical liberal" United States of the
+point, the veil of "neutrality" is starting to look rather threadbare...
+then let us go on to
+consider Christians who believe the Sabbath should be a day of rest. That was
+an idea so widely accepted in the "classical liberal" United States of the
 19th-century that blue laws legislating strict limits to what commerce could
-occur on a Sunday were ubiquitous. But, in the name of "neutrality," such laws
-have been almost entirely overturned. The outcome of that process has not been
-"neutral," but, instead, has compelled many businesses to remain open on Sundays,
-or lose out to their competitors who were willing to remain open, as well as
-making it extremely difficult to be employed in certain professions wigthout
-bei willing to work on Sundays. (Max Weber
-described this as the "iron cage" in which liberalism trapped individuals: as
-he noted, "The Puritan wanted to work in a calling; we are forced to do so.")
+be conducted on a Sunday were ubiquitous. But, in the name of "neutrality,"
+such laws have been almost entirely abolished. The outcome of that process has
+not been "neutral": instead, it has compelled many businesses to remain open
+on Sundays, or lose out to their competitors that did so,
+as well as making it extremely difficult to be employed in certain professions
+if one would not work on Sundays. (Max Weber described this as the "iron
+cage" in which liberalism trapped individuals: as he noted, "The Puritan wanted
+to work in a calling; we are forced to do so.")
 
 Finally, let us consider a devout Muslim resident of a classical liberal state.
 She believes that conformance with God's immutable divine law (Sharia) is an
@@ -82,9 +88,10 @@ ultimate requirement for a truly just state. She may be willing to deal with a
 classical liberal state as a temporary expedient that tolerates Muslims, but
 her real end must always be the adoption of Sharia law as the only truly
 just form of governance. The classical liberal state is certainly not "neutral"
-in regards to her ends.
+in regards to her ends, as liberal constitutions typically explicitly forbid
+such a regime.
 
-As demonstrated, far from being "neutral among competing
+Thus we see that, far from being "neutral among competing
 ends," the classical liberal state is neutral among competing classical liberal
 ends, but will quite definitely squash any
 non-liberal ends. And, suddenly, the "classical liberal state" is flushed from
