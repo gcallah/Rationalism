@@ -143,9 +143,9 @@ to be saying is, "Look, nationalist conservatives, you've already accepted...
 well, *Jews* into your coalition. Certainly logic now demands that you also
 accept, amongst your brethren, Satanists and polyamourists, right?"
 
-I'm sorry, but this is absurd: simply because someone's tolerance extends as far
-as point X, there is no "logic" that compels them to extend
-extend even further to point Y. Simply because I can get along with someone who
+I'm sorry, but this is absurd: simply because one's tolerance extends as far
+as point X, there is no "logic" that compels one to extend
+extend it even further to point Y. Simply because I can get along with someone who
 foolishly thinks the Rolling Stones were better than the Beatles does not mean
 I must also make friends with someone who favors racial apartheid.
 Presumably Vallier himself has limits to his tolerance: would he enter into a
