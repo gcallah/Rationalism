@@ -104,7 +104,7 @@ If one attends to political history, this exposure will hardly be
 surprising. Most stable polities have organized a society based upon a
 particular view of human life, and how that life relates to the cosmos as a
 whole. As the political philosopher Eric Voegelin put it, polities are
-"cosmions," little shelters that express for their inhabitants how they
+"cosmions," little shelters, that express for their inhabitants how they
 are connected to and take part in,
 through their polity, the broader cosmos which they find themselves,
 mysteriously, inhabiting.
