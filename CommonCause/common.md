@@ -3,7 +3,7 @@
 Recently, political philosopher Kevin Vallier published an essay
 entitled "[Making Common
 Cause](https://www.discoursemagazine.com/ideas/2021/11/19/making-common-cause/)",
-which argues that, "If they ever want to counter the left’s excesses,
+in which he argues that, "If they ever want to counter the left’s excesses,
 neo-nationalists on the right need to ally with classical liberals and embrace
 the neutral state."
 
