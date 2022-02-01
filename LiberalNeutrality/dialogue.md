@@ -21,7 +21,7 @@ then what does liberal neutrality actually mean?
 
 Oneiropolos: Well, the liberal state certainly is neutral about *some* things.
 
-Philonous: OK, but aren’t all states are neutral about some things? For instance, no state
+Philonous: OK, but aren't all states neutral about some things? For instance, no state
 ever made the law work differently for people over 5‘7“ than for those under
 that height. No state ever discriminated amongst its citizens based on how much
 body hair they had. So it would seem that every state is neutral about some
@@ -48,7 +48,7 @@ illiberal that I felt I had to use whatever weapons I could muster against
 it...
 
 Philonous: Between friends such as us, Oneiropolos, all is forgiven.  
-But let us gone on to revisit my non-extreme examples.
+But let us revisit my non-extreme examples.
 For instance, let us consider an Islamic regime. That regime will not be
 neutral between Muslims and non-Muslims. But it may very well be neutral about
 whether or not someone decides to bake a cake for a gay couples’ wedding.
