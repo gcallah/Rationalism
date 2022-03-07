@@ -1,10 +1,16 @@
 # Liberal Neutrality: A Dialogue Between Philonous and Oneiropolos
 
-Philonous: So, Oneiropolos, welcome back to the seaside, here at sandy Pylos!
+Philonous: So, Ony... you don't mind if I call you "Ony,"
+do you?
+
+Oneiropolos: That's fine, so long as I can call you "Phil."
+
+Philonous: Consider it a deal! In any case,
+welcome back to the seaside, here at sandy Pylos!
 This bracing sea air makes our minds clearer when we discuss philosophical
 matters, wouldn't you agree?
 
-Oneiropolos: I don't know about that, Philonous. I often feel more confident in
+Oneiropolos: I don't know about that, Phil. I often feel more confident in
 my views when I am presenting them in a cramped and stuffy academic conference
 room.
 
@@ -12,7 +18,7 @@ Philonous: Well, be that as it may, here we are, walking along the seawrack,
 near, I think, the omphalos. As I recall, the last time we took a stroll here,
 we were discussing liberal neutrality. Isn't that correct?
 
-Oneiropolos: Yes, Philonous, that is my recollection as well.
+Oneiropolos: Yes, Phil, that is my recollection as well.
 
 Philonous: When I pointed out to you that the liberal state is not neutral about many
 things, you responded “Of course not! Who would want to be neutral about serial
@@ -21,7 +27,7 @@ then what does liberal neutrality actually mean?
 
 Oneiropolos: Well, the liberal state certainly is neutral about *some* things.
 
-Philonous: OK, but aren’t all states are neutral about some things? For instance, no state
+Philonous: OK, but aren't all states neutral about some things? For instance, no state
 ever made the law work differently for people over 5‘7“ than for those under
 that height. No state ever discriminated amongst its citizens based on how much
 body hair they had. So it would seem that every state is neutral about some
@@ -43,12 +49,12 @@ told you I was only starting with extreme cases for pedagogical purposes,
 because that was where non-neutrality would be most obvious, and that I
 would... in fact, I did... proceed to far more common cases?
 
-Oneiropolos: I suppose you did, Philonous, and yet your conclusion was so
+Oneiropolos: I suppose you did, Phil, and yet your conclusion was so
 illiberal that I felt I had to use whatever weapons I could muster against
 it...
 
-Philonous: Between friends such as us, Oneiropolos, all is forgiven.  
-But let us gone on to revisit my non-extreme examples.
+Philonous: Between friends such as us, Ony, all is forgiven.  
+But let us revisit my non-extreme examples.
 For instance, let us consider an Islamic regime. That regime will not be
 neutral between Muslims and non-Muslims. But it may very well be neutral about
 whether or not someone decides to bake a cake for a gay couples’ wedding.
@@ -84,7 +90,7 @@ beliefs" than to Islam?
 
 Oneiropolos: Now wait a second... I must not mean that. You’re trying to confuse me!
 
-Philonous: My apologies, Oneiropolos, I did not mean to make you upset!
+Philonous: My apologies, Ony, I did not mean to make you upset!
 Since that topic disturbed you, let us turn our attention to an
 anarcho-communist regime. Such a regime would be neutral as to whether its
 citizens chose to respect someone’s claim to own 1000 acres of land or not,
@@ -180,7 +186,20 @@ liberal. So you’re OK with their program?
 
 Oneiropolos: No! I am a classical liberal. We believe in absolute free speech rights.
 
-Philonous: OK, but these woke people do not. So you rule their view out as unreasonable?
+Philonous: Just as an aside, Ony, weren't you telling me, just the other day,
+that a famous liberal was ruling out classical liberalism itself as being
+unreasonable?
+
+Oneiropolos: Yes, yes, very unfortunate...
+
+Philonous: Well, tolerance is all well and good, but we can't extend it to
+"wrongthink," now can we?
+
+Oneiropolos: I'm not sure what you mean...
+
+Philonous: Don't let it trouble you!
+In any case, you are quite committed to free speech,
+but these woke people are not. So you rule their view out as unreasonable?
 
 Oneiropolos: No, they can believe whatever they want in my liberal regime. They just can’t
 put their beliefs into law.
