@@ -14,7 +14,7 @@
 To the extent that Tocqueville detected problems, and foresaw them as
 leading up to aspects of our current situation, we should be reluctant to
 assign because of those features to more recent phenomena, such as federal
-consolidation, progressive activism, or “the 1960s.”
+consolidation, progressive activism, or "the 1960s."
 
 
 
@@ -23,6 +23,23 @@ consolidation, progressive activism, or “the 1960s.”
 
 
 ## Materialism
+
+"Carefully to satisfy even the least wants of the body, and to provide the
+little conveniences of life, is uppermost in every mind" (signet 209)
+
+"The desire of acquiring the comforts of the world haunts the imagination of
+the poor, and the dread of losing them that of the rich" (signet 210)
+
+"The passion for physical comforts is essentially a passion of the middle
+classes..." (s 210)
+
+"The love of well-being is now become the predominant taste of the nation..."
+(s 211)
+
+Why?
+
+
+
 
 
 
