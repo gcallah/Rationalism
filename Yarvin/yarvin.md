@@ -1,7 +1,7 @@
 # What to make of Curtis Yarvin
 
 How should a Christian rank political regimes? Judging along what is merely one
-access, it is clear that a Christian should order, from best to worst, regimes
+axis, it is clear that a Christian should order, from best to worst, regimes
 that:
 
 1. Actively support a Christian life.
@@ -30,7 +30,8 @@ American, and I think that he is, then we must take that reality into account
 in evaluating different proposals for improving the current political
 situation.
 
-And among Yarvin's requirements for "The contract of any next regime" are:
+Among Yarvin's requirements for "The contract of any next regime" is  the
+following:
 
 "Every culture has the right to educate its children in the doctrines of its
 own tradition. Every culture has the right to judge the behavior of its
@@ -51,21 +52,23 @@ establish a pro-Christian government. And by his principle, Satanist would also
 have the right to establish a pro-Stanist culture. But it *is* a proposal for a
 form of government that is not actively hostile to Christian communities. In
 other words, he recommends establishing a neutral regime, rather than enduring
-the current regime, which is actively anti-Christian.
+a regime that is actively anti-Christian, which I take the current regime to
+be.
 
 
 One reason some people might reject opting for a neutral regime is they think
 the number one option, a regime that promotes Christian life, is possible. In
 our current situation, I do not think it is. Perhaps Adrian Vermeule would say
-that I lack sufficient imagination… and perhaps he would be correct. But I am
+that I lack sufficient imagination... and perhaps he would be correct. But I am
 stuck with making judgments based on the imagination that I actually have, not
 the imagination I might hope to have. 
 
 
-
 One fellow Christian, upon seeing me defend Yarvin, said, "But he is a
 nihilist!" Well, if true, that is bad, but: 
-1. It is not really relevant as to whether his current political proposals are worth considering; and
+1. It is not really relevant as to whether his current political proposals are
+worth considering (unless one thinks he is trying to trick us into accepting
+proposals that will result in destruction); and
 2. Whatever he once said about his philosophical stance, I don't think it
 accurately describes his current beliefs.
 
@@ -80,18 +83,18 @@ saying things like "the prerevolutionary consensus on the purpose of government
 is quite consistent. It fits in a Latin motto, salus populi suprema lex: the
 health of the people is the supreme law."
 (https://graymirror.substack.com/p/policies-of-the-deep-right)
-
-Or, consider this one: "The largest existential risk facing humanity is the present global
+Or, consider this: "The largest existential risk facing humanity is the present global
 political order." (https://graymirror.substack.com/p/do-not-punch-rationalists)
 
+These are clearly statements of moral concern about our current situation.
 A nihilist would not care what the supreme law is, nor would he be worried
 about existential threats to human life on our planet. In fact, a true nihilist 
 would *welcome* existential risk to humanity, right?
 So even if this label applied to Yarvin at some point in the past, I'd have to
 say it no longer does.
 
-Another complaint against Yarvin is his categorizing the Dobbs decision is a
-loss for the people celebrating it. Why does he say this?
+Another complaint against Yarvin is that he considers the Dobbs decision as a
+loss for the people celebrating it. Why does he say this? He writes:
 
 "An action is strategically useful if, after that action, it is easier to
 replace the regime. Let’s call a useful action a strike—making a useless or
@@ -106,13 +109,13 @@ harder, Dobbs is a net lose -- a ball."
 Yarvin is **not** claiming that a "right" to abortion should be protected;
 instead, his claim is that Dobbs is actually a loss for pro-life people,
 because it has energized pro-abortion forces while causing anti-abortion people
-to relax. While there are many factors at play in the upcoming mid-term
-elections, Democrats are clearly hoping to motivate their base by citing the
-Dobbs decision. And perhaps that will work!
-
+to relax. Now, his pragmatic analysis may be wrong, but it is certainly not a
+defense of any right to an abortion. And while there are many factors at play in
+the upcoming mid-term elections, Democrats are clearly hoping to motivate their
+base by citing the Dobbs decision.
 If it does, and the result is an increased Democratic majority in both houses,
 pro-abortion forces might very well get congress to pass a law mandating an
-unlimited right to abortion, a law states could not override. So, while
+unlimited right to abortion, a law that states could not override. So, while
 Yarvin's strategic analysis of the impact of Dobbs might be *wrong*, it is not
 "pro-abortion": it is prudential warning to consider the long-term impact of
 some governmental action, rather than merely looking at whether it *appears* to
@@ -125,11 +128,4 @@ account when evaluating them. If we conclude our best bet right now is to
 replace a hostile regime with a neutral regime, then we ought to cooperate with
 others seeking to bring about that same end, even if we disagree with them on
 other, very fundamental matters.
-
-
-
-
-
-
-
 
