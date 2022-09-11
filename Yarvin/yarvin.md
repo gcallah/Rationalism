@@ -1,27 +1,43 @@
 # What to make of Curtis Yarvin
 
-How should a Christian rank political regimes? Judging along what is merely one
-axis, it is clear that a Christian should order, from best to worst, regimes
-that:
+The readers of Modern Age might broadly be classified as "respecters of
+traditional moral principles.” Few of us would regard every jot and tittle of
+morality passed down to us by our ancestors as sacrosanct, but principles that
+have survived for millennia should never be tossed out lightly. I dislike using
+the term "traditionalist,” because that suggests respect for tradition turned
+into an ideology. It is when traditions start to collapse that we see the rise
+of traditionalists: for instance, in the early centuries of the Roman republic,
+citizens respected tradition simply as part of their way of living, and not as
+dogma. But as the Roman Revolution proceeded over the course of a century, we
+saw the rise of dogmatic traditionalism. So let us instead coin a rather
+awkward neologism, traditionaphiles, as use that from here forward. [DAN: HAPPY
+TO IMPROVE UPON THIS AWKWARD WORD!]
 
-1. Actively support a Christian life.
-2. At least do not get in the way of a Christian life.
-3. Actively undermine a Christian life.
+How should a traditionaphile rank political regimes? Judging along what is
+merely one access, it is clear that a traditionaphile should order, from best to
+worst, regimes that:
+
+1. Actively support a life lived in accord with traditional moral principles.
+2. At least do not get in the way of such a life.
+3. Actively work to undermine such a life.
 
 It is clear to me that today we live under the third type of regime. Thus, a
-move to a regime of type two would be a marked improvement.
+move to a regime of type two would be a marked improvement. And that brings us
+to Curtis Yarvin's recent political writing, which has stirred some controversy
+among traditionaphiles.
 
-And that brings us to Curtis Yarvin's recent political writing. 
-
-
-Yarvin says that the average American citizen today is a "hobbit" who "just
-wants to grill." (The number of Christians who got upset at him for his
+In particular, "You can only lose the culture war" divided American citizens
+into "hobbits and elves."
+(https://graymirror.substack.com/p/you-can-only-lose-the-culture-war)
+Yarvin says that the average American citizen today is a hobbit who "just
+wants to grill and raise kids." (The number of traditionaphiles
+who got upset at him for his
 "hobbit" characterization apparently had forgotten that it was a devout
 Catholic who came up with that metaphor for the common people in the first
 place.) Well, it would be nice if we lived in a polity full of Aristotelian
-spoudaios (mature people), eager to engage in intelligent discussions about how
+*spoudaios* (mature people), eager to engage in intelligent discussions about how
 we should arrange our political life. But we do not, and the average American
-couch potato, while a sort of spud, is no sort of spoudaios, and transforming
+couch potato, while a sort of spud, is no sort of *spoudaios*, and transforming
 him into one will be no mean task. Morality requires, among other things, that
 we base our actions upon a realistic evaluation of the circumstances in which
 we find ourselves, rather than upon fantasy or wishful thinking. If Yarvin is
@@ -30,7 +46,8 @@ American, and I think that he is, then we must take that reality into account
 in evaluating different proposals for improving the current political
 situation.
 
-Among Yarvin's requirements for "The contract of any next regime" is  the
+So what does Yarvin propose to do about our current malaise?
+Among his requirements for "The contract of any next regime" is the
 following:
 
 "Every culture has the right to educate its children in the doctrines of its
@@ -43,36 +60,48 @@ right to preserve its own tradition with a content barrier. And while every
 person can leave any culture, any culture can reject or eject any person."
 (https://graymirror.substack.com/p/the-contract-of-any-next-regime)
 
-In other words, Yarvin quite explicitly defends the right of Christians to live
-in a Christian culture (if they wish to!), to set their own laws for the
-members of their culture, to prevent anti-Christian ideas from undermining
+In other words, Yarvin quite explicitly defends the right of traditionaphiles
+to live
+in a traditional culture (if they wish to!), to set their own laws for the
+members of their culture, to prevent anti-traditional ideas from undermining
 their culture, and to decide who is actually a member and who isn't, so long as
 they allow free exit. So, quite certainly, this is not a recommendation to
-establish a pro-Christian government. And by his principle, Satanist would also
-have the right to establish a pro-Stanist culture. But it *is* a proposal for a
-form of government that is not actively hostile to Christian communities. In
+establish a pro-tradition national government. And by his principle, Satanist would also
+have the right to establish a pro-Satanist culture. But it *is* a proposal for a
+form of government that is not actively hostile to traditional communities. In
 other words, he recommends establishing a neutral regime, rather than enduring
-a regime that is actively anti-Christian, which I take the current regime to
+a regime that is actively anti-tradition, which I take the current regime to
 be.
 
+Some people might argue that such a "neutral regime" is not actually possible.
+I myself have made arguments like that at times. And under our current form of
+goernment, that is probably correct... but Yarvin explicitly recommends a
+constitutional (peaceful) revolution, where the president of the United States
+asserts the monarchical powers that, under a plausible reading, the US
+Constitution seems to grant him. And we do have historical examples of imperial
+governments that were able to remain largely neutral between the many
+sub-cultures within the empire, for instance, the Persian Empire before
+Alexander's conquest, or the Holy Roman Empire's post-Reformation settlement,
+where each prince decided the confession of his 
 
-One reason some people might reject opting for a neutral regime is they think
-the number one option, a regime that promotes Christian life, is possible. In
+Another reason some people might reject opting for a neutral regime is they think
+the number one option, a regime that promotes traditional morality, is possible. In
 our current situation, I do not think it is. Perhaps Adrian Vermeule would say
-that I lack sufficient imagination... and perhaps he would be correct. But I am
-stuck with making judgments based on the imagination that I actually have, not
-the imagination I might hope to have. 
+that I have an impoverished political imagination...
+(https://postliberalorder.substack.com/p/it-cant-happen-or-the-poverty-of)
+and perhaps he would be correct. But I am
+stuck with making judgments employing the imagination that I actually have, not
+some bolder imagination I might hope to have. 
 
-
-One fellow Christian, upon seeing me defend Yarvin, said, "But he is a
+One fellow traditionaphile, upon seeing me defend Yarvin, said, "But he is a
 nihilist!" Well, if true, that is bad, but: 
 1. It is not really relevant as to whether his current political proposals are
 worth considering (unless one thinks he is trying to trick us into accepting
 proposals that will result in destruction); and
-2. Whatever he once said about his philosophical stance, I don't think it
-accurately describes his current beliefs.
+2. Whatever he once said about his philosophical stance, I don't think
+"nihilist" accurately describes his current beliefs.
 
-I am only familiar with Yarvin's recent writing. I am dimly aware that at some
+I am only familiar with Yarvin's recent writing. I am aware that at some
 point in the past he appeared online as some character named "Mendacious Moldy
 Bugs," or something like that. I don't think I ever read a single word written
 by that persona. And perhaps it was accurate to describe that persona as a
@@ -83,7 +112,7 @@ saying things like "the prerevolutionary consensus on the purpose of government
 is quite consistent. It fits in a Latin motto, salus populi suprema lex: the
 health of the people is the supreme law."
 (https://graymirror.substack.com/p/policies-of-the-deep-right)
-Or, consider this: "The largest existential risk facing humanity is the present global
+And: "The largest existential risk facing humanity is the present global
 political order." (https://graymirror.substack.com/p/do-not-punch-rationalists)
 
 These are clearly statements of moral concern about our current situation.
@@ -121,7 +150,7 @@ Yarvin's strategic analysis of the impact of Dobbs might be *wrong*, it is not
 some governmental action, rather than merely looking at whether it *appears* to
 be a victory for one's side.
 
-A Christian operating in the political sphere ought not to base their decisions
+A traditionaphile operating in the political sphere ought not to base their decisions
 upon wishful thinking. Prudence is a virtue, and while not succumbing to
 utilitarianism, we are obliged to take the likely outcome of our decisions into
 account when evaluating them. If we conclude our best bet right now is to
