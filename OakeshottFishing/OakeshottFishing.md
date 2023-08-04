@@ -34,6 +34,24 @@ and seeing what fish he might catch from that spot.
 ## The Reactions
 
 
+Spitz:
+
+"That On Human Conduct is but a restatement of his teaching, that it is no more than a linguistic variation on familiar themes..." (342)
+
+
+"Apparently it is now possible to speak of the character of a modern European state without attending to the
+concrete manners of behavior in England, or France, or Germany, or any other national system. The differences he so
+assiduously urged us to note among them-if we were to acquire true political knowledge-are now forgotten; instead, the
+diverse manners of behavior are blurred in a presumably (but not demonstrated) common manner of behavio" (346)
+
+
+"An ideal-type does not describe reality; it is an abstraction, an abridgment, or
+as the earlier Oakeshott would say, an ideological way of looking at reality." (347)
+
+No: an ideology is an abstraction that has forgotten it is an abstraction and instead takes itself to be concrete
+reality, so that one attempts to find theoretical solutions to problems requiring phronesis.
+
+
 Elizabeth Corey
 
 
