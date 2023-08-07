@@ -81,6 +81,14 @@ who interrogates instead of using his theoretic equipment catches no fish."
 (OHC, pg. 11)
 
 
+Some people have been tempted to say "enterprise association" as a synonym for "rationalism," and "civil association" as
+a synonym for customary behavior. But this simply won't do: Oakeshott does not fancy enterprise Association as a way of
+organizing a government. But most certainly, he recognizes that entities like for-profit companies, sports teams, and
+charities are inherently enterprise associations. Does this mean he thinks that their managers should operate them in a
+rationalistic fashion? Of course not: Rationalism will fail as a way of managing a sports team just as surely as it
+will fail as a way of governing a polity.
+
+
 ## Conclusion
 
 
