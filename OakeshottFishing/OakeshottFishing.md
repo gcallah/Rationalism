@@ -30,6 +30,18 @@ and seeing what fish he might catch from that spot.
 
 ## The Dichotomies
 
+Let's attempt to set down the dichotomies Oakeshott, at one time or another, employs, knowing most likely we will miss
+some:
+
+- Exerience without reservation or arrest versus modal experience
+- Aesthetic morality versus rule-bound morality
+- The politics of faith versus the politics of skepticism
+- Rationalism versus customary behavior
+- The individual versus the individual manque
+- Civil association versus enterprise association
+
+
+
 
 ## The Reactions
 
