@@ -61,11 +61,16 @@ diverse manners of behavior are blurred in a presumably (but not demonstrated) c
 as the earlier Oakeshott would say, an ideological way of looking at reality." (347)
 
 No: an ideology is an abstraction that has forgotten it is an abstraction and instead takes itself to be concrete
-reality, so that one attempts to find theoretical solutions to problems requiring phronesis.
+reality, so that one attempts to find theoretical solutions to problems requiring phronesis or techne.
 
 
 Elizabeth Corey
 
+"This is what Oakeshott describes as the 'politics of skepticism' and 'civil association'" (156).
+
+This remark clearly posits the 'politics of skepticism' and 'civil association' as two names for the same thing. But if
+that is so, then the 'politics of faith' and 'enterprise association' must also be identical. But they clearly aren't:
+not everyone opening a corner deli "posits a uniform condition of mundane perfection" (Corey, 172).
 
 
 ## Going Fishing
