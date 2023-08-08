@@ -63,6 +63,10 @@ as the earlier Oakeshott would say, an ideological way of looking at reality." (
 No: an ideology is an abstraction that has forgotten it is an abstraction and instead takes itself to be concrete
 reality, so that one attempts to find theoretical solutions to problems requiring phronesis or techne.
 
+Alexander:
+
+"There is something paradoxical about being opposed to theoretical abstraction and yet having such a relentless
+inclination to carry it out" (2).
 
 Elizabeth Corey
 
@@ -108,6 +112,10 @@ both wild dogs and house cats exist.
 
 ## Bibliography
 
+
+- Alexander, James (2022) 'Oakeshott-22,'
+*Cosmos and Taxis*, Vol. 10, Issues 7+8,
+(https://cosmosandtaxis.files.wordpress.com/2022/06/alexander_ct_vol10_iss7_8.pdf)
 
 - Alexander, James (2022) 'An Interview with Robert Grant, University of Glasgow,'
 *Cosmos and Taxis*, Vol. 10, Issues 7+8,
