@@ -72,6 +72,13 @@ This remark clearly posits the 'politics of skepticism' and 'civil association' 
 that is so, then the 'politics of faith' and 'enterprise association' must also be identical. But they clearly aren't:
 not everyone opening a corner deli "posits a uniform condition of mundane perfection" (Corey, 172).
 
+Some people (WHO?) have been tempted to say "enterprise association" as a synonym for "rationalism," and "civil association" as
+a synonym for customary behavior. But this simply won't do: Oakeshott does not fancy enterprise Association as a way of
+organizing a government. But most certainly, he recognizes that entities like for-profit companies, sports teams, and
+charities are inherently enterprise associations. Does this mean he thinks that their managers should operate them in a
+rationalistic fashion? Of course not: Rationalism will fail as a way of managing a sports team just as surely as it
+will fail as a way of governing a polity.
+
 
 ## Going Fishing
 
@@ -85,13 +92,14 @@ fish of the locality, interrupts but does not betray his calling... the theorist
 who interrogates instead of using his theoretic equipment catches no fish."
 (OHC, pg. 11)
 
+How then, can we explain the very intelligent commentators who have mistaken various dichotomies as being simply
+synonymous? I suggest that this is because, well, not synonymous, members of these various pairs often do share large
+amounts of territory, in terms of what they are designating. To make this clearer, here I will drop anchor and pickup
+some theoretic hooks and nets borrowed from Saussure by the way of Eco (44-45). 
 
-Some people have been tempted to say "enterprise association" as a synonym for "rationalism," and "civil association" as
-a synonym for customary behavior. But this simply won't do: Oakeshott does not fancy enterprise Association as a way of
-organizing a government. But most certainly, he recognizes that entities like for-profit companies, sports teams, and
-charities are inherently enterprise associations. Does this mean he thinks that their managers should operate them in a
-rationalistic fashion? Of course not: Rationalism will fail as a way of managing a sports team just as surely as it
-will fail as a way of governing a polity.
+The mistake is natural. It is as though Someone from a culture that only kept dogs as household pets comes across a
+description of "household pets" and thinks, "Oh, the person is talking about dogs." Natural, but still a mistake, since
+both wild dogs and house cats exist.
 
 
 ## Conclusion
@@ -101,10 +109,15 @@ will fail as a way of governing a polity.
 ## Bibliography
 
 
-https://cosmosandtaxis.files.wordpress.com/2022/06/grant_alexander_ct_vol10_iss7_8_rev.pdf
+- Alexander, James (2022) 'An Interview with Robert Grant, University of Glasgow,'
+*Cosmos and Taxis*, Vol. 10, Issues 7+8,
+(https://cosmosandtaxis.files.wordpress.com/2022/06/grant_alexander_ct_vol10_iss7_8_rev.pdf)
 
 - Corey, Elizabeth Campbell (2006) *Michael Oakeshott on Religion, Aesthetics, and Politics*,
 Columbia, Missouri: University of Missouri Press.
+
+- Eco, Umberto (1986) *Semiotics and the Philosophy of Language*,
+Bloomington: Indiana University Press.
 
 - Oakeshott, Michael (1933) *Experience and Its Modes*,
 Cambridge: Cambridge University Press.
@@ -117,5 +130,5 @@ Indianapolis: Liberty Fund.
 - Oakeshott, Michael (1996) *The Politics of Faith and the Politics of Scepticism*,
 ed. Timothy Fuller, New Haven and London: Yale University Press.
 
-- Spitz, David (1976) ‘A Rationalist Malgre Lui: The Perplexities
-of Being Michael Oakeshott’, *Political Theory*, Vol. 4, No. 3, 335-352.
+- Spitz, David (1976) 'A Rationalist Malgre Lui: The Perplexities
+of Being Michael Oakeshott', *Political Theory*, Vol. 4, No. 3, 335-352.
