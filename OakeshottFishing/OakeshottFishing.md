@@ -53,20 +53,33 @@ Spitz:
 
 "Apparently it is now possible to speak of the character of a modern European state without attending to the
 concrete manners of behavior in England, or France, or Germany, or any other national system. The differences he so
-assiduously urged us to note among them-if we were to acquire true political knowledge-are now forgotten; instead, the
-diverse manners of behavior are blurred in a presumably (but not demonstrated) common manner of behavio" (346)
+assiduously urged us to note among them -- if we were to acquire true political knowledge -- are now forgotten;
+instead, the diverse manners of behavior are blurred in a presumably (but not demonstrated)
+common manner of behavior" (346)
 
 
-"An ideal-type does not describe reality; it is an abstraction, an abridgment, or
+Spitz: "An ideal-type does not describe reality; it is an abstraction, an abridgment, or
 as the earlier Oakeshott would say, an ideological way of looking at reality." (347)
-
-No: an ideology is an abstraction that has forgotten it is an abstraction and instead takes itself to be concrete
-reality, so that one attempts to find theoretical solutions to problems requiring phronesis or techne.
 
 Alexander:
 
 "There is something paradoxical about being opposed to theoretical abstraction and yet having such a relentless
 inclination to carry it out" (2).
+
+No: an ideology is an abstraction that has forgotten it is an abstraction and instead takes itself to be concrete
+reality, so that one attempts to find theoretical solutions to problems requiring phronesis or techne.
+
+The rationalist is not someone who creates abstractions; he is someone who creates abstractions, and then tries to use them
+as a substitute for the knowledge of a concrete activity. A map of Budapest is an abstraction. Oakeshott is not against
+the making of such a map. He is against someone who believes that because they have a good map of Budapest, they
+are in a position to remake the city along more rational lines.
+
+[Sketch of "irrational" street.]
+
+Real example: Corbusier, who was actually designing microprocessors, not cities.
+
+Note: *techne* versus *phronesis*.
+
 
 Elizabeth Corey
 
@@ -76,12 +89,13 @@ This remark clearly posits the 'politics of skepticism' and 'civil association' 
 that is so, then the 'politics of faith' and 'enterprise association' must also be identical. But they clearly aren't:
 not everyone opening a corner deli "posits a uniform condition of mundane perfection" (Corey, 172).
 
-Some people (WHO?) have been tempted to say "enterprise association" as a synonym for "rationalism," and "civil association" as
-a synonym for customary behavior. But this simply won't do: Oakeshott does not fancy enterprise Association as a way of
+Other people (WHO?) have been tempted to say "enterprise association" as a synonym for "rationalism," and "civil association" as
+a synonym for customary behavior. But that also won't do: Oakeshott does not fancy enterprise Association as a way of
 organizing a government. But most certainly, he recognizes that entities like for-profit companies, sports teams, and
 charities are inherently enterprise associations. Does this mean he thinks that their managers should operate them in a
 rationalistic fashion? Of course not: Rationalism will fail as a way of managing a sports team just as surely as it
 will fail as a way of governing a polity.
+
 
 
 ## Going Fishing
@@ -104,6 +118,10 @@ some theoretic hooks and nets borrowed from Saussure by the way of Eco (44-45).
 The mistake is natural. It is as though Someone from a culture that only kept dogs as household pets comes across a
 description of "household pets" and thinks, "Oh, the person is talking about dogs." Natural, but still a mistake, since
 both wild dogs and house cats exist.
+
+Now Spitz's complaint that the important differences between different European nations "are now forgotten"
+is easily handled: Oakeshott has not *forgotten* the differences between various countries; no, he has *dropped anchor*
+at a new location, and is using different *hooks and nets* to catch what may be caught at that location.
 
 
 ## Conclusion
