@@ -74,6 +74,10 @@ as a substitute for the knowledge of a concrete activity. A map of Budapest is a
 the making of such a map. He is against someone who believes that because they have a good map of Budapest, they
 are in a position to remake the city along more rational lines.
 
+(And the idealist claim that such-and-such is an abstraction, and therefore defective, is not a case for banning
+abstractions! A map of Budapest is "defective" compared to a lifelong, intimate knowledge of its streets and byways...
+but still extremely useful for a tourist trying to get around. [Bosanquet on morality.])
+
 [Sketch of "irrational" street.]
 
 Real example: Corbusier, who was actually designing microprocessors, not cities.
@@ -103,8 +107,26 @@ This remark clearly posits the 'politics of skepticism' and 'civil association' 
 that is so, then the 'politics of faith' and 'enterprise association' must also be identical. But they clearly aren't:
 not everyone opening a corner deli "posits a uniform condition of mundane perfection" (Corey, 172).
 
-Other people (WHO?) have been tempted to say "enterprise association" as a synonym for "rationalism," and "civil association" as
-a synonym for customary behavior. But that also won't do: Oakeshott does not fancy enterprise Association as a way of
+"To sum up, Oakeshott's three related formulations of a particular kind of politics (Rationalism, 'faith,' and
+collectivism)" (173).
+
+But, as discussed in *Oakeshott on Rome and America*, Ayn Rand and Murray Rothbard are both rationalists and "faith"
+representatives, but fiercely anti-collectivist.
+
+
+John Horton:
+
+> The book articulates a distinction between two ‘styles’ of the activity of governing—‘the politics of faith’ and ‘the
+politics of scepticism’. This distinction is clearly related to others he deploys elsewhere, most obviously between
+rationalism and conservatism, collectivism and individualism and enterprise and civil association. On the one hand, the
+left as we might say, we have the politics of faith, rationalism, collectivism and enterprise association and on the
+other, the right, the politics of scepticism, conservatism, individualism and civil association. The terms in each of
+these sets are certainly not equivalent, but they form two broad families, each loosely linked within a binary structure
+that is characteristic of Oakeshott’s thought. (2005: 25)
+
+
+So Horton sees "enterprise association" as a synonym for "rationalism," and "civil association" as
+a synonym for customary behavior. But that also won't do: Oakeshott does not fancy enterprise association as a way of
 organizing a government. But most certainly, he recognizes that entities like for-profit companies, sports teams, and
 charities are inherently enterprise associations. Does this mean he thinks that their managers should operate them in a
 rationalistic fashion? Of course not: Rationalism will fail as a way of managing a sports team just as surely as it
@@ -158,6 +180,9 @@ Columbia, Missouri: University of Missouri Press.
 
 - Eco, Umberto (1986) *Semiotics and the Philosophy of Language*,
 Bloomington: Indiana University Press.
+
+- Horton, John (2005) 'A Qualified Defence of Oakeshott’s Politics of Scepticism',
+*European Journal Of Political Theory*, Vol. 4, No. 1: 23-36
 
 - Oakeshott, Michael (1933) *Experience and Its Modes*,
 Cambridge: Cambridge University Press.
