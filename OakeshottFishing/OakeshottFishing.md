@@ -80,6 +80,20 @@ Real example: Corbusier, who was actually designing microprocessors, not cities.
 
 Note: *techne* versus *phronesis*.
 
+And we know this is Oakeshott's position because he told us so quite explicitly; in *On Human Conduct*, after telling us
+he has been closely following Plato so far, he goes on to describe the point at which Plato goes astray:
+
+> The cave-dwellers, upon first encountering the theorist after his return to the world of the shadows [very well might be
+impressed] when he tells them that what they had always thought of as 'a horse' is not what they suppose it to be… but
+is, on the contrary, a modification of the attributes of God [, and they will] applaud his performance even where they
+cannot quite follow it. [The cave-dwellers can appreciate the exotic pronouncements of the theorist, as long as he
+confines those pronouncements to theoretical enterprises.] but if he were to tell them that, in virtue of
+his more profound understanding of the nature of horses, he is a more expert horse-man, horse-chandler, or stable boy
+than they (in their ignorance) could ever hope to be, and when it becomes clear that his new learning has lost him the
+ability to tell one end of a horse from the other... [then] before long the more perceptive of the cave-dwellers [will]
+begin to suspect that, after all, he [is] not an interesting theorist but a fuddled and pretentious ‘theoretician’ who
+should be sent on his travels again, or accommodated in a quiet home. (1975: 30)
+
 
 Elizabeth Corey
 
