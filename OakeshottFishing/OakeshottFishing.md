@@ -50,7 +50,6 @@ Spitz:
 
 "That On Human Conduct is but a restatement of his teaching, that it is no more than a linguistic variation on familiar themes..." (342)
 
-
 Elizabeth Corey
 
 "This is what Oakeshott describes as the 'politics of skepticism' and 'civil association'" (156).
@@ -58,6 +57,12 @@ Elizabeth Corey
 This remark clearly posits the 'politics of skepticism' and 'civil association' as two names for the same thing. But if
 that is so, then the 'politics of faith' and 'enterprise association' must also be identical. But they clearly aren't:
 not everyone opening a corner deli "posits a uniform condition of mundane perfection" (Corey, 172).
+
+Oakeshott himself explicitly rejects this equating of enterprise association with something undesirable (such as
+rationalism):
+
+"[Wolin ascribes to me a] denigration of purposive association, which is nowhere to be found in what I have written"
+(1976: 362).
 
 "To sum up, Oakeshott's three related formulations of a particular kind of politics (Rationalism, 'faith,' and
 collectivism)" (173).
@@ -110,10 +115,19 @@ dogs as household pets comes across a description of "household pets" and thinks
 "Oh, the person is talking about dogs." Natural, but still a mistake, since
 both wild dogs and house cats exist.
 
+Oakeshott himself quite explicitly states the "civil versus enterprise association" dichotomy is *not* just new terms
+for the "rationalism versus phronesis" dichotomy in his response to Spitz:
+
+"'Throughout, of course, there are the usual denunciations of Rationalism':
+in fact the word is never used, and what it stands for is
+never mentioned; I am concerned with something else" (1976: 357).
+
+In other words, he has dropped anchor at a new fishing locale, and is no longer using the "rationalism"
+and "phronesis" hooks and nets.
 
 ## Clearing Up Confusion on Oakeshott "Opposing Abstraction"
 
-Once we comprehend Oakeshott's fishing metaphor, We cannot only clear up the confusion about his dichotomies, but also
+Once we comprehend Oakeshott's fishing metaphor, we cannot only clear up the confusion about his dichotomies, but also
 the perplexity about how someone who "opposes theoretical abstractions" can generate so many of them.
 
 
@@ -215,6 +229,9 @@ Bloomington: Indiana University Press.
 Cambridge: Cambridge University Press.
 
 - Oakeshott, Michael (1975) *On Human Conduct*, Oxford: Clarendon Press.
+
+- Oakeshott, Michael (1976) 'On Misunderstanding Human Conduct: A Reply to My Critics',
+*Political Theory*, Vol. 4 No. 3, 353-367.
 
 - Oakeshott, Michael (1991 [1962]) *Rationalism in Politics and Other Essays*,
 Indianapolis: Liberty Fund.
