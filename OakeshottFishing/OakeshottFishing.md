@@ -43,7 +43,7 @@ some:
 
 
 
-## The Reactions
+## Evaluating the Dichotomies
 
 
 Spitz:
@@ -51,11 +51,70 @@ Spitz:
 "That On Human Conduct is but a restatement of his teaching, that it is no more than a linguistic variation on familiar themes..." (342)
 
 
-"Apparently it is now possible to speak of the character of a modern European state without attending to the
-concrete manners of behavior in England, or France, or Germany, or any other national system. The differences he so
-assiduously urged us to note among them -- if we were to acquire true political knowledge -- are now forgotten;
-instead, the diverse manners of behavior are blurred in a presumably (but not demonstrated)
-common manner of behavior" (346)
+Elizabeth Corey
+
+"This is what Oakeshott describes as the 'politics of skepticism' and 'civil association'" (156).
+
+This remark clearly posits the 'politics of skepticism' and 'civil association' as two names for the same thing. But if
+that is so, then the 'politics of faith' and 'enterprise association' must also be identical. But they clearly aren't:
+not everyone opening a corner deli "posits a uniform condition of mundane perfection" (Corey, 172).
+
+"To sum up, Oakeshott's three related formulations of a particular kind of politics (Rationalism, 'faith,' and
+collectivism)" (173).
+
+But, as discussed in *Oakeshott on Rome and America*, Ayn Rand and Murray Rothbard are both rationalists and "faith"
+representatives, but fiercely anti-collectivist.
+
+
+John Horton:
+
+> The book articulates a distinction between two ‘styles’ of the activity of governing—‘the politics of faith’ and ‘the
+politics of scepticism’. This distinction is clearly related to others he deploys elsewhere, most obviously between
+rationalism and conservatism, collectivism and individualism and enterprise and civil association. On the one hand, the
+left as we might say, we have the politics of faith, rationalism, collectivism and enterprise association and on the
+other, the right, the politics of scepticism, conservatism, individualism and civil association. The terms in each of
+these sets are certainly not equivalent, but they form two broad families, each loosely linked within a binary structure
+that is characteristic of Oakeshott’s thought. (2005: 25)
+
+
+So Horton sees "enterprise association" as a synonym for "rationalism," and "civil association" as
+a synonym for customary behavior. But that also won't do: Oakeshott does not fancy enterprise association as a way of
+organizing a government. But most certainly, he recognizes that entities like for-profit companies, sports teams, and
+charities are inherently enterprise associations. Does this mean he thinks that their managers should operate them in a
+rationalistic fashion? Of course not: Rationalism will fail as a way of managing a sports team just as surely as it
+will fail as a way of governing a polity.
+
+
+
+## Going Fishing
+
+Oakeshott himself explained for us what he is doing with these dichotomies.
+As he puts it *On Human Conduct*:
+
+"And consequently [the theorist’s] engagement to be perpetually *en voyage* may
+be arrested without being denied. The theorist who drops anchor here or there
+and puts out his equipment of theoretic hooks and nets in order to take the
+fish of the locality, interrupts but does not betray his calling... the theorist
+who interrogates instead of using his theoretic equipment catches no fish."
+(OHC, pg. 11)
+
+How then, can we explain the very intelligent commentators who have mistaken various dichotomies as being simply
+synonymous? I suggest that this is because, well, not synonymous, members of these various pairs often do share large
+amounts of territory, in terms of what they are designating. To make this clearer, here I will drop anchor and pickup
+some theoretic hooks and nets borrowed from Saussure by the way of Eco (44-45). 
+
+[Diagram of how these pairs of terms "divide the continuum".]
+
+The mistake is natural. It is as though Someone from a culture that only kept and only knew of 
+dogs as household pets comes across a description of "household pets" and thinks,
+"Oh, the person is talking about dogs." Natural, but still a mistake, since
+both wild dogs and house cats exist.
+
+
+## Clearing Up Confusion on Oakeshott "Opposing Abstraction"
+
+Once we comprehend Oakeshott's fishing metaphor, We cannot only clear up the confusion about his dichotomies, but also
+the perplexity about how someone who "opposes theoretical abstractions" can generate so many of them.
 
 
 Spitz: "An ideal-type does not describe reality; it is an abstraction, an abridgment, or
@@ -98,70 +157,38 @@ ability to tell one end of a horse from the other... [then] before long the more
 begin to suspect that, after all, he [is] not an interesting theorist but a fuddled and pretentious ‘theoretician’ who
 should be sent on his travels again, or accommodated in a quiet home. (1975: 30)
 
+So Oakeshott does not oppose theoretical abstraction at all: he opposes the *misuse* of theoretical abstraction.
 
-Elizabeth Corey
+Spitz:
 
-"This is what Oakeshott describes as the 'politics of skepticism' and 'civil association'" (156).
+"Apparently it is now possible to speak of the character of a modern European state without attending to the
+concrete manners of behavior in England, or France, or Germany, or any other national system. The differences he so
+assiduously urged us to note among them -- if we were to acquire true political knowledge -- are now forgotten;
+instead, the diverse manners of behavior are blurred in a presumably (but not demonstrated)
+common manner of behavior" (346)
 
-This remark clearly posits the 'politics of skepticism' and 'civil association' as two names for the same thing. But if
-that is so, then the 'politics of faith' and 'enterprise association' must also be identical. But they clearly aren't:
-not everyone opening a corner deli "posits a uniform condition of mundane perfection" (Corey, 172).
-
-"To sum up, Oakeshott's three related formulations of a particular kind of politics (Rationalism, 'faith,' and
-collectivism)" (173).
-
-But, as discussed in *Oakeshott on Rome and America*, Ayn Rand and Murray Rothbard are both rationalists and "faith"
-representatives, but fiercely anti-collectivist.
-
-
-John Horton:
-
-> The book articulates a distinction between two ‘styles’ of the activity of governing—‘the politics of faith’ and ‘the
-politics of scepticism’. This distinction is clearly related to others he deploys elsewhere, most obviously between
-rationalism and conservatism, collectivism and individualism and enterprise and civil association. On the one hand, the
-left as we might say, we have the politics of faith, rationalism, collectivism and enterprise association and on the
-other, the right, the politics of scepticism, conservatism, individualism and civil association. The terms in each of
-these sets are certainly not equivalent, but they form two broad families, each loosely linked within a binary structure
-that is characteristic of Oakeshott’s thought. (2005: 25)
-
-
-So Horton sees "enterprise association" as a synonym for "rationalism," and "civil association" as
-a synonym for customary behavior. But that also won't do: Oakeshott does not fancy enterprise association as a way of
-organizing a government. But most certainly, he recognizes that entities like for-profit companies, sports teams, and
-charities are inherently enterprise associations. Does this mean he thinks that their managers should operate them in a
-rationalistic fashion? Of course not: Rationalism will fail as a way of managing a sports team just as surely as it
-will fail as a way of governing a polity.
-
-
-
-## Going Fishing
-
-
-As he puts it there:
-
-"And consequently [the theorist’s] engagement to be perpetually *en voyage* may
-be arrested without being denied. The theorist who drops anchor here or there
-and puts out his equipment of theoretic hooks and nets in order to take the
-fish of the locality, interrupts but does not betray his calling... the theorist
-who interrogates instead of using his theoretic equipment catches no fish."
-(OHC, pg. 11)
-
-How then, can we explain the very intelligent commentators who have mistaken various dichotomies as being simply
-synonymous? I suggest that this is because, well, not synonymous, members of these various pairs often do share large
-amounts of territory, in terms of what they are designating. To make this clearer, here I will drop anchor and pickup
-some theoretic hooks and nets borrowed from Saussure by the way of Eco (44-45). 
-
-The mistake is natural. It is as though Someone from a culture that only kept dogs as household pets comes across a
-description of "household pets" and thinks, "Oh, the person is talking about dogs." Natural, but still a mistake, since
-both wild dogs and house cats exist.
-
-Now Spitz's complaint that the important differences between different European nations "are now forgotten"
-is easily handled: Oakeshott has not *forgotten* the differences between various countries; no, he has *dropped anchor*
-at a new location, and is using different *hooks and nets* to catch what may be caught at that location.
+Again, having understood the idea of "dropping anchor," we can see that
+Spitz's complaint that the important differences between different European nations "are now forgotten"
+is misguided: Oakeshott has not *forgotten* the differences between various countries; no, he has *dropped anchor*
+at a new location, and is using different *hooks and nets* to catch what may be caught at that location. We can theorize
+at the level of individual European nations, or at a higher level of abstraction, "the European nation"... but indeed
+the nations themselves are abstractions, hiding the differences between the English north and south, or Paris and the
+French Riviera, or Sicily and Piedmont...
 
 
 ## Conclusion
 
+Of course, we cannot always accept someone's self interpretation at face value: he may misunderstand what he is
+doing, may be deceiving us when he tells us what he is up to, indeed, may be deceiving himself on that topic.
+But as a first hypothesis, we may start by taking his understanding as accurate, until we find reasons to believe it
+is not. 
+
+If, upon further examination, we find that his self understanding of his methods clears up matters that might otherwise
+be obscure or perplexing in his work, then the case for taking him at his word is further strengthened.
+
+I suggest that the above considerations demonstrate that Oakeshott's own explanations of his methods and his actual
+employment of them are consistent: he knew what he was up to, and we need not be perplexed about any self-contradictions
+in this regard.
 
 
 ## Bibliography
