@@ -39,7 +39,9 @@ some:
 - Rationalism versus customary behavior
 - The individual versus the individual manque
 - Civil association versus enterprise association
+- Nomocracy versus teleocracy
 
+(The above list is similar but not identical to that offered by Fuller, 2024: 280.)
 
 
 
@@ -221,6 +223,8 @@ Columbia, Missouri: University of Missouri Press.
 
 - Eco, Umberto (1986) *Semiotics and the Philosophy of Language*,
 Bloomington: Indiana University Press.
+
+- Fuller, Timothy (2024) *Michael Oakeshott and the Human Condition*, Carmel, Indiana: Liberty Fund.
 
 - Horton, John (2005) 'A Qualified Defence of Oakeshott’s Politics of Scepticism',
 *European Journal Of Political Theory*, Vol. 4, No. 1: 23-36
