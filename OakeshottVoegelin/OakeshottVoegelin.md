@@ -8,7 +8,7 @@ such a thing as "*a* philosophy"? Is philosophy the name of a family of things, 
 are cats and dogs and whales and rodents, there are also idealist philosophies and materialist philosophies and
 existentialist philosophies? It seems quite doubtful that the founders of philosophy would have thought so. For
 philosophers such as Plato and Aristotle, philosophy was characterized by *zetesis*, by a *search* for wisdom, and
-not by the supposed possssion of wisdom captured in a "system," such as "phenomenology" or "transcendental idealism" or
+not by the supposed possession of wisdom captured in a "system," such as "phenomenology" or "transcendental idealism" or
 "materialist reductionism."
 
 This paper focuses on two twentieth-century figures who very much agreed with the Greek thinkers who pioneered
