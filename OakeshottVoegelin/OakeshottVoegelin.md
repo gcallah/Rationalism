@@ -32,6 +32,10 @@ Private references.
 
 ## Oakeshott on Philosophy
 
+Predecessors:
+
+Bosanquet: "This characteristic of philosophy, that it speaks about the whole complex of being without any
+reservation..." (2012: 25).
 
 ## Voegelin on Philosophy
 
@@ -41,5 +45,9 @@ Private references.
 
 ## Bibliography
 
+
+- Bosanquet, Bernard, 2012 [1927]. *Science and Philosophy and Other Essays*. Routledge: Oxon.
+-
+-
 
 
