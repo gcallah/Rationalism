@@ -10,10 +10,7 @@
 Michael Oakeshott did indeed like binaries. Perhaps we can even go so far as to
 say he needed them. And he presented us with a number of them: rationalism
 versus practical understanding, the politics of faith versus the politics of
-skepticism, enterprise association versus civil association, the morality of
-individualism versus the morality of collectivism, experience without
-reservation or arrest versus modal experience... one could surely find
-more, but that would belabor the point.
+skepticism, enterprise association versus civil association, and so on. (More on this below.)
 
 What are we to make of this plethora of binaries? This paper suggests that we
 can best understand them with a metaphor Oakeshott employs in *On Human
@@ -30,13 +27,13 @@ and seeing what fish he might catch from that spot.
 
 ## The Dichotomies
 
-Let's attempt to set down the dichotomies Oakeshott, at one time or another, employs, knowing most likely we will miss
+Let's attempt to set down the dichotomies Oakeshott, at one time or another, employs, knowing that we may miss
 some:
 
 - Exerience without reservation or arrest versus modal experience
 - Aesthetic morality versus rule-bound morality
 - The politics of faith versus the politics of skepticism
-- Rationalism versus customary behavior
+- Rationalism versus *phronesis*
 - The individual versus the individual manque
 - Civil association versus enterprise association
 - Nomocracy versus teleocracy
@@ -44,52 +41,78 @@ some:
 (The above list is similar but not identical to that offered by Fuller, 2024: 280.)
 
 
+## Misapprehending the Dichotomies
 
-## Evaluating the Dichotomies
+Let us take a look at some of the ways in which various writers have misapprehended the relationship of these binaries.
+In general, these fall into groupings: Some writers suggest that OSHA was merely generating new names for the same poles
+in an opposition, while others believe he was "abandoning" some now obsolete categorization and replacing it with a
+new and improved one.
+
+In the first category we find, for example, David Spitz, who claims:
+
+"Unfortunately, *On Human Conduct*... gives no answers at all [to critiques of Oakeshott's earlier work]...
+*On Human Conduct* is but a restatement of his teaching... it is no more than a linguistic variation on familiar themes...
+Throughout, of course, there are the usual denunciations of Rationalism" (1976: 342-343).
+
+Spitz is so set on seeing Oakeshott as just spinning off variations on the "same old song" that he never notices that
+there are *no* denunciations of rationalism in that book. Oakeshott himself quite explicitly states the "civil versus
+enterprise association" dichotomy is *not* just new terms for the "rationalism versus phronesis" dichotomy in his
+response to Spitz: "in fact the word [Rationalism] is never used, and what it stands for is
+never mentioned; I am concerned with something else" (1976: 357).
+
+(In other words, he has dropped anchor at a new fishing locale, and is no longer using the "rationalism"
+and "phronesis" hooks and nets.)
 
 
-Spitz:
-
-"That On Human Conduct is but a restatement of his teaching, that it is no more than a linguistic variation on familiar themes..." (342)
-
-Elizabeth Corey
-
+Elizabeth Corey is much more sympathetic to Oakeshott than is Spitz, but commits a similar error. She writes,
 "This is what Oakeshott describes as the 'politics of skepticism' and 'civil association'" (156).
 
-This remark clearly posits the 'politics of skepticism' and 'civil association' as two names for the same thing. But if
-that is so, then the 'politics of faith' and 'enterprise association' must also be identical. But they clearly aren't:
-not everyone opening a corner deli "posits a uniform condition of mundane perfection" (Corey, 172).
+This remark posits the 'politics of skepticism' and 'civil association' as two names for the same thing. But if
+that is so, then the 'politics of faith' and 'enterprise association' must similarly be synonyms.
+But they clearly aren't: not everyone opening a corner deli (an enterprise association)
+"posits a uniform condition of mundane perfection" (Corey, 172). But it would nevertheless be a mistake for the deli
+owner to organize his business on a rationalist basis.
 
 Oakeshott himself explicitly rejects this equating of enterprise association with something undesirable (such as
-rationalism):
+rationalism): "[Wolin ascribes to me a] denigration of purposive association, which is nowhere to be found in what I
+have written" (1976: 362).
 
-"[Wolin ascribes to me a] denigration of purposive association, which is nowhere to be found in what I have written"
-(1976: 362).
+Oakeshott recognizes that character of the modern European state contains a mingling of the ideal types of 
+civil and enterprise association. To attempt to design a polity as a "pure" civil association is itself a species of
+rationalism: see for instance, Nozick (1974), Friedman (1989), or Murphy (2010)
+for examples of just that sort of rationalistic embrace of a purely civil association.
 
+Corey goes on to conflate yet a third dichotomy as being just different names for what is essentially the same thing:
 "To sum up, Oakeshott's three related formulations of a particular kind of politics (Rationalism, 'faith,' and
 collectivism)" (173).
 
-But, as discussed in *Oakeshott on Rome and America*, Ayn Rand and Murray Rothbard are both rationalists and "faith"
-representatives, but fiercely anti-collectivist.
+But, as discussed in Callahan (2012), Ayn Rand and Murray Rothbard were both rationalists and 
+representatives of the "politics of faith," but fiercely anti-collectivist. The Romans had great faith in their
+tradion-oriented political system, while the American founders rationalistically designed a constitution based on their
+skeptical view of what politics could achieve. Oakeshott was exploring different ways of cutting the world of politics
+in two, not performing the same cut, again and again, and just calling the different slices by new names.
 
 
 John Horton:
 
-> The book articulates a distinction between two ‘styles’ of the activity of governing—‘the politics of faith’ and ‘the
-politics of scepticism’. This distinction is clearly related to others he deploys elsewhere, most obviously between
+"The book articulates a distinction between two 'styles' of the activity of governing—'the politics of faith' and 'the
+politics of scepticism'. This distinction is clearly related to others he deploys elsewhere, most obviously between
 rationalism and conservatism, collectivism and individualism and enterprise and civil association. On the one hand, the
 left as we might say, we have the politics of faith, rationalism, collectivism and enterprise association and on the
 other, the right, the politics of scepticism, conservatism, individualism and civil association. The terms in each of
 these sets are certainly not equivalent, but they form two broad families, each loosely linked within a binary structure
-that is characteristic of Oakeshott’s thought. (2005: 25)
+that is characteristic of Oakeshott's thought." (2005: 25)
 
+Well, at least Horton recognizes that "these sets are certainly not equivalent," but nevertheless he errs in claiming
+that "they form two broad families."
 
+[REWRITE:]
 So Horton sees "enterprise association" as a synonym for "rationalism," and "civil association" as
-a synonym for customary behavior. But that also won't do: Oakeshott does not fancy enterprise association as a way of
-organizing a government. But most certainly, he recognizes that entities like for-profit companies, sports teams, and
-charities are inherently enterprise associations. Does this mean he thinks that their managers should operate them in a
-rationalistic fashion? Of course not: Rationalism will fail as a way of managing a sports team just as surely as it
-will fail as a way of governing a polity.
+a synonym for customary behavior. But that also won't do: Oakeshott does not fancy enterprise association becoming the
+primary way of organizing a government. But most certainly, he recognizes that entities like for-profit companies,
+sports teams, and charities are inherently enterprise associations. Does this mean he thinks that their managers should
+operate them in a rationalistic fashion? Of course not: Rationalism will fail as a way of managing a sports team just as
+surely as it will fail as a way of governing a polity.
 
 
 
@@ -98,7 +121,7 @@ will fail as a way of governing a polity.
 Oakeshott himself explained for us what he is doing with these dichotomies.
 As he puts it *On Human Conduct*:
 
-"And consequently [the theorist’s] engagement to be perpetually *en voyage* may
+"And consequently [the theorist's] engagement to be perpetually *en voyage* may
 be arrested without being denied. The theorist who drops anchor here or there
 and puts out his equipment of theoretic hooks and nets in order to take the
 fish of the locality, interrupts but does not betray his calling... the theorist
@@ -117,15 +140,6 @@ dogs as household pets comes across a description of "household pets" and thinks
 "Oh, the person is talking about dogs." Natural, but still a mistake, since
 both wild dogs and house cats exist.
 
-Oakeshott himself quite explicitly states the "civil versus enterprise association" dichotomy is *not* just new terms
-for the "rationalism versus phronesis" dichotomy in his response to Spitz:
-
-"'Throughout, of course, there are the usual denunciations of Rationalism':
-in fact the word is never used, and what it stands for is
-never mentioned; I am concerned with something else" (1976: 357).
-
-In other words, he has dropped anchor at a new fishing locale, and is no longer using the "rationalism"
-and "phronesis" hooks and nets.
 
 ## Clearing Up Confusion on Oakeshott "Opposing Abstraction"
 
@@ -157,21 +171,19 @@ but still extremely useful for a tourist trying to get around. [Bosanquet on mor
 
 Real example: Corbusier, who was actually designing microprocessors, not cities.
 
-Note: *techne* versus *phronesis*.
-
 And we know this is Oakeshott's position because he told us so quite explicitly; in *On Human Conduct*, after telling us
 he has been closely following Plato so far, he goes on to describe the point at which Plato goes astray:
 
-> The cave-dwellers, upon first encountering the theorist after his return to the world of the shadows [very well might be
-impressed] when he tells them that what they had always thought of as 'a horse' is not what they suppose it to be… but
+"The cave-dwellers, upon first encountering the theorist after his return to the world of the shadows [very well might be
+impressed] when he tells them that what they had always thought of as 'a horse' is not what they suppose it to be... but
 is, on the contrary, a modification of the attributes of God [, and they will] applaud his performance even where they
 cannot quite follow it. [The cave-dwellers can appreciate the exotic pronouncements of the theorist, as long as he
 confines those pronouncements to theoretical enterprises.] but if he were to tell them that, in virtue of
 his more profound understanding of the nature of horses, he is a more expert horse-man, horse-chandler, or stable boy
 than they (in their ignorance) could ever hope to be, and when it becomes clear that his new learning has lost him the
 ability to tell one end of a horse from the other... [then] before long the more perceptive of the cave-dwellers [will]
-begin to suspect that, after all, he [is] not an interesting theorist but a fuddled and pretentious ‘theoretician’ who
-should be sent on his travels again, or accommodated in a quiet home. (1975: 30)
+begin to suspect that, after all, he [is] not an interesting theorist but a fuddled and pretentious 'theoretician' who
+should be sent on his travels again, or accommodated in a quiet home." (1975: 30)
 
 So Oakeshott does not oppose theoretical abstraction at all: he opposes the *misuse* of theoretical abstraction.
 
@@ -218,16 +230,27 @@ in this regard.
 *Cosmos and Taxis*, Vol. 10, Issues 7+8,
 (https://cosmosandtaxis.files.wordpress.com/2022/06/grant_alexander_ct_vol10_iss7_8_rev.pdf)
 
+- Callahan, Gene (2012) *Oakeshott on Rome and America*, Exeter: Imprint Academic.
+
 - Corey, Elizabeth Campbell (2006) *Michael Oakeshott on Religion, Aesthetics, and Politics*,
 Columbia, Missouri: University of Missouri Press.
 
 - Eco, Umberto (1986) *Semiotics and the Philosophy of Language*,
 Bloomington: Indiana University Press.
 
+- Friedman, David D. (1989) *The Machinery of Freedom: Guide to a Radical Capitalism*,
+2nd ed. La Salle, Ill.: Open Court.
+
 - Fuller, Timothy (2024) *Michael Oakeshott and the Human Condition*, Carmel, Indiana: Liberty Fund.
 
-- Horton, John (2005) 'A Qualified Defence of Oakeshott’s Politics of Scepticism',
+- Horton, John (2005) 'A Qualified Defence of Oakeshott's Politics of Scepticism',
 *European Journal Of Political Theory*, Vol. 4, No. 1: 23-36
+
+- Murphy, Robert P. (2010), *Chaos Theory: Two Essays on Market Anarchy*, Second edition,
+Auburn, Alabama: Ludwig von Mises Institute. https://mises.org/library/chaos-theory.
+
+- Nozick, Robert (1974) *Anarchy, State, and Utopia*,
+New York: Basic Books, a member of the Perseus Books Group. 
 
 - Oakeshott, Michael (1933) *Experience and Its Modes*,
 Cambridge: Cambridge University Press.
