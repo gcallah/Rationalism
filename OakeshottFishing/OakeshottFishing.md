@@ -109,6 +109,17 @@ have become contingently join by the choices of human beings in the character of
 is the situation, it may be the most one can do is to offer these terms, as the most effective apparatus for
 understanding the actual complexity of a state..."
 
+(FOOTNOTE: In the case of "*societas* versus *universitas*" and "civil association versus enterprise association,"
+I think we are justified in considering civil association as a synonym for *societas*, and enterprise associaiton as a
+synonym for *universitas*. Indeed, I would argue, the whole connection between essay two and essay three
+of *On Human Conduct* hinges on this equivalence. In fact, late in essay three Oakeshott presents
+them as equivalent (1975: 313). So why, then, in this case did he use two different terms for the poles 
+of his dichotomy? I suggest it was because by discussing civil association versus enterprise association in essay two,
+he was able to introduce novel terms that he could define himself and which indicated precisely the concepts he had in
+mind, while in essay three the use of *societas* and *universitas* demonstrated that this distinction had an historical
+background dating back millennia, even though the latter two terms had been used ambiguously.)
+
+
 Thus, Oakeshott is not endorsing any attempt to turn states into purely civil association, but only a way of
 undersanding there mixed character and the tensions that it creates.
 To attempt to design a polity as a "pure" civil association is itself a species of
