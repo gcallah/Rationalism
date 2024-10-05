@@ -37,9 +37,13 @@ some:
 - The individual versus the individual manque
 - Civil association versus enterprise association
 - Nomocracy versus teleocracy
+- *Societas* versus *universitas*
 
 (The above list is similar but not identical to that offered by Fuller, 2024: 280.)
 
+My contention is that these are largely *distinct* ways of "dividing the continuum" of experience, and that Oakeshott was most often
+offering a new vantage point from which to understand human experience, and not merely giving closely related poles in a
+dichotomy ever new names. Bu let us look at some cases where one of his commentators contends the latter is true.
 
 ## Misapprehending the Dichotomies
 
@@ -63,37 +67,10 @@ never mentioned; I am concerned with something else" (1976: 357).
 (In other words, he has dropped anchor at a new fishing locale, and is no longer using the "rationalism"
 and "phronesis" hooks and nets.)
 
-
 Elizabeth Corey is much more sympathetic to Oakeshott than is Spitz, but commits a similar error. She writes,
 "This is what Oakeshott describes as the 'politics of skepticism' and 'civil association'" (156).
 
-This remark posits the 'politics of skepticism' and 'civil association' as two names for the same thing. But if
-that is so, then the 'politics of faith' and 'enterprise association' must similarly be synonyms.
-But they clearly aren't: not everyone opening a corner deli (an enterprise association)
-"posits a uniform condition of mundane perfection" (Corey, 172). But it would nevertheless be a mistake for the deli
-owner to organize his business on a rationalist basis.
-
-Oakeshott himself explicitly rejects this equating of enterprise association with something undesirable (such as
-rationalism): "[Wolin ascribes to me a] denigration of purposive association, which is nowhere to be found in what I
-have written" (1976: 362).
-
-Oakeshott recognizes that character of the modern European state contains a mingling of the ideal types of 
-civil and enterprise association. To attempt to design a polity as a "pure" civil association is itself a species of
-rationalism: see for instance, Nozick (1974), Friedman (1989), or Murphy (2010)
-for examples of just that sort of rationalistic embrace of a purely civil association.
-
-Corey goes on to conflate yet a third dichotomy as being just different names for what is essentially the same thing:
-"To sum up, Oakeshott's three related formulations of a particular kind of politics (Rationalism, 'faith,' and
-collectivism)" (173).
-
-But, as discussed in Callahan (2012), Ayn Rand and Murray Rothbard were both rationalists and 
-representatives of the "politics of faith," but fiercely anti-collectivist. The Romans had great faith in their
-tradion-oriented political system, while the American founders rationalistically designed a constitution based on their
-skeptical view of what politics could achieve. Oakeshott was exploring different ways of cutting the world of politics
-in two, not performing the same cut, again and again, and just calling the different slices by new names.
-
-
-John Horton:
+John Horton, also sympathetic to Oakeshott, makes a claim similar to Corey's:
 
 "The book articulates a distinction between two 'styles' of the activity of governing—'the politics of faith' and 'the
 politics of scepticism'. This distinction is clearly related to others he deploys elsewhere, most obviously between
@@ -106,14 +83,47 @@ that is characteristic of Oakeshott's thought." (2005: 25)
 Well, at least Horton recognizes that "these sets are certainly not equivalent," but nevertheless he errs in claiming
 that "they form two broad families."
 
-[REWRITE:]
-So Horton sees "enterprise association" as a synonym for "rationalism," and "civil association" as
-a synonym for customary behavior. But that also won't do: Oakeshott does not fancy enterprise association becoming the
+This remark posits the 'politics of skepticism' and 'civil association' as two names for the same thing. But if
+that is so, then the 'politics of faith' and 'enterprise association' must similarly be synonyms.
+But they clearly aren't: not everyone opening a corner deli (an enterprise association)
+"posits a uniform condition of mundane perfection" (Corey, 172). But it would nevertheless be a mistake for the deli
+owner to organize his business on a rationalist basis.
+
+Similarly, regarding "enterprise association" as a near synonym for "rationalism," and "civil association" as
+a near synonym for customary behavior also won't do: Oakeshott does not fancy enterprise association becoming the
 primary way of organizing a government. But most certainly, he recognizes that entities like for-profit companies,
 sports teams, and charities are inherently enterprise associations. Does this mean he thinks that their managers should
 operate them in a rationalistic fashion? Of course not: Rationalism will fail as a way of managing a sports team just as
 surely as it will fail as a way of governing a polity.
 
+Oakeshott himself explicitly rejects this equating of enterprise association with something undesirable (such as
+rationalism): "[Wolin ascribes to me a] denigration of purposive association, which is nowhere to be found in what I
+have written" (1976: 362).
+
+Furthermore, Oakeshott recognizes that character of the modern European state contains a mingling of the ideal types of 
+civil and enterprise association:
+
+"*Societas* and *universitas* stand, each, for an independent, self-sustaining moded ofassociation; And my contention is
+that they are both characteristics of a state, not because they have an inherent need of one another... But because they
+have become contingently join by the choices of human beings in the character of the modern European state. And if this
+is the situation, it may be the most one can do is to offer these terms, as the most effective apparatus for
+understanding the actual complexity of a state..."
+
+Thus, Oakeshott is not endorsing any attempt to turn states into purely civil association, but only a way of
+undersanding there mixed character and the tensions that it creates.
+To attempt to design a polity as a "pure" civil association is itself a species of
+rationalism: see for instance, Nozick (1974), Friedman (1989), or Murphy (2010)
+for examples of just that sort of rationalistic embrace of a purely civil association.
+
+Corey goes on to conflate yet a third dichotomy as being just names offering slightly different "formulations"
+for what is in essence the same thing: "To sum up, Oakeshott's three related formulations of a particular kind of
+politics (Rationalism, 'faith,' and collectivism)" (173).
+
+But, as discussed in Callahan (2012), Ayn Rand and Murray Rothbard were both rationalists and 
+representatives of the "politics of faith," but fiercely anti-collectivist. The Romans had great faith in their
+tradion-oriented political system, while the American founders rationalistically designed a constitution based on their
+skeptical view of what politics could achieve. Oakeshott was exploring different ways of cutting the world of politics
+in two, not performing the same cut, again and again, and just calling the different slices by new names.
 
 
 ## Going Fishing
