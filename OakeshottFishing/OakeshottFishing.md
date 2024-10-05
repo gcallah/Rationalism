@@ -121,7 +121,7 @@ background dating back millennia, even though the latter two terms had been used
 
 
 Thus, Oakeshott is not endorsing any attempt to turn states into purely civil association, but only a way of
-undersanding there mixed character and the tensions that it creates.
+undersanding their mixed character and the tensions that it creates.
 To attempt to design a polity as a "pure" civil association is itself a species of
 rationalism: see for instance, Nozick (1974), Friedman (1989), or Murphy (2010)
 for examples of just that sort of rationalistic embrace of a purely civil association.
@@ -133,14 +133,14 @@ politics (Rationalism, 'faith,' and collectivism)" (173).
 But, as discussed in Callahan (2012), Ayn Rand and Murray Rothbard were both rationalists and 
 representatives of the "politics of faith," but fiercely anti-collectivist. The Romans had great faith in their
 tradion-oriented political system, while the American founders rationalistically designed a constitution based on their
-skeptical view of what politics could achieve. Oakeshott was exploring different ways of cutting the world of politics
-in two, not performing the same cut, again and again, and just calling the different slices by new names.
+skeptical view of what politics could achieve. Oakeshott was exploring different ways of cutting the world of human
+action in two, not performing the same cut, again and again, and just calling the different slices by new names.
 
 
 ## Going Fishing
 
-Oakeshott himself explained for us what he is doing with these dichotomies.
-As he puts it *On Human Conduct*:
+Oakeshott himself offered to us a key for why he kept generating new dichotomies.
+As he put it *On Human Conduct*:
 
 "And consequently [the theorist's] engagement to be perpetually *en voyage* may
 be arrested without being denied. The theorist who drops anchor here or there
@@ -149,18 +149,22 @@ fish of the locality, interrupts but does not betray his calling... the theorist
 who interrogates instead of using his theoretic equipment catches no fish."
 (OHC, pg. 11)
 
-How then, can we explain the very intelligent commentators who have mistaken various dichotomies as being simply
-synonymous? I suggest that this is because, well, not synonymous, members of these various pairs often do share large
-amounts of territory, in terms of what they are designating. To make this clearer, here I will drop anchor and pickup
-some theoretic hooks and nets borrowed from Saussure by the way of Eco (44-45). 
+In other words, in the ocean of human experience, there are a vast number of places one might "stop and fish."
+In fact, it is Oakeshott's concept of philosophy as "experience without reservation or arrest" (1933: 4)
+that allows him the freedom to repeatedly explore new arrests in experience: all such arrests are always abstract and so
+partial and defective. Someone who mistakenly thought that such an arrest could be made without defect or
+incoherence, might believe that any insights gleaned from such an arrest ought to be absolute and final, thus rendering
+them reluctant to explore any other arrest. Their inclination will be to become attached to any particular fishing
+spot where they catch a few interesting fish. For example, those enamoured of the scientific mode may readily come to
+believe that only scientific explanations are valid, in other words, to embrace "scientism."
 
-[Diagram of how these pairs of terms "divide the continuum".]
+On the other hand, anyone understanding philosophy as does Oakeshott will be able to visit and leave
+various fishing grounds without becoming attached to any of them as an "ultimate fishing ground," since he will
+understand that no such ultimate ground exists: they are all "arrests" in experience.
 
-The mistake is natural. It is as though Someone from a culture that only kept and only knew of 
-dogs as household pets comes across a description of "household pets" and thinks,
-"Oh, the person is talking about dogs." Natural, but still a mistake, since
-both wild dogs and house cats exist.
-
+And we might explain some of the confusion that leads writers to try to identify one of Oakeshott's fishing grounds with
+another is due to their not fully understanding the philosophical basis behind his free expiration of various arrests in
+experience.
 
 ## Clearing Up Confusion on Oakeshott "Opposing Abstraction"
 
