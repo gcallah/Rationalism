@@ -163,7 +163,7 @@ various fishing grounds without becoming attached to any of them as an "ultimate
 understand that no such ultimate ground exists: they are all "arrests" in experience.
 
 And we might explain some of the confusion that leads writers to try to identify one of Oakeshott's fishing grounds with
-another is due to their not fully understanding the philosophical basis behind his free expiration of various arrests in
+another is due to their not fully understanding the philosophical basis behind his free exploration of various arrests in
 experience.
 
 ## Clearing Up Confusion on Oakeshott "Opposing Abstraction"
