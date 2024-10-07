@@ -169,19 +169,16 @@ experience.
 ## Clearing Up Confusion on Oakeshott "Opposing Abstraction"
 
 Once we comprehend Oakeshott's fishing metaphor, we cannot only clear up the confusion about his dichotomies, but also
-the perplexity about how someone who "opposes theoretical abstractions" can generate so many of them.
-
-
-Spitz: "An ideal-type does not describe reality; it is an abstraction, an abridgment, or
-as the earlier Oakeshott would say, an ideological way of looking at reality." (347)
-
-Alexander:
+the dismiss an apparent "paradox." As Alexander describes it:
 
 "There is something paradoxical about being opposed to theoretical abstraction and yet having such a relentless
 inclination to carry it out" (2).
 
-No: an ideology is an abstraction that has forgotten it is an abstraction and instead takes itself to be concrete
-reality, so that one attempts to find theoretical solutions to problems requiring phronesis or techne.
+But the view Alexander has attributed to Oakeshott is false: There is nowhere in Oakeshot's
+work that he is "opposed to theoretical abstractions." Instead, what he has repeatedly pointed out is that "theoretical
+abstractions" are fine things, so long as one does not mistake them for a complete understanding of the situation from
+which they were abstracted. 
+
 
 The rationalist is not someone who creates abstractions; he is someone who creates abstractions, and then tries to use them
 as a substitute for the knowledge of a concrete activity. A map of Budapest is an abstraction. Oakeshott is not against
@@ -212,22 +209,27 @@ should be sent on his travels again, or accommodated in a quiet home." (1975: 30
 
 So Oakeshott does not oppose theoretical abstraction at all: he opposes the *misuse* of theoretical abstraction.
 
-Spitz:
+Spitz complains:
 
-"Apparently it is now possible to speak of the character of a modern European state without attending to the
-concrete manners of behavior in England, or France, or Germany, or any other national system. The differences he so
-assiduously urged us to note among them -- if we were to acquire true political knowledge -- are now forgotten;
-instead, the diverse manners of behavior are blurred in a presumably (but not demonstrated)
-common manner of behavior" (346)
+"Apparently it is now [in *On HUman Conduct*] possible to speak of the character of a modern European state without
+attending to the concrete manners of behavior in England, or France, or Germany, or any other national system. The
+differences he so assiduously urged us to note among them -- if we were to acquire true political knowledge -- are now
+forgotten; instead, the diverse manners of behavior are blurred in a presumably (but not demonstrated) common manner of
+behavior" (346)
 
 Again, having understood the idea of "dropping anchor," we can see that
 Spitz's complaint that the important differences between different European nations "are now forgotten"
 is misguided: Oakeshott has not *forgotten* the differences between various countries; no, he has *dropped anchor*
-at a new location, and is using different *hooks and nets* to catch what may be caught at that location. We can theorize
+at a new location, and is using different *hooks and nets* to catch what may be caught at that location. One can theorize
 at the level of individual European nations, or at a higher level of abstraction, "the European nation"... but indeed
 the nations themselves are abstractions, hiding the differences between the English north and south, or Paris and the
-French Riviera, or Sicily and Piedmont...
+French Riviera, or Sicily and Tuscany... and even those are abstractions, as Cornwall differs from Essex, and Florence
+from Sienna. And so on.
 
+Oakeshott's understanding, which he shares with other British Idealists (see, e.g. Collingwood (1924: 159-160), that all
+abstractions are partial and therefore defective, far from making it "paradoxical" that he is able to employ so many
+different abstractions, instead is precisely *why* he is able to do so: no abstraction is ultimately completely
+satisfactory, so there is no reason to cling to one of them while abjuring all others.
 
 ## Conclusion
 
@@ -247,8 +249,7 @@ in this regard.
 ## Bibliography
 
 
-- Alexander, James (2022) 'Oakeshott-22,'
-*Cosmos and Taxis*, Vol. 10, Issues 7+8,
+- Alexander, James (2022) 'Oakeshott-22,' *Cosmos and Taxis*, Vol. 10, Issues 7+8,
 (https://cosmosandtaxis.files.wordpress.com/2022/06/alexander_ct_vol10_iss7_8.pdf)
 
 - Alexander, James (2022) 'An Interview with Robert Grant, University of Glasgow,'
@@ -256,6 +257,8 @@ in this regard.
 (https://cosmosandtaxis.files.wordpress.com/2022/06/grant_alexander_ct_vol10_iss7_8_rev.pdf)
 
 - Callahan, Gene (2012) *Oakeshott on Rome and America*, Exeter: Imprint Academic.
+
+- Collingwood, R. G. (1924) *Speculum Mentis or Map of Knowledge*, London: Oxford University Press.
 
 - Corey, Elizabeth Campbell (2006) *Michael Oakeshott on Religion, Aesthetics, and Politics*,
 Columbia, Missouri: University of Missouri Press.
@@ -293,3 +296,14 @@ ed. Timothy Fuller, New Haven and London: Yale University Press.
 
 - Spitz, David (1976) 'A Rationalist Malgre Lui: The Perplexities
 of Being Michael Oakeshott', *Political Theory*, Vol. 4, No. 3, 335-352.
+
+
+
+## Cut?
+
+
+Spitz: "An ideal-type does not describe reality; it is an abstraction, an abridgment, or
+as the earlier Oakeshott would say, an ideological way of looking at reality." (347)
+
+No: an ideology is an abstraction that has forgotten it is an abstraction and instead takes itself to be concrete
+reality, so that one attempts to find theoretical solutions to problems requiring phronesis or techne.
