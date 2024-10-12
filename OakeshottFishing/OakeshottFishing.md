@@ -17,6 +17,9 @@ can best understand them with a metaphor Oakeshott employs in *On Human
 Conduct*, that of the theorist "dropping anchor" and catching the fish
 available at a certain locale reached in the enterprise of theorizing.
 
+(Note: This paper will *not* attempt to explain why Oakeshott liked binaries as opposed to, say, ternaries or
+quaternaries. The focus here is on why there were so many binaries.)
+
 Once we comprehend this metaphor, we can see Oakeshott positing these various
 dichotomies neither as evidence of his deciding an earlier dichotomy was wrong
 or useless, but failing to describe his mistake, nor of him merely saying the
@@ -233,18 +236,10 @@ satisfactory, so there is no reason to cling to one of them while abjuring all o
 
 ## Conclusion
 
-Of course, we cannot always accept someone's self interpretation at face value: he may misunderstand what he is
-doing, may be deceiving us when he tells us what he is up to, indeed, may be deceiving himself on that topic.
-But as a first hypothesis, we may start by taking his understanding as accurate, until we find reasons to believe it
-is not. 
-
-If, upon further examination, we find that his self understanding of his methods clears up matters that might otherwise
-be obscure or perplexing in his work, then the case for taking him at his word is further strengthened.
-
-I suggest that the above considerations demonstrate that Oakeshott's own explanations of his methods and his actual
-employment of them are consistent: he knew what he was up to, and we need not be perplexed about any self-contradictions
-in this regard.
-
+When put in the context of Oakeshott's understanding of philosophy has experience without reservation or arrest, we can
+comprehend his repeated positing of new polarities as the free explorations of an intellect not attached to any
+particular arrest in experience. When examining new poles, he was neither repudiating earlier writings nor merely saying
+the same thing using different terms. He had simply found a new fishing grounds.
 
 ## Bibliography
 
