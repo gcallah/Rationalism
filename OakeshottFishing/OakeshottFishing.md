@@ -42,11 +42,18 @@ some:
 - Nomocracy versus teleocracy
 - *Societas* versus *universitas*
 
-(The above list is similar but not identical to that offered by Fuller, 2024: 280.)
+(The above list is similar but not identical to that offered by Fuller, 2024: 280.^1)
 
 My contention is that these are largely *distinct* ways of "dividing the continuum" of experience, and that Oakeshott was most often
 offering a new vantage point from which to understand human experience, and not merely giving closely related poles in a
 dichotomy ever new names. Bu let us look at some cases where one of his commentators contends the latter is true.
+
+1. Fuller's list is:
+- Empirical politics -- Ideological politics
+- Politics of Skepticism -- Politics of Fraith
+- Nomocracy -- Teleocracy
+- Morality of habit and affection -- Morality of reflective thought
+- Civil Association -- Enterprise Association
 
 ## Misapprehending the Dichotomies
 
