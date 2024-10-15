@@ -4,6 +4,11 @@
 "Oakeshott... liked binaries, needed them, in fact."
 -- James Alexander, "An Interview with Robert Grant"
 
+"The theorist who drops anchor here or there
+and puts out his equipment of theoretic hooks and nets in order to take the
+fish of the locality, interrupts but does not betray his calling..."
+-- Michael Oakeshott, *On Human Conduct*
+
 
 ## Introduction
 
@@ -58,7 +63,7 @@ dichotomy ever new names. Bu let us look at some cases where one of his commenta
 ## Misapprehending the Dichotomies
 
 Let us take a look at some of the ways in which various writers have misapprehended the relationship of these binaries.
-In general, these fall into groupings: Some writers suggest that OSHA was merely generating new names for the same poles
+In general, these fall into groupings: Some writers suggest that Oakeshott was merely generating new names for the same poles
 in an opposition, while others believe he was "abandoning" some now obsolete categorization and replacing it with a
 new and improved one.
 
@@ -72,13 +77,17 @@ Spitz is so set on seeing Oakeshott as just spinning off variations on the "same
 there are *no* denunciations of rationalism in that book. Oakeshott himself quite explicitly states the "civil versus
 enterprise association" dichotomy is *not* just new terms for the "rationalism versus phronesis" dichotomy in his
 response to Spitz: "in fact the word [Rationalism] is never used, and what it stands for is
-never mentioned; I am concerned with something else" (1976: 357).
-
-(In other words, he has dropped anchor at a new fishing locale, and is no longer using the "rationalism"
-and "phronesis" hooks and nets.)
+never mentioned; I am concerned with something else" (1976: 357). (In other words, he has dropped anchor at a new
+fishing locale, and is no longer using the "rationalism" and "phronesis" hooks and nets.)
 
 Elizabeth Corey is much more sympathetic to Oakeshott than is Spitz, but commits a similar error. She writes,
 "This is what Oakeshott describes as the 'politics of skepticism' and 'civil association'" (156).
+
+This remark posits the 'politics of skepticism' and 'civil association' as two names for the same thing. But if
+that is so, then the 'politics of faith' and 'enterprise association' must similarly be synonyms.
+But they clearly aren't: not everyone opening a corner deli (an enterprise association)
+"posits a uniform condition of mundane perfection" (Corey, 172). But it would nevertheless be a mistake for the deli
+owner to organize his business on a rationalist basis.
 
 John Horton, also sympathetic to Oakeshott, makes a claim similar to Corey's:
 
@@ -93,18 +102,12 @@ that is characteristic of Oakeshott's thought." (2005: 25)
 Well, at least Horton recognizes that "these sets are certainly not equivalent," but nevertheless he errs in claiming
 that "they form two broad families."
 
-This remark posits the 'politics of skepticism' and 'civil association' as two names for the same thing. But if
-that is so, then the 'politics of faith' and 'enterprise association' must similarly be synonyms.
-But they clearly aren't: not everyone opening a corner deli (an enterprise association)
-"posits a uniform condition of mundane perfection" (Corey, 172). But it would nevertheless be a mistake for the deli
-owner to organize his business on a rationalist basis.
-
-Similarly, regarding "enterprise association" as a near synonym for "rationalism," and "civil association" as
-a near synonym for customary behavior also won't do: Oakeshott does not fancy enterprise association becoming the
-primary way of organizing a government. But most certainly, he recognizes that entities like for-profit companies,
-sports teams, and charities are inherently enterprise associations. Does this mean he thinks that their managers should
-operate them in a rationalistic fashion? Of course not: Rationalism will fail as a way of managing a sports team just as
-surely as it will fail as a way of governing a polity.
+Regarding "enterprise association" as a near synonym for "rationalism," and "civil association" as a near synonym for
+customary behavior also won't do: Oakeshott does not fancy enterprise association becoming the primary way of organizing
+a government. But most certainly, he recognizes that entities like for-profit companies, sports teams, and charities are
+inherently enterprise associations. Does this mean he thinks that their managers should operate them in a rationalistic
+fashion? Of course not: Rationalism will fail as a way of managing a sports team just as surely as it will fail as a way
+of governing a polity.
 
 Oakeshott himself explicitly rejects this equating of enterprise association with something undesirable (such as
 rationalism): "[Wolin ascribes to me a] denigration of purposive association, which is nowhere to be found in what I
@@ -113,11 +116,11 @@ have written" (1976: 362).
 Furthermore, Oakeshott recognizes that character of the modern European state contains a mingling of the ideal types of 
 civil and enterprise association:
 
-"*Societas* and *universitas* stand, each, for an independent, self-sustaining moded ofassociation; And my contention is
-that they are both characteristics of a state, not because they have an inherent need of one another... But because they
-have become contingently join by the choices of human beings in the character of the modern European state. And if this
-is the situation, it may be the most one can do is to offer these terms, as the most effective apparatus for
-understanding the actual complexity of a state..."
+"*Societas* and *universitas* stand, each, for an independent, self-sustaining moded of association; And my contention is
+that they are both characteristics of a state, not because they have an inherent need of one another... but because they
+have become contingently joined by the choices of human beings in the character of a modern European state. And if this
+is the situation, it may be the most one can do is to offer these terms as the most effective apparatus for
+understanding the actual complexity of a state..." (1975: 323)
 
 (FOOTNOTE: In the case of "*societas* versus *universitas*" and "civil association versus enterprise association,"
 I think we are justified in considering civil association as a synonym for *societas*, and enterprise associaiton as a
@@ -136,7 +139,7 @@ To attempt to design a polity as a "pure" civil association is itself a species 
 rationalism: see for instance, Nozick (1974), Friedman (1989), or Murphy (2010)
 for examples of just that sort of rationalistic embrace of a purely civil association.
 
-Corey goes on to conflate yet a third dichotomy as being just names offering slightly different "formulations"
+Corey goes on to conflate yet a third dichotomy as being alternate names offering slightly different "formulations"
 for what is in essence the same thing: "To sum up, Oakeshott's three related formulations of a particular kind of
 politics (Rationalism, 'faith,' and collectivism)" (173).
 
@@ -163,14 +166,14 @@ In other words, in the ocean of human experience, there are a vast number of pla
 In fact, it is Oakeshott's concept of philosophy as "experience without reservation or arrest" (1933: 4)
 that allows him the freedom to repeatedly explore new arrests in experience: all such arrests are always abstract and so
 partial and defective. Someone who mistakenly thought that such an arrest could be made without defect or
-incoherence, might believe that any insights gleaned from such an arrest ought to be absolute and final, thus rendering
+incoherence might believe that any insights gleaned from such an arrest ought to be absolute and final, thus rendering
 them reluctant to explore any other arrest. Their inclination will be to become attached to any particular fishing
 spot where they catch a few interesting fish. For example, those enamoured of the scientific mode may readily come to
 believe that only scientific explanations are valid, in other words, to embrace "scientism."
 
 On the other hand, anyone understanding philosophy as does Oakeshott will be able to visit and leave
 various fishing grounds without becoming attached to any of them as an "ultimate fishing ground," since he will
-understand that no such ultimate ground exists: they are all "arrests" in experience.
+understand that no such ultimate ground exists: they are all "arrests" in experience, and so all abstract and defective.
 
 And we might explain some of the confusion that leads writers to try to identify one of Oakeshott's fishing grounds with
 another is due to their not fully understanding the philosophical basis behind his free exploration of various arrests in
@@ -189,19 +192,11 @@ work that he is "opposed to theoretical abstractions." Instead, what he has repe
 abstractions" are fine things, so long as one does not mistake them for a complete understanding of the situation from
 which they were abstracted. 
 
-
-The rationalist is not someone who creates abstractions; he is someone who creates abstractions, and then tries to use them
+What Oakeshott does criticize is rationalism. However,
+the rationalist is not someone who creates abstractions; he is someone who creates abstractions, and then tries to use them
 as a substitute for the knowledge of a concrete activity. A map of Budapest is an abstraction. Oakeshott is not against
 the making of such a map. He is against someone who believes that because they have a good map of Budapest, they
 are in a position to remake the city along more rational lines.
-
-(And the idealist claim that such-and-such is an abstraction, and therefore defective, is not a case for banning
-abstractions! A map of Budapest is "defective" compared to a lifelong, intimate knowledge of its streets and byways...
-but still extremely useful for a tourist trying to get around. [Bosanquet on morality.])
-
-[Sketch of "irrational" street.]
-
-Real example: Corbusier, who was actually designing microprocessors, not cities.
 
 And we know this is Oakeshott's position because he told us so quite explicitly; in *On Human Conduct*, after telling us
 he has been closely following Plato so far, he goes on to describe the point at which Plato goes astray:
@@ -219,9 +214,9 @@ should be sent on his travels again, or accommodated in a quiet home." (1975: 30
 
 So Oakeshott does not oppose theoretical abstraction at all: he opposes the *misuse* of theoretical abstraction.
 
-Spitz complains:
+We can now see the confusion behind another of Spitz's remarks, when he complains:
 
-"Apparently it is now [in *On HUman Conduct*] possible to speak of the character of a modern European state without
+"Apparently it is now [in *On Human Conduct*] possible to speak of the character of a modern European state without
 attending to the concrete manners of behavior in England, or France, or Germany, or any other national system. The
 differences he so assiduously urged us to note among them -- if we were to acquire true political knowledge -- are now
 forgotten; instead, the diverse manners of behavior are blurred in a presumably (but not demonstrated) common manner of
@@ -235,6 +230,12 @@ at the level of individual European nations, or at a higher level of abstraction
 the nations themselves are abstractions, hiding the differences between the English north and south, or Paris and the
 French Riviera, or Sicily and Tuscany... and even those are abstractions, as Cornwall differs from Essex, and Florence
 from Sienna. And so on.
+
+Spitz's confusion continues a page later: "An ideal-type does not describe reality; it is an abstraction, an abridgment, or
+as the earlier Oakeshott would say, an ideological way of looking at reality." (347)
+
+No: an ideology is an abstraction that has forgotten it is an abstraction and instead takes itself to be concrete
+reality, so that one attempts to find theoretical solutions to problems requiring *phronesis* or *techne*.
 
 Oakeshott's understanding, which he shares with other British Idealists (see, e.g. Collingwood (1924: 159-160), that all
 abstractions are partial and therefore defective, far from making it "paradoxical" that he is able to employ so many
@@ -301,11 +302,3 @@ of Being Michael Oakeshott', *Political Theory*, Vol. 4, No. 3, 335-352.
 
 
 
-## Cut?
-
-
-Spitz: "An ideal-type does not describe reality; it is an abstraction, an abridgment, or
-as the earlier Oakeshott would say, an ideological way of looking at reality." (347)
-
-No: an ideology is an abstraction that has forgotten it is an abstraction and instead takes itself to be concrete
-reality, so that one attempts to find theoretical solutions to problems requiring phronesis or techne.
