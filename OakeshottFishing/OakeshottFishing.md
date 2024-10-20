@@ -38,7 +38,7 @@ and seeing what fish he might catch from that spot.
 Let's attempt to set down the dichotomies Oakeshott, at one time or another, employs, knowing that we may miss
 some:
 
-- Exerience without reservation or arrest versus modal experience
+- Experience without reservation or arrest versus modal experience
 - Aesthetic morality versus rule-bound morality
 - The politics of faith versus the politics of skepticism
 - Rationalism versus *phronesis*
