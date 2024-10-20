@@ -163,6 +163,11 @@ who interrogates instead of using his theoretic equipment catches no fish."
 (OHC, pg. 11)
 
 In other words, in the ocean of human experience, there are a vast number of places one might "stop and fish."
+The importance of this image to Oakeshott is illustrated by his deployment of a similar image some 15 or so years before
+he wrote *On Human Conduct*. In "Political Philosophy,"
+an essay unpublished during his life, he offered the metaphor of the theorist climbing a
+tower with many windows looking out on experience, offering views of "what was before invisible" (1993: 143).
+
 In fact, it is Oakeshott's concept of philosophy as "experience without reservation or arrest" (1933: 4)
 that allows him the freedom to repeatedly explore new arrests in experience: all such arrests are always abstract and so
 partial and defective. Someone who mistakenly thought that such an arrest could be made without defect or
@@ -174,6 +179,9 @@ believe that only scientific explanations are valid, in other words, to embrace 
 On the other hand, anyone understanding philosophy as does Oakeshott will be able to visit and leave
 various fishing grounds without becoming attached to any of them as an "ultimate fishing ground," since he will
 understand that no such ultimate ground exists: they are all "arrests" in experience, and so all abstract and defective.
+And in "Political Philosophy," Oakeshott makes this explicit: "Philosophical reflection, on the other hand, is what
+happens when [that] kind of anchorage [i.e., attachment to some particular "fishing ground"]
+is rejected, each scene being permitted fully to supersede the one before" (1993: 143).
 
 And we might explain some of the confusion that leads writers to try to identify one of Oakeshott's fishing grounds with
 another is due to their not fully understanding the philosophical basis behind his free exploration of various arrests in
@@ -293,6 +301,9 @@ Cambridge: Cambridge University Press.
 
 - Oakeshott, Michael (1991 [1962]) *Rationalism in Politics and Other Essays*,
 Indianapolis: Liberty Fund.
+
+- Oakeshott, Michael (1993) *Religion, Politics, and the Moral Life*,
+ed. Timothy Fuller, New Haven and London: Yale University Press.
 
 - Oakeshott, Michael (1996) *The Politics of Faith and the Politics of Scepticism*,
 ed. Timothy Fuller, New Haven and London: Yale University Press.
