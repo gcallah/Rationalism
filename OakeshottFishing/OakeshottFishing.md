@@ -153,8 +153,15 @@ An example of the latter misapprehnsion -- believing that, because Oakeshott is 
 issue, he has abandoned some earlier position, can be found in Stephen Gerencser's book *The Skeptic’s Oakeshott*.
 Here 
 
-Oakeshott never uses the term "absolute idealism" in experience and its modes, And only reluctantly talks about the
-absolute at all, so Gerencser's use of the term to describe Oakeshott's early philosophy is already questionable.
+Oakeshott never uses the term "absolute idealism" in experience and its modes, and only reluctantly talks about the
+absolute at all (1933: 46-47), so Gerencser's use of the term to describe Oakeshott's early philosophy is already questionable.
+But he nevertheless goes on to claim: "In both 'Political Philosophy' and 'The Voice of Poetry' Oakeshott has lost his
+faith in the notion of 'experience without reservation'..." (2000: 38).
+
+Firstly, it is very strange to assert that Oakeshott had "faith" in "experience without reservation": that, for him was
+a statement of the nature of philosophy, and hardly a matter of faith. Moreover, as we will see in the next section,
+the essay "Political Philosophy," far from showing any loss of "faith" in "experience without reservation," in fact,
+restates that as the nature of philosophy using new imagery.
 
 ## Going Fishing
 
