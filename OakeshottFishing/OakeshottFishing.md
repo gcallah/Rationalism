@@ -23,7 +23,7 @@ Conduct*, that of the theorist "dropping anchor" and catching the fish
 available at a certain locale reached in the enterprise of theorizing.
 
 (Note: This paper will *not* attempt to explain why Oakeshott liked binaries as opposed to, say, ternaries or
-quaternaries. The focus here is on why there were so many binaries.)
+quaternaries. The focus here is on why there were *so many* binaries.)
 
 Once we comprehend this metaphor, we can see Oakeshott positing these various
 dichotomies neither as evidence of his deciding an earlier dichotomy was wrong
@@ -49,9 +49,10 @@ some:
 
 (The above list is similar but not identical to that offered by Fuller, 2024: 280.^1)
 
-My contention is that these are largely *distinct* ways of "dividing the continuum" of experience, and that Oakeshott was most often
+My contention is that these are largely *distinct* ways of "dividing the continuum" (see Eco, 1986: 44-45)
+of experience, and that Oakeshott was most often
 offering a new vantage point from which to understand human experience, and not merely giving closely related poles in a
-dichotomy ever new names. Bu let us look at some cases where one of his commentators contends the latter is true.
+dichotomy ever new names. But let us look at some cases where one of his commentators contends the latter is true.
 
 1. Fuller's list is:
 - Empirical politics -- Ideological politics
@@ -116,7 +117,7 @@ have written" (1976: 362).
 Furthermore, Oakeshott recognizes that character of the modern European state contains a mingling of the ideal types of 
 civil and enterprise association:
 
-"*Societas* and *universitas* stand, each, for an independent, self-sustaining moded of association; And my contention is
+"*Societas* and *universitas* stand, each, for an independent, self-sustaining mode of association; And my contention is
 that they are both characteristics of a state, not because they have an inherent need of one another... but because they
 have become contingently joined by the choices of human beings in the character of a modern European state. And if this
 is the situation, it may be the most one can do is to offer these terms as the most effective apparatus for
@@ -143,7 +144,7 @@ Corey goes on to conflate yet a third dichotomy as being alternate names offerin
 for what is in essence the same thing: "To sum up, Oakeshott's three related formulations of a particular kind of
 politics (Rationalism, 'faith,' and collectivism)" (173).
 
-But, as discussed in Callahan (2012), Ayn Rand and Murray Rothbard were both rationalists and 
+But, as discussed in Callahan (2012), Ayn Rand and Murray Rothbard were both rationalists *and* 
 representatives of the "politics of faith," but fiercely anti-collectivist. The Romans had great faith in their
 tradion-oriented political system, while the American founders rationalistically designed a constitution based on their
 skeptical view of what politics could achieve. Oakeshott was exploring different ways of cutting the world of human
@@ -176,8 +177,8 @@ who interrogates instead of using his theoretic equipment catches no fish."
 (OHC, pg. 11)
 
 In other words, in the ocean of human experience, there are a vast number of places one might "stop and fish."
-The importance of this image to Oakeshott is illustrated by his deployment of a similar image some 15 or so years before
-he wrote *On Human Conduct*. In "Political Philosophy,"
+The importance of this image to Oakeshott is illustrated by his deployment of a similar image some fifteen
+or so years before he wrote *On Human Conduct*. In "Political Philosophy,"
 an essay unpublished during his life, he offered the metaphor of the theorist climbing a
 tower with many windows looking out on experience, offering views of "what was before invisible" (1993: 143).
 
@@ -191,10 +192,12 @@ believe that only scientific explanations are valid, in other words, to embrace 
 
 On the other hand, anyone understanding philosophy as does Oakeshott will be able to visit and leave
 various fishing grounds without becoming attached to any of them as an "ultimate fishing ground," since he will
-understand that no such ultimate ground exists: they are all "arrests" in experience, and so all abstract and defective.
+understand that no such ultimate ground exists: they are all "arrests" in experience.
 And in "Political Philosophy," Oakeshott makes this explicit: "Philosophical reflection, on the other hand, is what
 happens when [that] kind of anchorage [i.e., attachment to some particular "fishing ground"]
-is rejected, each scene being permitted fully to supersede the one before" (1993: 143).
+is rejected, each scene being permitted fully to supersede the one before" (1993: 143). (As mentioned earlier, this
+essay actually *refutes* Gerencser's claim that Oakeshott had "lost faith" in the idea of experience without reservation
+or arrest, rather than being evidence backing the claim.)
 
 And we might explain some of the confusion that leads writers to try to identify one of Oakeshott's fishing grounds with
 another is due to their not fully understanding the philosophical basis behind his free exploration of various arrests in
@@ -208,8 +211,8 @@ the dismiss an apparent "paradox." As Alexander describes it:
 "There is something paradoxical about being opposed to theoretical abstraction and yet having such a relentless
 inclination to carry it out" (2).
 
-But the view Alexander has attributed to Oakeshott is false: There is nowhere in Oakeshott's
-work that he is "opposed to theoretical abstractions." Instead, what he has repeatedly pointed out is that "theoretical
+But the view Alexander has attributed to Oakeshott is false: There is no passage in Oakeshott's
+work that is "opposed to theoretical abstractions." Instead, what he has repeatedly pointed out is that "theoretical
 abstractions" are fine things, so long as one does not mistake them for a complete understanding of the situation from
 which they were abstracted. 
 
@@ -241,7 +244,7 @@ We can now see the confusion behind another of Spitz's remarks, when he complain
 attending to the concrete manners of behavior in England, or France, or Germany, or any other national system. The
 differences he so assiduously urged us to note among them -- if we were to acquire true political knowledge -- are now
 forgotten; instead, the diverse manners of behavior are blurred in a presumably (but not demonstrated) common manner of
-behavior" (346)
+behavior" (1976: 346)
 
 Again, having understood the idea of "dropping anchor," we can see that
 Spitz's complaint that the important differences between different European nations "are now forgotten"
@@ -253,7 +256,7 @@ French Riviera, or Sicily and Tuscany... and even those are abstractions, as Cor
 from Sienna. And so on.
 
 Spitz's confusion continues a page later: "An ideal-type does not describe reality; it is an abstraction, an abridgment, or
-as the earlier Oakeshott would say, an ideological way of looking at reality." (347)
+as the earlier Oakeshott would say, an ideological way of looking at reality." (1976: 347)
 
 No: an ideology is an abstraction that has forgotten it is an abstraction and instead takes itself to be concrete
 reality, so that one attempts to find theoretical solutions to problems requiring *phronesis* or *techne*.
@@ -268,7 +271,7 @@ satisfactory, so there is no reason to cling to one of them while abjuring all o
 When put in the context of Oakeshott's understanding of philosophy has experience without reservation or arrest, we can
 comprehend his repeated positing of new polarities as the free explorations of an intellect not attached to any
 particular arrest in experience. When examining new poles, he was neither repudiating earlier writings nor merely saying
-the same thing using different terms. He had simply found a new fishing grounds.
+the same thing using different terms. He had simply found new fishing grounds.
 
 ## Bibliography
 
