@@ -149,6 +149,12 @@ tradion-oriented political system, while the American founders rationalistically
 skeptical view of what politics could achieve. Oakeshott was exploring different ways of cutting the world of human
 action in two, not performing the same cut, again and again, and just calling the different slices by new names.
 
+An example of the latter misapprehnsion -- believing that, because Oakeshott is offering a new perspective on some
+issue, he has abandoned some earlier position, can be found in Stephen Gerencser's book *The Skeptic’s Oakeshott*.
+Here 
+
+Oakeshott never uses the term "absolute idealism" in experience and its modes, And only reluctantly talks about the
+absolute at all, so Gerencser's use of the term to describe Oakeshott's early philosophy is already questionable.
 
 ## Going Fishing
 
@@ -195,7 +201,7 @@ the dismiss an apparent "paradox." As Alexander describes it:
 "There is something paradoxical about being opposed to theoretical abstraction and yet having such a relentless
 inclination to carry it out" (2).
 
-But the view Alexander has attributed to Oakeshott is false: There is nowhere in Oakeshot's
+But the view Alexander has attributed to Oakeshott is false: There is nowhere in Oakeshott's
 work that he is "opposed to theoretical abstractions." Instead, what he has repeatedly pointed out is that "theoretical
 abstractions" are fine things, so long as one does not mistake them for a complete understanding of the situation from
 which they were abstracted. 
@@ -281,6 +287,8 @@ Bloomington: Indiana University Press.
 2nd ed. La Salle, Ill.: Open Court.
 
 - Fuller, Timothy (2024) *Michael Oakeshott and the Human Condition*, Carmel, Indiana: Liberty Fund.
+
+- Gerencser, Steven Anthony (2000) *The Skeptic’s Oakeshott*. New York: St. Martin’s Press.
 
 - Horton, John (2005) 'A Qualified Defence of Oakeshott's Politics of Scepticism',
 *European Journal Of Political Theory*, Vol. 4, No. 1: 23-36
