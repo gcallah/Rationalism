@@ -18,7 +18,7 @@ implicitly, if we draw out the implications of his relevant writings. And I will
 different sources of their understanding of what philosophy is, they largely agree on the answer to that question.
 
 
-## Oakeshott and Voegelin
+## Oakeshott and Voegelin as Contemporaries
 
 Oakeshott and Voegelin were as much contemporaries as any two significant thinkers in the same field
 are likely to be: they were both born in 1901, both completed their university studies during the 1920s, published their
@@ -35,15 +35,38 @@ cites Oakeshott's introduction to *Leviathan* (2000: 36),
 
 Private references.
 
+## Philosophy Is Not a Doctrine or a System
 
-## Oakeshott on Philosophy
 
-Predecessors:
+Oakeshott:
+"But a reflective enterprise which had the precise purpose of avoiding all such fixed points of reference, one designed
+to remain fluid, one for which no presupposition was sacred, would not improperly be called *radically subversive*.
+This, I believe, is this distinguishing characteristic of philosophical reflection." (1993: 141)
+
+
+## Instead, Philosophy Is an Attitude Towards Being
+
+
+
+## Oakeshott's Sources
+
 
 Bosanquet: "This characteristic of philosophy, that it speaks about the whole complex of being without any
 reservation..." (2012: 25).
 
-## Voegelin on Philosophy
+## Voegelin's Sources
+
+
+
+## Political Philosophy Versus Ideology
+
+Besides agreeing on the basic nature of philosophy, Voegelin anbd Oakeshott also share the view that political philosophy is
+clearly distinguishable from political ideology.
+
+
+
+"Plato was a philosopher, not a political ideologist" (2001: 189).
+
 
 
 ## Conclusion
@@ -52,9 +75,18 @@ reservation..." (2012: 25).
 ## Bibliography
 
 
-- Bosanquet, Bernard, 2012 [1927]. *Science and Philosophy and Other Essays*. Routledge: Oxon.
--
-- Oakeshott, Michael, 2004. *What Is History? and other essays*. Imprint Academic: Exeter.
-- Voegelin, Eric, 2000. *Collected Works, Volume 11: Published Essays 1953-1965*. University of Missouri Press: Columbia
+- Bosanquet, Bernard (2012 [1927]) *Science and Philosophy and Other Essays*, Routledge: Oxon.
+
+- Oakeshott, Michael (1933) *Experience and Its Modes*, Cambridge: Cambridge University Press.
+
+- Oakeshott, Michael (1993) *Religion, Politics, and the Moral Life*,
+ed. Timothy Fuller, New Haven and London: Yale University Press.
+
+- Oakeshott, Michael (2004) *What Is History? and other essays*, Imprint Academic: Exeter.
+
+- Voegelin, Eric (2000) *Collected Works, Volume 11: Published Essays 1953-1965*, University of Missouri Press: Columbia
     and London.
+
+- Voegelin, Eric (2001) *Collected Works, Volume 13: Selected Book Reviews*, University of Missouri Press: Columbia and
+    London.
 
