@@ -35,16 +35,36 @@ cites Oakeshott's introduction to *Leviathan* (2000: 36),
 
 Private references.
 
-## Philosophy Is Not a Doctrine or a System
+## Philosophizing Is Not About Creating a Doctrine or a System
 
 
-Oakeshott:
+MO rejects the idea that the essence of philosophy is to create a "philosophical system":
+
+"The aim in philosophical reflection is to think philosophically, not to construct a 'philosophy'" (1993: 130).
+
+Compare that with Voegelin, from the essay "Remembrance of Things Past":
+
+"A consciousness of this kind is not an a priori structure, nor does it just happen, nor is its horizon given. It rather
+is a ceaseless action of expanding, ordering, articulating, and correcting itself... It is a permanent effort at
+responsive openness to the appeal of reality, bewaring of premature satisfaction, and above all, at avoiding the
+self-destructive phantasy of believing the reality of which it is a part to be an object external to itself that can be
+mastered by bringing it into the form of a system." (1990: 305)
+
+Oakeshott holds that philosophy is radically subversive:
+
 "But a reflective enterprise which had the precise purpose of avoiding all such fixed points of reference, one designed
 to remain fluid, one for which no presupposition was sacred, would not improperly be called *radically subversive*.
 This, I believe, is this distinguishing characteristic of philosophical reflection." (1993: 141)
 
+As does Voegelin:
 
-## Instead, Philosophy Is an Attitude Towards Being
+"and if I certainly did not care to become a neo-Kantian subject of cognition, not even an intersubjective one, neither
+did I particularly care to become a Neoplatonist, or a neo-Thomist metaphysician, or an existentialist, Christian or
+otherwise... I knew that the revolt had to be considerably more radical to match the problems raised by the disorder of
+the age." (1990: 306)
+
+
+
 
 
 
@@ -83,6 +103,9 @@ clearly distinguishable from political ideology.
 ed. Timothy Fuller, New Haven and London: Yale University Press.
 
 - Oakeshott, Michael (2004) *What Is History? and other essays*, Imprint Academic: Exeter.
+
+- Voegelin, Eric (1990) *Collected Works, Volume 12: Published Essays 1953-1965*, Louisiana State University Press:
+Baton Rouge and London.
 
 - Voegelin, Eric (2000) *Collected Works, Volume 11: Published Essays 1953-1965*, University of Missouri Press: Columbia
     and London.
