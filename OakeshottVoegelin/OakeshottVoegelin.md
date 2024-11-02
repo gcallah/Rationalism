@@ -35,6 +35,28 @@ cites Oakeshott's introduction to *Leviathan* (2000: 36),
 
 Private references.
 
+## Philosophy Springs from Wonder and Ignorance
+
+
+MO: "All of reflection begins with something assumed to be known, but in reflection what is assumed to be known is assumed
+also not to be known. We begin with knowledge, which is nevertheless assumed to be ignorance."
+
+
+MO: "If, then, human beings were absolutely ignorant, it is impossible to see how they could ever reflect or ever
+acquire knowledge. If it were possible to enjoy an experience of mere 'observation', it is impossible to see how
+knowledge could ever spring from it" (1993: 139).
+
+Voegelin also sees the quest for understanding as grounded in knowledge which is nevertheless ignorance:
+
+"without questioning in confusion, [there would be] no consciousness of ignorance. There would be no existential unrest
+moving toward the quest of the ground unless the unrest was already man's knowledge of existence from a ground that
+he is not himself." (1990: 273)
+
+
+
+Voegelin: "the consciousness of questioning unrest in a state of ignorance" (1990: 272).
+
+
 ## Philosophizing Is Not About Creating a Doctrine or a System
 
 
@@ -50,13 +72,23 @@ responsive openness to the appeal of reality, bewaring of premature satisfaction
 self-destructive phantasy of believing the reality of which it is a part to be an object external to itself that can be
 mastered by bringing it into the form of a system." (1990: 305)
 
-Oakeshott holds that philosophy is radically subversive:
+And in "Reason: The Classic Experience," Voegelin writes:
+
+"Thus philosophy in the classic sense is not a body of 'ideas' or 'opinions' about the divine ground, dispensed by a
+person who calls himself off 'philosopher,' but a man's responsive pursuit of his questioning unrest to the divine
+source that is aroused it." (1990: 272)
+
+
+## Philosophy Is Radical
+
+Because philosophy is a "ceaseless action" of questioning, it is necessary radical compared to all modes of inquiry that
+reach fixed conclusions. As Oakeshott puts it:
 
 "But a reflective enterprise which had the precise purpose of avoiding all such fixed points of reference, one designed
 to remain fluid, one for which no presupposition was sacred, would not improperly be called *radically subversive*.
 This, I believe, is this distinguishing characteristic of philosophical reflection." (1993: 141)
 
-As does Voegelin:
+Voegelin says something very similar in this passage:
 
 "and if I certainly did not care to become a neo-Kantian subject of cognition, not even an intersubjective one, neither
 did I particularly care to become a Neoplatonist, or a neo-Thomist metaphysician, or an existentialist, Christian or
@@ -68,16 +100,6 @@ the age." (1990: 306)
 
 
 
-## Oakeshott's Sources
-
-
-Bosanquet: "This characteristic of philosophy, that it speaks about the whole complex of being without any
-reservation..." (2012: 25).
-
-## Voegelin's Sources
-
-
-
 ## Political Philosophy Versus Ideology
 
 Besides agreeing on the basic nature of philosophy, Voegelin anbd Oakeshott also share the view that political philosophy is
@@ -86,6 +108,16 @@ clearly distinguishable from political ideology.
 
 
 "Plato was a philosopher, not a political ideologist" (2001: 189).
+
+
+
+## Oakeshott's Sources
+
+
+Bosanquet: "This characteristic of philosophy, that it speaks about the whole complex of being without any
+reservation..." (2012: 25).
+
+## Voegelin's Sources
 
 
 
