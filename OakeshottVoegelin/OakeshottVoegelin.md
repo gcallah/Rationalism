@@ -31,7 +31,7 @@ Both of them were also on friendly terms with F.A. Hayek, and were feted by the 
 Despite these commonalities, neither of the pair addressed the other's work in any depth. Oakeshott (anonymously)
 wrote a generally favorable review of Voegelin's *New Science of Politics*, in which the reader "will find himself being
 lead on a remarkably interesting journey by a guide of rare knowledge and intelligence" (2004: 229). Voegelin favorably
-cites Oakeshott's introduction to *Leviathan* (2000: 36), 
+cites Oakeshott's introduction to *Leviathan* (2000a: 36), 
 
 Private references.
 
@@ -72,6 +72,12 @@ responsive openness to the appeal of reality, bewaring of premature satisfaction
 self-destructive phantasy of believing the reality of which it is a part to be an object external to itself that can be
 mastered by bringing it into the form of a system." (1990: 305)
 
+In a section of *The Ecumenic Age* titled "The deformation of philosophy into doctrine," Voegelin writes that, with the
+Stoics:
+
+"A new intellectual game with imaginary realities in an imaginary realm of thought, the game of propositional
+metaphysics, has been opened with world-historic consequences that reach into our own present..." (2000b: 91)
+
 And in "Reason: The Classic Experience," Voegelin writes:
 
 "Thus philosophy in the classic sense is not a body of 'ideas' or 'opinions' about the divine ground, dispensed by a
@@ -111,6 +117,14 @@ clearly distinguishable from political ideology.
 
 
 
+## Of Course, There Are Many Differences
+
+Hobbes: V: 12: 277
+
+Spinoza?
+
+Hegel: V: 12:285
+
 ## Oakeshott's Sources
 
 
@@ -132,15 +146,18 @@ reservation..." (2012: 25).
 - Oakeshott, Michael (1933) *Experience and Its Modes*, Cambridge: Cambridge University Press.
 
 - Oakeshott, Michael (1993) *Religion, Politics, and the Moral Life*,
-ed. Timothy Fuller, New Haven and London: Yale University Press.
+    ed. Timothy Fuller, New Haven and London: Yale University Press.
 
 - Oakeshott, Michael (2004) *What Is History? and other essays*, Imprint Academic: Exeter.
 
 - Voegelin, Eric (1990) *Collected Works, Volume 12: Published Essays 1953-1965*, Louisiana State University Press:
-Baton Rouge and London.
+    Baton Rouge and London.
 
-- Voegelin, Eric (2000) *Collected Works, Volume 11: Published Essays 1953-1965*, University of Missouri Press: Columbia
+- Voegelin, Eric (2000a) *Collected Works, Volume 11: Published Essays 1953-1965*, University of Missouri Press: Columbia
     and London.
+
+- Voegelin, Eric (2000b) *Collected Works, Volume 17: Order and History, Volume IV, The Ecumenic Age*,
+    University of Missouri Press: Columbia and London.
 
 - Voegelin, Eric (2001) *Collected Works, Volume 13: Selected Book Reviews*, University of Missouri Press: Columbia and
     London.
