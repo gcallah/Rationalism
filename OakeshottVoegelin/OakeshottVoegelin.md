@@ -134,6 +134,10 @@ reservation..." (2012: 25).
 ## Voegelin's Sources
 
 
+Maritain:
+
+"Authentic Thomism is not a closed system; it is a wisdom that is essentially open and without frontiers by the very
+fact that it is a doctrine in movement and vital development."
 
 ## Conclusion
 
@@ -142,6 +146,9 @@ reservation..." (2012: 25).
 
 
 - Bosanquet, Bernard (2012 [1927]) *Science and Philosophy and Other Essays*, Routledge: Oxon.
+
+- Maritain, Jacques (1997) *The Collected Works of Jacques Maritain, XX: Untrammeled Approaches*, Notre Dame: University
+    of Notre Dame Press.
 
 - Oakeshott, Michael (1933) *Experience and Its Modes*, Cambridge: Cambridge University Press.
 
