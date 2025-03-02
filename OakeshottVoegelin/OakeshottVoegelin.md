@@ -76,7 +76,7 @@ In a section of *The Ecumenic Age* titled "The deformation of philosophy into do
 Stoics:
 
 "A new intellectual game with imaginary realities in an imaginary realm of thought, the game of propositional
-metaphysics, has been opened with world-historic consequences that reach into our own present..." (2000b: 91)
+metaphysics, has been opened with world-historic consequences that reach into our own present..." (2000c: 91)
 
 And in "Reason: The Classic Experience," Voegelin writes:
 
@@ -117,7 +117,16 @@ clearly distinguishable from political ideology.
 
 
 
-## Of Course, There Are Many Differences
+## The Differences
+
+
+The most important difference between MO and EV concerns the practical value of philosophy: for MO it has (almost?) no
+practical value, while for EV its practical value is significant: in fact, the philosopher, through the order in his own
+soul, offers the polity its only opportunity to achieve order in itself.
+
+For example, EV says of Socrates: "He is the gift of god to Athens, given as a gadfly to the polis to stir it
+back into life" (2000b: 62).
+
 
 Hobbes: V: 12: 277
 
@@ -125,19 +134,28 @@ Spinoza?
 
 Hegel: V: 12:285
 
-## Oakeshott's Sources
+## Their Predecessors
+
+Neither MO or EV had these ideas spring out of their heads like Athena did from Zeus's. So it may be of some
+interest to explore who inspired them to think of philosophy in this way, asking what influences they shared, which ones
+were unique to each thinker, and how these influences colored their own ideas.
+
+Of course, the most obvious common influences were those of Plato and Aristotle. EV devoted a large volume to the two
+(2000b) and cited them frequently in many other places. MO was not as explicit about his debt to the two giants of Greek
+philosophy, but an examination of his notebooks shows that he devoted a great deal of thought to their work. And he does
+cite his debt to Plato for the first section of *On Human Conduct* (1975: ???).
 
 
 Bosanquet: "This characteristic of philosophy, that it speaks about the whole complex of being without any
 reservation..." (2012: 25).
 
-## Voegelin's Sources
 
 
 Maritain:
 
 "Authentic Thomism is not a closed system; it is a wisdom that is essentially open and without frontiers by the very
 fact that it is a doctrine in movement and vital development."
+
 
 ## Conclusion
 
@@ -152,6 +170,8 @@ fact that it is a doctrine in movement and vital development."
 
 - Oakeshott, Michael (1933) *Experience and Its Modes*, Cambridge: Cambridge University Press.
 
+- Oakeshott, Michael (1975) *On Human Conduct*, Oxford: Clarendon Press.
+
 - Oakeshott, Michael (1993) *Religion, Politics, and the Moral Life*,
     ed. Timothy Fuller, New Haven and London: Yale University Press.
 
@@ -163,7 +183,10 @@ fact that it is a doctrine in movement and vital development."
 - Voegelin, Eric (2000a) *Collected Works, Volume 11: Published Essays 1953-1965*, University of Missouri Press: Columbia
     and London.
 
-- Voegelin, Eric (2000b) *Collected Works, Volume 17: Order and History, Volume IV, The Ecumenic Age*,
+- Voegelin, Eric (2000b) *Collected Works, Volume 16: Order and History, Volume III, Plato and Aristotle*,
+    University of Missouri Press: Columbia and London.
+
+- Voegelin, Eric (2000c) *Collected Works, Volume 17: Order and History, Volume IV, The Ecumenic Age*,
     University of Missouri Press: Columbia and London.
 
 - Voegelin, Eric (2001) *Collected Works, Volume 13: Selected Book Reviews*, University of Missouri Press: Columbia and
