@@ -122,7 +122,7 @@ clearly distinguishable from political ideology.
 
 
 
-## PLato: The Key to Their Divergence
+## Plato: The Common Source
 
 
 The most important difference between MO and EV concerns the practical value of philosophy: for MO it has (almost?) no
@@ -168,6 +168,7 @@ ability to tell one end of a horse from the other... [then] before long the more
 begin to suspect that, after all, he [is] not an interesting theorist but a fuddled and pretentious 'theoretician' who
 should be sent on his travels again, or accommodated in a quiet home." (1975: 30)
 
+## Hobbes: The Fork in the Road
 
 I suggest we can point to where the fork in the paths followed by MO and EV is located; and that location is Thomas
 Hobbes.
@@ -175,31 +176,29 @@ Hobbes.
 For EV, Hobbes is a representative of modern alienation. For example, he writes "In the modern Western history of
 unrest... A Hobbes replaces the *summum Bonum* by the *summum malum* as the ordering force of man's existence" (1990a: 277).
 In the essay "The Eclipse of Reality," he describes how, for many English thinkers,
-Hobbes and Locke as two "blocks" preventing the recognition of "a larger horizon of a truth of existence" (1990b: 154).
+Hobbes and Locke are two "blocks" preventing the recognition of "a larger horizon of a truth of existence" (1990b: 154).
 
+EV discusses Hobbes extensively in *The New Science of Politics*, and it is worth quoting him at some length here:
 
+"""
+The function of Gnosticism as the civil theology of Western
+society, its destruction of the truth of the soul, and its disregard for the problem of existence have been set forth in
+sufficient detail to make the fatal importance of the problem clear. The inquiry can now return to the great thinker who
+discovered its nature and tried to solve it by his theory of representation. In the seventeenth century the existence of
+the English national society seemed in danger of being destroyed by Gnostic revolutionaries, as today on a larger scale
+the same danger seems to threaten the existence of Western society as a whole. Hobbes tried to meet the danger by
+devising a civil theology which made the order of a society in existence the truth which it represented— and by the side
+of this truth no other should be held. This was an eminently sensible idea in so far as it put the whole weight on
+existence that had been so badly neglected by the Gnostics. The practical value of the idea, however, rested on the
+assumption that the transcendent truth which men tried to represent in their societies, after mankind had gone through
+the experiences of philosophy and Christianity, could be neglected in its turn. Against the Gnostics who did not want
+society to exist unless its order repre¬ sented a specific type of truth, Hobbes insisted that any order would do if it
+secured the existence of society. In order to make this conception valid, he had to create his new idea of man. Human
+nature would have to find fulfilment in existence itself; a purpose of man beyond existence would have to be denied.
+Hobbes countered the Gnostic immanentization of the eschaton which endangered existence by a radical immanence of
+existence which denied the eschaton. (2000d, 233-234)
+"""
 
-## Their Predecessors
-
-Neither MO or EV had these ideas spring out of their heads like Athena did from Zeus's. So it may be of some
-interest to explore who inspired them to think of philosophy in this way, asking what influences they shared, which ones
-were unique to each thinker, and how these influences colored their own ideas.
-
-Of course, the most obvious common influences were those of Plato and Aristotle. EV devoted a large volume to the two
-(2000b) and cited them frequently in many other places. MO was not as explicit about his debt to the two giants of Greek
-philosophy, but an examination of his notebooks shows that he devoted a great deal of thought to their work. And he does
-cite his debt to Plato for the first section of *On Human Conduct* (1975: ???).
-
-
-Bosanquet: "This characteristic of philosophy, that it speaks about the whole complex of being without any
-reservation..." (2012: 25).
-
-
-
-Maritain:
-
-"Authentic Thomism is not a closed system; it is a wisdom that is essentially open and without frontiers by the very
-fact that it is a doctrine in movement and vital development."
 
 
 ## Conclusion
@@ -207,11 +206,6 @@ fact that it is a doctrine in movement and vital development."
 
 ## Bibliography
 
-
-- Bosanquet, Bernard (2012 [1927]) *Science and Philosophy and Other Essays*, Routledge: Oxon.
-
-- Maritain, Jacques (1997) *The Collected Works of Jacques Maritain, XX: Untrammeled Approaches*, University
-    of Notre Dame Press: Notre Dame
 
 - Oakeshott, Michael (1933) *Experience and Its Modes*, Cambridge University Press: Cambridge.
 
@@ -224,20 +218,23 @@ fact that it is a doctrine in movement and vital development."
 
 - Plato (2004) *Gorgias*, eds. Walter Hamilton and Chris Emlyn-Jones, Penguin Classics: London.
 
-- Voegelin, Eric (1990a) *Collected Works, Volume 12: Published Essays 1953-1965*, Louisiana State University Press:
+- Voegelin, Eric (1990a) *Collected Works, Volume 12: Published Essays 1966-1985*, Louisiana State University Press:
     Baton Rouge and London.
 
 - Voegelin, Eric (1990b) *Collected Works, Volume 28: What Is History? and Other Late Unpublished Writings*,
     Louisiana State University Press: Baton Rouge and London.
 
-- Voegelin, Eric (2000a) *Collected Works, Volume 11: Published Essays 1953-1965*, University of Missouri Press: Columbia
-    and London.
+- Voegelin, Eric (2000a) *Collected Works, Volume 11: Published Essays 1953-1965*,
+    University of Missouri Press: Columbia.
 
 - Voegelin, Eric (2000b) *Collected Works, Volume 16: Order and History, Volume III, Plato and Aristotle*,
-    University of Missouri Press: Columbia and London.
+    University of Missouri Press: Columbia.
 
 - Voegelin, Eric (2000c) *Collected Works, Volume 17: Order and History, Volume IV, The Ecumenic Age*,
-    University of Missouri Press: Columbia and London.
+    University of Missouri Press: Columbia.
+
+- Voegelin, Eric (2000d) *Collected Works, Volume 5: Order and History, Volume IV, The Ecumenic Age*,
+    University of Missouri Press: Columbia.
 
 - Voegelin, Eric (2001) *Collected Works, Volume 13: Selected Book Reviews*, University of Missouri Press: Columbia and
     London.
