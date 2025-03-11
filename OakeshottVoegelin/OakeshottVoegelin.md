@@ -17,6 +17,11 @@ political theorists, each of them regarded himself as a philosopher, Voegelin qu
 implicitly, if we draw out the implications of his relevant writings. And I will argue that, despite the somewhat
 different sources of their understanding of what philosophy is, they largely agree on the answer to that question.
 
+Neverthless, that basic agreement is followed by a great divergence: for EV, philosophy has vital practical value:
+following Plato, it is a discipline for creating right order in the soul, which is the foundation of political order. To
+the contrary, MO sees philosophy as essentially worthless for guiding practical affairs. This paper will also ask from
+whence arises this parting of the ways.
+
 
 ## Oakeshott and Voegelin as Contemporaries
 
@@ -50,11 +55,11 @@ Voegelin also sees the quest for understanding as grounded in knowledge which is
 
 "without questioning in confusion, [there would be] no consciousness of ignorance. There would be no existential unrest
 moving toward the quest of the ground unless the unrest was already man's knowledge of existence from a ground that
-he is not himself." (1990: 273)
+he is not himself." (1990a: 273)
 
 
 
-Voegelin: "the consciousness of questioning unrest in a state of ignorance" (1990: 272).
+Voegelin: "the consciousness of questioning unrest in a state of ignorance" (1990a: 272).
 
 
 ## Philosophizing Is Not About Creating a Doctrine or a System
@@ -70,7 +75,7 @@ Compare that with Voegelin, from the essay "Remembrance of Things Past":
 is a ceaseless action of expanding, ordering, articulating, and correcting itself... It is a permanent effort at
 responsive openness to the appeal of reality, bewaring of premature satisfaction, and above all, at avoiding the
 self-destructive phantasy of believing the reality of which it is a part to be an object external to itself that can be
-mastered by bringing it into the form of a system." (1990: 305)
+mastered by bringing it into the form of a system." (1990a: 305)
 
 In a section of *The Ecumenic Age* titled "The deformation of philosophy into doctrine," Voegelin writes that, with the
 Stoics:
@@ -82,7 +87,7 @@ And in "Reason: The Classic Experience," Voegelin writes:
 
 "Thus philosophy in the classic sense is not a body of 'ideas' or 'opinions' about the divine ground, dispensed by a
 person who calls himself off 'philosopher,' but a man's responsive pursuit of his questioning unrest to the divine
-source that is aroused it." (1990: 272)
+source that is aroused it." (1990a: 272)
 
 
 ## Philosophy Is Radical
@@ -99,7 +104,7 @@ Voegelin says something very similar in this passage:
 "and if I certainly did not care to become a neo-Kantian subject of cognition, not even an intersubjective one, neither
 did I particularly care to become a Neoplatonist, or a neo-Thomist metaphysician, or an existentialist, Christian or
 otherwise... I knew that the revolt had to be considerably more radical to match the problems raised by the disorder of
-the age." (1990: 306)
+the age." (1990a: 306)
 
 
 
@@ -117,7 +122,7 @@ clearly distinguishable from political ideology.
 
 
 
-## The Differences
+## PLato: The Key to Their Divergence
 
 
 The most important difference between MO and EV concerns the practical value of philosophy: for MO it has (almost?) no
@@ -126,9 +131,20 @@ soul, offers the polity its only opportunity to achieve order in itself. Given h
 what philosophy is, we have a real puzzle here: how did their estimates of its practical value diverge so sharply?
 
 Voegelin follows Plato closely in his understanding of philosophy as a way to achieve right order in the soul.
+
 For example, EV says of Socrates: "He is the gift of god to Athens, given as a gadfly to the polis to stir it
 back into life" (2000b: 62).
 
+
+"the first step on the way up must be a search for a helper." (2000b: 112)
+
+"we shall fare well" (2000b: 113)
+
+"the philosopher, who must return from the vision of the Agathon to help his fellow prisoners" (2000b: 114)
+
+
+MO was also a close student of Plato's work. As Timothy Fuller says of his post-WWII essays, "These writings show a
+strong affinity for the Socratic style of philosophizing" (1993: 23).
 
 After a number of pages discussing the nature of theorizing, Oakeshott acknowledges his debt to Plato: "This account of
 the engagement of understanding owes so much to the account in Plato" -- then comes the crucial passage for
@@ -153,12 +169,15 @@ begin to suspect that, after all, he [is] not an interesting theorist but a fudd
 should be sent on his travels again, or accommodated in a quiet home." (1975: 30)
 
 
+I suggest we can point to where the fork in the paths followed by MO and EV is located; and that location is Thomas
+Hobbes.
 
-Hobbes: V: 12: 277
+For EV, Hobbes is a representative of modern alienation. For example, he writes "In the modern Western history of
+unrest... A Hobbes replaces the *summum Bonum* by the *summum malum* as the ordering force of man's existence" (1990a: 277).
+In the essay "The Eclipse of Reality," he describes how, for many English thinkers,
+Hobbes and Locke as two "blocks" preventing the recognition of "a larger horizon of a truth of existence" (1990b: 154).
 
-Spinoza?
 
-Hegel: V: 12:285
 
 ## Their Predecessors
 
@@ -191,20 +210,25 @@ fact that it is a doctrine in movement and vital development."
 
 - Bosanquet, Bernard (2012 [1927]) *Science and Philosophy and Other Essays*, Routledge: Oxon.
 
-- Maritain, Jacques (1997) *The Collected Works of Jacques Maritain, XX: Untrammeled Approaches*, Notre Dame: University
-    of Notre Dame Press.
+- Maritain, Jacques (1997) *The Collected Works of Jacques Maritain, XX: Untrammeled Approaches*, University
+    of Notre Dame Press: Notre Dame
 
-- Oakeshott, Michael (1933) *Experience and Its Modes*, Cambridge: Cambridge University Press.
+- Oakeshott, Michael (1933) *Experience and Its Modes*, Cambridge University Press: Cambridge.
 
-- Oakeshott, Michael (1975) *On Human Conduct*, Oxford: Clarendon Press.
+- Oakeshott, Michael (1975) *On Human Conduct*, Clarendon Press: Oxford.
 
 - Oakeshott, Michael (1993) *Religion, Politics, and the Moral Life*,
-    ed. Timothy Fuller, New Haven and London: Yale University Press.
+    ed. Timothy Fuller, Yale University Press: New Haven and London.
 
 - Oakeshott, Michael (2004) *What Is History? and other essays*, Imprint Academic: Exeter.
 
-- Voegelin, Eric (1990) *Collected Works, Volume 12: Published Essays 1953-1965*, Louisiana State University Press:
+- Plato (2004) *Gorgias*, eds. Walter Hamilton and Chris Emlyn-Jones, Penguin Classics: London.
+
+- Voegelin, Eric (1990a) *Collected Works, Volume 12: Published Essays 1953-1965*, Louisiana State University Press:
     Baton Rouge and London.
+
+- Voegelin, Eric (1990b) *Collected Works, Volume 28: What Is History? and Other Late Unpublished Writings*,
+    Louisiana State University Press: Baton Rouge and London.
 
 - Voegelin, Eric (2000a) *Collected Works, Volume 11: Published Essays 1953-1965*, University of Missouri Press: Columbia
     and London.
