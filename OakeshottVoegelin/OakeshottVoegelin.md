@@ -181,24 +181,75 @@ Hobbes and Locke are two "blocks" preventing the recognition of "a larger horizo
 EV discusses Hobbes extensively in *The New Science of Politics*, and it is worth quoting him at some length here:
 
 """
-The function of Gnosticism as the civil theology of Western
-society, its destruction of the truth of the soul, and its disregard for the problem of existence have been set forth in
-sufficient detail to make the fatal importance of the problem clear. The inquiry can now return to the great thinker who
-discovered its nature and tried to solve it by his theory of representation. In the seventeenth century the existence of
-the English national society seemed in danger of being destroyed by Gnostic revolutionaries, as today on a larger scale
-the same danger seems to threaten the existence of Western society as a whole. Hobbes tried to meet the danger by
-devising a civil theology which made the order of a society in existence the truth which it represented— and by the side
-of this truth no other should be held. This was an eminently sensible idea in so far as it put the whole weight on
-existence that had been so badly neglected by the Gnostics. The practical value of the idea, however, rested on the
-assumption that the transcendent truth which men tried to represent in their societies, after mankind had gone through
-the experiences of philosophy and Christianity, could be neglected in its turn. Against the Gnostics who did not want
-society to exist unless its order repre¬ sented a specific type of truth, Hobbes insisted that any order would do if it
-secured the existence of society. In order to make this conception valid, he had to create his new idea of man. Human
-nature would have to find fulfilment in existence itself; a purpose of man beyond existence would have to be denied.
-Hobbes countered the Gnostic immanentization of the eschaton which endangered existence by a radical immanence of
-existence which denied the eschaton. (2000d, 233-234)
+The function of Gnosticism as the civil theology of Western society, its destruction of the truth of the soul, and its
+disregard for the problem of existence have been set forth in sufficient detail to make the fatal importance of the
+problem clear. The inquiry can now return to the great thinker who discovered its nature and tried to solve it by his
+theory of representation. In the seventeenth century the existence of the English national society seemed in danger of
+being destroyed by Gnostic revolutionaries, as today on a larger scale the same danger seems to threaten the existence
+of Western society as a whole. Hobbes tried to meet the danger by devising a civil theology which made the order of a
+society in existence the truth which it represented -- and by the side of this truth no other should be held. This was an
+eminently sensible idea in so far as it put the whole weight on existence that had been so badly neglected by the
+Gnostics. The practical value of the idea, however, rested on the assumption that the transcendent truth which men tried
+to represent in their societies, after mankind had gone through the experiences of philosophy and Christianity, could be
+neglected in its turn. Against the Gnostics who did not want society to exist unless its order represented a specific
+type of truth, Hobbes insisted that any order would do if it secured the existence of society. In order to make this
+conception valid, he had to create his new idea of man. Human nature would have to find fulfilment in existence itself;
+a purpose of man beyond existence would have to be denied.  Hobbes countered the Gnostic immanentization of the eschaton
+which endangered existence by a radical immanence of existence which denied the eschaton.
+
+The result of this eífort was ambivalent. In order to maintain his position against the fighting churches and sects,
+Hobbes had to deny that their zeal was inspired, however misguided, by a search for truth. Their struggle had to be
+interpreted, in terms of immanent existence, as an unfettered expression of their lust for power; and their professed
+religious concem had to be revealed as a mask for their existential lust. 
+
+In carrying out this analysis, Hobbes proved to be one of the greatest psychologists of all times; his achievements in
+unmasking the libido dominandi behind the pretense of religious zeal and reforming idealism are as solid today as they
+were at the time when he wrote. This magnifkent psychological achievement, however, was purchased at a heavy price.
+Hobbes rightly diagnosed the corruptivc ckment of passion in thc re- ligiousncss of thc Puritan Gnostics. He did not,
+however, in- terpret passion as the source of corruption in the life of the spirit, but rather the life of the spirit as
+the extreme of exis- tential passion. Hence, he could not interpret the nature of man from the vantage point of the
+maximum of differentiation through the experiences of transcendence so that passion, and especially the fundamental
+passion, *superbia*, could be discerned as the permanently present danger of the fall from true nature; but he had, on
+the contrary, to interpret the life of passion as the nature of man so that the phenomena of spiritual life appeared as
+extremes of superbia. 
+
+According to this conception, the generic nature of man must be studied in terms of human passions; the objects of the
+passions are no legitimate object of inquiry. 8 This is the funda¬ mental counterposition to classic and Christian moral
+philos- ophy. Aristotelian ethics starts from the purposes of action and explores the order of human life in terms of
+the ordination of all actions toward a highest purpose, the *summum bonum*; Hobbes, on the contrary, insists that there is
+no *summum bonum*, 'as is spoken of in the books of the old moral philosophers.' With the *summum bonum*, however,
+disappears the source of order from human life; and not only from the life of individual man but also from life in
+society; for, as you will remember, the order of the life in community depends on *homonoia*, in the Aristotelian and
+Christian sense, that is, on the participation in the common *nous*.
+
+(2000d, 233-234)
 """
 
+Let us now look at the role of Hobbes in MO's thought, as described by Timothy Fuller:
+
+"In my view, MO is following the inspiration of Hobbes in insisting upon the separation of Christianity from all
+dependence on Aristotelian/scholastic teleology. I think he believed the Christianity, thus purged was far closer to
+expressing the truth of the human condition than anything derived from teleological theological philosophy/theology."
+(1993: 19)
+
+
+Notice how close this is to EV's understanding of Hobbes's role in some English thinkers' attitude towards the
+classical/Christian tradition, the difference being, of course, that in EV's case Hobbes is a "block" to fully
+understanding that tradition, while for MO (as Fuller interprets him) Hobbes is the "inspiration" for (meritoriously)
+setting aside that tradition.
+
+It is interesting to note here that, while EV shares MO's rejection of the "dogmatic metaphysics" of the scholastics,
+this does not lead the former as it does the latter to reject teleology, or, indeed, that tradition as a whole. For
+instance, EV cites Aquinas as asserting that Christ is "the head of all men," and not just those who have been born
+after the birth of Jesus, in order to refute the dogmatic belief that "all mankind that happened to live before Christ"
+have been condemned to Hell. (1990a: 78). As he puts it, "it is Thomas Aquinas who considers the Christ to be head of the
+*corpus mysticum* that embraces, not only Christians, but all mankind from the creation of the world to its end" (12:
+294) And he argues that Anselm's ontological argument is misunderstood if taken as a philosophical "proof" of God's
+existence, but that it is, rather, better understood as a meditation or prayer. (1990b: 191-206)
+
+Also of interest is the fact that one of the twentieth century's leading Thomists, Jacques Maritain, held that Thomism
+itself is not best understood as dogmatic metaphysics: "Authentic Thomism is not a closed system; it is a wisdom that is
+essentially open and without frontiers by the very fact that it is a doctrine in movement and vital development."
 
 
 ## Conclusion
@@ -206,6 +257,8 @@ existence which denied the eschaton. (2000d, 233-234)
 
 ## Bibliography
 
+- Maritain, Jacques (1997) *The Collected Works of Jacques Maritain, XX: Untrammeled Approaches*,
+    Notre Dame: University of Notre Dame Press.
 
 - Oakeshott, Michael (1933) *Experience and Its Modes*, Cambridge University Press: Cambridge.
 
