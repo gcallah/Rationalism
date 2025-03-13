@@ -125,8 +125,12 @@ clearly distinguishable from political ideology.
 ## Plato: The Common Source
 
 
-The most important difference between MO and EV concerns the practical value of philosophy: for MO it has (almost?) no
-practical value, while for EV its practical value is significant: in fact, the philosopher, through the order in his own
+The most important difference between MO and EV concerns the practical value of philosophy: for MO it has no
+practical value. As Fuller puts it, "But philosophy for MO is also, categorically, speaking, impractical. The search for
+truth has nothing to do with daily life." (1993: 19)
+
+
+Meanwhile, for EV its practical value is significant: in fact, the philosopher, through the order in his own
 soul, offers the polity its only opportunity to achieve order in itself. Given how close are their understandings of
 what philosophy is, we have a real puzzle here: how did their estimates of its practical value diverge so sharply?
 
