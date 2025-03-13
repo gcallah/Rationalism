@@ -170,7 +170,7 @@ should be sent on his travels again, or accommodated in a quiet home." (1975: 30
 
 ## Hobbes: The Fork in the Road
 
-I suggest we can point to where the fork in the paths followed by MO and EV is located; and that location is Thomas
+I suggest we can point to where the paths followed by MO and EV forked; and that fork is Thomas
 Hobbes.
 
 For EV, Hobbes is a representative of modern alienation. For example, he writes "In the modern Western history of
@@ -232,11 +232,33 @@ dependence on Aristotelian/scholastic teleology. I think he believed the Christi
 expressing the truth of the human condition than anything derived from teleological theological philosophy/theology."
 (1993: 19)
 
-
 Notice how close this is to EV's understanding of Hobbes's role in some English thinkers' attitude towards the
 classical/Christian tradition, the difference being, of course, that in EV's case Hobbes is a "block" to fully
 understanding that tradition, while for MO (as Fuller interprets him) Hobbes is the "inspiration" for (meritoriously)
 setting aside that tradition.
+
+Fuller continues:
+"In the perspective of Hobbes's theology, to repose of a mind satisfied can come only with eternal life at the general
+resurrection. While the natural condition, which we must still endure in the interim between the first and Second coming
+of Christ, prevails, what counts is the inner certainty of the Christian's faith that displaces the pursuit of the
+so-called 'highest good' as beside the point... The parallel for politics is clear: pursuing the 'highest good' under
+the natural conditions of mankind, will encourage both Pelagianism and anti-nomianism: Pelagianism, because we are
+misled into thinking that we can will the human condition to completion — but we cannot; antinomianism, because we are
+easily misled into thinking there must be a 'true' or 'correct' political order, accessible to our understanding, which
+is distorted or suppressed by the actually prevailing order."
+
+And EV response to this is the claim that Hobbes (and MO) have mistaken a certain *tendency* always inherent in the
+classical/Christian tradition, Gnosticism, for that tradition itself.
+
+An analogy may be helpful here. The classical tradition regards the telos of a round of competitive golf as shooting the
+lowest score possible. But it recognizes that, in this world, we will never do so. Nevertheless, we always have that as
+our aim, and it directs our efforts during our playing of a round of golf. While we never expect a perfect round, and
+therefore do not condemn rounds simply because they fall short of perfection, it provides us a standard by which we may
+judge particular rounds more or less exemplary.
+
+The Gnostic, on the other hand, is only satisfied with perfection. Any round with the score higher than 18 is condemned
+as sinful and fallen, and any barriers to achieving that perfect round must be obliterated.
+
 
 It is interesting to note here that, while EV shares MO's rejection of the "dogmatic metaphysics" of the scholastics,
 this does not lead the former as it does the latter to reject teleology, or, indeed, that tradition as a whole. For
