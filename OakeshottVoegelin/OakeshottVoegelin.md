@@ -14,8 +14,8 @@ not by the supposed possession of wisdom captured in a "system," such as "phenom
 This paper focuses on two twentieth-century thinkers who understood philosophy much as did its Greek founders:
 Michael Oakeshott and Eric Voegelin. Although not often thought of primarily as philosophers, but more so as
 political theorists, each of them regarded himself as a philosopher, Voegelin quite explicitly, and Oakeshott
-implicitly, if we draw out the implications of his relevant writings. And I will argue that, despite the somewhat
-different sources of their understanding of what philosophy is, they largely agree on the answer to that question.
+implicitly, if we draw out the implications of his relevant writings. And I will argue that
+they largely agree on the nature of philosophy.
 
 Neverthless, that basic agreement is followed by a great divergence: for EV, philosophy has vital practical value:
 following Plato, it is a discipline for creating right order in the soul, which is the foundation of political order. To
@@ -42,6 +42,10 @@ Private references.
 
 ## Philosophy Springs from Wonder and Ignorance
 
+In all of the following, it must be remembered that neither Oakeshott's or Voegelin's views were static, and this is not
+a historical study of their thought, so of necessity there is some collapsing of decades of evolving thoughts into a few
+pages. Nevertheless, I believe there is enough continuity in their understanding of philosophy that this compression
+does not also entail any great distortion.
 
 MO: "All of reflection begins with something assumed to be known, but in reflection what is assumed to be known is assumed
 also not to be known. We begin with knowledge, which is nevertheless assumed to be ignorance."
@@ -277,6 +281,8 @@ Also of interest is the fact that one of the twentieth century's leading Thomist
 itself is not best understood as dogmatic metaphysics: "Authentic Thomism is not a closed system; it is a wisdom that is
 essentially open and without frontiers by the very fact that it is a doctrine in movement and vital development."
 
+In any case, the essential question becomes this: is Hobbes denying the existence of a real *summum bonum*,
+or is he dispelling the illusion of a *summum bonum* that does not exist? (Strauss)
 
 ## Conclusion
 
