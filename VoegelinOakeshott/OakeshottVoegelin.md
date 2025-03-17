@@ -13,8 +13,7 @@ not by the supposed possession of wisdom captured in a "system," such as "phenom
 
 This paper focuses on two twentieth-century thinkers who understood philosophy much as did its Greek founders:
 Michael Oakeshott and Eric Voegelin. Although not often thought of primarily as philosophers, but more so as
-political theorists, each of them regarded himself as a philosopher, Voegelin quite explicitly, and Oakeshott
-implicitly, if we draw out the implications of his relevant writings. And I will argue that
+political theorists, each of them regarded himself as a primarily a philosopher. And I will argue that
 they largely agree on the nature of philosophy.
 
 Neverthless, that basic agreement is followed by a great divergence: for EV, philosophy has vital practical value:
@@ -124,9 +123,10 @@ clearly distinguishable from political ideology.
 
 For instance, Voegelin writes, "Plato was a philosopher, not a political ideologist" (2001: 189).
 
-MO 
+For MO, as Fuller puts it, "To consider politics philosophically is to describe the necessary character of politics
+in its endless efforts to preserve and to change; it is not to prescribe courses of action" (2024: 152).
 
-
+[More materials should be added here.]
 
 ## Plato: A Common Source
 
@@ -167,7 +167,9 @@ back into life" (2000b: 62).
 MO's parting of the ways with Plato on the practical value of philosophy appears early on, when he writes: "There is a
 difference between the 'unexamined life', which Plato said no man would wish to lead, and a life devoid of philosophical
 or speculative interest. Though it is, perhaps, the major defect of Plato's philosophy it that fails to recognize this
-difference" (1933: 303). And he claims, a few dozen pages later, 
+difference" (1933: 303). And he claims, a few dozen pages later, "a satisfactory life does not depend upon
+philosophical knowledge; indeed, such knowledge is irrelevant to it" (1933: 339). And a little later he argues that
+"To turn philosophy into a way of life is it wants to have abandoned life and philosophy" (1933: 355).
 
 Oakeshott expands upon this brief passage four decades later, in *On Human Conduct*.
 After a number of pages discussing the nature of theorizing, Oakeshott acknowledges his debt to Plato: "This account of
@@ -233,9 +235,9 @@ religious concem had to be revealed as a mask for their existential lust.
 In carrying out this analysis, Hobbes proved to be one of the greatest psychologists of all times; his achievements in
 unmasking the libido dominandi behind the pretense of religious zeal and reforming idealism are as solid today as they
 were at the time when he wrote. This magnifkent psychological achievement, however, was purchased at a heavy price.
-Hobbes rightly diagnosed the corruptivc ckment of passion in thc re- ligiousncss of thc Puritan Gnostics. He did not,
-however, in- terpret passion as the source of corruption in the life of the spirit, but rather the life of the spirit as
-the extreme of exis- tential passion. Hence, he could not interpret the nature of man from the vantage point of the
+Hobbes rightly diagnosed the corruptivc ckment of passion in thc religiousncss of thc Puritan Gnostics. He did not,
+however, interpret passion as the source of corruption in the life of the spirit, but rather the life of the spirit as
+the extreme of existential passion. Hence, he could not interpret the nature of man from the vantage point of the
 maximum of differentiation through the experiences of transcendence so that passion, and especially the fundamental
 passion, *superbia*, could be discerned as the permanently present danger of the fall from true nature; but he had, on
 the contrary, to interpret the life of passion as the nature of man so that the phenomena of spiritual life appeared as
@@ -243,7 +245,7 @@ extremes of superbia.
 
 According to this conception, the generic nature of man must be studied in terms of human passions; the objects of the
 passions are no legitimate object of inquiry. 8 This is the funda¬ mental counterposition to classic and Christian moral
-philos- ophy. Aristotelian ethics starts from the purposes of action and explores the order of human life in terms of
+philosophy. Aristotelian ethics starts from the purposes of action and explores the order of human life in terms of
 the ordination of all actions toward a highest purpose, the *summum bonum*; Hobbes, on the contrary, insists that there is
 no *summum bonum*, 'as is spoken of in the books of the old moral philosophers.' With the *summum bonum*, however,
 disappears the source of order from human life; and not only from the life of individual man but also from life in
@@ -284,9 +286,8 @@ our aim, and it directs our efforts during our playing of a round of golf. While
 therefore do not condemn rounds simply because they fall short of perfection, it provides us a standard by which we may
 judge particular rounds more or less exemplary.
 
-The Gnostic, on the other hand, is only satisfied with perfection. Any round with the score higher than 18 is condemned
+The Gnostic, on the other hand, is only satisfied with perfection. Any round with a score higher than 18 is condemned
 as sinful and fallen, and any barriers to achieving that perfect round must be obliterated.
-
 
 It is interesting to note here that, while EV shares MO's rejection of the "dogmatic metaphysics" of the scholastics,
 this does not lead the former as it does the latter to reject teleology, or, indeed, that tradition as a whole. For
@@ -317,8 +318,11 @@ them moving apart.
 
 ## Bibliography
 
+- Fuller, Timothy (2024) *Michael Oakeshott on the Human Condition: Essays by Timothy Fuller*, 
+    Liberty Fund: Carmel, Indiana.
+
 - Maritain, Jacques (1997) *The Collected Works of Jacques Maritain, XX: Untrammeled Approaches*,
-    Notre Dame: University of Notre Dame Press.
+    University of Notre Dame Press: Notre Dame.
 
 - Oakeshott, Michael (1933) *Experience and Its Modes*, Cambridge University Press: Cambridge.
 
