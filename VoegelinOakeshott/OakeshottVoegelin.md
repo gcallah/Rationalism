@@ -43,7 +43,7 @@ personally recommended to him that he read Voegelin. The second was when, at a c
 had met Voegelin and, upon telling him that he was working on Oakeshott, Voegelin said, "Ah, that English mystic." (It
 should be noted that from Voegelin, that is high praise.)
 
-## The Commonalities
+## Experience Without Reservation or Arrest
 
 ### Philosophy Springs from Wonder and Ignorance
 
@@ -133,14 +133,17 @@ MO
 MO and EV share a significant interest and debt to Plato. At the beginning of his first book, MO writes, "Anyone who has
 had a glimpse of the range and subtlety of the thought of Plato... will long ago despaired of becoming a philosopher"
 (1933: 7). And in a work with "experience" in its title, he looks to Plato to define experience: "Experience, says
-Plato, is dialectic; the true form of experience is argument" (1933: 37). And as Timothy Fuller says of MO's
+Plato, is dialectic; the true form of experience is argument" (1933: 37).
+Over a decade later, when MO declares the method he will use in an essay, he also remarks "This, of course, is the
+philosophical method and aim presented to us in the Socratic dialogues; and it is one with which I see no reason to
+quarrel" (1993: 130). As Timothy Fuller says of all of MO's
 post-WWII essays, "These writings show a strong affinity for the Socratic style of philosophizing" (1993: 23).
 
 
-EV, of course, devoted a 400-page book entirely to the work of Plato and Aristotle (2000b), and referred to Plato extensively
-elsewhere.
+EV, of course, devoted a 400-page book entirely to the work of Plato and Aristotle (2000b), and the Cumulative index of
+EV's collected works well over 300 references to Plato scatted across at least 17 volumes.
 
-But it also, in their remarks on Plato, the major difference in MO's and EV's understanding of philosophy is readily
+But it also, in their remarks on Plato, the major difference in MO's and EV's understanding of philosophy becomes
 apparent: does it have any practical value? For MO, the answer is a clear "no."
 As Fuller puts it, "But philosophy for MO is also, categorically, speaking, impractical. The search for
 truth has nothing to do with daily life." (1993: 19)
@@ -164,7 +167,7 @@ back into life" (2000b: 62).
 MO's parting of the ways with Plato on the practical value of philosophy appears early on, when he writes: "There is a
 difference between the 'unexamined life', which Plato said no man would wish to lead, and a life devoid of philosophical
 or speculative interest. Though it is, perhaps, the major defect of Plato's philosophy it that fails to recognize this
-difference" (1933: 303).
+difference" (1933: 303). And he claims, a few dozen pages later, 
 
 Oakeshott expands upon this brief passage four decades later, in *On Human Conduct*.
 After a number of pages discussing the nature of theorizing, Oakeshott acknowledges his debt to Plato: "This account of
