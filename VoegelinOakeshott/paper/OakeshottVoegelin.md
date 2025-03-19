@@ -17,7 +17,7 @@ not by the supposed possession of wisdom captured in a "system," such as "phenom
 
 This paper focuses on two twentieth-century thinkers who understood philosophy much as did its Greek founders:
 Michael Oakeshott and Eric Voegelin. Although not often thought of primarily as philosophers, but more so as
-political theorists, each of them regarded himself as a primarily a philosopher. And I will argue that
+political theorists, each of them regarded himself as a philosopher. And I will argue that
 they largely agree on the nature of philosophy.
 
 Neverthless, that basic agreement is followed by a great divergence: for Voegelin, philosophy has vital practical value:
