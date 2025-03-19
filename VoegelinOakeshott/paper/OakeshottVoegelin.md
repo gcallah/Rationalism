@@ -1,6 +1,10 @@
 # To Be Perpetually en Voyage:
 ## Michael Oakeshott and Eric Voegelin on the Nature of Philosophy
 
+Gene Callahan
+
+New York University
+
 ## Introduction
 
 On my desk at present is a book entitled *Idealism: The History of a Philosophy*. But is there actually
@@ -16,17 +20,18 @@ Michael Oakeshott and Eric Voegelin. Although not often thought of primarily as 
 political theorists, each of them regarded himself as a primarily a philosopher. And I will argue that
 they largely agree on the nature of philosophy.
 
-Neverthless, that basic agreement is followed by a great divergence: for EV, philosophy has vital practical value:
+Neverthless, that basic agreement is followed by a great divergence: for Voegelin, philosophy has vital practical value:
 following Plato, it is a discipline for creating right order in the soul, which is the foundation of political order. To
-the contrary, MO sees philosophy as essentially worthless for guiding practical affairs. This paper will also ask from
+the contrary, Oakeshott sees philosophy as essentially worthless for guiding practical affairs. This paper will also ask from
 whence arises this parting of the ways.
 
 
 ## Oakeshott and Voegelin as Contemporaries
 
 Oakeshott and Voegelin were as much contemporaries as any two significant thinkers in the same field
-are likely to be: they were both born in 1901, both completed their university studies during the 1920s, published their
-first books in the 1930s, gained public prominence with works published soon after World War II, and continued breaking
+are likely to be: they were both born in 1901, both completed their university studies during the 1920s, each of them
+published a survey book of contemporary European political camps in the late 1930s,
+gained public prominence with works published soon after World War II, and continued breaking
 new ground with works they continued writing until they passed away, Voegelin in 1985, and Oakeshott in 1990.
 
 Each is also often considered a "conservative," a label Voegelin explicitly rejected, and which Oakeshott wore lightly.
@@ -69,7 +74,7 @@ he is not himself." (1990a: 273)
 ### Philosophizing Is Not About Creating a Doctrine or a System
 
 
-MO rejects the idea that the essence of philosophy is to create a "philosophical system":
+Oakeshott rejects the idea that the essence of philosophy is to create a "philosophical system":
 
 "The aim in philosophical reflection is to think philosophically, not to construct a 'philosophy'" (1993: 130).
 
@@ -123,38 +128,38 @@ clearly distinguishable from political ideology.
 
 For instance, Voegelin writes, "Plato was a philosopher, not a political ideologist" (2001: 189).
 
-For MO, as Fuller puts it, "To consider politics philosophically is to describe the necessary character of politics
+For Oakeshott, as Fuller puts it, "To consider politics philosophically is to describe the necessary character of politics
 in its endless efforts to preserve and to change; it is not to prescribe courses of action" (2024: 152).
 
 [More materials should be added here.]
 
 ## Plato: A Common Source
 
-MO and EV share a significant interest and debt to Plato. At the beginning of his first book, MO writes, "Anyone who has
+Oakeshott and Voegelin share a significant interest and debt to Plato. At the beginning of his first book, Oakeshott writes, "Anyone who has
 had a glimpse of the range and subtlety of the thought of Plato... will long ago despaired of becoming a philosopher"
 (1933: 7). And in a work with "experience" in its title, he looks to Plato to define experience: "Experience, says
 Plato, is dialectic; the true form of experience is argument" (1933: 37).
-Over a decade later, when MO declares the method he will use in an essay, he also remarks "This, of course, is the
+Over a decade later, when Oakeshott declares the method he will use in an essay, he also remarks "This, of course, is the
 philosophical method and aim presented to us in the Socratic dialogues; and it is one with which I see no reason to
-quarrel" (1993: 130). As Timothy Fuller says of all of MO's
+quarrel" (1993: 130). As Timothy Fuller says of all of Oakeshott's
 post-WWII essays, "These writings show a strong affinity for the Socratic style of philosophizing" (1993: 23).
 
 
-EV, of course, devoted a 400-page book entirely to the work of Plato and Aristotle (2000b), and the Cumulative index of
-EV's collected works well over 300 references to Plato scatted across at least 17 volumes.
+Voegelin, of course, devoted a 400-page book entirely to the work of Plato and Aristotle (2000b), and the Cumulative index of
+Voegelin's collected works well over 300 references to Plato scatted across at least 17 volumes.
 
-But it also, in their remarks on Plato, the major difference in MO's and EV's understanding of philosophy becomes
-apparent: does it have any practical value? For MO, the answer is a clear "no."
-As Fuller puts it, "But philosophy for MO is also, categorically, speaking, impractical. The search for
+But it also, in their remarks on Plato, the major difference in Oakeshott's and Voegelin's understanding of philosophy becomes
+apparent: does it have any practical value? For Oakeshott, the answer is a clear "no."
+As Fuller puts it, "But philosophy for Oakeshott is also, categorically, speaking, impractical. The search for
 truth has nothing to do with daily life." (1993: 19)
 
 
-Meanwhile, for EV its practical value is significant: in fact, the philosopher, through the order in his own
+Meanwhile, for Voegelin its practical value is significant: in fact, the philosopher, through the order in his own
 soul, offers the polity its only opportunity to achieve order in itself.
 
 Voegelin follows Plato closely in his understanding of philosophy as a way to achieve right order in the soul.
 
-For example, EV says of Socrates: "He is the gift of god to Athens, given as a gadfly to the polis to stir it
+For example, Voegelin says of Socrates: "He is the gift of god to Athens, given as a gadfly to the polis to stir it
 back into life" (2000b: 62).
 
 
@@ -164,7 +169,7 @@ back into life" (2000b: 62).
 
 "the philosopher, who must return from the vision of the Agathon to help his fellow prisoners" (2000b: 114)
 
-MO's parting of the ways with Plato on the practical value of philosophy appears early on, when he writes: "There is a
+Oakeshott's parting of the ways with Plato on the practical value of philosophy appears early on, when he writes: "There is a
 difference between the 'unexamined life', which Plato said no man would wish to lead, and a life devoid of philosophical
 or speculative interest. Though it is, perhaps, the major defect of Plato's philosophy it that fails to recognize this
 difference" (1933: 303). And he claims, a few dozen pages later, "a satisfactory life does not depend upon
@@ -194,21 +199,21 @@ ability to tell one end of a horse from the other... [then] before long the more
 begin to suspect that, after all, he [is] not an interesting theorist but a fuddled and pretentious 'theoretician' who
 should be sent on his travels again, or accommodated in a quiet home." (1975: 30)
 
-Given how close MO's and EV's understandings of what philosophy is, we have a real puzzle here: how did their evaluation
+Given how close Oakeshott's and Voegelin's understandings of what philosophy is, we have a real puzzle here: how did their evaluation
 of its practical value diverge so sharply?
 
 
 ## Hobbes: The Fork in the Road
 
-I suggest we can point to where the paths followed by MO and EV forked; and that fork is Thomas
+I suggest we can point to where the paths followed by Oakeshott and Voegelin forked; and that fork is Thomas
 Hobbes.
 
-For EV, Hobbes is a representative of modern alienation. For example, he writes "In the modern Western history of
+For Voegelin, Hobbes is a representative of modern alienation. For example, he writes "In the modern Western history of
 unrest... A Hobbes replaces the *summum Bonum* by the *summum malum* as the ordering force of man's existence" (1990a: 277).
 In the essay "The Eclipse of Reality," he describes how, for many English thinkers,
 Hobbes and Locke are two "blocks" preventing the recognition of "a larger horizon of a truth of existence" (1990b: 154).
 
-EV discusses Hobbes extensively in *The New Science of Politics*, and it is worth quoting him at some length here:
+Voegelin discusses Hobbes extensively in *The New Science of Politics*, and it is worth quoting him at some length here:
 
 """
 The function of Gnosticism as the civil theology of Western society, its destruction of the truth of the soul, and its
@@ -255,16 +260,16 @@ Christian sense, that is, on the participation in the common *nous*.
 (2000d, 233-234)
 """
 
-Let us now look at the role of Hobbes in MO's thought, as described by Timothy Fuller:
+Let us now look at the role of Hobbes in Oakeshott's thought, as described by Timothy Fuller:
 
-"In my view, MO is following the inspiration of Hobbes in insisting upon the separation of Christianity from all
+"In my view, Oakeshott is following the inspiration of Hobbes in insisting upon the separation of Christianity from all
 dependence on Aristotelian/scholastic teleology. I think he believed the Christianity, thus purged was far closer to
 expressing the truth of the human condition than anything derived from teleological theological philosophy/theology."
 (1993: 19)
 
-Notice how close this is to EV's understanding of Hobbes's role in some English thinkers' attitude towards the
-classical/Christian tradition, the difference being, of course, that in EV's case Hobbes is a "block" to fully
-understanding that tradition, while for MO (as Fuller interprets him) Hobbes is the "inspiration" for (meritoriously)
+Notice how close this is to Voegelin's understanding of Hobbes's role in some English thinkers' attitude towards the
+classical/Christian tradition, the difference being, of course, that in Voegelin's case Hobbes is a "block" to fully
+understanding that tradition, while for Oakeshott (as Fuller interprets him) Hobbes is the "inspiration" for (meritoriously)
 setting aside that tradition.
 
 Fuller continues:
@@ -277,7 +282,7 @@ misled into thinking that we can will the human condition to completion — but 
 easily misled into thinking there must be a 'true' or 'correct' political order, accessible to our understanding, which
 is distorted or suppressed by the actually prevailing order."
 
-And EV response to this is the claim that Hobbes (and MO) have mistaken a certain *tendency* always inherent in the
+And Voegelin response to this is the claim that Hobbes (and Oakeshott) have mistaken a certain *tendency* always inherent in the
 classical/Christian tradition, Gnosticism, for that tradition itself.
 
 An analogy may be helpful here. The classical tradition regards the telos of a round of competitive golf as shooting the
@@ -289,9 +294,9 @@ judge particular rounds more or less exemplary.
 The Gnostic, on the other hand, is only satisfied with perfection. Any round with a score higher than 18 is condemned
 as sinful and fallen, and any barriers to achieving that perfect round must be obliterated.
 
-It is interesting to note here that, while EV shares MO's rejection of the "dogmatic metaphysics" of the scholastics,
+It is interesting to note here that, while Voegelin shares Oakeshott's rejection of the "dogmatic metaphysics" of the scholastics,
 this does not lead the former as it does the latter to reject teleology, or, indeed, that tradition as a whole. For
-instance, EV cites Aquinas as asserting that Christ is "the head of all men," and not just those who have been born
+instance, Voegelin cites Aquinas as asserting that Christ is "the head of all men," and not just those who have been born
 after the birth of Jesus, in order to refute the dogmatic belief that "all mankind that happened to live before Christ"
 have been condemned to Hell. (1990a: 78). As he puts it, "it is Thomas Aquinas who considers the Christ to be head of the
 *corpus mysticum* that embraces, not only Christians, but all mankind from the creation of the world to its end" (12:
@@ -309,7 +314,7 @@ there is no *summum bonum*, but we ought to act as if there is: the "noble lie."
 ## Conclusion
 
 We can now see how, despite their shared view of philosophy as "experience without reservation or arrest," and their
-common admiration of Plato, MO and EV parted ways when it came to the practical value of philosophy. If there *is* a
+common admiration of Plato, Oakeshott and Voegelin parted ways when it came to the practical value of philosophy. If there *is* a
 *summum bonum* that humans can perceive, then philosophy can aid us in identifying it, and orienting our lives towards
 it. But if our quest for that highest good is a snark hunt, then pursuing it will only render our practical lives a
 hollow effort to capture a phantom. And it is in their differing evaluations of the work of Hobbes that we clearly see
