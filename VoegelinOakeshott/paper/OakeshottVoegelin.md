@@ -323,6 +323,10 @@ them moving apart.
 
 ## Bibliography
 
+- Fuller, Timothy (2018) "Liberalism and the Prospect of Rational Order in Hobbes’s Political Philosophy and the Responses
+    of Oakeshott, Strauss and Voegelin," in *Tradition Versus Rationalism: Voegelin, Oakeshott, Hayek, and Others*, eds.
+    Lee Trapenier and Gene Callahan, Lexington Books: Lanham, Maryland.
+
 - Fuller, Timothy (2024) *Michael Oakeshott on the Human Condition: Essays by Timothy Fuller*, 
     Liberty Fund: Carmel, Indiana.
 
