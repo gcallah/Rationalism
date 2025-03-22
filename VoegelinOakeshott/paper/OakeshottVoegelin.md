@@ -315,7 +315,13 @@ there is no *summum bonum*, but we ought to act as if there is: the "noble lie."
 ## For This Is All a Dream We Dreamed One Afternoon Long Ago
 
 In his brief essay "Leviathan: A Myth," Oakeshott remarks that a civilization is "at bottom a collective dream" (2000:
-159).
+159). He continues, "What a people dreams in this earthly sleep is it civilization. And the substance of this dream is
+a myth, an imaginative interpretation of the human experience, the perception (not the solution) of the mystery of human
+life" (2000: 159-160).
+
+This understanding is very close to Voegelin's in *The New Science of Politics*, where he notes that "Human society...
+is a whole little world, a cosmion, illuminated with meaning from within by the human beings who continuously create
+and bear it as the mode and condition of their self realization" (2000d: 109).
 
 
 ## Conclusion
@@ -368,7 +374,7 @@ them moving apart.
 - Voegelin, Eric (2000c) *Collected Works, Volume 17: Order and History, Volume IV, The Ecumenic Age*,
     University of Missouri Press: Columbia.
 
-- Voegelin, Eric (2000d) *Collected Works, Volume 5: Order and History, Volume IV, The Ecumenic Age*,
+- Voegelin, Eric (2000d) *Collected Works, Volume 5: Modernity Without Restraint*,
     University of Missouri Press: Columbia.
 
 - Voegelin, Eric (2001) *Collected Works, Volume 13: Selected Book Reviews*, University of Missouri Press: Columbia and
