@@ -311,6 +311,13 @@ In any case, the essential question becomes this: is Hobbes denying the existenc
 or is he dispelling the illusion of a *summum bonum* that does not exist? (There is a third, Straussian possibility:
 there is no *summum bonum*, but we ought to act as if there is: the "noble lie.")
 
+
+## For This Is All a Dream We Dreamed One Afternoon Long Ago
+
+In his brief essay "Leviathan: A Myth," Oakeshott remarks that a civilization is "at bottom a collective dream" (2000:
+159).
+
+
 ## Conclusion
 
 We can now see how, despite their shared view of philosophy as "experience without reservation or arrest," and their
@@ -339,6 +346,8 @@ them moving apart.
 
 - Oakeshott, Michael (1993) *Religion, Politics, and the Moral Life*,
     ed. Timothy Fuller, Yale University Press: New Haven and London.
+
+- Oakeshott, Michael (2000) *Hobbes on Civil Association*, Liberty Fund: Indianapolis.
 
 - Oakeshott, Michael (2004) *What Is History? and other essays*, Imprint Academic: Exeter.
 
