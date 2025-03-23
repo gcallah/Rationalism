@@ -255,9 +255,9 @@ Christian sense, that is, on the participation in the common *nous*.
 
 Let us now look at the role of Hobbes in Oakeshott's thought, as described by Timothy Fuller:
 
-"In my view, Oakeshott is following the inspiration of Hobbes in insisting upon the separation of Christianity from all
+> In my view, Oakeshott is following the inspiration of Hobbes in insisting upon the separation of Christianity from all
 dependence on Aristotelian/scholastic teleology. I think he believed the Christianity, thus purged was far closer to
-expressing the truth of the human condition than anything derived from teleological theological philosophy/theology."
+expressing the truth of the human condition than anything derived from teleological theological philosophy/theology.
 (1993: 19)
 
 Notice how close this is to Voegelin's understanding of Hobbes's role in some English thinkers' attitude towards the
@@ -266,14 +266,15 @@ understanding that tradition, while for Oakeshott (as Fuller interprets him) Hob
 setting aside that tradition.
 
 Fuller continues:
-"In the perspective of Hobbes's theology, to repose of a mind satisfied can come only with eternal life at the general
+
+> In the perspective of Hobbes's theology, to repose of a mind satisfied can come only with eternal life at the general
 resurrection. While the natural condition, which we must still endure in the interim between the first and Second coming
 of Christ, prevails, what counts is the inner certainty of the Christian's faith that displaces the pursuit of the
 so-called 'highest good' as beside the point... The parallel for politics is clear: pursuing the 'highest good' under
 the natural conditions of mankind, will encourage both Pelagianism and anti-nomianism: Pelagianism, because we are
 misled into thinking that we can will the human condition to completion — but we cannot; antinomianism, because we are
 easily misled into thinking there must be a 'true' or 'correct' political order, accessible to our understanding, which
-is distorted or suppressed by the actually prevailing order."
+is distorted or suppressed by the actually prevailing order. (1993: 20)
 
 And Voegelin response to this is the claim that Hobbes (and Oakeshott) have mistaken a certain *tendency* always inherent in the
 classical/Christian tradition, Gnosticism, for that tradition itself.
