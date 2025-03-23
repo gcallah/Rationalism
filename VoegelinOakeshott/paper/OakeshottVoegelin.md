@@ -58,17 +58,17 @@ does not also entail any great distortion.
 
 Oakeshott notes that reflection, the beginning of philosophy, springs from wondering about something already known:
 
-"All of reflection begins with something assumed to be known, but in reflection what is assumed to be known is assumed
+> All reflection begins with something assumed to be known, but in reflection what is assumed to be known is assumed
 also not to be known. We begin with knowledge, which is nevertheless assumed to be ignorance...
 If, then, human beings were absolutely ignorant, it is impossible to see how they could ever reflect or ever
 acquire knowledge. If it were possible to enjoy an experience of mere 'observation', it is impossible to see how
-knowledge could ever spring from it" (1993: 138-139).
+knowledge could ever spring from it. (1993: 138-139)
 
 Voegelin also sees the quest for understanding as grounded in knowledge which is nevertheless ignorance:
 
-"without questioning in confusion, [there would be] no consciousness of ignorance. There would be no existential unrest
+> without questioning in confusion, [there would be] no consciousness of ignorance. There would be no existential unrest
 moving toward the quest of the ground unless the unrest was already man's knowledge of existence from a ground that
-he is not himself." (1990a: 273)
+he is not himself. (1990a: 273)
 
 
 ### Philosophizing Is Not About Creating a Doctrine or a System
