@@ -162,21 +162,20 @@ Voegelin follows Plato closely in his understanding of philosophy as a way to ac
 For example, Voegelin says of Socrates: "He is the gift of god to Athens, given as a gadfly to the polis to stir it
 back into life" (2000b: 62).
 
-
-"the first step on the way up must be a search for a helper." (2000b: 112)
-
-"we shall fare well" (2000b: 113)
-
-"the philosopher, who must return from the vision of the Agathon to help his fellow prisoners" (2000b: 114)
+For a diseased soul, "the first step on the way up must be a search for a helper" (2000b: 112), and in this case, the
+helper is "the philosopher, who must return from the vision of the Agathon to help his fellow prisoners" (2000b: 114)
 
 Oakeshott's parting of the ways with Plato on the practical value of philosophy appears early on, when he writes: "There is a
 difference between the 'unexamined life', which Plato said no man would wish to lead, and a life devoid of philosophical
 or speculative interest. Though it is, perhaps, the major defect of Plato's philosophy it that fails to recognize this
 difference" (1933: 303). And he claims, a few dozen pages later, "a satisfactory life does not depend upon
 philosophical knowledge; indeed, such knowledge is irrelevant to it" (1933: 339). And a little later he argues that
-"To turn philosophy into a way of life is it wants to have abandoned life and philosophy" (1933: 355).
+"To turn philosophy into a way of life is at once to have abandoned life and philosophy" (1933: 355).
+And he even cites Socrates in support of this view: "This, perhaps, is the meaning, or one of the meetings, of the
+passages in the *Phaedo* and elsewhere, in which Socrates asserts that those who engage in philosophy 'study only dying
+and death.' For to be dead to the world of practice... is the beginning of philosophy" (1933: 310).
 
-Oakeshott expands upon this brief passage four decades later, in *On Human Conduct*.
+Oakeshott expands upon his brief comment on Plato's "major defect" four decades later, in *On Human Conduct*.
 After a number of pages discussing the nature of theorizing, Oakeshott acknowledges his debt to Plato: "This account of
 the engagement of understanding owes so much to the account in Plato" -- then comes the crucial passage for
 understanding his difference from Voegelin -- "that it may be instructive to notice its divergencies" (27).
@@ -323,6 +322,12 @@ This understanding is very close to Voegelin's in *The New Science of Politics*,
 is a whole little world, a cosmion, illuminated with meaning from within by the human beings who continuously create
 and bear it as the mode and condition of their self realization" (2000d: 109).
 
+Oakeshott goes on to describe the nature and novelty of the Hobbesian myth:
+
+> The destiny of man is ruled by no Providence, and there is no place in it for perfection, or even lasting
+> satisfaction... To those brought up on the older myth [that distinguished medieval Christian civilization], this will
+> appear an unduly disenchanted interpretation of the mystery of human life. But there can be no mistaking its character.
+> It is myth, not science. It is a perception of mystery, not a pretended solution.  (2000: 162)
 
 ## Conclusion
 
@@ -332,6 +337,9 @@ common admiration of Plato, Oakeshott and Voegelin parted ways when it came to t
 it. But if our quest for that highest good is a snark hunt, then pursuing it will only render our practical lives a
 hollow effort to capture a phantom. And it is in their differing evaluations of the work of Hobbes that we clearly see
 them moving apart.
+
+However, as demonstrated in the penultimate section of this paper, we can perhaps find these two great thinkers reaching
+a rapprochement in their understanding that a civilization is grounded in myth. And then the 
 
 
 ## Bibliography
