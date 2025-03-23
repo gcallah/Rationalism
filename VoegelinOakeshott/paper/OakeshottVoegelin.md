@@ -104,10 +104,10 @@ source that is aroused it." (1990a: 272)
 Because philosophy is a "ceaseless action" of questioning, it is necessary radical compared to all modes of inquiry that
 reach fixed conclusions. As Oakeshott puts it:
 
-"Philosophical experience is, then, experience, without reservation, or rest, without presupposition apostolate, without
+"Philosophical experience is, then, experience, without reservation or rest, without presupposition or postulate, without
 limit or category..." (1933: 347).
 
-Or, fifteen or so years later, he writes:
+Fifteen or so years later, he writes:
 
 "But a reflective enterprise which had the precise purpose of avoiding all such fixed points of reference, one designed
 to remain fluid, one for which no presupposition was sacred, would not improperly be called *radically subversive*.
@@ -115,10 +115,10 @@ This, I believe, is this distinguishing characteristic of philosophical reflecti
 
 Voegelin says something very similar in this passage:
 
-"and if I certainly did not care to become a neo-Kantian subject of cognition, not even an intersubjective one, neither
+>and if I certainly did not care to become a neo-Kantian subject of cognition, not even an intersubjective one, neither
 did I particularly care to become a Neoplatonist, or a neo-Thomist metaphysician, or an existentialist, Christian or
 otherwise... I knew that the revolt had to be considerably more radical to match the problems raised by the disorder of
-the age." (1990a: 306)
+the age. (1990a: 306)
 
 
 ### Political Philosophy Versus Ideology
