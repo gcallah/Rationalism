@@ -214,51 +214,48 @@ Hobbes and Locke are two "blocks" preventing the recognition of "a larger horizo
 
 Voegelin discusses Hobbes extensively in *The New Science of Politics*, and it is worth quoting him at some length here:
 
-"""
-The function of Gnosticism as the civil theology of Western society, its destruction of the truth of the soul, and its
-disregard for the problem of existence have been set forth in sufficient detail to make the fatal importance of the
-problem clear. The inquiry can now return to the great thinker who discovered its nature and tried to solve it by his
-theory of representation. In the seventeenth century the existence of the English national society seemed in danger of
-being destroyed by Gnostic revolutionaries, as today on a larger scale the same danger seems to threaten the existence
-of Western society as a whole. Hobbes tried to meet the danger by devising a civil theology which made the order of a
-society in existence the truth which it represented -- and by the side of this truth no other should be held. This was an
-eminently sensible idea in so far as it put the whole weight on existence that had been so badly neglected by the
-Gnostics. The practical value of the idea, however, rested on the assumption that the transcendent truth which men tried
-to represent in their societies, after mankind had gone through the experiences of philosophy and Christianity, could be
-neglected in its turn. Against the Gnostics who did not want society to exist unless its order represented a specific
-type of truth, Hobbes insisted that any order would do if it secured the existence of society. In order to make this
-conception valid, he had to create his new idea of man. Human nature would have to find fulfilment in existence itself;
-a purpose of man beyond existence would have to be denied.  Hobbes countered the Gnostic immanentization of the eschaton
-which endangered existence by a radical immanence of existence which denied the eschaton.
+>The function of Gnosticism as the civil theology of Western society, its destruction of the truth of the soul, and its
+>disregard for the problem of existence have been set forth in sufficient detail to make the fatal importance of the
+>problem clear. The inquiry can now return to the great thinker who discovered its nature and tried to solve it by his
+>theory of representation. In the seventeenth century the existence of the English national society seemed in danger of
+>being destroyed by Gnostic revolutionaries, as today on a larger scale the same danger seems to threaten the existence
+>of Western society as a whole. Hobbes tried to meet the danger by devising a civil theology which made the order of a
+>society in existence the truth which it represented -- and by the side of this truth no other should be held. This was an
+>eminently sensible idea in so far as it put the whole weight on existence that had been so badly neglected by the
+>Gnostics. The practical value of the idea, however, rested on the assumption that the transcendent truth which men tried
+>to represent in their societies, after mankind had gone through the experiences of philosophy and Christianity, could be
+>neglected in its turn. Against the Gnostics who did not want society to exist unless its order represented a specific
+>type of truth, Hobbes insisted that any order would do if it secured the existence of society. In order to make this
+>conception valid, he had to create his new idea of man. Human nature would have to find fulfilment in existence itself;
+>a purpose of man beyond existence would have to be denied.  Hobbes countered the Gnostic immanentization of the eschaton
+>which endangered existence by a radical immanence of existence which denied the eschaton.
 
-The result of this eífort was ambivalent. In order to maintain his position against the fighting churches and sects,
+>The result of this eífort was ambivalent. In order to maintain his position against the fighting churches and sects,
 Hobbes had to deny that their zeal was inspired, however misguided, by a search for truth. Their struggle had to be
 interpreted, in terms of immanent existence, as an unfettered expression of their lust for power; and their professed
 religious concem had to be revealed as a mask for their existential lust. 
 
-In carrying out this analysis, Hobbes proved to be one of the greatest psychologists of all times; his achievements in
-unmasking the libido dominandi behind the pretense of religious zeal and reforming idealism are as solid today as they
-were at the time when he wrote. This magnifkent psychological achievement, however, was purchased at a heavy price.
-Hobbes rightly diagnosed the corruptivc ckment of passion in thc religiousncss of thc Puritan Gnostics. He did not,
-however, interpret passion as the source of corruption in the life of the spirit, but rather the life of the spirit as
-the extreme of existential passion. Hence, he could not interpret the nature of man from the vantage point of the
-maximum of differentiation through the experiences of transcendence so that passion, and especially the fundamental
-passion, *superbia*, could be discerned as the permanently present danger of the fall from true nature; but he had, on
-the contrary, to interpret the life of passion as the nature of man so that the phenomena of spiritual life appeared as
-extremes of superbia. 
+>In carrying out this analysis, Hobbes proved to be one of the greatest psychologists of all times; his achievements in
+>unmasking the libido dominandi behind the pretense of religious zeal and reforming idealism are as solid today as they
+>were at the time when he wrote. This magnifkent psychological achievement, however, was purchased at a heavy price.
+>Hobbes rightly diagnosed the corruptivc ckment of passion in thc religiousncss of thc Puritan Gnostics. He did not,
+>however, interpret passion as the source of corruption in the life of the spirit, but rather the life of the spirit as
+>the extreme of existential passion. Hence, he could not interpret the nature of man from the vantage point of the
+>maximum of differentiation through the experiences of transcendence so that passion, and especially the fundamental
+>passion, *superbia*, could be discerned as the permanently present danger of the fall from true nature; but he had, on
+>the contrary, to interpret the life of passion as the nature of man so that the phenomena of spiritual life appeared as
+>extremes of superbia. 
 
-According to this conception, the generic nature of man must be studied in terms of human passions; the objects of the
-passions are no legitimate object of inquiry. 8 This is the funda¬ mental counterposition to classic and Christian moral
-philosophy. Aristotelian ethics starts from the purposes of action and explores the order of human life in terms of
-the ordination of all actions toward a highest purpose, the *summum bonum*; Hobbes, on the contrary, insists that there is
-no *summum bonum*, 'as is spoken of in the books of the old moral philosophers.' With the *summum bonum*, however,
-disappears the source of order from human life; and not only from the life of individual man but also from life in
-society; for, as you will remember, the order of the life in community depends on *homonoia*, in the Aristotelian and
-Christian sense, that is, on the participation in the common *nous*.
-
-(2000d, 233-234)
-"""
-
+>According to this conception, the generic nature of man must be studied in terms of human passions; the objects of the
+>passions are no legitimate object of inquiry. 8 This is the funda¬ mental counterposition to classic and Christian moral
+>philosophy. Aristotelian ethics starts from the purposes of action and explores the order of human life in terms of
+>the ordination of all actions toward a highest purpose, the *summum bonum*; Hobbes, on the contrary, insists that there is
+>no *summum bonum*, 'as is spoken of in the books of the old moral philosophers.' With the *summum bonum*, however,
+>disappears the source of order from human life; and not only from the life of individual man but also from life in
+>society; for, as you will remember, the order of the life in community depends on *homonoia*, in the Aristotelian and
+>Christian sense, that is, on the participation in the common *nous*.
+>(2000d, 233-234)
+>
 Let us now look at the role of Hobbes in Oakeshott's thought, as described by Timothy Fuller:
 
 "In my view, Oakeshott is following the inspiration of Hobbes in insisting upon the separation of Christianity from all
