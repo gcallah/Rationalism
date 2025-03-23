@@ -318,7 +318,8 @@ is a whole little world, a cosmion, illuminated with meaning from within by the 
 and bear it as the mode and condition of their self realization" (2000d: 109).
 
 Indeed, Voegelin states that "At the border of transcendence the language of philosophical anthropolgy must become the
-language of religious symbolization" (2000b: 419), in other words, myth.
+language of religious symbolization" (2000b: 419), in other words, myth. And he notes how, in the wake of the Macedonian
+conquests, the Greek poleis were "societies that had lost their myth" (2000b: 422).
 
 Oakeshott goes on to describe the nature and novelty of the Hobbesian myth:
 
