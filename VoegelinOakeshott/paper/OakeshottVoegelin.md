@@ -128,7 +128,7 @@ For instance, Voegelin writes, "Plato was a philosopher, not a political ideolog
 For Oakeshott, as Fuller puts it, "To consider politics philosophically is to describe the necessary character of politics
 in its endless efforts to preserve and to change; it is not to prescribe courses of action" (2024: 152).
 
-[More materials should be added here.]
+[More material should be added here.]
 
 ## Plato: A Common Source
 
@@ -267,7 +267,7 @@ setting aside that tradition.
 
 Fuller continues:
 
-> In the perspective of Hobbes's theology, to repose of a mind satisfied can come only with eternal life at the general
+> In the perspective of Hobbes's theology, the repose of a mind satisfied can come only with eternal life at the general
 resurrection. While the natural condition, which we must still endure in the interim between the first and Second coming
 of Christ, prevails, what counts is the inner certainty of the Christian's faith that displaces the pursuit of the
 so-called 'highest good' as beside the point... The parallel for politics is clear: pursuing the 'highest good' under
@@ -323,6 +323,17 @@ Oakeshott goes on to describe the nature and novelty of the Hobbesian myth:
 satisfaction... To those brought up on the older myth [that distinguished medieval Christian civilization], this will
 appear an unduly disenchanted interpretation of the mystery of human life. But there can be no mistaking its character.
 It is myth, not science. It is a perception of mystery, not a pretended solution.  (2000: 162)
+
+And he questions whether the Hobbesian myth is really as much a break with the medieval Christian tradition as many
+perceived it to be:
+
+> Pride and sensuality, the too much and too little -- these are the poles between which, according to our dream, human
+life swings... If [the old myth] erred, it was perhaps in a partiality for the too much... But in the myth of our
+civilization, as it appears in *Leviathan*, the emphasis is on the opposite pole; it recalls man to his littleness, his
+imperfection, his mortality, while at the same time recognizing his importance to himself.
+
+Thus, Oakeshott sees Hobbes as a shift in emphasis in the myth of our civilization, whereas Voegelin perceives him as
+destructive of that myth.
 
 ## Conclusion
 
