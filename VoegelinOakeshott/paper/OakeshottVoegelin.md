@@ -87,31 +87,28 @@ self-destructive phantasy of believing the reality of which it is a part to be a
 mastered by bringing it into the form of a system. (1990a: 305)
 
 In a section of *The Ecumenic Age* titled "The deformation of philosophy into doctrine," Voegelin writes that, with the
-Stoics:
-
-"A new intellectual game with imaginary realities in an imaginary realm of thought, the game of propositional
+Stoics: "A new intellectual game with imaginary realities in an imaginary realm of thought, the game of propositional
 metaphysics, has been opened with world-historic consequences that reach into our own present..." (2000c: 91)
 
 And in "Reason: The Classic Experience," Voegelin writes:
 
-"Thus philosophy in the classic sense is not a body of 'ideas' or 'opinions' about the divine ground, dispensed by a
+> Thus philosophy in the classic sense is not a body of 'ideas' or 'opinions' about the divine ground, dispensed by a
 person who calls himself off 'philosopher,' but a man's responsive pursuit of his questioning unrest to the divine
-source that is aroused it." (1990a: 272)
+source that is aroused it. (1990a: 272)
 
 
 ### Philosophy Is Radical
 
 Because philosophy is a "ceaseless action" of questioning, it is necessary radical compared to all modes of inquiry that
 reach fixed conclusions. As Oakeshott puts it:
-
-"Philosophical experience is, then, experience, without reservation or rest, without presupposition or postulate, without
+"Philosophical experience is, then, experience, without reservation or arrest, without presupposition or postulate, without
 limit or category..." (1933: 347).
 
 Fifteen or so years later, he writes:
 
-"But a reflective enterprise which had the precise purpose of avoiding all such fixed points of reference, one designed
+> But a reflective enterprise which had the precise purpose of avoiding all such fixed points of reference, one designed
 to remain fluid, one for which no presupposition was sacred, would not improperly be called *radically subversive*.
-This, I believe, is this distinguishing characteristic of philosophical reflection." (1993: 141)
+This, I believe, is this distinguishing characteristic of philosophical reflection. (1993: 141)
 
 Voegelin says something very similar in this passage:
 
@@ -187,7 +184,7 @@ the cave-dwellers. But it is represented as something more than merely superior.
 The philosopher's belief that he can substitute his philosophical understanding for knowledge of conditional platforms
 of understanding leads the cave dwellers to send him packing:
 
-"The cave-dwellers, upon first encountering the theorist after his return to the world of the shadows [very well might be
+> The cave-dwellers, upon first encountering the theorist after his return to the world of the shadows [very well might be
 impressed] when he tells them that what they had always thought of as 'a horse' is not what they suppose it to be... but
 is, on the contrary, a modification of the attributes of God [, and they will] applaud his performance even where they
 cannot quite follow it. [The cave-dwellers can appreciate the exotic pronouncements of the theorist, as long as he
@@ -196,7 +193,7 @@ his more profound understanding of the nature of horses, he is a more expert hor
 than they (in their ignorance) could ever hope to be, and when it becomes clear that his new learning has lost him the
 ability to tell one end of a horse from the other... [then] before long the more perceptive of the cave-dwellers [will]
 begin to suspect that, after all, he [is] not an interesting theorist but a fuddled and pretentious 'theoretician' who
-should be sent on his travels again, or accommodated in a quiet home." (1975: 30)
+should be sent on his travels again, or accommodated in a quiet home. (1975: 30)
 
 Given how close Oakeshott's and Voegelin's understandings of what philosophy is, we have a real puzzle here: how did their evaluation
 of its practical value diverge so sharply?
