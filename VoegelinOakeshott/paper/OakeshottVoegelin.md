@@ -317,6 +317,9 @@ This understanding is very close to Voegelin's in *The New Science of Politics*,
 is a whole little world, a cosmion, illuminated with meaning from within by the human beings who continuously create
 and bear it as the mode and condition of their self realization" (2000d: 109).
 
+Indeed, Voegelin states that "At the border of transcendence the language of philosophical anthropolgy must become the
+language of religious symbolization" (2000b: 419), in other words, myth.
+
 Oakeshott goes on to describe the nature and novelty of the Hobbesian myth:
 
 > The destiny of man is ruled by no Providence, and there is no place in it for perfection, or even lasting
