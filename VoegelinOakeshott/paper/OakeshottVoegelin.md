@@ -80,11 +80,11 @@ Oakeshott rejects the idea that the essence of philosophy is to create a "philos
 
 Compare that with Voegelin, from the essay "Remembrance of Things Past":
 
-"A consciousness of this kind is not an a priori structure, nor does it just happen, nor is its horizon given. It rather
+> A consciousness of this kind is not an a priori structure, nor does it just happen, nor is its horizon given. It rather
 is a ceaseless action of expanding, ordering, articulating, and correcting itself... It is a permanent effort at
 responsive openness to the appeal of reality, bewaring of premature satisfaction, and above all, at avoiding the
 self-destructive phantasy of believing the reality of which it is a part to be an object external to itself that can be
-mastered by bringing it into the form of a system." (1990a: 305)
+mastered by bringing it into the form of a system. (1990a: 305)
 
 In a section of *The Ecumenic Age* titled "The deformation of philosophy into doctrine," Voegelin writes that, with the
 Stoics:
