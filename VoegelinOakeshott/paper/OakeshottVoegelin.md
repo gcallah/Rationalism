@@ -309,7 +309,7 @@ there is no *summum bonum*, but we ought to act as if there is: the "noble lie."
 ## For This Is All a Dream We Dreamed One Afternoon Long Ago
 
 In his brief essay "Leviathan: A Myth," Oakeshott remarks that a civilization is "at bottom a collective dream" (2000:
-159). He continues, "What a people dreams in this earthly sleep is it civilization. And the substance of this dream is
+159). He continues, "What a people dreams in this earthly sleep is its civilization. And the substance of this dream is
 a myth, an imaginative interpretation of the human experience, the perception (not the solution) of the mystery of human
 life" (2000: 159-160).
 
