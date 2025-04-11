@@ -103,6 +103,12 @@ of ignorance. There would be no existential unrest moving toward the
 quest of the ground unless the unrest was already man's knowledge of
 existence from a ground that he is not himself." (1990a: 273)
 
+### Philosophy Is a Continual Search, Not a Conclusion
+
+Vogelin on zetesis.
+
+MO quotes to the same effect.
+
 ### Philosophizing Is Not About Creating a Doctrine or a System
 
 Oakeshott rejects the idea that the essence of philosophy is to create a
@@ -439,46 +445,6 @@ existence of a real *summum bonum*, or is he dispelling the illusion of
 a *summum bonum* that does not exist? (There is a third, Straussian
 possibility: there is no *summum bonum*, but we ought to act as if there
 is: the "noble lie.")
-
-Conclusion
-----------
-
-We can now see how, despite their shared view of philosophy as
-"experience without reservation or arrest," and their common admiration
-of Plato, Oakeshott and Voegelin parted ways when it came to the
-practical value of philosophy. If there *is* a *summum bonum* that
-humans can perceive, then philosophy can aid us in identifying it, and
-orienting our lives towards it. But if our quest for that highest good
-is a snark hunt, then pursuing it will only render our practical lives a
-hollow effort to capture a phantom. And it is in their differing
-evaluations of the work of Hobbes that we clearly see them moving apart.
-
-An analogy may be helpful here. The classical tradition regards the telos of a round of competitive golf as shooting the
-lowest score possible. But it recognizes that, in this world, we will never do so. Nevertheless, we always have that as
-our aim, and it directs our efforts during our playing of a round of golf. While we never expect a perfect round, and
-therefore do not condemn rounds simply because they fall short of perfection, it provides us a standard by which we may
-judge particular rounds more or less exemplary.
-
-The Gnostic, on the other hand, is only satisfied with perfection. Any round with a score higher than 18 is condemned
-as sinful and fallen, and any barriers to achieving that perfect round must be obliterated.
-
-It is interesting to note here that, while Voegelin shares Oakeshott's rejection of the "dogmatic metaphysics" of the scholastics,
-this does not lead the former as it does the latter to reject teleology, or, indeed, that tradition as a whole. For
-instance, Voegelin cites Aquinas as asserting that Christ is "the head of all men," and not just those who have been born
-after the birth of Jesus, in order to refute the dogmatic belief that "all mankind that happened to live before Christ"
-have been condemned to Hell. (1990a: 78). As he puts it, "it is Thomas Aquinas who considers the Christ to be head of the
-*corpus mysticum* that embraces, not only Christians, but all mankind from the creation of the world to its end" (12:
-294) And he argues that Anselm's ontological argument is misunderstood if taken as a philosophical "proof" of God's
-existence, but that it is, rather, better understood as a meditation or prayer. (1990b: 191-206)
-
-Also of interest is the fact that one of the twentieth century's leading Thomists, Jacques Maritain, held that Thomism
-itself is not best understood as dogmatic metaphysics: "Authentic Thomism is not a closed system; it is a wisdom that is
-essentially open and without frontiers by the very fact that it is a doctrine in movement and vital development."
-
-In any case, the essential question becomes this: is Hobbes denying the existence of a real *summum bonum*,
-or is he dispelling the illusion of a *summum bonum* that does not exist? (There is a third, Straussian possibility:
-there is no *summum bonum*, but we ought to act as if there is: the "noble lie.")
-
 
 ## For This Is All a Dream We Dreamed One Afternoon Long Ago
 
