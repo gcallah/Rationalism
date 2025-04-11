@@ -324,7 +324,7 @@ denied. Hobbes countered the Gnostic immanentization of the eschaton
 which endangered existence by a radical immanence of existence which
 denied the eschaton.
 
-The result of this eífort was ambivalent. In order to maintain his
+The result of this effort was ambivalent. In order to maintain his
 position against the fighting churches and sects, Hobbes had to deny
 that their zeal was inspired, however misguided, by a search for truth.
 Their struggle had to be interpreted, in terms of immanent existence, as
@@ -453,11 +453,96 @@ is a snark hunt, then pursuing it will only render our practical lives a
 hollow effort to capture a phantom. And it is in their differing
 evaluations of the work of Hobbes that we clearly see them moving apart.
 
-Bibliography
-------------
+An analogy may be helpful here. The classical tradition regards the telos of a round of competitive golf as shooting the
+lowest score possible. But it recognizes that, in this world, we will never do so. Nevertheless, we always have that as
+our aim, and it directs our efforts during our playing of a round of golf. While we never expect a perfect round, and
+therefore do not condemn rounds simply because they fall short of perfection, it provides us a standard by which we may
+judge particular rounds more or less exemplary.
 
--   Cooper, Barry, and Jodi Bruhn (2008) *Voegelin Recollected: Conversations on a Life*,
-    University of Missouri Press: Columbia.
+The Gnostic, on the other hand, is only satisfied with perfection. Any round with a score higher than 18 is condemned
+as sinful and fallen, and any barriers to achieving that perfect round must be obliterated.
+
+It is interesting to note here that, while Voegelin shares Oakeshott's rejection of the "dogmatic metaphysics" of the scholastics,
+this does not lead the former as it does the latter to reject teleology, or, indeed, that tradition as a whole. For
+instance, Voegelin cites Aquinas as asserting that Christ is "the head of all men," and not just those who have been born
+after the birth of Jesus, in order to refute the dogmatic belief that "all mankind that happened to live before Christ"
+have been condemned to Hell. (1990a: 78). As he puts it, "it is Thomas Aquinas who considers the Christ to be head of the
+*corpus mysticum* that embraces, not only Christians, but all mankind from the creation of the world to its end" (12:
+294) And he argues that Anselm's ontological argument is misunderstood if taken as a philosophical "proof" of God's
+existence, but that it is, rather, better understood as a meditation or prayer. (1990b: 191-206)
+
+Also of interest is the fact that one of the twentieth century's leading Thomists, Jacques Maritain, held that Thomism
+itself is not best understood as dogmatic metaphysics: "Authentic Thomism is not a closed system; it is a wisdom that is
+essentially open and without frontiers by the very fact that it is a doctrine in movement and vital development."
+
+In any case, the essential question becomes this: is Hobbes denying the existence of a real *summum bonum*,
+or is he dispelling the illusion of a *summum bonum* that does not exist? (There is a third, Straussian possibility:
+there is no *summum bonum*, but we ought to act as if there is: the "noble lie.")
+
+
+## For This Is All a Dream We Dreamed One Afternoon Long Ago
+
+In his brief essay "Leviathan: A Myth," Oakeshott remarks that a civilization is "at bottom a collective dream" (2000:
+159). He continues, "What a people dreams in this earthly sleep is its civilization. And the substance of this dream is
+a myth, an imaginative interpretation of the human experience, the perception (not the solution) of the mystery of human
+life" (2000: 159-160).
+
+This understanding is very close to Voegelin's in *The New Science of Politics*, where he notes that "Human society...
+is a whole little world, a cosmion, illuminated with meaning from within by the human beings who continuously create
+and bear it as the mode and condition of their self realization" (2000d: 109).
+
+Indeed, Voegelin states that "At the border of transcendence the language of philosophical anthropolgy must become the
+language of religious symbolization" (2000b: 419), in other words, myth. And he notes how, in the wake of the Macedonian
+conquests, the Greek poleis were "societies that had lost their myth" (2000b: 422).
+
+Oakeshott goes on to describe the nature and novelty of the Hobbesian myth:
+
+> The destiny of man is ruled by no Providence, and there is no place in it for perfection, or even lasting
+satisfaction... To those brought up on the older myth [that distinguished medieval Christian civilization], this will
+appear an unduly disenchanted interpretation of the mystery of human life. But there can be no mistaking its character.
+It is myth, not science. It is a perception of mystery, not a pretended solution.  (2000: 162)
+
+And he questions whether the Hobbesian myth is really as much a break with the medieval Christian tradition as many
+perceived it to be:
+
+> Pride and sensuality, the too much and too little -- these are the poles between which, according to our dream, human
+life swings... If [the old myth] erred, it was perhaps in a partiality for the too much... But in the myth of our
+civilization, as it appears in *Leviathan*, the emphasis is on the opposite pole; it recalls man to his littleness, his
+imperfection, his mortality, while at the same time recognizing his importance to himself.
+
+Thus, Oakeshott sees Hobbes as a shift in emphasis in the myth of our civilization, whereas Voegelin perceives him as
+destructive of that myth.
+
+## Conclusion
+
+We can now see how, despite their shared view of philosophy as "experience without reservation or arrest," and their
+common admiration of Plato, Oakeshott and Voegelin parted ways when it came to the practical value of philosophy. If there *is* a
+*summum bonum* that humans can perceive, then philosophy can aid us in identifying it, and orienting our lives towards
+it. But if our quest for that highest good is a snark hunt, then pursuing it will only render our practical lives a
+hollow effort to capture a phantom. And it is in their differing evaluations of the work of Hobbes that we clearly see
+them moving apart.
+
+However, as demonstrated in the penultimate section of this paper, we can perhaps find these two great thinkers reaching
+a rapprochement in their understanding that a civilization is grounded in myth. And then the key question becomes, "Is the
+Hobbesian myth adequate to ground a civilization?" And since the Hobbesian myth is the founding myth of liberalism, that
+question can be re-phrased as, "Does liberalism offer a myth of its own sufficient to support a civilization, or has its
+success been parasitic on the classical-Christian myth it has attempted to supplant?"
+
+
+## Bibliography
+- Cooper, Barry, and Jodi Bruhn (2008) *Voegelin Recollected: Conversations on a Life*,
+  University of Missouri Press: Columbia.
+
+- Fuller, Timothy (2018) "Liberalism and the Prospect of Rational Order in Hobbes’s Political Philosophy and the Responses
+    of Oakeshott, Strauss and Voegelin," in *Tradition Versus Rationalism: Voegelin, Oakeshott, Hayek, and Others*, eds.
+    Lee Trapenier and Gene Callahan, Lexington Books: Lanham, Maryland.
+
+- Fuller, Timothy (2024) *Michael Oakeshott on the Human Condition: Essays by Timothy Fuller*, 
+    Liberty Fund: Carmel, Indiana.
+
+- Maritain, Jacques (1997) *The Collected Works of Jacques Maritain, XX: Untrammeled Approaches*,
+    University of Notre Dame Press: Notre Dame.
+>>>>>>> 40ee4e1e83019312817ff769e3cddeba15d8af22
 
 -   Fuller, Timothy (2024) *Michael Oakeshott on the Human Condition:
     Essays by Timothy Fuller*, Liberty Fund: Carmel, Indiana.
