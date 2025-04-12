@@ -30,12 +30,13 @@ more so as political theorists, each of them regarded himself as a
 primarily a philosopher. And I will argue that they largely agree on the
 nature of philosophy.
 
-Neverthless, that basic agreement is followed by a great divergence: for
+Nevertheless, that basic agreement is followed by a great divergence: for
 Voegelin, philosophy has vital practical value: following Plato, it is a
 discipline for creating right order in the soul, which is the foundation
 of political order. To the contrary, Oakeshott sees philosophy as
 essentially worthless for guiding practical affairs. This paper will
-also ask from whence arises this parting of the ways.
+also ask from whence arises this parting of the ways, and demonstrate that it has significance for the history of
+liberalism.
 
 Oakeshott and Voegelin as Contemporaries
 ----------------------------------------
