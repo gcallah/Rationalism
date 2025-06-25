@@ -11,7 +11,7 @@ New York University
 Introduction
 ------------
 
-On my desk at present is a book entitled *Idealism: The History of a
+On my desk as I write these words is a book entitled *Idealism: The History of a
 Philosophy*. But is there actually such a thing as "*a* philosophy"? Is
 philosophy the name of a family of things, like "mammals", so that just
 as there are cats and dogs and whales and rodents, there are also
@@ -194,7 +194,7 @@ Plato: A Common Source
 Oakeshott and Voegelin share a significant interest and debt to Plato.
 At the beginning of his first book, Oakeshott writes, "Anyone who has
 had a glimpse of the range and subtlety of the thought of Plato... will
-long ago despaired of becoming a philosopher" (1933: 7). And in a work
+long ago have despaired of becoming a philosopher" (1933: 7). And in a work
 with "experience" in its title, he looks to Plato to define experience:
 "Experience, says Plato, is dialectic; the true form of experience is
 argument" (1933: 37). Over a decade later, when Oakeshott declares the
@@ -245,7 +245,7 @@ recognize this difference" (1933: 303). And he claims, a few dozen pages
 later, "a satisfactory life does not depend upon philosophical
 knowledge; indeed, such knowledge is irrelevant to it" (1933: 339). And
 a little later he argues that "To turn philosophy into a way of life is
-it wants to have abandoned life and philosophy" (1933: 355).
+at once to have abandoned life and philosophy" (1933: 355).
 
 Oakeshott expands upon this brief passage four decades later, in *On
 Human Conduct*. After a number of pages discussing the nature of
@@ -272,7 +272,7 @@ what they suppose it to be... but is, on the contrary, a modification of
 the attributes of God \[, and they will\] applaud his performance even
 where they cannot quite follow it. \[The cave-dwellers can appreciate
 the exotic pronouncements of the theorist, as long as he confines those
-pronouncements to their genuine field of applicability.\] but if he were
+pronouncements to their genuine field of applicability.\] But if he were
 to tell them that, in virtue of his more profound understanding of the
 nature of horses, he is a more expert horse-man, horse-chandler, or
 stable boy than they (in their ignorance) could ever hope to be, and
@@ -343,9 +343,9 @@ In carrying out this analysis, Hobbes proved to be one of the greatest
 psychologists of all times; his achievements in unmasking the libido
 dominandi behind the pretense of religious zeal and reforming idealism
 are as solid today as they were at the time when he wrote. This
-magnifkent psychological achievement, however, was purchased at a heavy
-price. Hobbes rightly diagnosed the corruptivc ckment of passion in thc
-religiousncss of thc Puritan Gnostics. He did not, however, interpret
+magnificent psychological achievement, however, was purchased at a heavy
+price. Hobbes rightly diagnosed the corruptive element of passion in the
+religiousness of thc Puritan Gnostics. He did not, however, interpret
 passion as the source of corruption in the life of the spirit, but
 rather the life of the spirit as the extreme of existential passion.
 Hence, he could not interpret the nature of man from the vantage point
@@ -354,11 +354,11 @@ transcendence so that passion, and especially the fundamental passion,
 *superbia*, could be discerned as the permanently present danger of the
 fall from true nature; but he had, on the contrary, to interpret the
 life of passion as the nature of man so that the phenomena of spiritual
-life appeared as extremes of superbia.
+life appeared as extremes of *superbia*.
 
 According to this conception, the generic nature of man must be studied
 in terms of human passions; the objects of the passions are no
-legitimate object of inquiry. 8 This is the funda¬ mental
+legitimate object of inquiry. This is the fundamental
 counterposition to classic and Christian moral philosophy. Aristotelian
 ethics starts from the purposes of action and explores the order of
 human life in terms of the ordination of all actions toward a highest
@@ -389,7 +389,7 @@ Hobbes is a "block" to fully understanding that tradition, while for
 Oakeshott (as Fuller interprets him) Hobbes is the "inspiration" for
 (meritoriously) setting aside that tradition.
 
-Fuller continues: "In the perspective of Hobbes's theology, to repose of
+Fuller continues: "In the perspective of Hobbes's theology, the repose of
 a mind satisfied can come only with eternal life at the general
 resurrection. While the natural condition, which we must still endure in
 the interim between the first and Second coming of Christ, prevails,
@@ -403,7 +403,7 @@ antinomianism, because we are easily misled into thinking there must be
 a 'true' or 'correct' political order, accessible to our understanding,
 which is distorted or suppressed by the actually prevailing order."
 
-And Voegelin response to this is the claim that Hobbes (and Oakeshott)
+And Voegelin's response to this is the claim that Hobbes (and Oakeshott)
 have mistaken a certain *tendency* always inherent in the
 classical/Christian tradition, Gnosticism, for that tradition itself.
 
