@@ -1,185 +1,778 @@
-body {
-    margin: 0;
-    padding: 0;
-    font-size: 100%;
-    color: #333;
-    background: #ddd;
-    line-height: 1.8;
-/*    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif */
-    font-family: Arial, Helvetica, sans-serif
+/*
+ * Studies on Rationalism
+ * Shared stylesheet for the home page, the two Critics of Enlightenment
+ * Rationalism volumes (AntiRats, AntiRats2), and the stand-alone papers.
+ * Plain-element rules style the reading pages; home-page-only rules are
+ * scoped under body.home.
+ */
+
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap");
+
+:root {
+    --paper: #f7f4ec;
+    --paper-deep: #e9e4d6;
+    --card: #fffdf7;
+    --ink: #1e2130;
+    --ink-soft: #4e5266;
+    --navy: #26326a;
+    --navy-dark: #18204a;
+    --navy-mist: #dfe3f1;
+    /* De Stijl accents: a nod to the van Doesburg that used to head the site. */
+    --red: #b3261e;
+    --yellow: #e4b322;
+    --blue: #1f4e9c;
+    --rule: #cfc8b4;
+    --serif: "Crimson Pro", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    --display: "Libre Caslon Display", "Libre Caslon Text", "Big Caslon", Georgia, serif;
+    --caslon: "Libre Caslon Text", "Big Caslon", Georgia, serif;
 }
 
-a:link {
-    color: #357;
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background: var(--paper-deep);
+}
+
+body {
+    max-width: 46rem;
+    margin: 0 auto;
+    padding: 0 2rem 4rem;
+    font-family: var(--serif);
+    font-size: 1.25rem;
+    line-height: 1.6;
+    color: var(--ink);
+    background: var(--paper);
+    min-height: 100vh;
+    display: flow-root;
+    box-shadow: 0 0 0 1px var(--rule), 0 0 48px rgba(30, 33, 48, .12);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+/* Pages without the site bar still need breathing room at the top. */
+body > h1:first-child,
+body > nav.back:first-child,
+body > p:first-child {
+    margin-top: 2.5rem;
+}
+
+a {
+    color: var(--navy);
+    text-decoration: underline;
+    text-decoration-color: rgba(38, 50, 106, .3);
+    text-decoration-thickness: 1px;
+    text-underline-offset: .18em;
 }
 
 a:visited {
-    color: #547;
+    color: #57306b;
+    text-decoration-color: rgba(87, 48, 107, .3);
 }
 
-table, th, td {
-    margin: .4em 2.5em .4em 2.5em;
-    font-size: 1em;
-    border-collapse: collapse;
-    border: 1px solid black;
-    }
-
-th, td {
-        padding: 1em;
+a:hover,
+a:focus {
+    color: var(--red);
+    text-decoration-color: currentColor;
 }
 
-th {
-    color: #011;
-    background: #cdf;
+/* ---------- Site bar (AntiRats menus) ---------- */
+
+.sitebar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: .5rem 1.5rem;
+    margin: 0 -2rem;
+    padding: .9rem 2rem;
+    background: var(--navy);
+    color: var(--paper);
 }
 
-th.table-head {
-    color: #011;
-    background: #7386D5;
+.sitebar .brand {
+    font-family: var(--display);
+    font-size: 1.1rem;
+    letter-spacing: .02em;
+    color: #fff;
+    text-decoration: none;
 }
 
-td {
-    color: #000;
-    background: #adf;
+.sitebar .brand:hover {
+    color: var(--yellow);
 }
 
-td.key-col {
-    color: #600;
-    background: #bef;
+ul.menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .25rem 1.4rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: var(--caslon);
+    font-size: .8rem;
+    letter-spacing: .12em;
+    text-transform: uppercase;
 }
 
+ul.menu li {
+    margin: 0;
+}
+
+ul.menu a,
+ul.menu a:visited {
+    color: var(--navy-mist);
+    text-decoration: none;
+}
+
+ul.menu a:hover,
+ul.menu a:focus {
+    color: var(--yellow);
+}
+
+/* A menu that isn't inside the site bar (older pages) gets its own band. */
+body > ul.menu {
+    margin: 0 -2rem;
+    padding: .9rem 2rem;
+    background: var(--navy);
+}
+
+/* ---------- De Stijl band (replaces the old logo strip) ---------- */
+
+.stijl {
+    display: grid;
+    grid-template-columns: 5fr 1fr 2fr 8fr 1.2fr 3fr;
+    height: 14px;
+    margin: 0 -2rem 2.75rem;
+    border-bottom: 3px solid var(--ink);
+    background: var(--ink);
+    gap: 3px;
+}
+
+.stijl span:nth-child(1) { background: var(--red); }
+.stijl span:nth-child(2) { background: var(--paper); }
+.stijl span:nth-child(3) { background: var(--yellow); }
+.stijl span:nth-child(4) { background: var(--paper); }
+.stijl span:nth-child(5) { background: var(--blue); }
+.stijl span:nth-child(6) { background: var(--paper); }
+
+/* Old 20-tile logo strip, wherever it still appears in hand-made pages. */
+figure.logo {
+    display: none;
+}
+
+nav.back {
+    margin: 2.25rem 0 2rem;
+    font-family: var(--caslon);
+    font-size: .8rem;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+}
+
+nav.back a {
+    text-decoration: none;
+}
+
+/* ---------- Type ---------- */
+
+h1, h2, h3, h4, h5 {
+    font-family: var(--display);
+    font-weight: 400;
+    line-height: 1.2;
+    color: var(--ink);
+    text-wrap: balance;
+}
+
+h1 {
+    margin: 0 0 2rem;
+    text-align: center;
+    font-size: clamp(2rem, 5vw, 2.8rem);
+    color: var(--navy);
+}
+
+/* Ruled ornament beneath every page title. */
+h1::after {
+    content: "";
+    display: block;
+    width: 5rem;
+    height: 3px;
+    margin: 1.1rem auto 0;
+    background:
+        linear-gradient(90deg,
+            var(--red) 0 40%,
+            transparent 40% 46%,
+            var(--yellow) 46% 66%,
+            transparent 66% 72%,
+            var(--blue) 72% 100%);
+}
+
+h2 {
+    margin: 2.5rem 0 1rem;
+    font-size: 1.75rem;
+    color: var(--navy);
+}
+
+h2.subhead {
+    margin-top: 0;
+    font-size: 1.35rem;
+    font-style: italic;
+    text-align: center;
+    color: var(--ink-soft);
+}
+
+h3 {
+    margin: 2.25rem 0 1rem;
+    font-size: 1.45rem;
+    color: var(--navy-dark);
+}
+
+h4 {
+    margin: 2rem 0 .8rem;
+    font-size: 1.25rem;
+    color: var(--ink-soft);
+}
+
+h5 {
+    margin: 1.75rem 0 .6rem;
+    font-size: 1.1rem;
+    color: var(--red);
+}
+
+h1 b, h2 b, h3 b, h4 b, h5 b {
+    font-weight: inherit;
+}
 
 p {
-    margin: .6em 6em .6em 5em;
-    font-size: 1.2em;
+    margin: 0 0 1.1em;
+    hyphens: auto;
 }
 
-p.menu {
+p.author_info,
+p.author {
+    margin: -.75rem 0 .3rem;
     text-align: center;
-    margin: .4em 4em 0em 4em;
-    font-size: 1.4em;
+    font-family: var(--caslon);
+    font-size: 1rem;
+    letter-spacing: .04em;
+    color: var(--ink-soft);
 }
 
-ol, ul, dl, li {
-    margin: 1.6em 8em .6em 4em;
-    font-size: 1.1em;
+p.author_info + p.author_info {
+    margin-top: 0;
+    line-height: 1.45;
+}
+
+p.author_info + p:not(.author_info),
+p.author + h2 {
+    margin-top: 2rem;
+}
+
+/* Title paragraph in papers converted from word-processor output. */
+p.head1 {
+    margin: 2.5rem 0 1.5rem;
+    text-align: center;
+    font-family: var(--display);
+    font-size: clamp(2rem, 5vw, 2.6rem);
+    line-height: 1.2;
+    color: var(--navy);
+}
+
+p.head1 b {
+    font-weight: 400;
+}
+
+blockquote,
+p.blockq,
+p.blockquote {
+    margin: 1.5em 0 1.5em 1rem;
+    padding: .2em 0 .2em 1.25rem;
+    border-left: 3px solid var(--navy-mist);
+    font-size: 1.1rem;
+    color: var(--ink-soft);
+}
+
+blockquote p {
+    margin-bottom: .6em;
+}
+
+p.biblio {
+    margin: 0 0 .75em 2em;
+    text-indent: -2em;
+    font-size: 1.1rem;
+}
+
+ol, ul, dl {
+    margin: 1em 0 1.5em 1.5em;
+    padding: 0;
+}
+
+li {
+    margin: 0 0 .7em;
+    padding-left: .25em;
+}
+
+li::marker {
+    color: var(--red);
+}
+
+ul ul, ol ol, ul ol, ol ul {
+    margin: .6em 0 .6em 1.25em;
 }
 
 ul.centered {
     list-style-position: inside;
 }
-.menu {
-    margin: 1.6em 12em .6em 12em;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: space-between;
-    background-color: #fde;
-}
-
-a {
-    text-decoration: none;
-    color: #006;
-}
-a:link {
-    color: #407;
-}
-a:visited {
-    color: #704;
-}
-
-p {
-    padding: 0;
-    line-height: 140%;
-}
-
-h1,h2,h3,h4,h5 {
-    font-weight: bold;
-}
-
-h1 {
-    margin: 1.4em 8em 1.4em 8em;
-    text-align: center;
-    font-weight: 300;
-    font-size: 2em;
-    color: #cfc;
-    background-color: #339;
-}
-
-h2 {
-    font-size: 1.6em;
-    margin: 1.3em 2em 1em 2em;
-    color: #355;
-}
-
-h2.subhead {
-    font-weight: normal;
-    margin-top: 0;
-}
-
-h3 {
-    font-size: 1.5em;
-    margin: 1.3em 2.6em 1em 2.6em;
-    color: #532;
-    font-weight: bold;
-}
-
-h4 {
-    font-size: 1.4em;
-    margin: 1.2em 3em 1em 3em;
-    color: #335;
-    font-weight: bold;
-}
-
-h5 {
-    font-size: 1.3em;
-    margin: 1.2em 4.6em 1em 4.6em;
-    color: #600;
-    font-weight: bold;
-
-}
-
-p.author_info {
-    text-align: center;
-    font: 1.3em
-}
-
-blockquote {
-    margin: 1em 5em 1em 5em;
-    font: 1.5em
-}
-
-p.biblio {
-    margin: .6em 3em .6em 3em; 
-}
-
-figure {
-    margin: 1.4em 1em 1.4em 1em;
-    text-align: center;
-}
-figure.logo {
-    margin: 0em 0em .6em 0em;
-}
-
-figure figcaption {
-    color: #69c;
-    font-style: italic;
-    margin: .8em 1em .8em 1em;
-}
 
 span.contrib {
     font-weight: 600;
-    color: #009;
+    color: var(--navy);
 }
 
 span.proposed {
-    color: #805;
+    color: var(--red);
+}
+
+hr {
+    height: 3px;
+    margin: 2.75em auto;
+    width: 5rem;
+    border: 0;
+    background: var(--rule);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 .center-img {
-    margin: .6em 0em 1.8em 0em;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: .75rem auto 1.5rem;
+    min-width: 7rem;
+    border-radius: 3px;
+    box-shadow: 0 2px 10px rgba(30, 33, 48, .2);
+}
+
+figure {
+    margin: 2rem 0;
+    text-align: center;
+}
+
+figure figcaption {
+    margin: .7rem 1rem 0;
+    font-size: 1rem;
+    font-style: italic;
+    color: var(--ink-soft);
+}
+
+/* An artwork plate: framed image with a caption and credit line. */
+figure.plate {
+    margin: 0;
+}
+
+figure.plate img {
+    display: block;
+    border: 8px solid var(--card);
+    outline: 1px solid var(--rule);
+    box-shadow: 0 10px 28px rgba(30, 33, 48, .25);
+}
+
+figure.plate figcaption small {
+    display: block;
+    margin-top: .2rem;
+    font-size: .8rem;
+    font-style: normal;
+    letter-spacing: .02em;
+}
+
+/* On the volume home pages the plate floats beside the opening text. */
+body > figure.plate {
+    float: right;
+    width: 38%;
+    margin: .4rem 0 1.25rem 1.75rem;
+}
+
+body > figure.plate ~ h3 {
+    clear: both;
+}
+
+/* ---------- Tables (schedules, word counts, bios) ---------- */
+
+table {
+    width: 100%;
+    margin: 1.5rem 0;
+    border-collapse: collapse;
+    font-size: 1.05rem;
+    background: var(--card);
+    box-shadow: 0 0 0 1px var(--rule);
+}
+
+th, td {
+    padding: .55em .9em;
+    border: 1px solid var(--rule);
+    text-align: left;
+    vertical-align: top;
+}
+
+th,
+th.table-head {
+    font-family: var(--caslon);
+    font-size: .8rem;
+    font-weight: 400;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: #fff;
+    background: var(--navy);
+}
+
+tr:nth-child(even) td {
+    background: #f6f3ea;
+}
+
+td.key-col {
+    white-space: nowrap;
+    font-weight: 600;
+    color: var(--navy-dark);
+    background: var(--navy-mist);
+}
+
+/* Legacy word-processor classes (Cocoa HTML Writer output). */
+body p.p1,
+body li.li1 {
+    margin: 0 0 .7em;
+    font: inherit;
+    color: inherit;
+    -webkit-text-stroke: 0;
+}
+
+body span.s1,
+body span.s2,
+body span.s3,
+body span.s4,
+body span.s5,
+body span.s6 {
+    font: inherit;
+    color: inherit;
+}
+
+/* Google Sheets export (PunchList). */
+.ritz table {
+    width: auto;
+}
+
+/* ---------- Home page ---------- */
+
+body.home {
+    max-width: none;
+    padding: 0;
+    box-shadow: none;
+}
+
+.home .stijl {
+    margin: 0;
+    height: 18px;
+}
+
+.home header.masthead {
+    padding: 3.5rem 1.5rem 3rem;
+    background:
+        radial-gradient(ellipse at 30% 20%, rgba(255, 255, 255, .7), transparent 65%),
+        var(--paper);
+    border-bottom: 1px solid var(--rule);
+}
+
+.home .masthead .inner {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 26rem);
+    align-items: center;
+    gap: 3.5rem;
+    max-width: 66rem;
+    margin: 0 auto;
+}
+
+.home .eyebrow {
+    margin: 0;
+    font-family: var(--caslon);
+    font-size: .85rem;
+    letter-spacing: .3em;
+    text-transform: uppercase;
+    color: var(--red);
+}
+
+.home h1 {
+    margin: .35em 0 .5em;
+    font-size: clamp(2.8rem, 6.5vw, 4.6rem);
+    line-height: 1.02;
+    text-align: left;
+}
+
+.home h1::after {
+    margin: 1.4rem 0 0;
+    width: 7rem;
+    height: 4px;
+}
+
+.home .epigraph {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 1.35rem;
+    font-style: italic;
+    line-height: 1.5;
+    color: var(--ink-soft);
+}
+
+.home .epigraph p {
+    margin: 0 0 .5rem;
+}
+
+.home .epigraph cite {
+    font-family: var(--caslon);
+    font-size: .85rem;
+    font-style: normal;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--ink);
+}
+
+.home .epigraph cite::before {
+    content: "\2014\2002";
+}
+
+.home main {
+    max-width: 66rem;
+    margin: 0 auto;
+    padding: 1rem 1.5rem 4rem;
+}
+
+.home h2 {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 3rem 0 1.5rem;
+    font-size: 1.9rem;
+}
+
+.home h2::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--rule);
+}
+
+.home .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(18rem, 100%), 1fr));
+    gap: 1.25rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.home .cards li {
+    margin: 0;
+    padding: 0;
+}
+
+.home .cards a {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 1.3rem 1.4rem 1.2rem;
+    background: var(--card);
+    border: 1px solid var(--rule);
+    border-top: 5px solid var(--navy);
+    border-radius: 2px;
+    box-shadow: 0 2px 6px rgba(30, 33, 48, .06);
+    color: var(--ink);
+    text-decoration: none;
+    transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+
+.home .cards li:nth-child(3n+1) a { border-top-color: var(--red); }
+.home .cards li:nth-child(3n+2) a { border-top-color: var(--yellow); }
+.home .cards li:nth-child(3n+3) a { border-top-color: var(--blue); }
+
+.home .cards a:hover,
+.home .cards a:focus {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 22px rgba(30, 33, 48, .14);
+}
+
+.home .cards .kind {
+    margin-bottom: .5rem;
+    font-family: var(--caslon);
+    font-size: .72rem;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+}
+
+.home .cards .title {
+    font-family: var(--display);
+    font-size: 1.35rem;
+    line-height: 1.25;
+    color: var(--navy);
+}
+
+.home .cards a:hover .title,
+.home .cards a:focus .title {
+    color: var(--red);
+}
+
+/* Links that leave the site get an arrow. */
+.home a.ext .kind::after {
+    content: "  \2197";
+    letter-spacing: 0;
+}
+
+/* The two edited volumes get artwork. */
+.home .volumes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(22rem, 100%), 1fr));
+    gap: 1.5rem;
+}
+
+.home .volume {
+    display: grid;
+    grid-template-columns: 9rem 1fr;
+    gap: 1.4rem;
+    align-items: start;
+    padding: 1.4rem;
+    background: var(--card);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    color: var(--ink);
+    text-decoration: none;
+    box-shadow: 0 2px 6px rgba(30, 33, 48, .06);
+    transition: transform .15s ease, box-shadow .15s ease;
+}
+
+.home .volume:hover,
+.home .volume:focus {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 22px rgba(30, 33, 48, .14);
+}
+
+.home .volume img {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    border: 5px solid #fff;
+    outline: 1px solid var(--rule);
+}
+
+.home .volume .title {
+    display: block;
+    margin: .2rem 0 .6rem;
+    font-family: var(--display);
+    font-size: 1.5rem;
+    line-height: 1.2;
+    color: var(--navy);
+}
+
+.home .volume:hover .title,
+.home .volume:focus .title {
+    color: var(--red);
+}
+
+.home .volume .blurb {
+    display: block;
+    font-size: 1.05rem;
+    line-height: 1.5;
+    color: var(--ink-soft);
+}
+
+.home .other {
+    columns: 2 20rem;
+    column-gap: 2.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.home .other li {
+    break-inside: avoid;
+    margin: 0 0 .9rem;
+    padding: 0 0 .9rem;
+    border-bottom: 1px solid var(--rule);
+}
+
+.home .other a {
+    text-decoration: none;
+}
+
+.home .other a::after {
+    content: " \2197";
+    color: var(--ink-soft);
+}
+
+.home footer {
+    padding: 2rem 1.5rem 2.5rem;
+    text-align: center;
+    font-size: .95rem;
+    color: var(--ink-soft);
+    border-top: 1px solid var(--rule);
+}
+
+.home footer small {
+    display: block;
+    margin-top: .3rem;
+    font-size: .8rem;
+}
+
+/* ---------- Small screens ---------- */
+
+@media (max-width: 760px) {
+    body {
+        padding: 0 1.15rem 3rem;
+        font-size: 1.15rem;
+    }
+
+    .sitebar,
+    body > ul.menu,
+    .stijl {
+        margin-left: -1.15rem;
+        margin-right: -1.15rem;
+        padding-left: 1.15rem;
+        padding-right: 1.15rem;
+    }
+
+    .stijl {
+        padding: 0;
+    }
+
+    body > figure.plate {
+        float: none;
+        width: auto;
+        max-width: 20rem;
+        margin: 0 auto 2rem;
+    }
+
+    .home .masthead .inner {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .home .volume {
+        grid-template-columns: 6rem 1fr;
+    }
+
+    table {
+        display: block;
+        overflow-x: auto;
+    }
+}
+
+@media print {
+    html, body {
+        background: #fff;
+        box-shadow: none;
+    }
+
+    .sitebar, .stijl, nav.back {
+        display: none;
+    }
 }
