@@ -16,7 +16,7 @@ local: $(HTMLFILES)
 
 md2html:
 	pandoc -f markdown-smart -t html -o Shackle.html FirstDrafts/shackle.md
-	pandoc -f markdown-smart -t html -o Intro.html FirstDrafts/intro.md
+	pandoc -f markdown-smart -t html -o FirstDrafts/intro.html FirstDrafts/intro.md
 
 prod: local
 	-git commit -a 
